@@ -1,0 +1,68 @@
+1	(Introduction...)
+4560	<strong>Narrator<br></strong>Last week, Anna got the job of sales executive at Tip Top Trading, thanks&nbsp;to her quick-thinking in an office crisis.
+13105	Today it's her first day in the office. How are you feeling now, Anna?
+17960	<strong>Anna<br></strong>Excited, but a bit worried. I really want to make a good first impression.
+23372	<strong>Narrator<br></strong>Well, you're going to need some phrases to introduce yourself politely, such as: <br>Hello, I don't think we've met.
+31367	You must be â€“ and say the person's name.
+35835	I've just joined the team.
+38536	Nice to meet you.
+40753	Have you worked here long?
+48035	Why don't you start by saying hello to Tom Darcy, the Senior Account Manager?
+53213	<strong>Tom<br></strong>Yah, yah, no, yah, yah, OK, yah. I'll seal the deal, yah, no worries. OK, see ya mate, bye!
+58700	<strong>Anna<br></strong>Hello, I don't think we've met.
+61376	<strong>Tom<br></strong>No.
+62450	<strong>Anna<br></strong>You must be Tom.
+65007	I'm Anna. I've just joined the team.
+68075	<strong>Tom<br></strong>Uh huh.
+69062	<strong>Anna<br></strong>Nice to meet you. Have you worked here long?
+73413	<strong>Tom<br></strong>Sorry, I'm quite busy right now â€“ I've got a big deal just coming through.
+80464	But let's get together sometime. Um... can you do lunch tomorrow?
+85599	<strong>Anna<br></strong>You want me to do lunch? Well, I'm not very -
+88282	<strong>Tom<br></strong>Sorry, important client. Lunch tomorrow at 12. 30 then?
+92110	(On the phone) Tom speaking. Yah! Frankie! So what's the latest, are we on?
+97490	<strong>Anna<br></strong>Well, OK then.
+99062	<strong>Narrator<br></strong>Great Anna! You used some nice phrases to introduce yourself.
+103868	It's a shame Tom thinks he's too important to do the same.
+107725	<strong>Anna<br></strong>I'm sure he's just busy.
+109111	But I'm a bit worried about tomorrow!
+111770	(The next dayâ€¦)
+117885	<strong>Anna<br></strong>Good morning Paul!
+119583	<strong>Paul<br></strong>Good morning Anna, are you OK?
+123077	<strong>Anna<br></strong>Fine, the kitchen's through there, isn't it?
+126283	<strong>Paul<br></strong>Er, yes.
+127914	<strong>Denise<br></strong>Anna!
+130615	<strong>Anna<br></strong>Oh hi, Denise!
+132397	<strong>Denise<br></strong>What are you doing?
+134596	<strong>Anna<br></strong>Cooking lunch for Tom.
+137104	<strong>Denise<br></strong>You what?
+138491	<strong>Anna<br></strong>Tom asked me to have lunch ready for 12.30.
+141503	<strong>Denise<br></strong>Did he indeed?
+146283	<strong>Tom<br></strong>Er, Anna.
+147932	<strong>Anna<br></strong>Hi Tom!
+148891	<strong>Tom<br></strong>What are you doing?
+150433	<strong>Anna<br></strong>Spring rolls, followed by crispy duck in black bean sauce.
+155800	<strong>Tom<br></strong>No, I mean, why are you cooking?
+158391	<strong>Anna<br></strong>Well, if I don't start now, it won't be ready for you by 12.30.
+163695	<strong>Tom<br></strong>Oh, you misunderstood me, Anna.
+166202	When I said "Can you do lunch?" it didn't mean "Can you make lunch?"
+170720	It meant "Are you available to come to lunch with me?" In a cafe or something.
+176079	<strong>Anna<br></strong>Oh!
+176768	<strong>Paul<br></strong>Mmm. something smells good, but what's going on here?
+181322	<strong>Denise<br></strong>Anna thinks it's her job to cook for people!
+184470	<strong>Anna<br></strong>No, no, I misunderstood!
+186678	<strong>Tom<br></strong>Anna just got a bit confused.
+189097	<strong>Paul<br></strong>Well, never mind, it looks tasty.
+192070	<strong>Anna<br></strong>There's enough for everyone if you want some.
+194232	<strong>Paul<br></strong>I think that's a splendid idea, we can have an office picnic!
+198554	<strong>Anna<br></strong>Yes!
+199264	<strong>Paul<br></strong>Mmm, that sauce looks delicious.
+201923	<strong>Anna<br></strong>Yes, it's my favourite.
+206202	<strong>Narrator<br></strong>Well, once again everything has worked out well for Anna!
+209980	Before we go, a reminder of the phrases she used: <br>Hello, I don't think we've met.
+216136	You must be Tom.
+217915	I've just joined the team.
+220074	Nice to meet you.
+221766	Have you worked here long?
+224384	Just remember - if somebody says "Would you like to do lunch?"
+229155	they're not usually expecting you to cook for them! Goodbye.
+234404	<h3>Listening Challenge - Answer</h3> <br>What is Tomâ€™s job title at Tip Top Trading? <br>Senior Account Manager.

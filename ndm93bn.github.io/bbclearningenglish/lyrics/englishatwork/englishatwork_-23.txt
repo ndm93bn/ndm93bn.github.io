@@ -1,0 +1,77 @@
+1	(Introduction...)
+3694	<strong>Narrator<br></strong>Here we are again at Tip Top Trading, where Anna's interview for a sales&nbsp;job has been suddenly interrupted.
+10669	Office assistant Denise has entered the room, looking very worried.
+15339	What's wrong? And will Anna have any suggestions that might help?
+23003	<strong>Denise<br></strong>I don't know what to do!
+25255	<strong>Paul<br></strong>So what's the matter Denise?
+26976	<strong>Denise<br></strong>You know the PowerPoint presentation?
+29751	<strong>Paul<br></strong>The one we've been preparing for the last two months?
+32734	<strong>Denise<br></strong>Yes.
+33320	<strong>Paul<br></strong>The one that's very, very important and that we need this afternoon?
+38540	<strong>Denise<br></strong>That one.
+39473	<strong>Paul<br></strong>Aha.
+40183	<strong>Denise<br></strong>We've lost everything!
+41860	<strong>Paul<br></strong>No!
+42776	<strong>Denise<br></strong>I had it on a USB stick, to transfer it, but the stick has vanished!
+48353	<strong>Narrator<br></strong>Right Anna, now is your chance to help them find solutions to the problem.
+53939	You'll need phrases like: <br>Can I make a suggestion?
+58115	Why don't you.?
+60002	Have you tried.?
+62269	Maybe we could.?
+64367	How about.?
+66268	I have an idea!
+68590	<strong>Paul<br></strong>But don't you have it saved on your computer?
+72406	<strong>Denise<br></strong>No, it was taking up a lot of space, so I deleted it.
+77463	<strong>Paul<br></strong>So you have lost the only copy we have.
+81510	<strong>Denise<br></strong>Yes.
+83021	<strong>Narrator<br></strong>What idiots! I've never seen such a disorganised office.
+88811	Go on, you'd better&nbsp;help them, Anna.
+92104	<strong>Anna<br></strong>Can I make a suggestion?
+94105	<strong>Paul<br></strong>Yes, please do!
+96272	<strong>Anna<br></strong>Why don't you try looking in your recycle bin? It might still be there.
+100549	<strong>Denise<br></strong>I did. It isn't.
+103000	<strong>Anna<br></strong>Have you tried asking your colleagues if they've seen the memory stick?
+106718	<strong>Denise<br></strong>I did. They haven't.
+109764	<strong>Anna<br></strong>How about looking through your rubbish bin to see if you threw it away by&nbsp;mistake?
+115685	<strong>Denise<br></strong>(getting shirty) I don't do silly things like that!
+118209	<strong>Paul<br></strong>All very sensible suggestions Anna, thank you.
+121490	<strong>Anna<br></strong>Maybe I could do a big office search for you.? I'm good at finding things.
+125773	<strong>Denise<br></strong>There are confidential documents in this office â€“ non-staff are not allowed&nbsp;to see them.
+131965	<strong>Paul<br></strong>Now, now Denise. Why don't you drink up that nice tea?
+135607	<strong>Anna<br></strong>I have an idea! Did you ever email the presentation to anyone?
+140493	<strong>Paul<br></strong>Golly gosh, you did Denise! You emailed it to me to proof-read.
+145549	It'll be in my inbox somewhere. Good thinking Anna!
+149636	<strong>Denise<br></strong>I was just about to suggest that myself.
+152795	<strong>Paul<br></strong>Problem solved. Thank you Anna!
+155812	<strong>Anna<br></strong>Pleasure.
+156370	<strong>Narrator<br></strong>Well done Anna!
+158208	<strong>Paul<br></strong>Right, now please leave us Denise.
+161119	Anna and I will continue our interview.
+163723	Would you like a biscuit Anna?
+166210	<strong>Anna<br></strong>Thank you. Oh, what's that?
+169024	<strong>Paul<br></strong>Oh golly gosh, the USB stick!
+172648	It was mixed in with the plate of biscuits that Denise brought in.
+176587	<strong>Anna<br></strong>It's wet
+177695	<strong>Paul<br></strong>Yes, I think maybe I stirred my tea with it at one point.
+181438	Oh well. Now, where were we.?
+183406	My goodness, it's 11 o'clock! I have a meeting right now!
+188796	I'm afraid I'm&nbsp;going to have to go.
+191079	But I've made my mind up about you anyway.
+194067	I suppose you'd like to know if you've got the job?
+196517	<strong>Anna<br></strong>Yes please!
+197512	<strong>Narrator<br></strong>Ah - Stop right there!
+199716	I'm sure everybody would like to know if Anna's got&nbsp;the job â€“ but everybody's going to have to wait until we've heard her&nbsp;helpful phrases once again: <br>Can I make a suggestion?
+210289	Why don't you try looking in your recycle bin?
+213586	Have you tried asking your colleagues if they've seen the memory stick?
+218217	How about.?
+219761	Maybe I could do a big office search for you.?
+223892	How about looking through your rubbish bin.?
+227094	I have an idea!
+229344	<strong>Paul<br></strong>Anna, we need someone who can think on her feet and who is a first-rate&nbsp;people person.
+236976	Someone who sees solutions, not problems... someone like you!
+242867	So if you want the job, it's yours!
+245862	<strong>Narrator<br></strong>Ah, now think carefully Anna â€“ do you really want to work for these people?
+251081	They seem a bit. disorganised.
+253819	<strong>Anna<br></strong>I would definitely like the job! Thank you!
+257743	<strong>Narrator<br></strong>So be it. Join us again next week for Anna's first day as a sales executive at Tip Top Trading.
+265725	<h3>Listening Challenge - Answer</h3> <br>Why was the memory stick wet? <br>Because it had been in Paulâ€™s tea.

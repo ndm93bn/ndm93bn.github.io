@@ -1,0 +1,90 @@
+1	(Introduction...)
+13444	<strong>Narrator<br></strong>Gwendolen and Cecily are angry with Jack and Algernon now they know their real names - neither of them are called Ernest.
+23577	The two women are inside the house. The men come in trying to look and sound cheerful.
+31666	<strong>Jack and Algernon<br></strong>[whistling Daisy, Daisy]
+36222	<strong>Gwendolen</strong><br>I'm sure they're feeling sorry. Let's not say anything.
+39888	<strong>Cecily</strong><br>Certainly not. Mr Moncrieff, why did you pretend to be my <strong>guardian</strong>'s brother?
+45900	<strong>Algernon</strong><br>So that I had the opportunity to meet you.
+48444	<strong>Cecily</strong><br>That seems a satisfactory explanation, doesn't it Gwendolen?
+52555	<strong>Gwendolen</strong><br>Yes, if you can believe him.
+54822	<strong>Cecily</strong><br>I don't. But his answer was so beautiful.
+58163	<strong>Gwendolen</strong><br>True. In matters of great importance, it's style, not truth that is essential.
+64145	Mr Worthing, why did you pretend to have a brother? Was it so you could come to London to see me?
+69855	<strong>Jack</strong><br>Do you have any doubts, dear Gwendolen?
+72444	<strong>Gwendolen</strong><br>I have serious doubts. But I intend to ignore them. Cecily, should we forgive them?
+78000	<strong>Cecily</strong><br>Yes. I mean no. <strong>Probably</strong> not. What about their names?
+83888	<strong>Gwendolen</strong><br>True! I had forgotten!
+85888	<strong>Gwendolen</strong> <strong>and</strong> <strong>Cecily</strong><br>Your names are still a huge problem!
+89222	<strong>Jack</strong> <strong>and Algernon</strong><br>Our names! Is that all?
+92195	But we are going to be <strong>christened </strong>with a different name this afternoon.
+96700	<strong>Gwendolen</strong><br>You are prepared to do this terrible thing for me, Jack?
+100078	<strong>Jack</strong><br>I am.
+101539	<strong>Cecily</strong><br>To please me you are ready to face this awful experience, Algernon?
+106444	<strong>Algernon</strong><br>I am!
+107666	<strong>Gwendolen</strong><br>How can people talk about the equality of the sexes!
+111222	Men have moments of physical <strong>courage</strong> which we women know <strong>absolutely</strong> nothing about.
+116999	<strong>Cecily</strong><br>Jack, darling!
+119222	<strong>Algernon</strong><br>Cecily, darling!
+121222	<strong>Narrator<br></strong>And they fall into each other's arms.
+125333	Merriman comes in and coughs <strong>loudly</strong>. He announces a visitor.
+131136	<strong>Merriman</strong><br> Lady Bracknell!
+132900	<strong>Jack</strong><br>Good heavens!
+135900	<strong>Lady Bracknell</strong><br>Gwendolen! What does this mean?
+139666	<strong>Gwendolen</strong><br><strong>Simply</strong> that I am engaged to Mr Worthing, mamma.
+143166	<strong>Lady Bracknell</strong><br>Mr Worthing, I followed my daughter by train.
+146458	Gwendolen is meant to be attending a university lecture. Well, that is what her father thinks.
+152900	All communication between yourself and my daughter must end <strong>immediately</strong>.
+158111	<strong>Jack</strong><br>We are engaged to be married, Lady Bracknell!
+161222	<strong>Lady Bracknell</strong><br>You are nothing of the kind, sir. And now, what about Algernon! Algernon!
+166055	<strong>Algernon</strong><br>Yes, Aunt Augusta.
+167555	<strong>Lady Bracknell</strong><br>May I ask if it is in this house that your sick friend Mr Bunbury lives?
+173323	<strong>Algernon</strong><br>Oh! No! Bunbury doesn't live here.
+176922	Bunbury is somewhere else at the moment.
+179111	In fact, Bunbury is dead.
+181999	<strong>Lady Bracknell</strong><br>Dead! When did he die?
+184777	<strong>Algernon</strong><br>Oh! I killed Bunbury this afternoon. I mean poor Bunbury died this afternoon.
+190000	<strong>Lady Bracknell</strong><br>He died so <strong>suddenly</strong>? What did he die of?
+193000	<strong>Algernon</strong><br>I mean he was discovered! The doctors discovered that he could not live, so he died.
+198200	<strong>Lady Bracknell</strong><br>He seems to have had great <strong>confidence</strong> in the opinion of his doctors.
+201844	I am glad that he <strong>finally</strong> made up his mind to take some definite course of action, and acted under proper medical advice.
+209777	And now, Mr Worthing, who is the young person whose hand my nephew Algernon is holding in an unnecessary way?
+218777	<strong>Jack</strong><br>That is Miss Cecily Cardew, I'm her guardian.
+223055	<strong>Algernon</strong><br>I am engaged to Cecily, Aunt Augusta.
+225777	<strong>Lady Bracknell</strong><br>I beg your pardon?
+227111	<strong>Cecily</strong><br>Mr Moncrieff and I are engaged to be married, Lady Bracknell.
+231222	<strong>Narrator<br></strong>Lady Bracknell has to sit down at this news.
+234771	<strong>Lady Bracknell</strong><br>There seems to be something <strong>unusually</strong> exciting in the air - the number of engagements seems to be above average.
+244222	Mr Worthing, is Miss Cardew at all connected with any railway stations in London?
+249780	I am <strong>simply</strong> asking. Until yesterday I didn't know any families or people whose origin was a station.
+257777	<strong>Jack</strong><br>Miss Cecily Cardew is the granddaughter of the <strong>late</strong> Mr Thomas Cardew of 149 Belgrave Square; Gervase Park, <strong>Surrey</strong>; and the Sporran, <strong>Fifeshire</strong>.
+271000	<strong>Lady Bracknell</strong><br>Three addresses. That <strong>always</strong> gives me<strong> confidence</strong>. I am not unsatisfied.
+276666	<strong>Jack</strong><br>How <strong>extremely</strong> kind of you, Lady Bracknell!
+280111	<strong>Lady Bracknell</strong><br>Now Gwendolen, we have to leave.
+282444	Just one thing, Mr Worthing, does Miss Cardew have any money?
+286777	<strong>Jack</strong><br>Oh! About Â£130,000. That is all.
+291570	Goodbye, Lady Bracknell. So pleased to have seen you.
+295555	<strong>Lady Bracknell</strong><br>A moment, Mr Worthing. Â£130,000!
+302666	Miss Cardew seems to me a most attractive young lady, now that I look at her.
+308920	Come over here, dear. Turn round, dear child, so I can see your face.
+314111	There are definite social possibilities in your face. Algernon!
+319508	<strong>Algernon</strong><br>Yes, Aunt Augusta!
+321222	<strong>Lady Bracknell</strong><br>There are definite social possibilities in Miss Cardew.
+324700	<strong>Algernon</strong><br>I don't care about social possibilities.
+327333	<strong>Lady Bracknell</strong><br>Never speak <strong>disrespectfully</strong> of Society, Algernon. Only people who can't get into it do that.
+332908	Now Miss Cardew, of course you know that Algernon has nothing but his <strong>debts </strong>to depend upon.
+339000	But I do not approve of marriages for money. Well, I suppose I must give my <strong>consent</strong>.
+345555	<strong>Algernon</strong><br>Thank you, Aunt Augusta.
+347222	<strong>Lady Bracknell</strong><br>The marriage had better take place quite soon. I am not in favour of long engagements.
+352000	They give people the chance to find out each other's characters before marriage - never a good thing.
+357444	<strong>Jack</strong><br>I'm sorry to interrupt you, Lady Bracknell, but I am Miss Cardew's guardian, and I don't give my consent to this marriage.
+366800	<strong>Lady Bracknell</strong><br>And why not may I ask? Isn't Algernon an extremely <strong>eligible</strong> young man?
+372333	He has nothing, but he looks everything. What more can one desire?
+378333	<strong>Jack</strong><br>The fact is that I do not <strong>approve</strong> of his <strong>moral</strong> character. He has not been honest.
+385262	<strong>Narrator<br></strong>Algernon and Cecily look at him amazed.
+388664	<strong>Lady Bracknell</strong><br>Untruthful! Algernon? Impossible!
+393222	<strong>Jack</strong><br>I'm afraid there is no doubt. This afternoon he came to my house pretending to be my brother.
+399621	He has succeeded in one afternoon to change the affections of dear Cecily.
+404555	He then stayed to tea, and ate all the <strong>muffins</strong>.
+408999	<strong>Lady Bracknell</strong><br>Ahem! Mr Worthing, after careful consideration I have decided to forgive my nephew's behaviour.
+417777	<strong>Jack</strong><br>That is very generous of you, Lady Bracknell.
+421340	However I have not changed my mind. I do not give my consent.

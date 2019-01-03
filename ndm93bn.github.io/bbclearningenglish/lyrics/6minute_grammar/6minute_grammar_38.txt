@@ -1,0 +1,71 @@
+1	(Introduction...)
+11900	<strong>Alice<br></strong>Hello. Welcome to 6 Minute Grammar with me, Alice.
+15166	<strong>Finn<br></strong>And me, Finn. Hello.
+17333	<strong>Alice<br></strong>Today we're talking about verb patterns.
+20022	<strong>Finn<br></strong>Yes: we're looking at what happens when we use two verbs together in English.
+25666	<strong>Alice<br></strong>We'll be looking at four verb patterns - and there's a quiz at the end of the programme - so listen carefully!
+31722	<strong>Finn<br></strong>So, on with the show! Our first pattern is: <strong>verb plus gerund</strong>.
+40000	<strong>Alice<br></strong>A <strong>gerund</strong> is the <strong>i-n-g</strong> form of a verb - words like <strong>seeing</strong>, <strong>complaining</strong> and <strong>giving</strong> are all gerunds.
+49222	<strong>Finn<br></strong>And here's Catherine to give us some examples of the pattern verb plus gerund. Catherine.
+57810	<strong>Catherine<br></strong>I really <strong>enjoyed seeing</strong> Rachel again last night.
+61999	Jackie <strong>kept complaining</strong>, so I went home.
+67444	Would you <strong>mind giving</strong> me a lift to the station?
+70222	<strong>Finn<br></strong>Thanks Catherine. So we had the verb <strong>enjoy</strong> plus the gerund <strong>seeing</strong>.
+76444	<strong>Alice<br></strong>We had <strong>keep</strong> plus <strong>complaining</strong>.
+79714	<strong>Finn<br></strong>And the verb <strong>mind</strong> plus the gerund <strong>giving</strong>.
+83777	<strong>Alice<br></strong>Good. <strong>Enjoy seeing; keep complaining; mind giving</strong>.
+89900	Other verbs that can be followed by gerunds include: <strong>finish</strong>, <strong>practise</strong>, <strong>suggest</strong>, and <strong>recommend</strong>.
+99333	<strong>Finn<br></strong>So I can say: I <strong>suggest keeping</strong> a list of verbs that take gerunds.
+105900	<strong>Alice<br></strong>Haha, good example.
+108111	<strong>Finn<br></strong>Thank you.
+108727	<strong>Alice<br></strong>Now for the second pattern: <strong>verb plus infinitive</strong>.
+112995	An infinitive is the word <strong>to</strong> plus a base verb, for example: <strong>to see</strong>, <strong>to drive</strong>,<strong> to study</strong>. Some examples please Catherine?
+123922	<strong>Catherine<br></strong>I really <strong>want to see</strong> the football tonight.
+127666	My brother's <strong>learning to drive</strong>.
+130800	Mario's <strong>hoping to study</strong> medicine.
+133850	<strong>Finn<br></strong>So that's: <strong>want to see</strong>, <strong>learning to drive</strong>, <strong>hoping to study</strong>.
+140555	Other verbs in this group are <strong>agree</strong>, <strong>decide</strong>, <strong>choose</strong> and <strong>learn.</strong>
+147555	Now for the third pattern: these verbs can be followed by either a gerund or an infinitive - without changing the meaning. Some examples please Catherine.
+159202	<strong>Catherine<br></strong>I've <strong>started learning</strong> Arabic - and my boyfriend's <strong>started to learn</strong> French.
+165132	<strong>Finn<br></strong>So <strong>started learning</strong> and <strong>started to learn</strong> have more or less the same meaning. Now, another example please?
+174383	<strong>Catherine<br></strong>Snow will <strong>continue to fall</strong> in the mountains and temperatures will <strong>continue falling</strong> throughout the night.
+181300	<strong>Finn<br></strong>So <strong>continue to fall</strong> and <strong>continue falling</strong> have the same meaning.
+187610	<strong>Alice<br></strong>OK. Time for pattern 4.
+190222	<strong>Finn<br></strong>Yes - and this one's a bit tricky.
+193111	With some verbs, you can use either a gerund or an infinitive afterwards, BUT.
+199444	<strong>Alice<br></strong>...and it's a big but.
+201444	<strong>Finn<br></strong>Yes...the meaning changes from gerund to infinitive.
+206000	<strong>Alice<br></strong>So if I say. I <strong>stopped drinking coffee</strong> last week.
+211000	<strong>Finn<br></strong>Well, I probably wouldn't believe you.
+214100	<strong>Alice<br></strong>Yes, well...this means I drank coffee regularly in the past, but last week, I decided to give up coffee.
+223333	I completely stopped and now I never drink coffee.
+226888	<strong>Finn<br></strong>But, if I say, on my way home yesterday, I <strong>stopped to have</strong> a cup of coffee.
+233888	<strong>Alice<br></strong>This means that yesterday you interrupted your journey and you went into a cafe for a cup of coffee.
+240444	<strong>Finn<br></strong>So, very different meanings.
+242482	<strong>Alice<br></strong>Yes. Here's an example, with the verb <strong>remember</strong>:
+245969	<strong>Catherine<br></strong>We <strong>remembered closing</strong> the door.
+248845	We <strong>remembered to close</strong> the door.
+251828	<strong>Finn<br></strong>OK, in the first one, we formed a picture in our mind of us closing the door.
+258980	The second example means we didn't forget to close the door.
+263940	<strong>IDENT<br></strong>You're listening to bbclearningenglish.com.
+269555	<strong>Alice<br></strong>And it's time for a quiz. Question one.
+272875	Which is correct: a) They <strong>decided taking</strong> the train - or b) They <strong>decided to take</strong> the train.
+282852	<strong>Finn<br></strong>OK, so this is: b) They <strong>decided to take</strong> the train.
+288048	After decide, we need the infinitive.
+291222	<strong>Alice<br></strong>Number 2: a) Catherine <strong>hates cooking</strong> in the evening.
+296568	b) Catherine <strong>hates to cook</strong> in the evening.
+300250	<strong>Finn<br></strong>And that's a trick question.
+303617	They are actually both correct, because after hate, you can use either a gerund or an infinitive.
+310777	<strong>Alice<br></strong>Yes you can. Finally, number 3: is it a) Do you <strong>want to go</strong> for a coffee?
+317057	Or b) Do you <strong>want going</strong> for a coffee?
+320741	<strong>Finn<br></strong>This one is: a) Do you <strong>want to go</strong> for a coffee?
+324791	Because after want you need the infinitive...but Alice?
+329521	<strong>Alice<br></strong>Yes?
+330516	<strong>Finn<br></strong>You said you'd stopped drinking coffee?!
+333222	<strong>Alice<br></strong>Oh yes I did. Never mind.
+337585	Thanks for listening and don't forget - there's more about this on our website at bbclearningenglish.com.
+342797	Join us again for more 6 Minute Grammar.
+344666	<strong>Both<br></strong>Bye.
+345666	<strong>Finn<br></strong>Time for a coffee?
+346490	<strong>Alice<br></strong>Maybe later.
+347941	<strong>Both<br></strong>Bye.

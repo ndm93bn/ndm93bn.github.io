@@ -1,0 +1,87 @@
+1	(Introduction...)
+13241	<strong>Narrator</strong><br>Jack is not happy that Algernon has come to his house pretending to be his younger brother Ernest.
+20888	And he's really not happy that Algernon has met Cecily, telling him to go back to London immediately.
+28888	Jack has also asked Reverend Chasuble to christen him with a different name.
+34369	Let's now join Algernon and Cecily in the garden.
+40887	<strong>Algernon<br></strong>I hope you won't mind, Cecily, if I tell you quite truthfully that you seem to me to be in every way absolutely perfect.
+49666	<strong>Cecil</strong><strong>y <br></strong>I admire your honesty, Ernest.
+52555	Now, can I just write down what you are saying in my diary.
+56275	[Writing in diary] ev...er...y... way... abs.
+59800	<strong>Algernon<br></strong>Do you really keep a diary?
+61346	<strong>I'd love to</strong> have a look. May I?
+63777	<strong>Cecily</strong> <br>Oh no. You see, it's just a young girl's <strong>record</strong> of her own thoughts, so I can publish them.
+69600	But, Ernest, please, don't stop talking. I love doing <strong>dictation</strong>.
+74222	I have reached <em>'</em>absolutely perfect'. Go on.
+77856	<strong>Algernon</strong><br>Ahem! Ahem!
+80000	<strong>Cecily</strong><br>Oh, don't cough, Ernest. I don't know how to spell a cough.
+84000	<strong>Algernon</strong><br><strong>The truth is,</strong> Cecily, ever since I first saw you, I have loved you wildly, <strong>passionately</strong> and <strong>hopelessly</strong>.
+90777	<strong>Cecily</strong><br>[Writing] Wildly...passionately.
+93576	Oh, I don't think that you should tell me that you love me wildly, passionately and hopelessly.
+98999	Hopelessly doesn't make much sense, does it?
+103634	<strong>Narrator<br></strong>Here comes the butler, Merriman, again.
+106900	<strong>Merriman</strong><br>The carriage is waiting, sir.
+109777	<strong>Algernon</strong><br>Tell it to come back next week.
+111777	<strong>Cecily</strong><br>Uncle Jack would be very annoyed if he knew you were staying till next week.
+115288	<strong>Algernon</strong><br>Oh, I don't care about Jack. I only care about you.
+118900	I love you, Cecily. You will marry me, won't you?
+122666	<strong>Cecily</strong><br><strong>What a question!</strong> Of course, silly!
+125699	Well, we have been engaged for the last three months.
+128888	<strong>Algernon</strong><br>For the last three months?
+130555	<strong>Cecily</strong><br>Yes, it will be exactly three months on Thursday.
+133888	<strong>Algernon</strong><br>But how did we become engaged?
+136100	<strong>Cecily</strong><br>Well, ever since Uncle Jack told us that he had a <strong>wicked </strong>younger brother, you have been the main topic of conversation between myself and Miss Prism.
+144470	And a man who is talked about a lot is always very attractive. I fell in love with you, Ernest.
+151050	<strong>Algernon</strong><br><strong>Darling!</strong> And when did we actually get engaged?
+155100	<strong>Cecily</strong><br>On the 14th of February.
+156900	I got tired of the fact you didn't know I existed, and so, after a long <strong>struggle</strong> with myself, I decided to accept you under this dear old oak tree here.
+167388	Here are all your letters in this box. Look.
+173777	<strong>Narrator<br></strong>And my goodness. There's a whole <strong>bundle</strong> of letters neatly tied up with a blue <strong>ribbon</strong>.
+180700	<strong>Algernon</strong><br>My letters! But, my own sweet Cecily, I have never written you any letters.
+186722	<strong>Cecily</strong><br>You don't need to remind me, Ernest. I had to write your letters for you.
+191370	I wrote three times a week, and sometimes more often.
+194900	<strong>Algernon</strong><br>Oh, do let me read them, Cecily.
+197000	<strong>Cecily</strong><br>Oh, no. They would make you far too <strong>conceited</strong>.
+200371	The three you wrote after I had <strong>broken off </strong>the engagement are so beautiful, and so badly spelt, that even now I can hardly read them without crying a little.
+210100	<strong>Algernon</strong><br>But did we break off our engagement?
+212150	<strong>Cecily</strong><br>Of course we did. On the 22nd of March. Look I'll read about it to you.
+218128	[Reading from diary] 'Today I broke off my engagement with Ernest.
+221807	I think it is the best thing to do. The weather is still lovely.'
+225700	<strong>Algernon</strong><br>But why on earth did you break it off?
+227999	What had I done? I had done nothing at all.
+231435	Cecily, I am very hurt to hear you broke it off.
+234222	Particularly when the weather was so lovely.
+236519	<strong>Cecily</strong><br>It wouldn't have been a really serious engagement if it hadn't been broken off at least once.
+241800	But I forgave you very quickly.
+244111	<strong>Algernon</strong> <br><strong>What an angel </strong>you are, Cecily!
+246111	<strong>Cecily<br></strong>You dear romantic boy.
+248133	<strong>Algernon</strong><br>You'll never end our engagement again, will you Cecily?
+250970	<strong>Cecily</strong><br>Not now that I have actually met you.
+253444	Besides, of course, there is <strong>the question of your name</strong>.
+257333	<strong>Algernon</strong><br>Yes, of course.
+259600	<strong>Cecily</strong><br>You mustn't laugh at me, but it had always been a girlish dream of mine to love someone whose name was Ernest.
+266100	That name <strong>inspires</strong> complete confidence.
+268777	<strong>Algernon</strong><br>But, Cecily, do you mean that you could not love me if I had a different name?
+273222	<strong>Cecily</strong><br>But what name?
+274888	<strong>Algernon</strong><br>Oh, any name you like - Algernon - for instance.
+279699	<strong>Cecily</strong><br>But I don't like the name Algernon.
+282222	I might respect you, Ernest, but I don't think I'd be able to really love you.
+287634	<strong>Algernon</strong><br>Ahem! Cecily!
+289485	The Reverend is, I suppose, knows how to carry out all church ceremonies?
+294888	<strong>Cecily</strong><br>Oh, yes. Reverend Chasuble is a very clever man.
+298839	He has never written a single book, so you can imagine how much he knows.
+302777	<strong>Algernon</strong><br>I must see him at once on a most important christening - I mean on important business.
+308400	<strong>Cecily</strong><br>Oh!
+309055	<strong>Algernon</strong><br>I won't be away more than half an hour.
+310888	<strong>Cecily</strong><br>Considering that we have been engaged since February the 14th, and that I only met you today for the first time, I think it's rather hard that you should leave me for so long.
+320333	Couldn't you make it 20 minutes?
+322555	<strong>Algernon</strong><br>[He kisses her] I'll be back in no time.
+332777	<strong>Narrator<br></strong>Merriman arrives to announce the arrival of a visitor.
+337222	<strong>Merriman</strong><br>A Miss Fairfax is here to see Mr Worthing.
+341158	On very important business, Miss Fairfax says.
+345000	<strong>Cecily</strong><br>Isn't Mr Worthing in the library?
+347119	<strong>Merriman</strong><br>Mr Worthing went to see Reverend Chasuble some time ago.
+351768	<strong>Cecily</strong><br>Please ask the lady to come out here.
+354333	Mr Worthing will be back soon, I'm sure. And you can bring tea.
+358335	<strong>Merriman</strong><br>Yes, Miss.
+359999	<strong>Cecily</strong><br>Miss Fairfax! I suppose one of the many elderly women who are associated with Uncle Jack in some of his goodwork in London.
+369111	<strong>Narrator<br></strong>But it's not an elderly woman who follows Merriman into the garden. <strong>What a surprise!</strong>It's Gwendolen!

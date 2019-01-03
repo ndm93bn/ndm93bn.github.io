@@ -1,0 +1,74 @@
+1	(Introduction...)
+10453	<strong>Anna<br></strong>(answering the phone) Yes?
+14928	<strong>Denise<br></strong>Stop! That's all wrong. I'm going to call you again. This timeâ€¦
+21538	<strong>Narrator<br></strong>Hello. Here we are in the middle of a telephone training session with Denise and Anna. What fun!
+27927	<strong>Denise<br></strong>â€¦this time, you don't say 'yes' when you answer, it's rude.
+33067	Call me and I'll show you how it's done.
+35922	(sound of 4-digit dialling, then phone rings)<br>Hello? Tip Top Trading.
+49104	<strong>Anna<br></strong>Wow, thatâ€™s good.
+51206	<strong>Denise<br></strong>And, you can say your name.
+53321	Hello? Tip Top Trading. Denise speaking. Try it.
+59035	(dialling, then ring)
+69010	<strong>Anna<br></strong>Hello? Tip Top Trading. Denise speaking.
+73175	<strong>Denise<br></strong>No!
+74300	<strong>Anna<br></strong>What?
+75302	<strong>Denise<br></strong>Say: "Anna speaking!"
+77496	<strong>Anna<br></strong>Oh, sorry, I'm so stressed by all this.
+80513	Hello Anna speaking.
+82381	<strong>Denise<br></strong>You sound like you're sitting on a pineapple.
+85609	Listen to my voice: Hello?vDenise speaking.
+90492	<strong>Anna<br></strong>Hello? Anna speaking.
+93700	<strong>Denise<br></strong>Good. Now, when the person has introduced themself â€“ this is Mrs Smith or whatever, say: Hello Mrs Smith, how can I help you?
+105035	Or, if you know them already, you might say: Hello Mrs Smith, how are you?
+111844	<strong>Anna<br></strong>Okay, what if Mrs Smith wants to speak to Tom but he's not there?
+116900	<strong>Denise<br></strong>You say: "I'm really sorry, he's not available at the moment. Can I take a message?"
+123446	Or: "I'm afraid he's busy, shall I ask him to call you back?"
+128468	<strong>Anna<br></strong>Okay.
+129551	<strong>Denise<br></strong>And, to end a conversation, you can say: "Thank you for calling, goodbye."
+136186	Let's do another practice!
+138517	(phone rings)
+148807	<strong>Anna<br></strong>Hello? Tip Top Trading.
+151294	<strong>Denise<br></strong>Hello, this is Mrs Smith.
+154335	<strong>Anna<br></strong>Hello Mrs Smith, how can I help you?
+157749	<strong>Denise<br></strong>I'd like to speak to Tom please.
+159945	<strong>Anna<br></strong>I'm really sorry, he's not available at the moment.
+163623	Can I take a message?
+165267	<strong>Denise<br></strong>That's okay, I'll try again later.
+168298	<strong>Anna<br></strong>Okay. Thank you for calling, goodbye.
+171058	<strong>Denise<br></strong>Excellent!
+172892	(phone rings)<br>Oh!
+174505	<strong>Anna<br></strong>How did you call me without dialling?
+176441	<strong>Denise<br></strong>I didn't, that's a real call!
+179202	<strong>Anna<br></strong>Oh no, I'm all nervous now.
+181240	Hello? Tip Top Trading. This is Anna speaking.
+185760	<strong>Mr Lime<br></strong>Hello Anna, this is Seb Lime.
+189161	<strong>Anna<br></strong>Sublime?
+190643	<strong>Mr Lime<br></strong>Mr Lime from Citrus Ventures.
+193122	But I think we should be on first name terms now, so call me Seb.
+198186	<strong>Anna<br></strong>Okay, er, Seb. How can I help you?
+202086	<strong>Mr Lime<br></strong>I just wanted to say again that your Imperial Lemon is fantastic.
+206637	and I was wondering if you'd like to do lunch with me sometime?
+211132	<strong>Anna<br></strong>Lunch? Er.
+213628	<strong>Narrator<br></strong>I knew it! Mr Lime is interested in more than just your lemons!
+219368	<strong>Anna<br></strong>Would you like to discuss the Imperial Lemon?
+222484	<strong>Mr Lime<br></strong>Forget the lemons Anna!
+223955	The reason I want to see you is more of a personal nature.
+228223	<strong>Anna<br></strong>Personnel? Er. Can I call you back?
+231491	I'm afraid I'm a bit busy at the moment.
+233883	<strong>Mr Lime<br></strong>â€¦bbbutâ€¦
+235606	<strong>Denise<br></strong>Well Anna! Mr Lime eh?
+239578	<strong>Anna<br></strong>Oh dear Denise, I think I need a bit more help from you.
+243361	He wants to talk about personnelâ€¦people, staffingâ€¦
+247538	<strong>Denise<br></strong>Are you sure? I think he means a personal nature, not personnel! That Mr Lime!
+255442	<strong>Anna<br></strong>Oh!
+258072	<strong>Narrator<br></strong>Mr Lime indeed. Anyway, Anna had an excellent phone manner.
+263299	Let's hear those phrases again: <br>Hello? Tip Top Trading. This is Anna speaking.
+271899	Hello? Anna speaking.
+274054	Hello Mrs Smith, how can I help you?
+277849	Hello Mrs Smith, how are you?
+281009	I'm really sorry, he's not available at the moment. Can I take a message?
+287455	I'm afraid he's busy â€“ shall I ask him to call you back?
+292107	Thank you for calling, goodbye.
+294659	But how is Anna going to handle Mr Lime's request?
+299082	I can't wait till next time! Bye!
+303400	<h3>Listening Challenge - Answer</h3> <br>What does Seb Lime want Anna to do? <br>To go for lunch with him.

@@ -1,0 +1,89 @@
+1	(Introduction...)
+14000	<strong>Narrator<br></strong>Lady Bracknell is visiting Jack's house in the country.
+18278	She won't allow Jack to marry Gwendolen, and Jack, who is Cecily's <strong>guardian</strong>, won't allow Cecily to marry Algernon.
+34863	<strong>Lady Bracknell</strong><br>Come here, dear child. How old are you?
+38666	<strong>Cecily<br></strong>Eighteen.
+39763	<strong>Lady Bracknell</strong><br>Well, you'll soon be able to decide yourself who to marry.
+44000	<strong>Jack</strong><br>Excuse me, Lady Bracknell, but Miss Cardew doesn't <strong>come of age</strong> until she is 35, only then can she marry who she likes.
+52700	<strong>Lady Bracknell</strong><br>Oh, that's not a problem. Thirty-five is a very attractive age.
+56999	London society is full of women who have remained 35 for years.
+61444	Lady Dumbleton, for example, she's been 35 ever since she turned 40, a long time ago.
+67666	<strong>Cecily</strong><br>But I can't wait that long. I hate waiting even five minutes for someone.
+72222	Waiting, even to be married, is just not possible.
+75777	<strong>Algernon</strong><br>Well, what shall we do, Cecily?
+77666	<strong>Cecily</strong><br>I don't know, Algernon.
+79243	<strong>Lady Bracknell</strong><br>My dear Mr Worthing, as Miss Cardew says she cannot wait till she is 35 - which seems to indicate she is a little impatient - could you change your mind?
+89777	<strong>Jack</strong><br>My dear Lady Bracknell, the moment you agree to my marriage with Gwendolen, I will happily allow your nephew to become engaged to Cecily.
+98777	<strong>Lady Bracknell</strong><br>That is impossible. Look at the time!
+102487	Gwendolen, dear, we've already missed five trains.
+106777	<strong>Narrator<br></strong>But they'll miss the next one, too, because Reverend Chasuble arrives to announce that everything is ready for the <strong>christenings</strong>.
+115830	<strong>Lady Bracknell</strong><br>Christenings, sir! Isn't that a little <strong>premature</strong>?
+120100	<strong>Chasuble</strong><br>Both these gentlemen have said they want to be christened this afternoon.
+124444	<strong>Lady Bracknell</strong><br>At their age? That's ridiculous!
+127527	Algernon, Lord Bracknell would be very unhappy if he knew this was how you wasted your time and money.
+133821	<strong>Chasuble</strong><br>So, no christenings this afternoon?
+136777	<strong>Jack</strong><br>It would be no use to either of us, Reverend Chasuble, at the moment.
+141222	<strong>Chasuble</strong><br>Well, I'll return to the church straight away.
+144333	It seems Miss Prism has been waiting there for me for an hour and a half.
+148700	<strong>Lady Bracknell</strong><br>Miss Prism! Did you say Miss Prism?
+154124	<strong>Chasuble</strong><br>Yes, Lady Bracknell. I'm going to see her now.
+157188	<strong>Lady Bracknell</strong><br>Wait a moment. Is this Miss Prism an unattractive woman, connected with education?
+164892	<strong>Chasuble</strong><br>She's very well educated indeed.
+167222	<strong>Lady Bracknell</strong><br>It's obviously the same person. And what position does she have in your house?
+172000	<strong>Jack</strong><br>Miss Prism, Lady Bracknell, is Miss Cardew's <strong>governess</strong>.
+176333	<strong>Lady Bracknell</strong><br>I must see her at once.
+178111	<strong>Chasuble</strong><br>Well, she's here now! Look, she's coming up the garden path.
+182222	<strong>Narrator<br></strong>Miss Prism arrives. When she sees Lady Bracknell, she goes white.
+189111	<strong>Lady Bracknell</strong><br>Prism! Come here! Where is that baby?
+195777	Twenty-eight years ago, Prism, <strong>you left my house with a pram in which a male baby was sleeping</strong>.
+205666	You never came back. <strong>The police found the pram</strong>.
+211000	It contained a novel but no baby! Prism! What happened to that baby?
+218888	<strong>Miss Prism</strong><br>Lady Bracknell, I really don't know.
+223189	I wish I did. This is what happened. I took the baby out in its pram as usual.
+230324	<strong>I also took with me a large, old handbag in which I was intending to put the novel that I had written</strong>.
+238759	In a moment <strong>when I wasn't thinking,</strong> <strong>I put the novel in the pram, and placed the baby in the bag</strong>.
+247779	<strong>Jack</strong><br>But where did you put the bag?
+251555	<strong>Miss Prism</strong><br>I left it in the <strong>cloakroom</strong> of a railway station in London.
+257177	<strong>Jack</strong><br>Which railway station?
+259081	<strong>Miss Prism</strong><br>Victoria.
+261073	<strong>Jack</strong><br>I must just go to my room.
+264222	<strong>Narrator<br></strong>He rushes off. After several minutes, Jack returns carrying a black leather bag.
+271587	<strong>Jack</strong><br>Is this the bag, Miss Prism?
+275888	<strong>Miss Prism</strong><br>Yes, here are my <strong>initials</strong>. I'm so pleased to get it back so <strong>unexpectedly</strong>.
+282966	It has been very <strong>inconvenient</strong> not to have it all these years.
+287531	<strong>Jack</strong><br>Miss Prism, it's not just the bag that has been given back to you. I was the baby in it.
+296395	<strong>Miss Prism</strong><br>You?
+297839	<strong>Jack</strong><br>Yes...mother!
+301150	<strong>Miss Prism</strong><br>Mr Worthing, there is some mistake! Lady Bracknell can tell you who you really are.
+307444	<strong>Jack</strong><br>Lady Bracknell, I hate to be <strong>inquisitive</strong>, but could you tell me who I am?
+314354	<strong>Lady Bracknell</strong><br>I'm afraid you are the son of my poor sister, Mrs Moncrieff. You are Algernon's elder brother.
+322322	<strong>Jack</strong><br>Algy's elder brother! Then I do have a brother. I always said I had a brother!
+330232	Algy, you'll have to treat me with more respect in future. You have never behaved like a brother to me.
+336155	<strong>Algernon</strong><br>I did my best.
+337532	<strong>Gwendolen</strong><br>My darling! But what is your christian name, now that you have become someone else?
+342988	<strong>Jack</strong><br>Good heavens! I had forgotten about that.
+345812	Lady Bracknell, <strong>when Miss Prism left me in the bag, had I been christened already</strong>?
+351444	<strong>Lady Bracknell</strong><br>Your parents gave you everything, including a christening.
+354975	<strong>Jack</strong><br>Well, what name was I given?
+357666	<strong>Lady Bracknell</strong><br>You were the eldest son, so you were given your father's name.
+361000	<strong>Jack</strong><br>Yes, but what was his name?
+363100	<strong>Lady Bracknell</strong><br>I cannot remember the General's full name.
+365352	<strong>Jack</strong><br>Algy! Can't you remember what our father's name was?
+369000	<strong>Algernon</strong><br>My dear fellow, I was one when he died.
+372048	<strong>Jack</strong><br>His name would appear in the army lists, wouldn't it, Lady Bracknell?
+376000	<strong>Lady Bracknell</strong><br>That's true.
+376777	<strong>Jack</strong><br>I have the lists of the last 40 years here.
+379596	<strong>Narrator</strong><br>He rushes to the bookcase and pulls the books out.
+383777	<strong>Jack<br></strong>Generals. Mallam, Migsby, Moncrieff!
+389260	General 1869, his full name was. Jack Ernest!
+395888	I always told you, Gwendolen, my name was Ernest, didn't I?
+401807	Well, it is Ernest after all.
+405111	<strong>Gwendolen</strong><br>Ernest! My own Ernest! I felt from the beginning that you could have no other name!
+411969	<strong>Jack</strong><br>Gwendolen, it is a terrible thing for a man to suddenly find out that all his life he has been speaking nothing but the truth. Can you forgive me?
+422559	<strong>Gwendolen</strong><br>I can. For I'm sure you will change.
+425444	<strong>Jack</strong><br>My darling!
+426741	<strong>Narrator<br></strong>And Jack <strong>embraces</strong> Gwendolen. Algernon does the same with Cecily.
+433111	Even Reverend Chasuble embraces someone - Miss Prism, much to her delight.
+440777	<strong>Jack</strong><br>Gwendolen! At last!
+443100	<strong>Lady Bracknell</strong><br>My nephew, you are showing a lack of seriousness.
+446000	<strong>Jack</strong><br>No, it's the opposite, Lady Bracknell. I've now realised for the first time in my life the extreme Importance of Being <strong>Earnest</strong>.

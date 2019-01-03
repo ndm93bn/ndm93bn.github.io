@@ -1,0 +1,59 @@
+1	(Introduction...)
+6206	<strong>Narrator<br></strong>Hold tight please!
+10103	This is Anna, on a bus going to an interview for a job as a sales executive at Tip Top Trading â€“ one of London's fastest growing companies.
+21786	How are you feeling Anna?
+23457	<strong>Anna<br></strong>Oh, a little nervous but I really want this job.
+27211	<strong>Narrator<br></strong>Well don't worry Anna, as long as you say the right things, you'll be fine.
+32494	<strong>Anna<br></strong>The right things!? Like what?
+34718	<strong>Narrator<br></strong>You need to sell yourself, be confident, not arrogant and give examples.
+40191	Like: A good example that comes to mind.
+43309	I'm particularly proud of.
+45991	Timekeeping is important to me.
+48668	<strong>Anna<br></strong>Oh right. Thanks. Perhaps you can come with me?
+52536	<strong>Narrator<br></strong>Sorry Anna, you're on your own now â€“ but we'll be listening in.
+56744	Look! You've just arrived. Good luck!
+64087	<strong>Paul<br></strong>Come in. Hello, I'm Paul, the Manager of Tip Top Trading.
+69615	And you must beâ€¦.?
+71144	<strong>Anna<br></strong>It's Anna.
+72223	<strong>Paul<br></strong>Yes, very good. Thanks for coming.
+73962	Now somewhere in this pile, I've got your CVâ€¦
+77909	<strong>Anna<br></strong>Err, is that it there?
+80467	<strong>Paul<br></strong>Oh yes, thanks Hannah.
+82399	Your qualifications look impressive but what sales experience can you bring to our company?
+89151	<strong>Anna<br></strong>I worked in a shop once.
+91650	<strong>Narrator</strong>:<br> Ohhh Anna! Sell yourself. Give a good example!
+96800	<strong>Anna</strong>: Oh rightâ€¦mmmâ€¦. well a good example that comes to mind is when I was involved with a campaign to promote and sell a new range of clothes â€“ I loved doing it and it wasâ€¦
+111325	<strong>Denise</strong>: Oh sorry, excuse me, here's your tea Paul.
+116382	<strong>Paul</strong>: Thanks Denise. Now Anna, it looks like you've achieved a lot during your time at university.
+123418	Could you give me an example of good team working during your time there?
+128216	<strong>Denise<br></strong>Sorry! I forgot the sugar.
+130976	<strong>Paul<br></strong>Thank you Denise.
+132513	<strong>Anna<br></strong>Hmm, so you want an example?
+135506	I was the treasurer of the debating society at university. That was OK I suppose.
+142496	<strong>Narrator<br></strong>Come on Anna.
+143784	Be more enthusiastic â€“ the debating society is exciting!
+148537	<strong>Anna<br></strong>I meanâ€¦ I'm particularly proud of how I organised the finances for the debating society.
+155703	We had a very small budget and I had to make decisions on what to buy.
+161337	<strong>Narrator<br></strong>I like it!
+162645	"I'm particularly proud of" - Positive but not boasting.
+166999	You're doing well.
+168271	<strong>Paul<br></strong>Very impressive â€“ so you're a good planner Anna!
+173539	We like organised people here... ooops, silly me.
+178350	I seemed to have spilt tea over your CV.
+180590	<strong>Anna<br></strong>Oh, do you need some help?
+182286	<strong>Paul<br></strong>Oh noâ€¦I'm sure it'll dry outâ€¦ carry on pleaseâ€¦
+185927	<strong>Anna<br></strong>Alsoâ€¦ timekeeping is important to meâ€¦
+189899	<strong>Narrator<br></strong>"Timekeeping is important to me" â€“ that's good!
+193718	<strong>Anna<br></strong>I always try to complete my work on time. At university I never handed my assignments in late.
+200949	<strong>Paul<br></strong>That's good to hear. We like punctuality hereâ€¦
+204170	<strong>Denise<br></strong>Excuse me Paul. Sorry it's a bit late â€“ but I thought you might like a biscuit with your tea.
+211218	<strong>Paul<br></strong>Hmm thanksâ€¦. oh lovely, custard creamsâ€¦ mmm.
+216589	Now Hannah, finally I wanted to ask you what exactly made you apply for this job at this company?
+225547	<strong>Anna<br></strong>Errrrâ€¦ oooâ€¦ well. The reason I applied isâ€¦.
+232870	<strong>Narrator<br></strong>Yes, yes, yes Anna? Do you need a bit more time to think?
+238411	<strong>Anna<br></strong>Errrâ€¦mmmâ€¦
+241376	<strong>Narrator<br></strong>What's she going to say? How would you answer that?
+246594	Join us next time to find out.
+249327	Before we go, here's a reminder of some of the great lines Anna's used todayâ€¦ A good example that comes to mind I'm particularly proud of.
+260009	Timekeeping is important to me. Until next time, bye bye!
+266873	Â· <h3>Listening Challenge - Answer</h3> <br>What was Anna's role in the university debating society? <br>She was treasurer.

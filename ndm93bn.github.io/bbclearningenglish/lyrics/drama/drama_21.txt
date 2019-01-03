@@ -1,0 +1,82 @@
+  1	(Introduction...)
+16600	<strong>Narrator</strong><br>Algernon Moncrieff, a wealthy young man from the upper classes of society, is passing the time playing the piano in his luxurious flat in central London.
+29100	He's waiting for his aunt and cousin to come to tea. Algernon is a well-dressed and pleasant-looking man. His servant, Lane, is busy preparing the table.
+46650	<strong>Algernon</strong><br>Did you hear what I was playing, Lane?
+49444	<strong>Lane</strong><br>I thought it would be rude to listen, sir.
+51900	<strong>Algernon</strong><br>Oh, that's a pity. Now, have you made the cucumber sandwiches yet for Lady Bracknell?
+57300	<strong>They said they would be here at five.
+59800	<strong>Lane</strong><br>Yes, sir. Here they are.
+61555	<strong>Algernon</strong><br>Oh! Good. By the way, Lane, I noticed eight bottles of champagne were drunk on Thursday night while I was having dinner with Mr Worthing.
+74036	<strong>Lane</strong><br>That's correct, sir.
+75600	<strong>Algernon</strong><br>Why do <strong>bachelors'</strong> servants always drink their champagne?
+79100	<strong>Lane</strong><br>It's probably because a bachelor's wine is better than the wine you'd find in married families.
+84333	<strong>Algernon</strong><br>Good heavens! Is marriage as bad as that?
+87826	<strong>Lane</strong><br><strong>People tell me that it is very pleasant, sir</strong>.
+90999	I don't have much experience. I've only been married once. <br><em>(a bell rings)</em>
+96000	<strong>Algernon</strong><br>Aha! That will be my dear aunt, Lady Bracknell. <strong>Tell her that I'm in the morning room</strong>.
+103821	<strong>Narrator</strong><br>But it isn't Algernon's aunt. It's a young gentleman who follows Lane into the room.
+110512	He's good-looking and has a serious expression on his face. Algernon is pleased, though surprised, to see him.
+119444	<strong>Lane</strong><br>Mr Ernest Worthing.
+121800	<strong>Algernon</strong><br>How are you, my dear Ernest? What brings you to London?
+125900	<strong>Jack</strong><br>Oh, pleasure of course!
+127777	<strong>Algernon</strong><br>Where have you been since last Thursday?
+129900	<strong>Jack</strong><br>In the country.
+130860	<strong>Algernon</strong><br><strong>What on earth</strong> do you do there?
+133055	<strong>Jack</strong><br>When you are in town you entertain yourself. When you are in the country you entertain other people. It is really quite boring.
+141154	<strong>Algernon</strong><br>And who do you entertain?
+142888	<strong>Jack</strong><br>Oh, neighbours.
+144300	<strong>Algernon</strong><br>Got nice neighbours where you live in <strong>Shropshire</strong>?
+146900	<strong>Jack</strong><br><strong>Perfectly horrid</strong>! Never speak to any of them.
+149900	<strong>Algernon</strong><br>They must find you very entertaining, then!
+152400	<strong>Jack</strong><br>Hello! Why all these cups? Why cucumber sandwiches? Who's coming to tea?
+159970	<strong>Algernon</strong><br>Oh! Just my aunt Lady Bracknell and... her daughter Gwendolen.
+165777	<strong>Jack</strong><br>How wonderful!
+166900	<strong>Algernon</strong><br>Yes, but Lady Bracknell won't <strong>approve</strong> of you being here.
+170100	<strong>Jack</strong><br>Why not?
+170900	<strong>Algernon</strong><br>My dear <strong>fellow</strong>, the way you <strong>flirt</strong> with Gwendolen is perfectly disgraceful.
+175400	It's almost as bad as the way Gwendolen flirts with you.
+179216	<strong>Jack</strong><br>I'm in love with Gwendolen. I've come to London to ask her to marry me.
+183777	<strong>Algernon</strong><br><strong>You told me you had come here for pleasure</strong>? I call that business.
+187944	<strong>Jack</strong><br>You are so unromantic!
+190161	<strong>Algernon</strong><br>I really don't see anything romantic in <strong>proposing</strong>. It's very romantic to be in love.
+195714	But there's nothing romantic about asking someone to marry you. They may accept you. Then the excitement is all over.
+202400	If I ever get married, I'll certainly try to forget that I am.
+206489	<strong>Jack</strong><br>I'm sure you will, dear Algy.
+208800	<strong>Algernon</strong><br>I don't think you will ever marry Gwendolen.
+212222	<strong>Jack</strong><br>Why on earth do you say that?
+214000	<strong>Algernon</strong><br>Well, in the first place, girls never marry the men they flirt with.
+218144	<strong>Jack</strong><br>Oh, that's nonsense!
+219977	<strong>Algernon</strong><br>It's true. It explains why there are so many bachelors. In the second place, I won't give you my permission.
+227889	<strong>Jack</strong><br>Your permission?
+229111	<strong>Algernon</strong><br>My dear fellow, Gwendolen is my first cousin, and before I allow you to marry her, you will have to explain about. Cecily.
+239555	<strong>Jack</strong><br>Cecily? What do you mean?
+243145	Who is Cecily? I don't know any one called Cecily. <br>(A bell rings)
+249378	<strong>Lane</strong><br>You called, sir?
+250888	<strong>Algernon</strong><br>Bring me that cigarette case Mr Worthing left here last Thursday.
+255180	<strong>Lane</strong><br>Yes, sir.
+256111	<strong>Jack</strong><br>Have you had my cigarette case all this time? I wish you'd told me. I've been to the police. I nearly offered a large reward.
+264188	<strong>Algernon</strong><br>Well, I wish you would. I'm quite <strong>hard up</strong> at the moment.
+267620	<strong>Jack</strong><br>There's no point offering a large reward now it's been found.
+271279	<strong>Lane</strong><br>The cigarette case, sir.
+273222	<strong>Algernon</strong><br>I think that's rather mean of you, Ernest.
+276666	However, it's not important now because according to the <strong>inscription</strong> inside, the case isn't yours anyway.
+283811	<strong>Jack</strong><br>Of course it's mine. You've seen me use it hundreds of times. Now, could I have my cigarette case back?
+291800	<strong>Algernon</strong><br>Yes, but this isn't your cigarette case. It's a present from someone called Cecily, and you said you didn't know anyone of that name.
+300500	<strong>Jack</strong><br>Well, actually, Cecily is my aunt.
+305606	<strong>Algernon</strong><br>Your aunt!
+308021	<strong>Jack</strong><br>Yes. Lovely old lady she is, too. Lives in Tunbridge Wells.
+313538	<strong>Algernon</strong><br>But why does she call herself "little Cecily" if she is your aunt?
+318994	"From little Cecily with her <strong>fondest</strong> love."
+323200	<strong>Jack</strong><br>What's wrong with that? Some aunts are tall, some are small.
+328100	<strong>Algernon</strong><br>Yes. But why does your aunt call you her uncle?
+332105	"From little Cecily, with her fondest love to her dear Uncle Jack."
+338525	There is no problem, I admit, to an aunt being small, but why should an aunt call her own nephew...uncle?
+346534	Besides, your name isn't Jack. It's Ernest.
+350333	<strong>Jack</strong><br>It isn't Ernest. It's Jack.
+356222	<strong>Algernon</strong><br>You have always told me it was Ernest. I have introduced you to everyone as Ernest. You look as if your name was Ernest.
+364405	You are the most <strong>earnest</strong>-looking person I ever saw in my life - so honest and serious.
+371869	<strong>Narrator</strong><br>Ah yes, we should just say that the name Ernest was very common at the time, and the adjective 'earnest' - which sounds exactly the same - means, well, honest and serious.
+386000	<strong>Algernon</strong><br>Here, it's written on your card: "Mr Ernest Worthing, B4, The Albany."
+392555	<strong>Jack</strong><br>Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.
+400688	<strong>Algernon</strong><br>Yes, but that doesn't explain why your small Aunt Cecily calls you her dear uncle.
+406777	Or why you have two names to start with. Come on, you'll have to explain.

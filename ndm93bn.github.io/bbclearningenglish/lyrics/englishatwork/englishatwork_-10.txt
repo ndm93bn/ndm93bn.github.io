@@ -1,0 +1,74 @@
+1	(Introduction...)
+4903	<strong>Narrator<br></strong>Hello! You're joining us again after Anna's call from Mr Lime â€“ he asked her to lunch, remember.
+13092	Now Anna and Denise are flapping.
+15635	<strong>Denise<br></strong>... and before you know it, he'll be asking you to marry him!
+18599	Trust me Anna, this has happened to me dozens of times!
+22242	<strong>Anna<br></strong>But I thought he was only interested in the lemons!
+25458	Please promise me you wonâ€™t mention this to anyone.
+28327	<strong>Denise<br></strong>OK, I promise.
+30134	<strong>Anna<br></strong>Oh, shhhh!
+31372	<strong>Tom<br></strong>Good morning. What's going on?
+34429	<strong>Denise<br></strong>Mr Lime has asked Anna to lunch!
+37083	<strong>Anna<br></strong>Pleaseâ€¦
+37871	<strong>Tom<br></strong>And?
+39121	<strong>Denise<br></strong>And it's not to talk business!
+41269	I saw him looking at her with big eyes, from the moment he first saw her!
+45738	<strong>Anna<br></strong>Denise!
+46605	<strong>Tom<br></strong>Old Slimy Limey eh? Lucky Anna!
+50714	<strong>Anna<br></strong>He's not slimy, it's justâ€¦
+53040	<strong>Tom<br></strong>Don't tell me you said yes?!
+55329	<strong>Anna<br></strong>Well I didn't know what to say.
+57381	<strong>Tom<br></strong>You didn't?
+58403	<strong>Anna<br></strong>No, no, I said I was busy and would call back.
+62263	I wanted to just say no, but with everyone complaining that I'm not polite on the phone.
+68847	I just. I didn't know how to say it politely.
+72268	<strong>Tom<br></strong>Ha ha, I'll tell you what to say.
+75904	<strong>Anna<br></strong>Hang on, let me write it down. why do all the pens keep disappearing?
+81005	<strong>Denise<br></strong>Here's one.
+82109	<strong>Anna<br></strong>Thanks. Okay, I'm listening Tom.
+84368	<strong>Tom<br></strong>Say: go.
+87370	<strong>Anna<br></strong>(writing) go.
+88770	<strong>Tom<br></strong>... away. Slimy Limey.
+92804	<strong>Anna<br></strong>Go away Slimy Limey. Are you sure?
+98300	<strong>Tom<br></strong>Of course!
+99264	<strong>Denise<br></strong>Don't listen to him Anna.
+101329	This is what you should say:<br>Thank you for your offer.
+105270	But I'm really sorry, I won't be able to.
+108657	Then explain why, say I'm afraidâ€¦ blah blah blah
+113755	<strong>Anna<br></strong>Blah blah blah?
+115112	<strong>Denise<br></strong>Say it's against company policy to have non-business lunches with clients.
+121489	<strong>Anna<br></strong>Meaning?
+123025	<strong>Denise<br></strong>You're not allowed to if it's not for business.
+125537	Then say:<br>It wouldn't be appropriate. So, with regret, I'm going to have to say no.
+133154	<strong>Anna<br></strong>Okay, I think I've got that all down.
+136831	Thanks. He'll be waiting for my call.
+139921	(dials phone)
+144510	<strong>Mr Lime<br></strong>Hello, Seb Lime speaking.
+147613	<strong>Anna<br></strong>Hello Mr Lime.
+149033	<strong>Mr Lime<br></strong>Anna! Please, call me Seb.
+151847	So, when can I invite you to lunch?
+155346	<strong>Denise<br></strong>(whispering loudly) Thank you for your offer.
+157841	<strong>Anna<br></strong>Well, thank you for your offer.
+160302	But I'm really sorry, I won't be able to.
+163762	<strong>Mr Lime<br></strong>Oh?
+164432	<strong>Denise<br></strong>(whispering loudly) I'm afraid.
+166140	<strong>Anna<br></strong>I'm afraid it's against company policy to have non-business lunches with people.
+170887	<strong>Mr Lime<br></strong>Really? Oh how tedious!
+173158	<strong>Denise<br></strong>(whispering loudly) It wouldn't be-
+174908	<strong>Anna<br></strong>Shhh!
+175457	<strong>Mr Lime<br></strong>Pardon?
+176098	<strong>Anna<br></strong>No, not shhh you Mr Slimy I meant shhhh Denise!
+180161	<strong>Mr Lime<br></strong>Mr Slimy?
+181742	<strong>Anna<br></strong>Oh no! I mean Mr Limey â€“ Lime â€“ er Seb!
+185844	You see, it wouldn't be appropriate.
+187616	So, with regret, I'm going to have to say no.
+191520	<strong>Mr Lime<br></strong>I think I've understood. Goodbye Anna.
+194181	<strong>Anna<br></strong>Goodbye.
+197033	<strong>Narrator<br></strong>Oh dear, he didn't take that too well.
+199953	But, apart from a little mistake, Anna did well there.
+203902	Here are the phrases she used to politely refuse the offer of lunch: <br>Thank you for your offer.
+210729	But I'm really sorry, I won't be able to.
+213432	I'm afraid it is against company policyâ€¦<br>It wouldn't be appropriate.
+219236	With regret, I'm going to have to say no.
+222618	Good job Anna, bad luck Mr Slimy!
+227138	<h3>Listening Challenge - Answer</h3> <br>What excuse does Anna give Seb Lime for not going to lunch with him?<br>She says it is against company policy.

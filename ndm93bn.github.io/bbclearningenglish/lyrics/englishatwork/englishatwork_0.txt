@@ -1,0 +1,68 @@
+1	(Introduction...)
+4487	<strong>Narrator<br></strong>Welcome back to Tip Top Trading where everyone seems a bit flustered.
+9202	<strong>Paul<br></strong>â€¦and we really need the best biscuits there are.
+12400	<strong>Denise<br></strong>Yes, and Iâ€™ve made sure thereâ€™s tea and coffeeâ€¦
+16553	<strong>Paul<br></strong>â€¦and the carpets?
+17764	<strong>Denise<br></strong>Uh?
+18406	<strong>Paul<br></strong>â€¦have they been cleaned.
+20256	<strong>Denise<br></strong>Donâ€™t panic Paul, all taken care of.
+24357	<strong>Narrator<br></strong>You see, the big boss from America, Mr Socrates, is in town and everything must be just right.
+31120	Whatâ€™s he like Anna?
+32346	<strong>Anna<br></strong>Well, so far he seems OK. A bit bossy, quite short andâ€¦ a bit smelly!
+42241	<strong>Narrator<br></strong>Well, he did just fly in from the States.
+45403	But you booked him into a good hotel so hopefully heâ€™s had a chance to clean up.
+50461	<strong>Anna<br></strong>I hope so! Oh, I had better get that.
+58003	Hello? Ah hello Mr Socrates, did you sleep well?
+62542	Oh! I seeâ€¦ I seeâ€¦ ermâ€¦ wellâ€¦ oh, I donâ€™t knowâ€¦ Tom said it was five-starâ€¦ wellâ€¦ OKâ€¦ goodb- Oh, heâ€™s hung up.
+79809	<strong>Paul<br></strong>Everything OK Anna? You look a bit pale.
+83149	<strong>Anna<br></strong>It was Mr Socrates. Heâ€™s not happy.
+86998	<strong>Paul<br></strong>Golly gosh, oh dear. Whatâ€™s the matter?
+90437	<strong>Anna<br></strong>Itâ€™s his hotel room. He doesnâ€™t like it.
+94000	The bedâ€™s too soft, too small and itâ€™s a single room not a twin room.
+99707	<strong>Paul<br></strong>Oh yes, he likes to have two beds in the room for some reason.
+103509	<strong>Anna<br></strong>But Tom said he only likes a single bed in the room.
+106495	<strong>Paul<br></strong>Really? Oh no, he insists on a twin â€“ something to do with business partners he says. Anything else?
+114385	<strong>Anna<br></strong>Yes. He says he wanted freshly squeezed orange juice for breakfast, not the stuff out of a carton.
+122151	<strong>Denise<br></strong>Anything else?! A view of Mount Everest perhaps?
+126000	<strong>Paul<br></strong>Yes, thank you Denise. Well, we really must sort this out.
+129775	We canâ€™t afford to upset Mr Socrates. Now Anna, you chose this hotel, I really think you need to sort out this mess.
+138094	<strong>Anna<br></strong>It was Tomâ€™s suggestionâ€¦
+139624	<strong>Paul<br></strong>Just sort it, quickly. Oh golly gosh, golly gosh.
+143700	<strong>Narrator<br></strong>Uh oh Anna. Time to do some complaining.
+147182	What are you going to say?
+149094	<strong>Anna<br></strong>Oh. I donâ€™t know. Iâ€™m not very good at complaining.
+153801	<strong>Narrator<br></strong>Well, Anna. Keep your cool and politely tell the hotel why youâ€™re not happy.
+159127	You could say:<br>Iâ€™m very disappointed with your service.
+163687	The standard of service is not good enough.
+167398	The room I booked did not meet my expectations<br>Good luck Anna!
+174063	<strong>Anna<br></strong>OK. Here goes.
+183033	<strong>Receptionist<br></strong>Hello. Royal Imperial Hotel.
+186078	<strong>Anna<br></strong>Erm...helloâ€¦ I want toâ€¦ I want to complain.
+191023	<strong>Receptionist<br></strong>Really? About what exactly?
+194091	<strong>Anna<br></strong>Your hotelâ€¦ Well, I mean, a room I booked for my boss.
+199014	Room 101. Iâ€™m very disappointed with your service.
+203711	<strong>Receptionist<br></strong>And whyâ€™s that then?
+205614	<strong>Anna<br></strong>Well, the room isnâ€™t like the one I booked. Itâ€™s just not good enough.
+210467	<strong>Receptionist<br></strong>Hmm. Letâ€™s have a look at the bookingâ€¦ well your boss got a bedâ€¦ and breakfast tooâ€¦ a continental breakfast in fact.
+220880	<strong>Anna<br></strong>But the room just didnâ€™t meet his expectationsâ€¦ hello?
+226743	<strong>Denise<br></strong>Give me the phone Anna, Iâ€™ll deal with this. Now hello Missâ€¦?
+232294	<strong>Receptionist<br></strong>Miss Fit.
+233505	<strong>Denise<br></strong>Miss Fit? This is the office assis- I mean Manager here.
+239164	This isnâ€™t good enough. My colleague has made it quite clear that the room did not meet our requirements and I would like you to resolve this matter as quickly as possible or I will have to cancel our reservation.
+252132	<strong>Receptionist<br></strong>Sadly, we have no other twin rooms available and anywayâ€¦
+255830	<strong>Denise<br></strong>Alright, Iâ€™d like to speak to your manager please. Really!
+264614	<strong>Narrator<br></strong>Good old Denise. I can tell sheâ€™s done this before but will talking to the manager really sort things out?
+271897	Letâ€™s remind ourselves of some of the phrases you can use when you need to complain:<br>Iâ€™m very disappointed with your service.
+281222	The standard of service is not good enough.
+284865	The room I booked did not meet my expectations.
+288065	And to get things sorted you could say:<br>I would like this matter resolved as quickly as possible.
+295906	Or:<br>I would like to cancel my reservation and get a full refund.
+302193	Letâ€™s see if Denise has sorted things out?
+305776	<strong>Paul<br></strong>So have you managed to sort out Mr Socrates?
+309157	<strong>Denise<br></strong>Oh yes, Annaâ€™s got him a new room.
+312469	<strong>Paul<br></strong>Thanks Anna, Iâ€™ll let him know. And what about the orange juice?
+316728	<strong>Anna<br></strong>Errrâ€¦
+318179	<strong>Denise<br></strong>Freshly squeezed, every morning!
+321355	<strong>Paul<br></strong>Oh golly gosh, that reminds me, we need some here in the office.
+324974	Heâ€™s going to be here any minute and he says heâ€™s got some important news for us.
+331592	<h3>Listening challenge - answer</h3> <br>What type of hotel room did Mr Socrates want? <br>A twin room.

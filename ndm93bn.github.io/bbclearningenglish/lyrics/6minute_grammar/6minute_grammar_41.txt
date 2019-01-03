@@ -1,0 +1,72 @@
+1	(Introduction...)
+12002	<strong>Rob<br></strong>Hello. Welcome to 6 Minute Grammar with me, Rob.
+15616	<strong>Emma<br> </strong>And me, Emma. Hello.
+18952	<strong>Rob<br></strong>In today's programme we're talking about the past simple and the past continuous tensesâ€¦
+24350	<strong>Emma<br></strong>Yes, we'll look at when we use each tense.
+27349	<strong>Rob<br></strong>We'll show you how to form the positive, negative and question forms of each oneâ€¦
+32523	<strong>Emma<br> </strong>And as usual, we'll finish with a quiz.
+35748	<strong>Rob<br></strong>And first, here's a quick reminder of the past simple. Hello Finn.
+39629	<strong>Finn<br></strong>Hello Rob.
+40478	<strong>Rob<br></strong>Could you give us an example please?
+41784	<strong>Finn<br></strong>Last night I saw the film 'Titanic'.
+46306	<strong>Rob<br></strong>Ooh Titanic, what a movie! Finn saw it last night.
+50861	So, we use the past simple for completed actions in the past.
+55764	<strong>Emma<br></strong>And we had the past simple of the verb <strong>see</strong>, which is the irregular form <strong>saw</strong>.
+61597	<strong>Rob<br></strong>And as we know, you just have to learn the irregular verbs.
+65568	<strong>Emma<br></strong>But the good news is that lots of verbs are regular, and to make them into the past simple, you just add <strong>e</strong> and <strong>d</strong> to the infinitive, like this:
+78839	<strong>Finn<br></strong>Hundreds of passengers <strong>jumped</strong> into the sea.
+83400	<strong>Rob<br></strong><strong>Jump</strong> - <strong>jumped</strong>. Simple.
+87411	To make past simple negatives, we add <strong>didn't</strong> to the infinitive, like this:
+93180	<strong>Finn<br></strong>Sandra Bullock didn't win an Oscar for Gravity.
+97339	<strong>Rob<br></strong>Now let's look at past simple questions. Emma, did you see the news last night?
+103285	<strong>Emma<br></strong>Yes, I did.
+104314	<strong>Rob<br></strong>So, for the question, it's: <strong>did</strong> plus the <strong>subject</strong> plus the <strong>infinitive</strong>.
+110018	<strong>Emma<br></strong>And the short answers are: <strong>Yes</strong> plus <strong>subject</strong> plus <strong>did</strong>: <strong>Yes, I did</strong>.
+116424	<strong>Rob<br></strong>Or: <strong>No</strong> plus <strong>subject</strong> plus <strong>didn't</strong>: <strong>No, I didn't</strong>.
+121853	<strong>Emma<br></strong>So that's the past simple for completed actions in the past.
+126585	<strong>Rob<br></strong>Now, to talk about past activities, we can use the past continuous. Here's an example:
+133307	<strong>Finn<br></strong>I was watching a movie on TV.
+136945	It was raining. We were feeling very bored.
+141678	<strong>Emma<br> </strong>Now, we can use the past continuous to talk about an activity that was already happening when something else happened, like this:
+152343	<strong>Finn<br></strong>Dad was cooking dinner when the police arrived.
+156392	The children were watching TV when the officers came into the living room.
+161900	<strong>Rob<br></strong>Ooh the police! Very dramatic!
+164798	Yes, think about one activity interrupting the other - the activity that was already happening is in the past continuous - <strong>Dad was cooking dinner</strong>.
+175666	<strong>Emma<br></strong>And the activity that interrupted it is in the past simple: <strong>the police arrived.
+181376	<strong>Rob<br></strong>So you can put the past simple and continuous together to talk about activities and actions that happened one on top of another.
+190042	<strong>Emma<br></strong>Remember those examples everyone - I'm going to test you later!
+193971	<strong>Rob<br></strong>OK. To make the past continuous, it's <strong>was</strong> or <strong>were</strong> plus an<strong> i-n-g verb.
+200897	<strong>Finn<br></strong><strong>Dad was cooking dinner. The children were watching TV.
+206153	<strong>Rob<br></strong>Now to make the negative past continuous, you just put <strong>wasn't</strong> or <strong>weren't</strong> in front of the -ing verb, like this:
+215709	<strong>Finn<br></strong><strong>The baby wasn't sleeping. The children weren't playing games.
+221661	<strong>Rob<br></strong><strong>Wasn't sleeping</strong> and <strong>weren't playing.
+224417	<strong>Wasn't</strong> and <strong>weren't</strong> are short forms of <strong>was not</strong> and <strong>were not.
+230263	<strong>Emma<br></strong>Now for past continuous questions, it's <strong>was</strong> or <strong>were</strong>, with the <strong>subject</strong> plus an <strong>i-n-g verb</strong>.
+239381	And I'm going to demonstrate this by testing you on the examples we had before.
+244928	Rob, <strong>was Mum cooking dinner?
+247732	<strong>Rob<br></strong><strong>No, she wasn't: Dad was cooking dinner.
+250794	<strong>Emma<br></strong>That's correct: well done. <strong>Were the children playing games?
+255298	<strong>Rob<br></strong><strong>No, they weren't.
+257267	<strong>Emma<br></strong>Correct, well done again!
+259638	<strong>Rob<br></strong>For past continuous short answers it's: <strong>Yes</strong> plus <strong>subject</strong> plus <strong>was</strong>, or: <strong>No</strong> plus <strong>subject</strong> plus <strong>wasn't</strong>.
+269352	<strong>IDENT<br></strong>You're listening to BBC Learning English dot com.
+276016	<strong>Emma<br></strong>Right, time for a quiz.
+278421	I'm going to say a sentence and you have to choose the right verb form to go in the gap.
+285089	Ready? OK. Number 1. <br>When the phone rang, we ____ a film.
+293118	Is it a) watched or b) were watching?
+298505	When the phone rang, we ____ a film.
+304660	<strong>Rob<br></strong>It's b) When the phone rang, we were watching a film.
+308867	<strong>Emma<br></strong>Good, number 2: Cate Blanchett _____ an Oscar for Best Actress.
+316322	Is it a) was winning or b) won?
+321778	Cate Blanchett _____ an Oscar for Best Actress.
+327589	<strong>Rob<br></strong>It's b) Cate Blanchett won an Oscar for Best Actress.
+332526	<strong>Emma<br></strong>And here's the final question. Ready?
+336512	When the police _____, Dad was cooking dinner.
+341701	Is it a) arrived b) were arriving?
+348608	When the police _____, Dad was cooking dinner.
+353930	<strong>Rob<br></strong>When the police arrived, Dad was cooking dinner.
+357751	Good old dad. Still cooking that dinner. What a hero!
+360842	<strong>Emma<br></strong>So, well done if you got those right.
+363263	And don't forget there's lots more about tenses on our website at bbclearningenglish.com.
+369834	Join us again for more 6 Minute Grammar.
+372925	<strong>Both<br></strong>Bye!

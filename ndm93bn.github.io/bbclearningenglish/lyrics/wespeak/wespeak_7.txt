@@ -1,0 +1,26 @@
+1	(Introduction...)
+12900	<strong>Feifei<br></strong>Hello and welcome to The English We Speak. I'm Feifei.
+17100	<strong>Neil<br></strong>...and...hi there. I'm Neil.
+22802	<strong>Feifei<br></strong>Err...Neil, could we have your attention please?
+26666	<strong>Neil<br></strong>Sorry Feifei - I'm still trying to finish the script for this programme.
+30166	<strong>Feifei<br></strong>What? You're still writing the script for this programme! So what's going to happen today then?
+37000	<strong>Neil<br></strong>Well, I thought that you could pretend to arrive late. I've lost my coffee. I just need to think of an authentic real English phrase to use now.
+45400	<strong>Feifei<br></strong>Oh come on Neil, there is no need to reinvent the wheel!
+49500	<strong>Neil<br></strong>Feifei, you're amazing - <strong>to reinvent the wheel</strong> - that's a great English phrase.
+54666	I'll use that in my script.
+56000	<strong>Feifei<br>To reinvent the wheel</strong> means 'to waste time trying to create something that has already been made'.
+61555	So I'm saying, don't waste time writing a script that has already been written - all your ideas have been written before!
+69666	<strong>Neil<br></strong>Really?
+70555	<strong>Feifei<br></strong>I'll show you - but first let's hear some more examples of this phrase.
+76069	<strong>Examples<br></strong>Don't reinvent the wheel; we already have a plan that seems to work well.
+82000	He spent days working out the new course syllabus when we had planned it already - he's just reinvented the wheel!
+88700	Nancy's new idea is just the same as the old one - she's just reinvented the wheel!
+97000	<strong>Feifei<br></strong>So <strong>to reinvent the wheel</strong> means 'to waste time and effort doing something that someone has done before'.
+103539	Now let me show you that old script.
+107333	<strong>Neil<br></strong>Oh yeah. Let's have a look. Arrives late...drinks coffee. I tell a joke.
+112865	you're right Feifei, this is almost the same script. I'll just copy the idea for today's script.
+118199	<strong>Feifei<br></strong>Actually, maybe you shouldn't reinvent the wheel - and start writing something new and original.
+124666	<strong>Neil<br></strong>Sorry - we're out of time Feifei.
+126504	I just need to say something funny and we can go. I've had a 'wheely' good time!
+132000	<strong>Feifei<br></strong>That wasn't funny.
+133999	<strong>Both<br></strong>Bye!

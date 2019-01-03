@@ -1,0 +1,61 @@
+1	( Introduction... )
+11540	<strong>Alice<br></strong>Hello and welcome to 6 Minute English. I'm Alice.
+14535	<strong>Neil<br> </strong>And I'm Neil.
+15360	<strong>Alice<br></strong>So, Neil, what's the best holiday you've ever had?
+19075	<strong>Neil<br></strong>That would be scuba diving on the Great Barrier Reef off the coast of Australia. It was awesome!
+25650	I saw sharks, sea turtles, manta rays.
+28982	<strong>Alice<br></strong>I certainly don't like the idea of coming nose to nose with a shark!
+32093	But then diving isn't really my thing.
+34810	I'm more into cultural holidays - you know, visiting the ruins of ancient civilisations.
+40522	<strong>Neil<br></strong>That's very worthy, Alice.
+42229	But tourists are actually damaging a number of important sites around the world - tramping around, dropping litter, scribbling graffiti everywhere.
+50542	<strong>Alice<br></strong>I would never drop litter or scribble graffiti!
+53147	<strong>Neil<br></strong>Well, we're talking about world heritage sites today, which are places UNESCO considers to be at risk from various threats and in need of protection.
+62365	<strong>Heritage</strong> means the things a society considers important to its history and culture, for example art, buildings, or natural sites such as the Grand Canyon in the United States.
+73743	<strong>Alice<br></strong>And the environment poses a number of different threats.
+77249	So, Neil, can you tell me which sea creature is a potential threat to the Great Barrier Reef's ecosystem?
+83739	Is it a . <br>a) starfish? <br>b) jellyfish? <br>Or c) cuttlefish?
+91669	<strong>Neil<br></strong>I will go for b) jellyfish.
+95616	I'm no expert on marine life, but I have eaten jellyfish and I haven't eaten the other ones.
+100876	<strong>Alice<br></strong>Oh, I see. Well, we'll find out later on if you are an expert or not.
+104783	But let's listen now to BBC reporter Roger Harrabin talking about other types of threat to heritage sites.
+111470	See how many you can spot!
+113026	<strong>INSERT<br> Roger Harrabin, BBC reporter<br></strong>The most precious wonders of the natural world - Australia's Great Barrier Reef, America's spectacular Grand Canyon, the Barrier Reef of Belize in South America, second biggest on Earth - all facing threats from humans.
+130964	The Great Barrier Reef is attracting urgent concern.
+134412	There's a huge battle over mining and port development.
+138220	A giant coalmine has just been given the go-ahead by the Queensland government even though scientists warn it may damage the Reef.
+145975	<strong>Neil<br></strong>That's the BBC's Roger Harrabin.
+148890	Well, I spotted a couple of threats to heritage sites there - mining and port development.
+154497	Now, any type of industrial activity can harm them by, for example, encroaching on the natural habitat of animals and plants living there, or by polluting the water that flows into the site.
+166270	<strong>Alice<br></strong><strong>Mining</strong> is the process of extracting coal or other minerals from the ground, and if you <strong>encroach on something</strong>, it means you move beyond acceptable limits.
+176614	The interesting thing is that world heritage sites only constitute 0.5% of the Earth's surface - so why can't people do their mining and industrial development on the remaining 99.5%!
+189571	<strong>Neil<br></strong>But there is one human industry that can actually be beneficial for precious sites: tourism.
+195202	<strong>Alice<br></strong>But you said earlier that tourism was bad for heritage sites.
+199405	<strong>Neil<br></strong>I know. And I was right, up to a point.
+202667	World heritage sites are some of tourism's main attractions, and more and more people are visiting them.
+208856	So it's all about getting the balance right between generating money to maintain and restore the sites and minimizing the impact of tourist activities.
+217993	<strong>Alice<br></strong>Such as littering and graffiti.
+220164	<strong>Neil<br></strong>Exactly. And the term for this is <strong>sustainable</strong> <strong>tourism</strong> - or tourism designed to have a low impact on the local culture and the environment, while generating employment for local people.
+231158	<strong>Alice<br></strong>So UNESCO is working to direct governments, site managers and visitors towards sustainable tourism practices in order to keep our world's natural and cultural heritage safe for future generations.
+243105	<strong>Neil<br></strong>Wow, you can really talk the talk, Alice.
+245029	You should work for UNESCO!
+246341	OK, let's move on now, and listen to Paul Crocombe, of the Snorkelling and Diving Company in Townsville, Queensland, Australia, giving his view on how the Great Barrier Reef will cope with threats to its survival.
+260396	<strong>INSERT<br> Paul Crocombe, Snorkelling and diving company, Townsville, Queensland, Australia<br></strong>The Reef's fairly dynamic, it's been through a couple of ice ages, and is still here, so its resilience will ensure that the Reef is still here in years to come.
+269932	But the species diversity and the... the visual aesthetics of the Reef may change quite considerably, especially if we get an increase in sea temperature, an increase in carbon dioxide in the water, and things like that.
+281507	<strong>Alice<br></strong>Paul Crocombe describes the Reef as 'dynamic' and 'resilient'.
+285965	<strong>Neil<br></strong><strong>Dynamic</strong> means active or capable of changing and <strong>resilience</strong> means the ability to recover or adapt to change - which all sounds good.
+294116	But Paul also says that the <strong>species diversity</strong> - the range of plants and animals - may change.
+299874	<strong>Alice<br></strong>For example, a rise in sea temperature would cause a rise in carbon dioxide levels - and this could have a big impact on both the species diversity and the Reef's <strong>visual aesthetic</strong> - or the way it looks.
+313017	<strong>Neil<br></strong>OK, I think it's time now for the answer to today's quiz question, Alice.
+316755	<strong>Alice<br></strong>Yes, I think so too.
+318148	OK, so, I asked you: Which sea creature poses a potential threat to the Great Barrier Reef's ecosystem?
+325381	Is it a type of ... a) starfish, b) jellyfish or c) cuttlefish?
+332415	<strong>Neil<br></strong>And I said b) jellyfish.
+334215	<strong>Alice<br></strong>And you got stung, I'm afraid, Neil!
+337094	<strong>Neil<br></strong>Ouch!
+337756	<strong>Alice<br></strong>The answer is starfish.
+340589	The crown-of-thorns starfish preys on coral and large outbreaks of these starfish can devastate reefs.
+347833	Now, can you remind us of some of today's vocabulary, Neil?
+351177	<strong>Neil<br></strong>Sure:<br>heritage<br>encroach on something<br>sustainable tourism<br>dynamic<br>resilience<br>species diversity<br>visual aesthetic
+363623	<strong>Alice<br></strong>Well, that's the end of today's 6 Minute English. Don't forget to join us again soon!
+367872	<strong>Both<br> </strong>Bye!

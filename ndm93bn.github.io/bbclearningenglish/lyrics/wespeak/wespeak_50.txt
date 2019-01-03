@@ -1,0 +1,36 @@
+1	(Introduction...)
+13222	<strong>Neil<br></strong>Welcome to The English We Speak. I'm Neil.
+16300	<strong>Feifei<br></strong>And I'm Feifei.
+17555	<strong>Neil<br></strong>Actually, Feifei, can you help me with something?
+19844	<strong>Feifei<br></strong>Go on.
+20644	<strong>Neil<br></strong>There's this girl I like. I want to ask her for coffee. But I don't want to seem too serious or creepy or anything. Just friendly.
+28777	<strong>Feifei<br></strong>And you're writing her a message? OK.
+33500	<strong>Neil<br></strong>I just can't find the words.
+35222	<strong>Feifei<br></strong>Easy. Stick a couple of emojis on there. Much less formal!
+39777	<strong>Neil<br></strong>You mean, like, a smiley face?
+42066	<strong>Feifei<br></strong>Yeah, but those are so last year.
+44888	<strong>Neil<br></strong>Maybe a love heart?
+46888	<strong>Feifei<br></strong>Seriously? That's a bit too much. You need to up your emoji game!
+51555	<strong>Neil<br></strong>My emoji game... like an emoji of a video game... or a football?
+56777	<strong>Feifei<br></strong>No. The phrase 'to raise your game', or 'to up your game', means to improve.
+62444	<strong>Neil<br></strong>Yes, it's a good phrase. Feifei, you're not working hard enough, you need to up your game!
+68444	<strong>Feifei<br></strong>That's not true... but good use of 'up your game'. The phrase has now developed a bit.
+74555	We often add what we're trying to improve before the word 'game'.
+78656	<strong>Neil<br></strong>Like this:
+82873	<strong>Examples<br></strong>I never finish novels. I need to up my reading game.
+87999	I badly need to work on my interview game before my big interview next week.
+94111	You could do with a bit more exercise, mate. You should raise your running game!
+102800	<strong>Feifei<br></strong>Great. Hope those examples help. Any progress with that text message?
+108222	<strong>Neil<br></strong>Here goes: "Lucy. Please have a coffee with me tomorrow." And then some coffee emojis.
+114222	<strong>Feifei<br></strong>Well, it's direct! But I still think we need to up your emoji game.
+119111	Actually, and your texting game. Oh, and your dating game.
+123666	We've got a lot of work to do!
+125444	<strong>Neil<br></strong>Oh, ok. Well I already sent the message.
+128446	Let's hope it works!
+131000	And she's replied already.
+133288	<strong>Feifei<br></strong>No way, what did she say?
+134999	<strong>Neil<br></strong>"Neil. I thought you'd never ask! I'd love to have coffee. 3pm?"
+140379	And then a couple of big smiley emojis.
+143224	<strong>Feifei<br></strong>Wow, congratulations. Maybe it's me who needs to up my game.
+148300	<strong>Neil<br></strong>Looks like it!
+149178	<strong>Neil+ Feifei<br></strong>Bye.

@@ -1,0 +1,68 @@
+1	(Introduction...)
+26800	<strong>Phil<br></strong><em>Day 7 - we're in the Cape Verde islands and, no, we didn't sink! We have made it to port.
+34600	<em>There was a small hole in the tanks that store our drinking water and someone is now fixing it.
+42200	<em>But I'm glad we stopped here- <strong>the islands here are like another world</strong> - green, lush, warm and sunny - <strong>not like the concrete jungle we left at home</strong>.
+55800	<em>Unfortunately, we can't stay here for long - we are in a race after all, around the world.
+63900	<em>There's just time to take a 'selfie' to send back to my friends (click) - oh and I must just log on and check my emails.
+78100	<strong>Phil<br></strong>So there's an email from John who says.
+82386	he hopes our trip is going well... and to remind me, that as part of the challenge, I have to bring back some rare, unusual souvenirs - and he wants a recording of some traditional music.
+97500	Hmmm, what could that be?
+100000	<strong>PP<br></strong>Phil, everything is fixed. I've filled up with drinking water. It didn't cost much and the chap who fixed it gave me this CD - something for us to listen to on the yacht.
+113200	<strong>Phil<br></strong>What is it?
+114300	<strong>PP<br></strong>I don't know. It's just a CD of the local <em>Morna</em> music.
+119500	<strong>Phil</strong><br><strong>What does it sound like?
+121300	<strong>PP<br></strong>He said <strong>it's a bit like blues music</strong>. Have a listen.
+125200	<strong>Phil<br></strong>That's brilliant Passepartout! What would I do without you?!
+133800	<strong>Phil<br></strong><em>Day 10 - and I'm out in the Atlantic Ocean - and what a big ocean it is when you look at it from our small yacht, The Mermaid.
+143379	It is miles and miles of blue and grey water with nothing to see on the horizon.
+150600	But we've got a good tail wind and we seem to be making good progress.
+156800	Passepartout is at the wheel, steering our yacht to our next destination - St Helena. I'm helping out by making tea.
+169200	<strong>Phil <br></strong>Cup of tea, Passepartout?
+171800	<strong>PP <br></strong>More tea! OK then, it will help me concentrate.
+176200	The sea is getting quite rough and I need your help up here on deck.
+181700	<strong>RADIO MESSAGE:<br></strong><em>Attention all shipping. A deep depression is forming in the South Atlantic, moving north.
+187300	Severe gale force 11 winds are expected with heavy rain</em>. <em>Visibility will be poor.
+193500	<strong>PP<br></strong>Strong wind. Heavy rain. Sounds nasty. We're going to have to change direction.
+201100	Get your waterproof clothes on - we're in for a wet and bumpy ride.
+207900	<strong>Phil<br></strong><em>The weather is already getting bad.
+210300	The wind is very strong and the rain is hammering down and stinging our faces.
+215888	Not my favourite weather - I prefer the calm, warm, sunny type.
+222750	But we have no choice - we need to find shelter.
+227600	Passepartout says we should go to some islands at 0.3 degrees north, 6.6 degrees east.
+235900	Where could that be? And will we make it before the storm gets us?
+244700	This was a dream trip - and suddenly <strong>it's like a nightmare</strong></em>
+257000	<strong>PP<br></strong>Phil what are you doing? Hold onto that rope. Don't let go or we'll lose the sail.
+268711	<strong>Phil <br></strong>OK. It's getting very dark. Do you know which way to go?
+274300	<strong>PP <br></strong>Yes - of course I do - we do have a satellite navigation system.
+278900	According to this, we're not too far from the coast - but I can't see anything.
+284900	<strong>Phil</strong> <br>Look! I can see lights of Sao Tome. Is that a lighthouse? Is it a harbour?
+292200	<strong>PP <br></strong>Yes.I think it is. but I don't know how we're going to land in these stormy seas.
+299300	We're just going to hit the rocks.
+301800	<strong>Phil <br></strong>Hey look! There's someone on the harbour wall waving their arms.
+306400	Let's get closer. Is it a mermaid?
+310200	<strong>PP<br></strong>A mermaid? She has legs.
+313200	<strong>Sophia<br></strong>Over here. Quick! Throw me the rope.
+321700	<strong>Phil</strong> <br><em>Phew. What luck! We're on dry land, safe from the storm and it's all thanks to the help of a woman who lives on the island.
+334800	She's invited us to her house to dry off and warm up. But are we in the right place?
+348700	<strong>Phil</strong> <br>Thanks so much for helping us - you saved our boat - and our lives.
+355300	<strong>Sophia</strong> <br>My name is Sophia. I'm happy to have helped.
+358814	Here you are - try some bobofrito and a cup of hot chocolate.
+364100	<strong>PP</strong> <br>Mmm, nice. <strong>They taste like banana</strong>.
+368208	<strong>Sophia</strong> <br>That's what they are - bobofrito is banana fried in coconut oil. Do you like it?
+375200	<strong>Phil <br></strong>Do I like it? It's amazing...just...let...me get some more. Mmmm.
+383400	<strong>Sophia</strong> <br>So tell me, what are you guys doing here?
+386300	<strong>PP</strong> <br>We're sailing round the world but we needed to shelter from the storm.
+390900	We were heading for St Helena...is that right, Phil?
+394700	<strong>Phil</strong> <br>What? Oh yes, that's right.
+398826	Sorry, I was enjoying this delicious hot chocolate. It tastes great too.
+404100	<strong>Sophia</strong> <br>It's made with our finest cacao beans. It's what Sao Tome and Principe is famous for.
+409900	<strong>Phil</strong> <br>Cacao beans! That's great because they are one of the things I have to collect as part of my challenge. Can I take some with me?
+419900	<strong>Sophia</strong> <br>Your challenge?
+421300	<strong>PP</strong> <br>Yes, we're sailing around the world from London back to London in 80 days. It's a stupid idea, isn't it?
+429866	<strong>Sophia</strong> <br>Hmm, well maybe not. Actually, you can have a bag of these beans if you can do me a favour?
+438300	<strong>Phil</strong> <br>I'm sure we can help you.
+444100	<strong>Phil <br></strong><em>Sophia has told me she was also sailing around the world when she stopped in Sao Tome for a rest and ended up falling in love with a man who she then married.
+458102	<em>But her husband has started being cruel to her and she wants to leave the island and go home.
+467020	<em>Because she's got no money, she wants us to give her a lift back to Britain. The long way round!
+474900	<em>She is an experienced sailor, so how can we refuse?
+481400	<em>There is only one problem - we'll need to work out how she can escape without her husband noticing.This is exciting stuff!

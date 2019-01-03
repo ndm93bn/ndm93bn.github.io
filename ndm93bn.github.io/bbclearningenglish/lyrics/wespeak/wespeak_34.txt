@@ -1,0 +1,26 @@
+1	(Introduction...)
+12000	<strong>Feifei</strong><br>Hello and welcome to The English We Speak, I'm Feifei.
+15977	<strong>Neil</strong><br>And hello I'm Neil.
+17111	<strong>Feifei</strong><br>Hey Neil, I couldn't help overhearing just now but Rob say he'd bought a new sports car?
+23400	<strong>Neil</strong><br>Yes, a red one with one of those tops that folds back.
+27222	<strong>Feifei</strong><br>It must have cost him a fortune!
+29666	<strong>Neil</strong><br>Oh you know Rob - he spends money left, right and centre.
+33111	<strong>Feifei</strong><br>You mean he spends it in all directions?
+35800	<strong>Neil</strong><br>That's right.
+36490	<strong>Feifei</strong><br>So he spends money in Oxford Street - to the left.
+40300	Bond Street - to the right. And sometimes at Oxford Circus - in the centre?
+45333	<strong>Neil</strong><br>I didn't mean physically on the left, right, and centre.
+49555	It's a phrase that just means everywhere or all the time.
+53333	<strong>Feifei</strong><br>Ah got it. I suppose left, right, and centre is everywhere - in all directions.
+59555	<strong>Neil</strong><br>That's correct- and there are examples left, right, and centre - such as these.
+67999	<strong>Examples</strong><br>I'm not surprised the cafe closed.
+70501	It's been losing customers left and right over the past couple of years.
+74888	You can't miss that new film; they've been promoting it left, right, and centre.
+83444	<strong>Feifei</strong><br>That's left, right, and centre - a phrase to mean everywhere or all the time.
+88900	So how does Rob afford a new sports car?
+92499	<strong>Neil</strong><br>Well our boss has been handing out bonuses left, right, and centre - he must have got a big one!
+97555	<strong>Feifei</strong><br>The bonuses aren't that big.
+99777	It's the bank - they're happy to give out loans left, right, and centre!
+103777	<strong>Neil</strong><br>I think you may be right - anyway the good thing is he'll take us for a drive in his new car. And here he comes now.
+115123	<strong>Rob</strong><br>Hi there. Jump in!
+116852	<strong>Neil/ Feifei</strong><br>Bye for now.

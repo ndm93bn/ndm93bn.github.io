@@ -1,0 +1,59 @@
+1	(Introduction...)
+16305	<strong>Narrator<br></strong>It's late at the offices of Tip Top Trading.
+19814	Anna is alone, working. Again.
+23427	She's been doing this all week, she wants her presentation to Mr Lime to be perfect so she's been spending hours and hours on it.
+32817	Anna?
+33450	<strong>Anna<br></strong>Don't interrupt! I'm busy.
+35662	<strong>Narrator<br></strong>Woah!
+36374	<strong>Anna<br></strong>Sorry.
+37317	<strong>Narrator<br></strong>Anna, you're really burning the candle at both ends.
+40638	<strong>Anna<br></strong>What?
+41215	<strong>Narrator<br></strong>Burning the candle at both ends â€“ it means working very hard â€“ working late and getting up early to work all the time.
+49666	<strong>Anna<br></strong>Oh. I didn't know that expression.
+51819	<strong>Narrator<br></strong>Well here are some more: <br>You're doing overtime; which means you're working longer than office hours.
+58494	You're putting in the hours; which means you are spending all the time needed to achieve something.
+64967	<strong>Anna<br></strong>Yes, I'm putting in the hours to make sure my presentation is perfect.
+69353	<strong>Narrator<br></strong>And if you don't mind me saying so, you might burn out; which means you are working so hard that you might get very tired and run out of energy.
+78019	<strong>Anna<br></strong>I'm not burning out.
+79870	I'm full of energy.
+81784	I just need to finish this bit.
+92195	<strong>Denise<br></strong>My goodness, nothing's locked. Do you think we've been burgled?
+97407	<strong>Tom<br></strong>Oh no! I left my lap-book and my me-pad on the desk.
+102050	and my i-top â€“ they're worth thousands!
+105359	They're all the latest versions!
+106895	<strong>Denise<br></strong>I left out my elephant mug and my lady-curve nail file.
+111855	They better not have stolen them!
+113679	<strong>Anna<br></strong>(Talking in her sleep) but it's premium, premium, faux-orange premium!
+122847	<strong>Tom<br></strong>Anna?
+124161	<strong>Denise<br></strong>It's Anna, she's asleep. Anna!
+128307	<strong>Anna<br></strong>(waking up with a jump) Oh! Lemons! Denise? Tom?
+131614	<strong>Tom<br></strong>Have you spent the night asleep at your desk Anna?
+134986	<strong>Anna<br></strong>Is it morning? Oh dear, yes I think so.
+138997	<strong>Denise<br></strong>Well, at least we haven't been burgled then.
+142611	<strong>Tom<br></strong>Anna, you've really been burning the candle at both ends lately.
+147475	<strong>Denise<br></strong>Yes, you've been doing hours and hours of overtime.
+151982	Most people get their work done within office hours and anyway, we don't pay overtime here.
+158555	Youâ€™ll never find me working late!
+161282	<strong>Tom<br></strong>Yes, I'd noticed that Denise.
+163514	<strong>Anna<br></strong>But this presentation must be perfect.
+166218	<strong>Denise<br></strong>If you're not careful, you'll burn out!
+169643	Then you'll really be of no use to anyone.
+174009	You'll be as useful as a chocolate teapot.
+177042	<strong>Tom<br></strong>It's good that you're putting in the hours Anna, but you should calm down.
+182478	Look at me, I do very successful presentations without spending hours preparing.
+188603	<strong>Denise<br></strong>Ha!
+189469	<strong>Tom<br></strong>In my presentation to Every Apple I just swooshed in with no preparation after a night on the town.
+196603	I charmed them. They loved me!
+198749	<strong>Narrator<br></strong>Idiot. I bet he actually spent hours preparing he just can't admit it.
+204830	<strong>Anna<br></strong>Well, maybe you're right.
+206924	I can't think clearly anymore, I'm so tired.
+210983	I need to sleep properly otherwise I'll end up trying to sell bananas instead of lemons.
+218370	<strong>Narrator<br></strong>Anna has finally got the message: she's realised she's been working too much.
+224187	She needs to be realistic.
+226275	Here's a reminder of some of the phrases we heard to talk about how much Anna had been working:<br>Burning the candle at both ends.
+234807	Doing overtime.
+237435	Putting in the hours.
+239778	Burning out.
+242281	Let's hope she's thinking clearly by the time she has to do her presentation.
+248240	Join us next time to find out! Bye.
+252965	<h3>Listening Challenge - Answer</h3> <br>Denise use to mean Anna will be no use to anyone? <br>As useful as a chocolate teapot

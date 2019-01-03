@@ -1,0 +1,62 @@
+1	(Introduction...)
+26800	<strong>Phil<br></strong><em>It's day 50. We've made it to Papua New Guinea and <strong>the capital city</strong> of Port Moresby.
+34600	<strong>People</strong> here seem to be wearing <strong>masks</strong> - I think there's some kind of festival going on.
+41600	Anyway, this is where we're getting out yacht properly fixed.
+46999	It needs to be good enough for <strong>the next part of our journey</strong>.
+50953	We've decided to sail in a straight line across the Pacific Ocean and then, well, we're taking <strong>a short cut</strong> through <strong>the Panama Canal</strong>.
+60994	It's a long, long way so we need plenty of <strong>supplies</strong> ...but there's <strong>a problem</strong>.
+73600	<strong>Phil<br></strong>What's wrong Sophia? You look a bit worried.
+77950	<strong>Sophia<br></strong>Well I've got all our supplies - <strong>milk, water, bread, tea, bird food</strong> for <strong>the parrot</strong> - but I haven't got any money to pay for them.
+87800	We left <strong>Sao Tome</strong> in such a rush that I didn't bring any.
+91400	<strong>Phil<br></strong>Don't worry - here, use my credit card.
+95000	<strong>Sophia<br></strong>They don't take <strong>credit cards</strong> here...just cash.
+98206	<strong>Phil<br></strong>Oh really? I don't have much cash either - we could get some wired over to us or maybe Passepartout.
+108000	<strong>PP<br></strong>Well don't look at me - I haven't got any cash - I've just used all my money to buy this <em>Savi</em> mask - isn't it beautiful?
+115900	<strong>A real work of art.</strong> You need to collect one for your challenge, don't you?
+120000	<strong>Phil<br></strong>Yes I do - well done.
+123200	Well, if we haven't got any cash, we'll have to sell some of our things.
+128548	How about <strong>the parrot</strong>?
+130100	<strong>Sophia<br></strong>We can't do that - I've given it <strong>a name</strong> - <strong>Peggy</strong>.
+133600	<strong>Phil<br></strong>That's <strong>a nice name</strong> Sophia. So, no, we cannot sell <strong>Peggy</strong>.
+139324	I'll find some books and clothes and things to sell.
+145500	<strong>Phil<br></strong><em>We've made some money and we've got some food and drink.
+151000	We even had some money left over to buy some lobsters and wine.
+155400	I'm going to cook <strong>a slap-up meal</strong> for <strong>the crew</strong> - but not yet: I'm going to wait until we've sailed for a few days and we're all feeling a bit tired.
+165400	So off we go again - let's hope <strong>the wind</strong> is behind us.
+175000	<strong>PP<br></strong>Right, shall we take turns to work and sleep? This time, two people can stay on deck while one of us sleeps.
+183200	<strong>The parrot</strong> can do what he wants. We don't want any more little accidents, do we Sophia?
+189545	<strong>Sophia<br></strong>Ha ha, very funny. Look, I'll get all <strong>the sails</strong> up - with this wind behind us we should make up some time - just steer us in <strong>the right direction!</strong>
+199000	And Phil, are you OK down there in <strong>the galley</strong>?
+202600	<strong>Phil<br></strong>Oh yes fine, I'm just cooking us something special to say 'thank you' for all your hard work.
+209200	<strong>Sophia<br></strong>You know <strong>the way </strong>to<strong> a woman's heart</strong> is through her stomach!
+212700	<strong>PP<br></strong>Hmm, aren't those lobsters we bought getting a bit old?
+217300	Maybe we should eat <strong>the parrot</strong> instead?!
+223794	<strong>Phil<br></strong><em>Everyone's tucking into my meal of boiled lobster, fried potatoes and <strong>a pineapple salad</strong> with <strong>white wine</strong> to drink.
+233881	For <strong>dessert</strong> I'm serving up fresh coconut. It's amazing what you can cook in such a small kitchen.
+241700	I'm quite pleased with myself and they seem to be enjoying it but of course, Passepartout is complaining again...as usual.
+256000	<strong>PP<br></strong><strong>An interesting meal</strong> Phil - but was <strong>the lobster</strong> cooked properly?
+261000	It had a funny taste and... to be honest...  I'm feeling rather...sick.
+268500	<strong>Phil<br></strong>Too much wine I expect!
+270400	<strong>Sophia<br></strong>He's right. Phil...there was something...funny. I'm going to be...sick.
+276800	<strong>Phil<br></strong>Oh dear. I feel fine - but that's because there wasn't enough lobster for me to eat. Ermm...are you both ok?
+285800	<strong>PP and Sophia<br></strong>No!
+289809	<strong>PP<br></strong>Take charge...you need to sail <strong>the yacht.
+296687	<strong>Phil<br></strong><em>Food poisoning! I've made <strong>the crew</strong> ill and now I'm <strong>the only person</strong> well enough to sail <strong>the yacht.</strong> Now stay calm Phil, I can do this.
+308886	I can do this. Peggy, do you know how to sail? Of course not, you're <strong>a parrot</strong>.
+318045	Right, I'm going east and heading for <strong>land </strong>at 17 degrees south, 149 degrees west.
+329005	There's <strong>a dirty mark</strong> on <strong>the map</strong> so I can't see what <strong>the place</strong> is called.
+334395	Oh no, <strong>the weather</strong> is getting stormy but I can do this - I need to show Sophia and Passepartout I can sail this yacht by myself so here goes.
+351222	<strong>Phil<br></strong>Ah Passepartout, how are you feeling?
+355000	<strong>PP<br></strong>A little better. Sophia's in <strong>the toilet</strong>: she's still feeling bad.
+361300	Oh, well done for sailing <strong>the yacht</strong>.
+363942	<strong>Phil<br></strong>Oh, it's quite easy with a bit of practice.
+368394	But <strong>the wind</strong>'s getting stronger and there's <strong>a storm</strong> coming - could you help move some of <strong>the sails</strong> around...please?
+377030	<strong>PP<br></strong>I'm afraid. I can't.
+381841	<strong>Phil<br></strong>Oh well, hold tight everyone, I'm going to have to do this alone. I think I can see <strong>land</strong>.
+388448	but oh no, I can see some <strong>rocks</strong> too...maybe I should close my eyes.
+393000	<strong>Sophia<br></strong>Phil, pull that rope there.
+403407	<strong>Phil<br></strong><em>How did I end up in this situation?
+406400	I'm sailing <strong>a yacht</strong>, by myself, in <strong>a storm</strong>.
+412700	I'm going to hit <strong>the rocks</strong>, I'm sure I am.
+416513	First I poison <strong>the crew</strong>; now I'm going to drown them too.
+421200	Where is <strong>this harbour</strong>? Oh, I want to go <strong>home</strong>!

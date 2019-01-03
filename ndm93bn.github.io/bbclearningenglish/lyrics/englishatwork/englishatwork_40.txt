@@ -1,0 +1,42 @@
+1	(Introduction...)
+5600	<strong>Narrator<br></strong>Hello and welcome to English at Work where the day has finally come â€“ it's Anna and Tom's wedding.
+14111	All their friends, work colleagues and business acquaintances are thereâ€¦ such as Mr Limeâ€¦
+20777	<strong>Mr Lime<br></strong>Fantastic Anna, fantastic!
+24222	<strong>Tom<br></strong>Yuk, Slimey Limey, I never liked him.
+28333	Sorry about the venue Anna â€“ but it's all we could get at short notice.
+32088	<strong>Anna<br></strong>I think the office at Tip Top Trading is an ideal place for a wedding and besides theâ€¦
+38000	<strong>Mr Socrates<br></strong>Anna! My favourite girl. I got here as fast I could.
+42055	I thought I was the only man for you but I guess Tom has stolen that title! Your choice Anna, your choice!
+48419	<strong>Anna<br></strong>Oh hello Mr Socrates, this is a nice surprise. Come over here and say hello to Tom.
+54888	<strong>Mr Socrates<br></strong>Hey Tom.
+56888	<strong>Tom<br></strong>Oh hello Mr S. Nice to see you.
+59777	You're not doing any firing today are you?
+61888	<strong>Mr Socrates<br></strong>Of course not Tom. In fact, as a kind of wedding present, I wondered if you wanted a new job?
+67342	I'm offering you a chance to manage my new office in Paris.
+70988	<strong>Tom<br></strong>Me?! Managerâ€¦ in Paris! Well Mr Sâ€¦
+76555	<strong>Anna<br></strong>Tomâ€¦ aren't we about to get marriedâ€¦ start a life together?
+81999	<strong>Tom<br></strong>Oh yes. erm, thanks Mr S for you kind offer but I will have to decline.
+88999	I'm about to spend the rest of my life with this wonderful woman.
+93444	<strong>Registrar<br></strong>Ladies and gentlemen, please could you take your seats.
+100777	The marriage ceremony is about to begin.
+108826	Do you Anna Jane Wijaya.
+114500	<strong>Mr Socrates<br></strong>â€¦out the way, give me that paper.
+116282	Do you Anna Jane Wijaya take Tom Brian Farquhar Darcy <em>â€¦</em> to be your lawfully wedded husband?
+131222	To have and to hold from this day forward?
+134444	<strong>Anna<br></strong>Ermm, errrâ€¦
+137319	<strong>Narrator<br></strong>Come on Anna. This is the most important phrase in the whole series! It's 'I do'!
+145629	<strong>Anna<br></strong>Oh yes, of courseâ€¦ I do.
+148751	<strong>Mr Socrates<br></strong>And do you, Tom Brian Farquhar Darcy<em>â€¦</em>
+154222	<strong>Tom<br></strong>â€¦it's a dealâ€¦ I do. Come on Anna, give us a kiss.
+166777	<strong>Anna<br></strong>Oh Denise!
+172111	<strong>Narrator<br></strong>Ahh. It looks like Tom has signed the best contract of his career but not without these phrases:
+178879	<em>Thank you for your kind offer but I will have to decline</em>
+183040	<em>It's a deal</em>
+184571	<em>I do!
+187999	<strong>Anna<br></strong>Thanks to everyone for making this a special day.
+191899	If it wasn't for Tip Top Trading I wouldn't be starting a new life as Mrs Wijaya-Darcy.
+198008	<strong>Tom<br></strong>Wijaya-Darcy? Shouldn't it just be Mrs Darcy?
+202565	<strong>Anna<br></strong>I'm the boss now Tom at workâ€¦ and at home!
+207777	<strong>Narrator<br></strong>Congratulations to Anna and Tom.
+211263	We have a happy ending â€“ let's hope Anna's journey has inspired you to learn English at work.
+217897	<strong>Everyone<br></strong>Bye!

@@ -1,0 +1,69 @@
+1	(Introduction...)
+5154	<strong>Narrator<br></strong>Ah hello! Welcome back to Tip Top Trading â€“ the UK's leading wholesaler of imitation fruit.
+13354	Today you're joining us in the middle of the action!
+17379	Anna is with an important client Mr Lime, from Citrus Ventures.
+22511	He's angry and she'll have to calm him down.
+25924	She could cope brilliantly here or this could be a horrible mess!
+30286	<strong>Anna<br></strong>Well Mr Lime, how can I help you?
+33049	<strong>Mr Lime<br></strong>On Monday I was meant to receive 8,000 plastic grapefruit from Tip Top Trading.
+39043	<strong>Anna<br></strong>Yes.
+40001	<strong>Mr Lime<br></strong>The delivery was made on Tuesday.
+42466	<strong>Anna<br></strong>Oh dear.
+44233	<strong>Mr Lime<br></strong>And instead of 8,000 plastic grapefruit, I got 800,000 plastic pineapples!
+51711	<strong>Narrator<br></strong>Right Anna, this is serious.
+54118	You're going to have to apologise and show that you really mean it.
+58693	Say: I'm really sorry to hear that.
+61274	<strong>Anna<br></strong>I'm really sorry to hear that, Mr Lime.
+64729	<strong>Mr Lime<br></strong>What on earth am I going to do with 800,000 plastic pineapples?
+69615	<strong>Narrator<br></strong>Show Mr Lime that you understand the problem.
+72713	These are phrases you can use: That's totally unacceptable.
+78365	That must have been very inconvenient for you.
+81769	And then promise to fix the problem.
+84233	Say: You have my word that we will sort this out.
+88425	We can do something to make up for the inconvenience.
+92476	It won't happen again.
+94406	<strong>Mr Lime<br></strong>800,000 plastic pineapples!
+98227	<strong>Anna<br></strong>That's totally unacceptable.
+102011	<strong>Mr Lime<br></strong>I didn't even have anywhere to put them - and pineapples are so much bigger than grapefruit!
+107159	<strong>Anna<br></strong>It must have been very inconvenient for you.
+109701	<strong>Mr Lime<br></strong>It certainly was!
+110999	When he took my order, your colleague Tom told me that Tip Top Trading was the most reliable firm in the industry!
+117847	<strong>Anna<br></strong>You have my word that we will sort this out.
+121222	We'll remove the pineapples and have your grapefruit sent via express delivery this afternoon.
+126431	<strong>Mr Lime<br></strong>Good. Thank you.
+128847	<strong>Anna<br></strong>And we could include some of our latest-edition imitation oranges to make up for the inconvenience.
+135185	<strong>Mr Lime<br></strong>Oh! Well, that would be nice!
+138115	<strong>Narrator<br></strong>Tip top Anna! Excellent work and excellent words.
+141700	<strong>Anna<br></strong>They're made with revolutionary premium faux-orange, laser-curve definition technology.
+147636	you will be the first to have them!
+150513	<strong>Mr Lime<br></strong>Wow, now that's good customer service!
+153794	Tell me, do you have any other artificial fruits in this range?
+158560	<strong>Anna<br></strong>Yes. Well, it's a bit of a secret, but you're a trusted client, so I think I can tell you.
+166474	<strong>Mr Lime<br></strong>Go on.
+167312	<strong>Anna<br></strong>We're about to unveil a new Imperial Lemon.
+170937	<strong>Mr Lime<br></strong>Really?
+172152	<strong>Anna<br></strong>I can't tell you any more for now. Butâ€¦
+175324	<strong>Mr Lime<br></strong>Yes.
+176195	<strong>Anna<br></strong>Maybe we could present it to you more formally in a couple of weeks, when it's ready for release.?
+182723	<strong>Mr Lime<br></strong>Sounds perfect.
+184414	<strong>Anna<br></strong>You would be the first to see it!
+186673	<strong>Mr Lime<br></strong>Excellent. Thank you, er.
+189409	Anna, isn't it?
+190935	<strong>Anna<br></strong>Yes.
+191623	<strong>Mr Lime<br></strong>A very pretty name.
+193131	<strong>Anna<br></strong>Thanks. It's spelled the same forwards and backwards.
+196974	<strong>Mr Lime<br></strong>Is it really?
+198424	<strong>Anna<br></strong>Anyway, Mr Lime, we'll fix this grapefruit problem for you, and I promise you, it won't happen again.
+205451	<strong>Mr Lime<br></strong>Good, good. You're new here, aren't you Anna?
+208963	<strong>Anna<br></strong>Yes.
+209730	<strong>Mr Lime<br></strong>Well I look forward to working with you.
+212025	<strong>Narrator<br></strong>What a success! Mr Lime has come away a very happy customer!
+218772	Here are the phrases Anna used while apologising: <br>I'm really sorry to hear that, Mr Lime.
+224798	That's totally unacceptable.
+227601	It must have been very inconvenient for you.
+231128	You have my word that we will sort this out.
+235006	And we could include some of our latest-edition imitation oranges to make up for the inconvenience.
+241982	I promise you, it won't happen again.
+245630	What will Anna's boss Paul have to say about her work today?
+250274	Join us next week to find out.
+252527	<h3>Listening Challenge - Answer</h3> <br>How many plastic grapefruit was Mr Lime meant to receive from Tip Top Trading? <br>8,000

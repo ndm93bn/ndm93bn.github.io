@@ -1,0 +1,61 @@
+1	(Introduction...)
+12271	<strong>Neil<br></strong>Hello! Welcome to 6 Minute Grammar with me Neil.
+16144	<strong>Catherine<br></strong>And me, Catherine. Hello.
+19111	<strong>Neil<br></strong>In this show we're talking about linking devices.
+22700	<strong>Catherine<br></strong>Yes, linking devices. There are lots of different kinds, but today we're interested in words and phrases that link a <strong>cause</strong> â€“ that's something that happens - with its <strong>effect</strong> <strong>or result.
+34500	<strong>Neil</strong><br>So words and phrases like <strong>therefore, for that reason</strong> and <strong>because of.</strong>We'll tell you how they workâ€¦
+42794	<strong>Catherine<br></strong>â€¦We'll give you lots of examplesâ€¦
+44500	<strong>Neil<br></strong>â€¦And we'll finish off with a quiz to check what you've learnt.
+50400	<strong>Catherine<br></strong>So here we go. Let's start with an example. So Neil, do you prefer e-books or paper books?
+58600	<strong>Neil<br></strong>Well, I have to say, I'm a bit old fashioned: I like a good paper book.
+63700	<strong>Catherine</strong><br>Why's that then?
+64789	<strong>Neil</strong><br>It just feels more authentic.
+67500	<strong>Catherine<br></strong>OK, well, we're going to talk today, actually, about e-books, so can you give us an example sentence about e-books. Come on then Neil.
+76000	<strong>Neil<br></strong>E-books are increasingly popular. There has been a fall in sales of paper books<em>.
+84400	<strong>Catherine<br></strong>Except to you Neil. Now those two sentences are OK.
+89050	But we could make them a lot clearer and more interesting by linking the ideas in them together with a word like <strong>consequently</strong>, like this.
+99164	<strong>Neil<br></strong>E-books are increasingly popular. <strong>Consequently,</strong> there has been a fall in sales of paper books.
+107100	<strong>Catherine<br></strong><strong>Consequently</strong> is a very useful linking word.
+110800	It shows that the event before the word <strong>consequently</strong> is the cause of the event after it.
+118590	We could also use the words <strong>therefore, as a result, for that reason, thus</strong> or <strong>that's why.</strong>
+128599	They all mean the same as <strong>consequently</strong>. And they are all used to join the ideas in two sentences or main clauses together.
+138508	<strong>Neil<br></strong>Although remember that some are more formal than others. We use <strong>that's why</strong> a lot in informal everyday English.
+146400	<strong>Catherine<br></strong>I missed the bus <strong>and that's why</strong> I'm late.
+149200	<strong>Neil<br></strong>Good example Catherine: it would sound wrong to say <strong>I missed the bus</strong> <strong>and therefore I'm late</strong>.
+155857	Now can you give us an example of a more formal use of linking devices?
+160600	<strong>Catherine<br></strong>OK, try this one: There was a lot of opposition to the proposal; <strong>therefore,</strong> it was dropped.
+167600	<strong>Neil<br></strong>Nice one. You can use <strong>consequently</strong> and <strong>thus</strong> instead of <strong>therefore</strong> in this type of sentence.
+174500	<strong>Catherine<br></strong>That's right. Now let's look at a group of words and phrases that we use to link cause and effect in a slightly different way.
+183272	<strong>Neil<br></strong>Some examples are: <strong>because of, as a result of, due to</strong> and <strong>owing to</strong>. Listen.
+190774	<strong>Catherine<br></strong><strong>Due to</strong> the increasing popularity of e-books, there has been a fall in sales of paper books.
+197800	<strong>Neil<br></strong>So how is that different? Well, <strong>due to</strong> is followed by a noun phrase â€“ <strong>the increasing </strong><strong>popularity of e-books</strong> â€“ not a complete sentence or main clause.
+210288	We could also say <strong>due </strong><strong>to e-books increasing in popularity.</strong>That's a participle clause.
+217300	<strong>Catherine<br></strong>So <strong>due to</strong> joins a noun phrase or a participle clause to the main clause in the sentence.
+224800	<strong>Neil<br></strong>Exactly. And <strong>as a result of, owing to</strong> or <strong>because of </strong>do too.
+231500	We could use any of these in that example because they mean the same as <strong>due to</strong>.
+236673	But <strong>because of</strong> is less formal than the others.
+239700	<strong>Catherine<br></strong>That's right, and we could also put the sentence the other way round, like this Neil.
+244800	<strong>Neil<br></strong>There has been a fall in sales of paper books <strong>due to</strong> the increasing popularity of e-books.
+252200	<strong>Neil<br></strong>Yes, it just depends which part of the sentence you want to emphasize by putting first.
+258500	<strong>IDENT<br></strong>You're listening to BBC Learning English.
+264000	<strong>Catherine<br></strong>And we're looking at linking devices of cause and effect.
+267681	<strong>Neil<br></strong>Now for a couple of tips. When you start a sentence, in writing, with a noun phrase, be sure to use a comma after it.
+275464	<strong>Catherine<br></strong>So <strong>As a result of</strong> <strong>the fall in paper book sales,</strong> (comma) some bookshops are struggling to stay open.
+283600	<strong>Neil<br></strong>That's right. But don't use a comma if the noun phrase comes at the end.
+287615	<strong>Catherine<br></strong>And if we're using a verb phrase, we can introduce it with the phrase <strong>the fact that.
+294500	<strong>Neil<br></strong>Yes. You could say <strong>As a result of</strong> <strong>the fact that book sales have fallen,</strong> some bookshops are struggling to stay open.
+302393	<strong>Catherine<br></strong>That's right.
+303226	<strong>Neil<br></strong>And now it's quiz time! Complete these sentences. Number 1.
+309202	Our climate is changing a) due to the Arctic ice is melting. <br>b) therefore the Arctic ice is melting.
+319412	<strong>Catherine<br></strong>The answer's b) therefore the Arctic ice is melting.
+324019	<strong>Neil<br></strong>Well done! Number 2.
+326437	Lewis was promoted a) for that reason his hard work. <br>b) as a result of his hard work.
+336298	<strong>Catherine<br></strong>It's b) as a result of his hard work.
+339440	<strong>Neil<br></strong>Very good! Number 3.
+341637	The accident happened a) owing to the fog on the motorway.
+346963	b) owing to the fog was on the motorway.
+350900	<strong>Catherine<br></strong>This time it's a) owing to the fog on the motorway.
+354900	<strong>Neil<br></strong>Well done indeed! I hope wherever you are, you listened carefully to the show and <strong>as a result</strong> you got all the answers right.
+363400	<strong>Catherine<br></strong>That's good and there's more about this on our website at bbclearningenglish.com.
+368444	Join us again for more 6 Minute Grammar.
+370939	<strong>Both<br></strong>Bye.

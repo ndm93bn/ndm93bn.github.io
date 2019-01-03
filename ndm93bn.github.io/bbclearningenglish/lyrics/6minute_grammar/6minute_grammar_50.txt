@@ -1,0 +1,86 @@
+1	(Introduction...)
+12912	<strong>Catherine</strong><strong> </strong><strong> <br></strong>Hello and welcome to 6 Minute Grammar with me, Catherine.
+16300	<strong>Finn <br></strong>And me, Finn. Hello.
+18400	<strong>Catherine</strong> <br>In this programme we're talking about adjectives and adverbs.
+22100	<strong>Finn <br></strong>We'll tell you what they are and how theyâ€™re used.
+25500	<strong>Catherine <br></strong>We'll give you some tips to help you understand the difference between them.
+29008	<strong>Finn<br></strong>And we'll also have a quiz to test your understanding.
+32700	<strong>Catherine <br></strong>Right. Let's get started. Finn, can you tell us about adjectives first.
+38500	<strong>Finn <br></strong>OK. Certainly, let's start with a simple example. What am I holding up?
+45354	<strong>Catherine</strong> <br>You've got two biscuits, Finn . One is <strong>plain </strong>and one is <strong>chocolate</strong>.
+50630	<strong>Finn <br></strong>Yes. Do you like both?
+52300	<strong>Catherine<br></strong>I do.
+53134	<strong>Finn<br></strong>Me too. In that sentence there were two adjectives, <strong>plain </strong>and <strong>chocolate</strong>. What do those words do?
+62000	<strong>Catherine <br></strong>Well, Finn. Those words describe the biscuits.
+64900	<strong>Finn<br> </strong>That's right. Adjectives are describing words: they tell us about nouns.
+70700	In this case they tell us about the biscuits.
+74100	A <strong>plain </strong>biscuit. A <strong>chocolate </strong>biscuit.
+77100	<strong>Catherine <br></strong>Fantastic. What else do adjectives describe?
+80000	<strong>Finn <br></strong>Lots of things. They can also describe pronouns.
+84300	Listen out for the adjective <strong>happy</strong> in this example. Here's Neil
+89053	<strong>Neil <br></strong>Peter played well. After the game he was happy.
+93600	<strong>Finn</strong> <br>The adjective <strong>happy</strong> - what did that refer to?
+97500	<strong>Catherine<br></strong>It referred to the pronoun <strong>he</strong>, which in this example was Peter.
+102600	<strong>Finn<br></strong>Yes, Peter was <strong>happy</strong>.
+105000	He was <strong>happy</strong>. He was a <strong>happy</strong> Peter.
+108100	<strong>Catherine<br></strong>So adjectives are words that give us information or additional information about nouns.
+113900	When it comes to adverbs there is a bit of a clue in the name, isn't there, Finn?
+119950	Ad â€“ verb, add information about a verb.
+124300	<strong>Finn<br></strong>That is one thing that adverbs do. They give us information about verbs.
+129700	They can tell us how someone does something or how something happens. Now, let's listen again to the example.
+136700	As well as the adjective <strong>happy </strong>there's also an adverb in the sentence. What is it?
+142754	<strong>Neil<br></strong>Peter played <strong>well</strong>. After the game he was <strong>happy</strong>.
+147491	<strong>Catherine<br></strong>The adverb there was <strong>well</strong>. Peter played <strong>well</strong>.
+152100	The word <strong>well</strong> isn't describing Peter himself: it's describing how he did what he did.
+159590	<strong>IDENT <br></strong>You're listening to BBC Learning English.
+166000	<strong>Catherine<br> </strong>And we're talking about adjectives and adverbs.
+169200	<strong>Finn<br></strong>We've seen that adjectives describe nouns and adverbs talk about verbs.
+175000	<strong>Catherine<br></strong>You mentioned that referring to verbs was only one thing that adverbs do.
+180500	So, where else can we use them?
+182400	<strong>Finn<br></strong>Adverbs can also describe adjectives, and even other adverbs. Remember the biscuits?
+190360	<strong>Catherine</strong> <br>I'm looking at them right now, Finn.
+192400	<strong>Finn<br></strong>Look good, donâ€™t they?
+193400	<strong>Catherine<br></strong>They do!
+194100	<strong>Finn <br></strong>What do you feel when you see the biscuits?
+196770	<strong>Catherine<br></strong>I feel hungry!
+198009	<strong>Finn<br></strong>Is hungry an adjective or adverb?
+201700	<strong>Catherine<br> </strong>It is an adjective because it's describing me, my feeling â€“ and I'm a noun!
+206880	<strong>Finn<br></strong>You are a noun! And now if I ask you how hungry you are, what would you say?
+212700	<strong>Catherine<br></strong>Well the chocolate biscuit in particular is making me feel <strong>very</strong> hungry.
+217300	<strong>Finn<br> Very</strong> hungry. <strong>Very</strong>. Hungry.
+221312	What is the word <strong>very </strong>referring to? Is it you, the noun?
+225900	<strong>Catherine<br> </strong>No, it's the adjective <strong>hungry</strong>.
+229300	<strong>Finn<br> </strong>Exactly. <strong> Very </strong>is an adverb.
+232600	So as well as adding information about verbs, adverbs can also tell us about adjectives.
+239200	And they can even tell us about other adverbs. Let's hear our earlier example again please, Neil?
+246000	<strong>Neil<br></strong>Peter played well. After the game he was happy.
+250850	<strong>Finn<br></strong>Remember that the word <strong>well</strong> is an adverb.
+253900	But how <strong>well</strong> did Peter play?
+255800	<strong>Neil<br></strong>Peter played <strong>really</strong> <strong>well</strong>.
+258100	<strong>Finn<br></strong>That's right. So here the word <strong>really </strong>is telling us about the adverb <strong>well</strong>.
+264234	How <strong>well</strong>?
+265327	<strong>Really</strong> <strong>well</strong>. <strong>Really </strong>is also an adverb.
+268800	<strong>Catherine<br></strong>So adverbs can tell us about verbs, adjectives and other adverbs.
+274900	<strong>Finn<br> </strong>And adjectives describe nouns and pronouns. And now, it's quiz time.
+283804	<strong>Catherine<br></strong>We are going to give you a word, and read a sentence which contains the word.
+288900	You need to decide if the word we give you is an adjective or an adverb.
+294300	<strong>Finn<br></strong>OK. So, here's the first one.
+296850	The word is <strong>blue</strong> and here's the sentence.
+299800	<strong>Catherine<br></strong>The sky is dark <strong>blue</strong>. The sky is dark <strong>blue</strong>.
+305183	<strong>Finn<br></strong>So, is <strong>blue</strong> an adjective or adverb?
+309000	<strong>Catherine<br> </strong>Itâ€™s an adjective. <strong>Blue</strong> is describing the noun sky.
+313842	Now number two: it's actually the same sentence but this time, think about the word <strong>dark</strong>.
+321500	Is <strong>dark</strong> an adjective or an adverb?
+324915	<strong>Finn<br></strong>The sky is <strong>dark</strong> blue.
+327700	<strong>Catherine<br></strong>Right. So, is <strong>dark</strong> an adjective or adverb?
+331700	<strong>Finn<br></strong><strong>Dark</strong> here is an adverb.
+334687	Now number three. This time there are three words to listen out for: <strong>delicious</strong>, <strong>very</strong> and <strong>slowly</strong> â€“ are they adjectives or adverbs?
+343800	<strong>Catherine<br></strong>Catherine ate the <strong>delicious</strong> biscuit <strong>very</strong> <strong>slowly</strong>.
+347876	<strong>Finn<br></strong>No, she didn't. She ate it very fast. But, did you get them?
+352000	<strong>Delicious</strong> is an adjective. It describes the noun biscuit.
+356002	<strong>Catherine<br></strong><strong>Slowly </strong>is an adverb.
+358200	<strong>Finn<br></strong>And finally, <strong>very</strong> is also an adverb.
+361300	<strong>Catherine<br></strong>So that's our introduction to adjectives and adverbs
+364502	<strong>Finn</strong> <br>There's more about this on our website at bbclearningenglish.com.
+368400	Join us again for soon more 6 Minute Grammar.
+371800	<strong>Both</strong> <br>Bye.

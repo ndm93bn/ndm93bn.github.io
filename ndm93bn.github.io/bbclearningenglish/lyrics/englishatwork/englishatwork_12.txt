@@ -1,0 +1,59 @@
+1	(Introduction...)
+4200	<strong>Narrator <br></strong>Hello and welcome again to English at Work, where things are a little tense.
+9750	Anna is finding it hard to work with new employee, Rachel.
+13940	She's told Paul, the boss, about Rachel's incompetence but heâ€™s done nothing about it.
+20043	So Anna, how are you feeling today?
+22900	<strong>Anna<br></strong>Frustrated. All that work I put in, getting the contract for Imperial Lemons and Rachel has sent out a load of second-hand plastic oranges!
+34600	<strong>Narrator  <br></strong>I guess you're going to have to call your client and sort out the mess.
+38950	<strong>Anna     <br></strong>I guess so. Oh hi Tom.
+42800	<strong>Tom    <br></strong>Is she about? The man-eater?
+45300	<strong>Anna     <br></strong>No it's all clear, she's gone out for a cappuccino.
+48300	<strong>Tom      <br></strong>Good good. Look I managed to call the guy she bought the second-hand oranges from, and I cancelled the order.
+57100	<strong>Anna     <br></strong>Phew, great!
+58840	<strong>Tom       <br></strong>Yeah, yeahâ€¦ and last night I managed to order some Imperial Lemons and sent them to that company in France â€“ Fruit Traders International.
+68100	Hereâ€™s the paperwork.
+71000	<strong>Anna<br></strong>Tom, that's brilliant! Here, let me give you a big hug â€“ you saved the day!
+78000	<strong>Tom       <br></strong>Ooh, that's a bit tight.
+81800	<strong>Denise    <br></strong>Oh not again! You two just can't leave each other aloneâ€¦
+87926	<strong>Anna</strong>    <br>Bbbut it was justâ€¦
+90800	<strong>Denise</strong>   <br>Say no more Anna. Now, I was looking for my special red pen, have you seen it anywhere?
+98000	<strong>Tom</strong>     <br>No. Funny that, my pens have gone missing too.
+102200	<strong>Denise</strong>   <br>I'll go and get some more.
+104500	<strong>Tom</strong>     <br>Now Anna, I don't want to interfere but have you called that company in France to see how they are?
+112200	<strong>Anna</strong>     <br>Well, they're fine arenâ€™t they?
+114400	<strong>Denise</strong>   <br>It's good customer service to call them and see how they are.
+119600	<strong>Anna</strong>    <br>But what do I say?
+122300	<strong>Tom</strong>     <br>Tell you what. I'll go over there and you can call me and practise.
+126812	<strong>Anna</strong>     <br>Right. OK Tom, I'm calling your number now.
+136000	<strong>Tom     <br></strong>Hello â€“ Fruit Traders International.
+140100	<strong>Anna     <br></strong>Yes, hello<em>â€¦</em>
+142100	<strong>Tom      <br></strong>â€¦introduce yourself and ask me how I am.
+145931	<strong>Anna     <br></strong>Oh right. Hello I'm Anna from Tip Top Trading. How are you today?
+152106	<strong>Tom      <br></strong>I'm very well. Now ask me about the order.
+156479	<strong>Anna     <br></strong>I hope you have received our Imperial Lemons and that you are happy with the order.
+161800	<strong>Tom      <br></strong>Yes, very very happy. The lemons areâ€¦ fantastique!
+169100	<strong>Anna      <br></strong>Oh that's good. Ermâ€¦ we do hope you are pleased with our service and that you may use us again.
+177333	<strong>Tom      <br></strong>We certainly will. Thank you.
+181300	<strong>Anna      <br></strong>Do you have any questions you may want to ask?
+183999	<strong>Tom       <br></strong>Noâ€¦ actually yesâ€¦.err, can Iâ€¦ errâ€¦ buy you dinner sometime?
+191831	<strong>Anna     <br></strong>Very funny Tom. They won't ask that!
+195600	<strong>Tom      <br></strong>No. I'm asking you.
+197968	<strong>Anna     <br></strong>Oh rightâ€¦ ermâ€¦ OK thenâ€¦ yes!
+202700	<strong>Narrator  <br></strong>Hooray! Or should I say oh dear?
+207006	Silly Anna has agreed to go on a dinner date with Tom â€“ but there is still some business to attend to.
+214300	Don't forget to make that call to your client Anna.
+217300	<strong>Anna      <br></strong>No I won't â€“ in fact I'll do it right now.
+221400	<strong>Narrator  <br></strong>Good! While she makes that call, here is a reminder of some of the phrases she could useâ€¦
+227800	<em>Hello I'm Anna from Tip Top Trading. How are you today?
+233900	<em>I hope you have received our order and are happy with it.
+238700	<em>We do hope you are pleased with our service and that you may use us again.
+243200	<em>Do you have any questions you may want to ask?
+252500	<strong>Denise</strong>   <br>Are you OK Anna? You look a bit annoyed.
+256107	<strong>Anna     <br></strong>I am â€“ I just called our client in France to check everything was OK and they said Rachel had already called them and told them our lemons were so last season and they would be stupid not to choose oranges!
+270650	<strong>Denise    <br></strong>That's terrible.
+272745	<strong>Tom</strong>     <br><em>â€¦</em>hey Anna, how about this restaurant for our dateâ€¦ I mean our business meeting. Look at this menuâ€¦
+279100	<strong>Anna</strong>     <br>Not now Tom. Rachel has messed things up again.
+282400	She's causing so much trouble. She's got to go.
+286500	<strong>Tom</strong>     <br>Ohâ€¦ yeah right. This calls for action.
+291900	<strong>Narrator</strong>  <br>It certainly does. It sounds like Rachel has gone too far this time and it's up to Anna to sort things out.
+300400	But what can she do? Join us again next time on English at Work to find out. Bye!

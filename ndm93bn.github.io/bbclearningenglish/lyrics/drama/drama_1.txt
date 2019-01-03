@@ -1,0 +1,61 @@
+
+1	(Introduction...)
+25781	<strong>Phil<br></strong><em>Hello, I'm Phil. I live in London.
+31444	My apartment is close to the Houses of Parliament and I can hear the bells of Big Ben chiming every hour.
+43100	I live on bus route number 88 which is handy because it takes me to my office in Oxford Circus.
+51705	What do I do? Well, I'm an author - I write books - but don't worry if you haven't heard of me, my books never sell - ever.
+65400	In fact I want a career change because I desperately need some money.
+71108	When I pay all my bills, you see, I only have enough spare money to buy a few drinks at my local pub - The Horse and Groom.
+83000	That reminds me - I've got to go there now to meet some friends. Excuse me, we'll speak again soon.
+94051	<strong>AT THE PUB</strong>
+97000	<strong>John<br></strong>Hello Phil. Late again!
+99702	<strong>Emily<br></strong>Hello Phil. How is your writing going?
+102900	<strong>Phil<br></strong>You know. It's all in my head not on paper.
+108799	<strong>Tom<br></strong>Hi Phil, mate, how are you?
+111300	We were just talking about travelling - Emily here, says she's climbed up Mount Everest!
+116900	Rather extreme <strong>backpacking</strong>, don't you think?!
+119350	<strong>Emily<br></strong>I did do it. Five years ago.
+121747	So come on John, what amazing thing have you done?
+124800	<strong>John<br></strong>Oh, I just went cycling across South America!
+128402	<strong>Emily<br></strong>You didn't!!
+129611	<strong>John<br></strong>I did. In my <strong>gap year</strong>.
+131925	It was such a brilliant time. Four months on the road, although I did get a bit tired.
+137720	<strong>Tom<br></strong>Sounds great. Did I ever tell you that I sailed across the Atlantic to America in a yacht I built with my own hands?
+145546	I still have that yacht down at the docks - but I never use it now.
+149632	How about you Phil - when did you have your big life <strong>adventure</strong>?
+154555	<strong>Phil<br></strong>Oh me? I haven't done much really. I'm not really one for adventure.
+163930	<strong>Emily<br></strong>Why not?
+164900	<strong>Phil<br></strong>Err. I never had any money - and where would I go?
+172400	<strong>John<br></strong>Come on, you need some adventure in your life.
+175700	Don't you feel like doing some <strong>globetrotting</strong>?
+178400	<strong>Tom<br></strong>Hey! I've got an idea!
+183500	<strong>Phil<br></strong><em>Tom has come up with a crazy idea where I could make some money and have some adventure.
+190800	He has offered to lend me his yacht to sail around the world! Yeah - mad isn't it?!
+199300	He thinks I could write about my adventures and make some money from it.
+206632	But. I'm not someone who takes risks and I can definitely think of some problems.
+219666	<strong>Phil<br></strong>Slight problem. I can't sail.
+225777	<strong>Tom<br></strong>No problem. There's an app you can download. It'll show you everything.
+230555	<strong>Phil<br></strong>An app? I'll need more than that. I've never sailed a yacht in my life.
+237200	<strong>Tom<br></strong>It's easy! And how about if I <em>give </em>you the boat - I'll never use it again - you can sell it when you get back.
+244800	It'll earn you a fortune, on top of the money you get from your travel writing.
+249100	<strong>Phil<br></strong>I couldn't possibly keep your yacht. You might want to use it again one day.
+256070	<strong>Tom<br></strong>Hmmm yes, that's true.
+258777	<strong>John<br></strong>I know. Why don't you make it into a challenge?
+262600	<strong>Tom<br></strong>Yes, John! Great idea. I'll tell you what - I'll make you a bet.
+269333	<strong>Phil<br></strong>A bet - for money - what is it?
+274092	<strong>Tom<br></strong>Do you remember that story by Jules Verne - when that guy, Phileas Fogg had to travel around the world in 80 days?
+282563	<strong>Phil<br></strong>Yes.
+283888	<strong>Tom<br></strong>Well, you've got to do it in 80 days.
+287000	I bet you the boat that you won't do it.
+290300	If you don't do it, I'll keep the boat.
+292430	<em>If</em> you <em>do</em> sail around the world in 80 days, then you can keep the boat - and you can sell it if you want. He'll never do it!
+301222	<strong>Phil<br></strong>Hold on. How much have you had to drink?
+306666	You want me to sail around the world, on my own, in 80 days?! Impossible.
+315888	<strong>Tom<br></strong>I know. But if you want an adventure - and you want to keep the yacht - then that's the challenge.
+323100	Exactly 80 days to sail all the way around the world - not a minute longer.
+328333	<strong>Emily<br></strong>Go on Phil, it'll be brilliant. Here, have another drink.
+333000	<strong>John<br></strong>Yes, and have my drink too.
+341333	<strong>Phil<br></strong><em>What should I do?
+345019	<em> It is true I need an adventure but this one is huge.
+349946	I know, I'll have a few more drinks and think about it.
+359444	<strong>Phil<br></strong>OK. Yes - I accept the challenge!

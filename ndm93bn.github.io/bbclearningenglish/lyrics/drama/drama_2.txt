@@ -1,0 +1,51 @@
+1	(Introduction...)
+24100	<strong>Phil<br></strong><em>Hello again. It's Phil here.
+27900	You may know that I've been set a challenge to sail around the world in 80 days - it's an impossible challenge especially as I have never sailed a yacht before.
+40200	But I said 'yes' - so here it goes.
+48700	<strong>Tom <br></strong>So, here we at Saint Catherine's Dock and look - here's my yacht <em>- The Mermaid</em> - I know she's a bit scruffy but I'm sure she'll get you round the world.
+59000	<strong>Phil <br></strong>Hmm, on my own! That's the bit that worries me. It's a very small boat.
+66700	<strong>Tom <br></strong>It's a yacht - not a boat - look: it's got a sail!
+71000	Anyway, you'll be fine. Just call me on the satellite phone if you have any problems.
+76600	<strong>PP <br></strong>Hello, hi. Phil. Phil! It's me.
+81200	<strong>Phil <br></strong>Pete, what are you doing here?
+86300	<strong>Phil <em> </em><br></strong><em>Pete is my office assistant: He makes the tea, he does the photocopying, he sometimes gives me ideas for my books.
+95400	He's a great guy - so I'm really pleased to see him now.
+103600	<strong>PP <br></strong>Tom posted a message on Facebook that you're going on a trip round the world, or something.
+110300	I couldn't believe my eyes - so I had to come here and see for myself. Look, I've brought you some books to read...and a map - you'll find that useful.
+119444	<strong>Phil <br></strong>I will...but what I really need is a travelling companion.
+127200	someone who can help me on my journey...someone like you?! How about it?
+134950	<strong>PP <br></strong>No. Absolutely not. I can't.
+138760	I've got to. errr. feed the cat.
+142367	<strong>Tom <br></strong>I'll feed your cat. Go on. Can't you see he needs your help!
+147400	<strong>PP </strong><br>I get<strong> seasick</strong>.
+149680	<strong>Phil <br></strong>Rubbish! I remember when you went sailing with your Dad - you were always fine.
+156525	<strong>PP</strong> <br>That was different. We were sailing on a lake.
+160300	<strong>Phil</strong> <br>Well, you know about sails and rope and anchors - you'd be great.
+168800	Besides, if you come with me you can have a share of the money.
+173700	<strong>Tom <br></strong>If you get home in 80 days!
+178100	<strong>Phil <em> </em><br></strong><em>I'm pleased to report that Pete is joining me.
+181340	I'm so pleased I have someone to 'show me the ropes', as it were - in other words, show me what to do.
+189800	He's a good friend, a loyal assistant and he goes everywhere with me so I'm giving him the nickname 'Passepartout', just like in the original book, Around the World in Eighty Days - I hope he likes it!
+214900	<strong>Phil <br></strong><em>We've set sail. Our adventure has begun. Let me describe the yacht to you. It is 12 metres long.
+224800	It has a huge mast, with the mainsail attached. There is an engine as well just in case there's no wind.
+232600	The wooden deck has seating at the<strong> stern </strong>- that's the back.
+238800	There are some steps down to the galley - that's the kitchen - and there are two <strong>berths</strong> or beds for us to sleep in.
+249444	I can't believe we're going to live in this tiny space for 80 days!
+260200	<strong>PP <br></strong>Phil, we've got the wind in our sails, we're making good progress. I can't even see land any more.
+267700	<strong>Phil <br></strong>Yes. Thanks to you, it's <strong>plain sailing</strong>! So, what does this rope do?
+277700	<strong>PP </strong><br>It moves the<strong> jib</strong> - the sail at the front.
+281900	<strong>Phil <br></strong>And this one?
+284600	<strong>PP </strong><br>That moves the boom from side to side. No, no. But don't pull it until.
+290100	<strong>Phil <br></strong>Ouch! That hurt.
+298000	<strong>Phil<br></strong><em>Day 5 and I'm learning how to sail but my best skills are in the galley, making tea.
+304900	The weather is good but we seem to have a problem with the yacht.
+315400	<strong>Phil <br></strong>Passepartout, is it me or is it getting a bit wet down in the <strong>galley</strong>?
+322949	<strong>PP <br></strong>Let me have a look. Oh dear! There's water all over the floor. I think the boat is leaking.
+333300	<strong>Phil <br></strong>What? What are we going to do?
+336396	<strong>PP <br></strong>Drown!
+338100	<strong>Phil <br></strong>What? Really? I'm going to get on the radio and call for help.
+344700	Mayday! Mayday! Oh no. The radio isn't working. We're in big trouble!
+350500	<strong>PP <br></strong>Be quiet. Calm down Phil. The radio isn't turned on - and we don't need to abandon ship just yet.
+358172	I need to know where this water is coming from. It's only a slow leak but I think we need to fix it quickly. We need to head for dry land.
+372900	<strong>Phil <br></strong><em>According to the map the nearest land is some islands at 16 degrees north, 24 degrees west.
+381200	Do you know where that is? Let's hope we get there before we sink.

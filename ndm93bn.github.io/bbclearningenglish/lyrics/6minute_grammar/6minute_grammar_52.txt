@@ -1,0 +1,73 @@
+1	(Introduction...)
+10900	<strong>Catherine<br></strong>Hello. Welcome to 6 Minute Grammar with me, Catherine.
+14600	<strong>Neil<br></strong>And me, Neil.
+16600	<strong>Catherine<br></strong>Neil, have a sandwich. It's from Finn. He said you were hungry.
+20900	<strong>Neil<br></strong>Really?
+21600	<strong>Catherine<br></strong>Yes! He said. In fact, Finn said: "He's hungry. Give him a sandwich."
+26666	<strong>Neil<br></strong>Wow! That's very kind of Finn. It's delicious.
+30600	<strong>Catherine<br></strong>And in today's programme we're talking about reported speech.
+34500	<strong>Neil<br></strong>We'll be discussing why and when we use it. And we'll see how to form it.
+42200	<strong>Catherine<br></strong>We use reported speech when we want to report something that another person said. In our example, Finn originally said:
+51200	<strong>Finn<br></strong><strong>He's hungry.
+52506	<strong>Neil<br></strong>That's direct speech. Catherine reported the direct speech, like this:
+58100	<strong>Catherine<br></strong>Finn said you were hungry.
+60500	<strong>Neil<br></strong>Let's look at that more closely. We need to make some grammatical changes when we report what someone else says.
+68700	First, when the speaker or listener changes, we need to change the pronouns.
+74200	<strong>Catherine<br></strong>That's right. Finn used <strong>he</strong> in direct speech to talk about Neil:
+80500	<strong>Finn</strong><br><strong>He</strong> is hungry.
+83500	<strong>Neil<br></strong>Then Catherine told me what Finn said.
+87131	<strong>Catherine<br></strong>Finn said <strong>you</strong> were hungry.
+90389	<strong>Neil<br></strong>Second change: In reported speech we often move the tense back one step into the past.
+98100	So <strong>is hungry</strong> becomes <strong>were hungry</strong>.
+101592	<strong>Catherine<br></strong>But we don't have to change the verb tense in reported speech if the situation is generally true.
+109200	Here's an example. Finn, give us a sentence please:
+112370	<strong>Finn<br></strong>OK. I <strong>love</strong> cheese sandwiches.
+116600	<strong>Catherine<br></strong>Thank you, Finn. And Neil, can you report what Finn said, please?
+120800	<strong>Neil<br></strong>Yes. Finn said he <strong>loves</strong> cheese sandwiches.
+124102	<strong>Catherine<br></strong>OK. So there we don't change <strong>loves</strong> to <strong>loved</strong>, because Finn loves cheese sandwiches and that's a general truth.
+132191	<strong>Neil<br></strong>Now the third thing we need with reported speech is a reporting verb.
+137176	<strong>Say</strong> and <strong>tell</strong> are the most common ones.
+140819	And we usually put them in the past tense. For example: Finn <strong>said</strong> Neil was hungry.
+147800	<strong>Catherine<br></strong>Now let's look at how to report questions with question words like <strong>What</strong> and <strong>Who</strong>.
+153567	<strong>Neil<br></strong>We'll hear the direct speech first from Finn, then Catherine will give us the reported speech.
+159323	<strong>Finn<br></strong>What's the time?
+162000	<strong>Catherine<br></strong>Finn asked what the time was.
+165100	<strong>Neil<br></strong>The reporting verb comes first, then the question word, and then the reported sentence with the tense moved back.
+172741	And don't forget to change the word order from question word order to statement word order. Another one please Finn and Catherine?
+180444	<strong>Finn<br></strong>Who ate the cake?
+182925	<strong>Catherine<br></strong>He asked who'd eaten the cake.
+186800	<strong>Neil<br></strong>OK, now it's time to look at pronunciation.
+190691	<strong>Catherine<br></strong>Yes, pronuciation. Some past tense forms in reported speech can be difficult to hear.
+197022	In the last example, the two words <strong>who</strong> and <strong>had</strong> become who'd. He asked who'd eaten the cake.
+207888	<strong>Neil<br></strong>So <strong>had</strong> is shortened to just a <strong>/d/</strong> sound.
+212200	Listen out for the short <strong>/d/</strong> sound in this next example:
+217200	<strong>Finn<br></strong>She asked where I'd gone.
+220596	<strong>Neil<br></strong>So, the phrase <strong>I had</strong> becomes <strong>I'd</strong>. One more time please Finn:
+227275	<strong>Finn<br></strong>She asked where I'd gone.
+229957	<strong>Catherine<br></strong>Thank you, Finn. So watch out for contractions in reported speech.
+240000	<strong>Neil<br></strong>And now are you ready?
+242500	<strong>Catherine<br></strong>For a quiz?
+243476	<strong>Neil<br></strong>It's quiz time! Finn is going to say some sentences in direct speech.
+252082	As you listen, decide what the correct reported speech is. Here's the first one.
+258000	<strong>Finn<br></strong>I've eaten my lunch.
+261782	<strong>Neil<br></strong>Is the reported speech a) He said he's eating his lunch or b) He said he'd eaten his lunch?
+272222	<strong>Catherine<br></strong>And the answer is b) He said he'd eaten his lunch.
+278156	The present perfect changes to the past perfect.
+281333	<strong>Neil<br></strong>OK. Next one please Finn:
+283009	<strong>Finn<br></strong>I go to work by bus.
+286587	<strong>Neil<br></strong>Is the reported speech a) Finn said he goes to work by bus or b) Finn said he's going to work by bus?
+298444	<strong>Catherine<br></strong>And it's a) Finn said he goes to work by bus.
+303152	<strong>Neil<br></strong>OK. And here's the last one:
+305188	<strong>Finn<br></strong>Where are my glasses?
+307556	<strong>Neil<br></strong>Is it a) He asked where were his glasses or b) He asked where his glasses were?
+316000	<strong>Catherine<br></strong>And the right answer is b) He asked where his glasses were.
+321480	<strong>Neil<br></strong>Now, before we go, thereâ€™s just enough time for a top tip.
+325227	With the reporting verb <strong>tell</strong> we say who the person is talking to, for example, Finn <strong>told me</strong> he's going to pay for lunch today.
+334700	<strong>Catherine<br></strong>Wow! And when we use the reporting verb <strong>say</strong> we don't say who the person is talking to. So this next sentence is wrong:
+344400	<strong>Neil<br></strong>Finn <strong>said me</strong> he was going to pay for lunch today.
+348500	<strong>Catherine<br></strong>Yes, that's wrong but this one is correct:
+350897	<strong>Neil<br></strong>Finn <strong>said </strong>he was going to pay for lunch today.
+354222	<strong>Catherine<br></strong>So that's reported speech.
+356114	<strong>Neil</strong><br>There's more about this on our website at bbclearningenglish.com.
+360685	Join us again for 6 Minute Grammar.
+362915	<strong>Neil and Catherine<br></strong>Bye.

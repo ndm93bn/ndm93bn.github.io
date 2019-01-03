@@ -1,0 +1,30 @@
+1	(Introduction...)
+12701	<strong>Neil<br></strong>Hello and welcome to The English We Speak. I'm Neil.
+15888	<strong>Feifei</strong><br> ...and I'm Feifei. So, Neil, did you hear anything?
+19111	<strong>Neil<br></strong>About what, Feifei?
+20800	<strong>Feifei<br></strong>Rob's new job. He must have told you something?
+24437	<strong>Neil<br></strong>No. He didn't even mention it.
+26888	<strong>Feifei<br></strong>How strange. Not even a little clue?
+29888	<strong>Neil<br></strong>No, <strong>not a sausage</strong>.
+31900	<strong>Feifei<br></strong>Well, I'm sure we'll find out soon enough.
+34444	In the meantime - let's explain that wonderful phrase you just used.
+38604	<strong>Neil</strong><br> In this programme we are teaching you the very cute but slightly old-fashioned phrase: <strong>not a sausage</strong>.
+44278	<strong>Feifei</strong><br> We use it to mean 'nothing at all'. It's generally used for emphasis or to show mild surprise.
+50699	<strong>Neil<br></strong>It's informal and friendly. Let's listen to some examples to get a better sense of how it's used:&nbsp;
+58981	<strong>Examples<br></strong>A: Did you find any good deals?
+60888	B: No, <strong>not a sausage</strong>.
+62888	A: Did the boss say anything about my project?
+65666	B: No, sorry, <strong>not a sausage</strong>.
+67888	A: Are there any sandwiches left?
+70111	B: I'm afraid not. <strong>Not a sausage</strong>.
+75999	<strong>Feifei<br></strong>That last one might have sounded confusing: No sandwiches left?
+80399	<strong>Neil<br></strong><strong>Not a sausage</strong>! Yes, confusingly, we were asking about another kind of food - and the answer was still <strong>not a sausage</strong>.
+87777	<strong>Feifei<br></strong>You know what? All this talk of sausages is making me hungry.
+91666	<strong>Neil<br></strong>Indeed. I'm meeting Rob for lunch - fancy joining?
+94900	<strong>Feifei<br></strong>Great. Hopefully he will finally <strong>spill the beans</strong> about this mysterious new job.
+100444	<strong>Neil<br></strong>Ooh - <strong>to spill the beans</strong> - meaning to reveal your secrets.
+103999	It's often used when you share a secret you didn't mean to share!
+107333	<strong>Feifei<br></strong>Another great phrase. So, what do you fancy for lunch?
+110666	<strong>Neil<br></strong>Well, it has to be a full English breakfast. With beans and...sausages!
+114333	<strong>Feifei<br></strong>But of course! Bye everyone!
+116166	<strong>Neil<br></strong>Bye.

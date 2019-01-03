@@ -1,0 +1,80 @@
+1	(Introduction...)
+4811	<strong>Narrator<br></strong>Hello again. Tip Top Tradingâ€™s big boss, Mr Socrates has announced a new strategy to sell plastic fruit to Europe and hopefully keep the company afloat.
+15301	But before the real work begins itâ€™s time for him to enjoy some good English hospitality at the pub, courtesy of the team from the London office.
+24773	Letâ€™s join them nowâ€¦
+31174	<strong>Tom<br></strong>â€¦Well welcome to the Rose and Crown, it is small, not like one of those bars you get in your country.
+38120	Can I get you a pint Mr Socrates?
+40748	<strong>Mr Socrates<br></strong>A what?
+41736	<strong>Tom<br></strong>A pint. A pint of beer, itâ€™s really nice here if you like itâ€¦
+46969	<strong>Mr Socrates<br></strong>I donâ€™t drink. Just an orange juice, freshly squeezed.
+50759	<strong>Paul<br></strong>On go on Mr Socrates, one pint wonâ€™t hurt.
+54436	Youâ€™ve got to have a pint of beer when you come to a pub.
+57296	<strong>Mr Socrates<br></strong>Oh very well. Iâ€™ll try one. It had better be good.
+62244	<strong>Tom<br></strong>Youâ€™ll love it. Iâ€™ll get it.
+65243	Three pints of your best beer please Mr Landlord.
+71374	Denise, are you OK getting your own? Iâ€™m a bit short of cash.
+75470	<strong>Denise<br></strong>Ohâ€¦ right. Mr Socrates, Anna said she would be along soon.
+82205	She had some work to finish. Sheâ€™s such a hard worker.
+86726	<strong>Mr Socrates<br></strong>Good to hear. She seems like a smart cookie.
+90048	Now letâ€™s try this beer â€¦mmm, not bad, a little warm butâ€¦ tasty.
+101505	<strong>Paul<br></strong>Oh, you drank that quicklyâ€¦ would you like another one?
+104483	<strong>Mr Socrates<br></strong>Sure.
+107560	<strong>Anna<br></strong>Hi everyone. Sorry Iâ€™m late.
+110054	<strong>Denise<br></strong>Hi Anna. Look Mr Socrates is enjoying our English beer.
+116023	I think itâ€™s going to his head.
+118978	<strong>Mr Socrates<br></strong>(Loudly) Anna! Our best worker. Get Anna a drink.
+122881	<strong>Tom<br></strong>Yes Mr Socrates. Of course Mr Socrates.
+126695	<strong>Mr Socrates<br></strong>Anna, come over here, letâ€™s talk.
+129476	<strong>Anna<br></strong>Oh right. What aboutâ€¦
+131500	<strong>Tom<br></strong>There you go Anna. I got you some crisps too.
+135390	So what are we talking about?
+138032	<strong>Mr Socrates<br></strong>Nothing. Thank youâ€¦ bye bye.
+140314	<strong>Tom<br></strong>Oh right. Bye bye.
+143668	Yes, Iâ€™ll go and talk to Paul and Denise. Iâ€™ll just be over here.
+149690	<strong>Mr Socrates<br></strong>What a loser. I can tell heâ€™s all talk and no action.
+154000	<strong>Anna<br></strong>Well, Tomâ€™s a good worker really andâ€¦
+160063	<strong>Mr Socrates<br></strong>â€¦and as for Paul. God, what a manager. Always eating cookies.
+165431	You know he was fired from his last job becauseâ€¦
+169600	<strong>Narrator<br></strong>Anna, I think heâ€™s getting a bit too personal.
+172744	That beer is making him say things he shouldnâ€™t.
+175665	<strong>Anna<br></strong>I know. What should I say?
+178432	<strong>Narrator<br></strong>Try saying â€œitâ€™s not appropriate to talk like thatâ€ or â€œcould we change the subject please.â€
+185975	<strong>Anna<br></strong>OK thanks. Erm, Mr Socrates I donâ€™t think itâ€™s appropriate to talk like that, could we change the subject please?
+194567	<strong>Mr Socrates<br></strong>Oh, sorry have I said too much?
+197915	Maybe we should talk about you. I like you Anna.
+201690	Youâ€™re keen but youâ€™ve got a lot to learn and I think you should wear more black â€“ it makes you lookâ€¦ thinnerâ€¦
+208476	<strong>Narrator<br></strong>Heâ€™s out of order. I think heâ€™s saying too much.
+211790	Ask him to keep the conversation professional.
+215134	<strong>Anna<br></strong>Right, good idea.
+217517	(To Mr Socrates) Erm, Mr Socrates, thank you but can we keep our conversation professional.
+224261	Thereâ€™s a lot to discuss about our European market strategy.
+228804	<strong>Mr Socrates<br></strong>Yeah, right, absolutely right.
+232000	Anyway, youâ€™re gonna have to lead this one not that Tom guy.
+235521	Iâ€™m thinking of firing him, his results ain't that great andâ€¦
+239918	<strong>Tom<br></strong>â€¦sorry to interrupt, just wondered if youâ€™d like some nuts?
+244821	<strong>Mr Socrates<br></strong>Hey Tom, I was just saying to Anna your results havenâ€™t been good and Iâ€™m thinking ofâ€¦
+250978	<strong>Anna<br></strong>(flustered)â€¦ of having another drinkâ€¦ thinking of having another drink.
+256468	Mr Socrates, did you know Tom actually has a great idea for selling laser-curved oranges to Spain?
+266503	<strong>Tom<br></strong>(puzzled) Do I?
+267611	<strong>Mr Socrates<br></strong>Thatâ€™s good to hear Tom.
+270019	Email them to me and Iâ€™ll check them over tomorrow.
+273915	<strong>Anna<br></strong>Of course he will, Mr Socrates.
+276150	Now how would you like to drink something, errr, less strong?
+281609	Orange juice perhaps?
+283046	<strong>Mr Socrates<br></strong>Na, I think Iâ€™ll try some more of the English beer.
+294574	<strong>Narrator<br></strong>I think Anna has just done Tom a big favour â€“ sheâ€™s stopped him getting fired - for now.
+302032	Sometimes conversations with your boss can get too personal but I think Annaâ€™s got the hang of keeping things professional.
+309331	Hereâ€™s a reminder of what she said:<br>Itâ€™s not appropriate to talk like that.
+314376	Could we change the subject please?
+316989	Can we keep our conversation professional please?
+321675	<strong>Narrator<br></strong>So Anna seems to be Mr Socratesâ€™s favourite team member but now sheâ€™s got some explaining to do to Tom.
+328961	<strong>Tom<br></strong>Anna, what were you talking about to Mr Socrates?
+332907	â€œIdeas for selling laser-curved oranges to Spainâ€?
+337187	<strong>Anna<br></strong>He was going to fire you â€“ so I was trying to tell him you had great ideas.
+343141	<strong>Tom<br></strong>What?! You helped me?
+345778	Anna, I donâ€™t know what to say. Iâ€¦ Iâ€¦ Iâ€¦
+351109	<strong>Anna<br></strong>Yes?
+352341	<strong>Tom<br></strong>Iâ€¦ need to go back to the office to work on some ideas.
+357384	<strong>Narrator<br></strong>Good idea. Keep it professional, eh Tom?
+361206	Until next time. Bye!
+363649	<h3>Listening challenge - answer</h3> <br>What is the name of the pub the team takes Mr Socrates to? <br>The Rose and Crown.

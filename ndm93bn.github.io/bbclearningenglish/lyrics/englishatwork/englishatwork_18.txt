@@ -1,0 +1,63 @@
+1	(Introduction...)
+5333	<strong>Anna<br></strong>It's frozen. Nothing will workâ€¦
+8444	<strong>Tom<br></strong>Yeah and all my football scoresâ€¦ I mean company accountsâ€¦ have disappeared.
+15333	<strong>Paul<br></strong>Can anyone get their computers to work? Or is just me?
+20500	<strong>Narrator<br></strong>Welcome back to the offices of Tip Top Trading where, as you can hear, there appears to be a bit of computer trouble.
+29300	Everyone's work seems to have disappeared. This is serious so who can sort it out?
+35740	<strong>Denise<br></strong>Leave it to me. I'll sort it out.
+39777	You just need to switch it offâ€¦ and on again â€¦ like that.
+45888	<strong>Anna<br></strong>Hold on, let's checkâ€¦ Denise! All my documents have gone now!
+52888	<strong>Denise<br></strong>Oh, sorry, I was just trying to help. You'll just have to call I.T.Support, look, hereâ€™s their number.
+62555	<strong>Anna<br></strong>'It' Support?
+64575	<strong>Narrator<br></strong>No Anna not 'it' but I.T.Support â€“ information technology â€“ sometimes called Computer Support. Most big companies have them.
+75559	These are the people who sort out your computer problems and get everything working again. But be careful, they might ask some tricky questions.
+85555	<strong>Anna<br></strong>OK, thanks. But what should I say to them?
+90097	<strong>Narrator<br></strong>Tell them: <em>"I am having problems with my computer"</em>, then say <em>"the screen keeps freezing"</em> and <em>"I seem to have lost some documents"</em>.
+100725	Tell them <em>"I have turned the computer off and on but that hasn't fixed it"</em>.
+106091	Finally, <em>ask if they can help â€“ please!
+111143	<strong>Anna<br></strong>Well, I'll give it a try. Here goes.
+123888	<strong>I.T. Man<br></strong>I.T., Dave speaking, how can I help?
+126666	<strong>Anna<br></strong>Oh hello Dave â€“ <em>I'm having some computer problems</em> â€“ in fact everyone is here.
+131846	<strong>I.T.Man<br></strong>Right. What system are you using?
+134026	<strong>Anna<br></strong>What system?
+135597	<strong>I.T.Man<br></strong>Yeah, what are you using? PC, laptop, Windows XP?
+139200	<strong>Denise<br></strong>Tell him it's Windows 7.
+142461	<strong>Anna<br></strong>Ermâ€¦ it's Windows 7 on a PC.
+146513	<strong>I.T.Man<br></strong>Good, good, this should be easy. Were you using many applications when it crashed?
+151313	<strong>Anna<br></strong>Applications?
+153000	<strong>I.T.Man<br></strong>Did you have lots of things open â€“ documents, spreadsheets, videos, other software?
+157200	<strong>Anna<br></strong>Well, I suppose I did.
+159000	<strong>I.T.Man<br></strong>Right, wellâ€¦ Anna isn't it?
+161400	<strong>Anna<br></strong>Yes.
+162151	<strong>I.T.Man<br></strong>Right, well Anna, try pressing control, alt, delete, at the same time â€“ after that try opening Windows again.
+168525	<strong>Anna<br></strong>OK. Tom, could you open the windows please.
+172666	<strong>Tom<br></strong>What eh? The windows?!
+175666	<strong>Anna<br></strong>Yes. Dave says so.
+177259	<strong>I.T.Man<br></strong>No, no, no. Open Windows 7 on your computer.
+181412	<strong>Anna<br></strong>Oh, silly me! No, <em>the screen just freezes</em>.
+189287	I'm a bit worried because <em>I think I've lost some documents</em>.
+192555	<strong>I.T.Man<br></strong>Hmmm. In that case the only thing to do is reboot it.
+196570	<strong>Anna<br></strong>Reboot it? You mean kick it?!
+199831	<strong>Denise<br></strong>No! Reboot means turn it off and on again.
+204666	<strong>Anna<br></strong>Oh I see. No Dave,<em> I have already tried turning it off and on again but that hasn't fixed it</em>. What am I going to do?
+213949	<strong>I.T.Man<br></strong>Don't panic! I'll come and have a look. You're on the 2ndfloor right?
+219511	<strong>Narrator<br></strong>Oh dear. This is a bit worrying but I'm sure Dave, the IT man, will get things sorted.
+226556	Remember if you have important documents, it's best to back them up on a memory stick just in case you have a problem like this.
+235377	Let's remind ourselves of the phrases we might use if we have to call computer support:
+241600	<em>I am having problems with my computer</em>
+245777	<em>The screen keeps freezing</em>
+248777	<em>I seem to have lost some documents</em>
+252408	<em>I have turned the computer off and on but that hasn't fixed it</em>
+257020	<em>Can you help, please?
+266666	<strong>I.T.Man<br></strong>Oh hi. Is Anna here?
+269725	<strong>Denise<br></strong>She's over there.
+272000	<strong>Tom<br></strong>So Anna, I'm just going to unplug the screen and put the wire back in hereâ€¦
+276800	<strong>Anna<br></strong>OK Tom but are you OK down there? Mind your head.
+281222	<strong>I.T.Man<br></strong>Excuse me, are you Anna? I've come to fix your computer.
+288333	<strong>Anna<br></strong>Oh, helloâ€¦ you must beâ€¦ Dave. I really like your hair.
+296506	<strong>Tom<br></strong>Ow!
+297999	<strong>I.T.Man<br></strong>Thanks. You look rather lovely. I'd better take a look at your computer.
+306466	<strong>Tom<br></strong>Don't worry guys, itâ€™s OK, I think I've fixed it!
+310067	<strong>Narrator<br></strong>Looks like Tom has a rival.
+313420	Is Anna going to fall for the charms of Dave, the I.T.man, or is he just going to upgrade her software?
+321333	This could get very interesting â€“ but there's still work to be done â€“ so join us again soon for English at Work. Bye.

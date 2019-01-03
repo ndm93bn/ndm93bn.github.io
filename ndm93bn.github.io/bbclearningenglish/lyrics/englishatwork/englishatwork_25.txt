@@ -1,0 +1,66 @@
+1	(Introduction...)
+4384	<strong>Narrator</strong><strong><br></strong>Hello again and welcome to English at Work.
+7977	It's another day at Tip Top Trading and hopefully a happier one, following Denise's bad news about her job.
+15666	I wonder if Tom and Anna are about to get the same bad news?
+20222	<strong>Paul</strong><strong><br></strong>It's really awful having to let a member of your staff go but that's the situation we're in, I'm afraid.
+26810	<strong>Tom</strong><strong><br></strong>And now you're going to let us go aren't you?
+29197	Honestly Paul, I've given my life to this company and, quite frankly, I'm disappointedâ€¦ no, I'm angry at your decision. See your biscuits? Wellâ€¦
+41000	<strong>Anna</strong><strong><br></strong>Tom!
+42403	<strong>Tom</strong><strong><br></strong>That's what I think of Tip Top Tradingâ€¦
+45534	<strong>Paul</strong><strong><br></strong>What?! Hold on Tom. I think you're a bit confused.
+50888	I'm not sacking you too. I need to talk to you about plastic vegetablesâ€¦ you know, the aubergine idea?
+58857	<strong>Tom</strong><strong><br></strong>Ohâ€¦ I see. You're not sacking us?
+63298	Sorry Paulâ€¦ I'll buy you some more biscuits. So what was it that you had to say?
+68755	<strong>Paul</strong><strong><br></strong>Plastic vegetables. Yours and Anna's idea for a plastic aubergine.
+74573	I like it. It's good. So, I need you to develop a prototype we can use to show our potential clients.
+83222	<strong>Anna</strong><strong><br></strong>Well that's great. So where do we get the prototype made?
+87666	<strong>Paul</strong><strong><br></strong>Upstairs, on the 4th floor. We have a great development team who can magic up some amazing designs.
+94333	<strong>Anna</strong><strong><br></strong>They're magicians?
+95666	<strong>Tom</strong><strong><br></strong>No Anna. They're just developers who make things out of plastic.
+100982	<strong>Paul</strong><strong><br></strong>Thank you Tom. Look, why not go and have a chat to them now and get the ball rolling.
+105888	<strong>Anna</strong><strong><br></strong>But we're not making balls<strong>.
+107555	<strong>Tom</strong><strong><br></strong>Come on Annaâ€¦ I'll explain. See you Paul.
+111222	<strong>Narrator</strong><strong><br></strong>'To get the ball rolling' â€“ he means to get the project moving along.
+116555	Developers can design and make models of your products which you can show and develop.
+122035	But you need to give them clear and specific instructions. Let's see how Anna gets on.
+130999	<strong>Tom</strong><strong><br></strong>So this is the development team.
+133999	Oh hi George, you up for footie on Sunday?
+137111	Great. Have you met Anna before?
+138888	<strong>Anna</strong><strong><br></strong>Hello.
+139888	<strong>Tom</strong><strong><br></strong>We've come to talk vegetables.
+142111	<strong>George</strong><strong><br></strong>Try the greengrocers!
+143612	<strong>Tom</strong><strong><br></strong>Ha ha, very funny! No, we need a plastic aubergine making, mate.
+149249	It's our new big idea.
+150886	<strong>George<br></strong>Easy. We can just remould the design for the Imperial Lemon.
+155000	<strong>Narrator<br></strong>Can they Anna? Is that what you wanted?
+158483	To get what you want, you need to explain exactly your requirements.
+163221	<strong>Anna<br></strong>But what shall I say?
+165107	<strong>Narrator<br></strong>Tell them exactly what you were thinking by saying 'I have a specific idea in mind' and 'I'm interested in hearing your thoughts on how to improve my ideas' and, 'I'd like to use your design skills to produce a fantastic product'.
+182992	<strong>Anna<br></strong>I see. OK, time for me to take control. Georgeâ€¦ this is quite a special project for usâ€¦ isn't it Tom?
+191890	<strong>Tom<br></strong>Oh yeah, right, absolutely.
+194055	<strong>Anna<br></strong>So we want to get it right and I already have a specific idea in mind.
+198555	<strong>George<br></strong>Great, sure, tell me more.
+200666	<strong>Anna<br></strong>Well, based on a real aubergine, I was hoping it could be 20 centimetres in length, using grade 1 plastic resin, with a black-purple colour and a 30 degree curve on that side. Does that make sense?
+219555	<strong>George<br></strong>Erm yeah. Quite clear.
+221697	<strong>Anna<br></strong>Obviously you are a designer, so I'm interested in hearing your thoughts on how to improve our idea.
+229112	<strong>George<br></strong>Well, it looks very impressive already. Gosh, Tom, where did you get her from?
+234111	<strong>Anna<br></strong>He didn't get me from anywhere.
+235952	Now, I'd like to use your design skills to develop a fantastic product that I can show everyone. OK?
+243100	<strong>George<br></strong>Errâ€¦ yes. I'll get onto it straight away.
+247067	<strong>Narrator<br></strong>Excellent Anna. Sometimes it's important to take control and say what you really want but in a positive and encouraging way.
+256214	These are the phrases that Anna used:
+258946	<em>I have a specific idea in mind.
+262100	<em>I'm interested in hearing your thoughts on how to improve my ideas.
+267333	<em>I'd like to use your design skills to produce a fantastic product.
+276004	<strong>Narrator<br></strong>There's one more phrase to use to make sure things go to plan if someone is making something for you.
+281980	That is 'I need to sign off your designs before they go into production', that means approve the plans before anything I made. Off you go Annaâ€¦
+293900	<strong>Anna<br></strong>â€¦so when will you have the designs ready then?
+297100	<strong>George<br></strong>Hopefully by tomorrow morning. Is that OK?
+300777	<strong>Anna<br></strong>That will be great but I will need to sign off your designs before they go into production â€“ that way, there won't be any mistakes â€“ will there?
+309400	<strong>George<br></strong>Crikey Tom, sheâ€™s a bit bossy.
+311777	<strong>Tom<br></strong>No! She's a pussy cat reallyâ€¦ a bit of a softy.
+316000	<strong>Anna<br></strong>Now come on Tom. Fetch my things, we need to go and sort out a leaving present for Denise.
+322700	<strong>Tom<br></strong>Oh yeah right, of course, see you George.
+326333	<strong>Narrator<br></strong>Hmm, I think Tom's the pussy cat! Let's hope the designs come out well.
+331733	But even more important is Denise's last day at work tomorrow â€“ how is everyone going to cope?
+338275	Find out next time on English at Work. Bye.

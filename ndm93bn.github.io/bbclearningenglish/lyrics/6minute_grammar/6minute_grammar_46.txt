@@ -1,0 +1,84 @@
+1	(Introduction...)
+12083	<strong>Neil<br></strong>Hello. Welcome to 6 Minute Grammar with me, Neil.
+15543	<strong>Sophie<br></strong>And me, Sophie. Hello.
+18492	<strong>Neil<br></strong>Todayâ€™s programme is all about questions.
+21498	<strong>Sophie<br></strong>Yes: weâ€™ll take a look at different types of yes-no questionsâ€¦
+25450	<strong>Neil<br></strong>Weâ€™ll hear lots of w-h questionsâ€¦
+28486	<strong>Sophie<br></strong>And weâ€™ll be using the questions to get to know each other a little bit better.
+32395	<strong>Neil<br></strong>So if you want a reminder of English question formsâ€¦
+36224	<strong>Sophie<br></strong>Or if youâ€™re studying them for the first timeâ€¦
+38845	<strong>Neil<br></strong>Keep listening, and join in with the task weâ€™ll be giving you later on.
+44084	<strong>Sophie<br></strong>So letâ€™s get started. In English, there are two basic question types: <strong>yes/no questions</strong> and <strong>w-h questions</strong>.
+52242	<strong>Neil<br></strong>And hereâ€™s Finn with our first yes/no question:
+56325	<strong>Finn<br></strong>Can you speak English? Can you speak English?
+61808	<strong>Neil<br></strong>Yes I can, thanks Finn. Thatâ€™s a useful first question.
+65874	<strong>Sophie<br></strong>Yes, and itâ€™s made with the auxiliary verb <strong>can</strong>, plus the subject <strong>you </strong>and a verb: <strong>speak.
+73238	Can you speak? Can you speak English Neil?
+77291	<strong>Neil<br></strong>Yes, I can. Another question please Finn?
+82363	<strong>Finn<br></strong>Do you work every day? Do you work every day?
+88695	<strong>Sophie<br></strong>Auxiliary <strong>do</strong>, subject <strong>you</strong><em>,</em> verb <strong>work</strong>.
+93228	Do you work every day, Neil?
+95205	<strong>Neil<br></strong>I don't, no. I don't work at weekends. Finn?
+99596	<strong>Finn<br></strong>Do you have any brothers or sisters?
+103254	<strong>Sophie<br></strong>Auxiliary <strong>do</strong>, subject <strong>you</strong>, verb: <strong>have</strong>.
+108103	Neil, do you have any brothers or sisters?
+110402	<strong>Neil<br></strong>Yes I do: I've got one sister.
+113870	Now another way to make yes-no questions is with the verb <strong>to be</strong> plus a subject.
+120200	Letâ€™s demonstrate. Sophie: Are you married?
+124364	<strong>Sophie<br></strong>No, Neil, Iâ€™m not. Is your boss married?
+127139	<strong>Neil<br></strong>My boss? No, he isn't. Were you in the office yesterday?
+133074	<strong>Sophie<br></strong>Yes, sadly I was in the office yesterday.
+136620	<strong>IDENT <br></strong>Youâ€™re listening to BBC Learning English.
+141221	<strong>Neil<br></strong>And we're talking about question forms.
+144329	<strong>Sophie<br></strong>Now, the second main type of question in English starts with either <strong>what</strong>,<strong> where</strong>, <strong>when</strong><em>, </em><strong>which</strong><em>, </em><strong>why</strong><em>, who, </em>or the odd one out:
+153414	<strong>Neil<br></strong>â€¦ <strong>how</strong><em>.
+154440	<strong>Sophie<br></strong>So letâ€™s try making a question with <strong>where.
+157819	We add an auxiliaryâ€¦
+159263	<strong>Neil<br></strong>â€¦ such as <strong>do</strong>
+160557	<strong>Sophie<br></strong>â€¦ then we can add a subject plus a verb.
+163900	For example: Neil, Where do you live? Where do you live?
+168223	<strong>Neil<br></strong>I live in south London. Where do you live, Sophie?
+172173	<strong>Sophie<br></strong>I live in north London. Now letâ€™s change the question word and the verb. Which languages do you speak?
+179452	<strong>Neil<br></strong>And here we add a noun to <strong>which: </strong>Which languages do you speak?
+185460	<strong>Sophie<br></strong>Just English. And with a different auxiliary: Which languages can you speak?
+191844	<strong>Neil<br></strong>We can add nouns to some of the other question words: What time do you start work?
+197802	<strong>Sophie<br></strong>About 9 o'clock in the morning. And if we ask 'What time is it?'
+202603	weâ€™re making a <strong>w-h</strong> question with the verb<strong> to be</strong><em>.
+206670	I can ask: Where were you born?
+209738	<strong>Neil<br></strong>I was born in England. When is your birthday?
+213426	<strong>Sophie<br></strong>In September. What is your work address?
+216718	<strong>Neil<br></strong>It's W1A. Lots of useful questions with <strong>to be</strong> there.
+225456	Now for a very personal question with <strong>to be</strong>: Sophie, How old are you?
+232369	<strong>Sophie <br></strong>You should never ask a woman her age!
+234433	And for questions with <strong>how</strong>, we usually add an extra word. To ask about age itâ€™s:
+241854	<strong>Finn<br></strong>How oldâ€¦
+242818	<strong>Sophie<br></strong>For price itâ€™s:
+245000	<strong>Finn<br></strong>How muchâ€¦
+245897	<strong>Neil<br></strong>For size we ask:
+248161	<strong>Finn<br></strong>How bigâ€¦
+249174	<strong>Sophie<br></strong>And for height itâ€™s
+250565	<strong>Finn<br></strong>How tall.
+251618	<strong>Sophie<br></strong>How tall are you, Neil?
+253185	<strong>Neil<br></strong>About 180cm.
+257348	And of course, you canâ€™t answer a <strong>w-h</strong> question with <strong>yes</strong> or <strong>no</strong>.
+262126	How tall are you, Sophie?
+264189	<strong>Sophie<br></strong>I think we're actually the same height.
+266394	<strong>Neil <br></strong>Let me see, back to backâ€¦ No, I'm taller! Is it time for a practice task Sophie?
+272959	<strong>Sophie<br></strong>Yes, it is. Join in at home if you like.
+277464	Iâ€™m going to give you a topic to ask me about, and you have to make one <strong>yes/no</strong> question and one <strong>w-h</strong> question.
+285969	And Neil will give some possible answers. Hereâ€™s the first topic: Ask me about my age.
+293473	<strong>Neil<br></strong>Ok, so you could ask: How old are you? When were you born?
+302468	<strong>Sophie<br></strong>Now ask me about my home.
+306500	<strong>Neil<br></strong>Do you live with your family? What is your address?
+311009	<strong>Sophie<br></strong>Now ask me about my work.
+313561	<strong>Neil<br></strong>Do you work near here? How much do you earn?
+319274	<strong>Sophie<br></strong>Thanks Neil. And well done to you at home if you joined in with the task.
+323898	<strong>Neil<br></strong>So thatâ€™s a look at some basic question types we can use when weâ€™re getting to know people.
+329306	We had <strong>yes/no</strong> questions,
+330991	<strong>Sophie<br></strong>And we looked at questions starting with <strong>w-h</strong> words.
+334399	<strong>Neil<br></strong>And we found out some interesting information about each other.
+338143	I didnâ€™t know how tall you were, Sophie!
+341163	<strong>Sophie<br></strong>I know, it's quite incredible really.
+342938	And thereâ€™s lots more about questions forms on our website at bbclearningenglish.com.
+348616	Join us again for more 6 Minute Grammar.
+351217	<strong>All<br></strong>Bye.

@@ -1,0 +1,73 @@
+1	(Introduction...)
+11400	<strong>Neil<br></strong>Hello. Welcome to 6 Minute Grammar with me, Neil.
+14800	<strong>Catherine <br></strong>And me, Catherine. Hello.
+19400	<strong>Neil</strong> <br>Now, Catherine, would you like to have some of this delicious chocolate I've got here?
+24400	<strong>Catherine</strong> <br>Oh Neil, I'd love to but I can't. When I eat chocolate, I get terrible headaches.
+28766	<strong>Neil</strong> <br>Oh that's bad luck! If I eat a lot of chocolate, I just get fat!
+32700	<strong>Catherine <br></strong>Do you? You don't look it, you look thin!
+35400	<strong>Neil <br></strong>It's all the cycling you see. I can eat whatever I want because of all the cycling.
+39900	<strong>Catherine<br> </strong>Lucky you.
+40700	<strong>Neil<br></strong>Now, in this programme, we're looking at the zero conditional and the first conditional.
+45600	<strong>Catherine <br></strong>We'll be discussing why and when we use them.
+48800	<strong>Neil<br></strong>We'll see how to form them.
+50400	<strong>Catherine <br></strong>We'll help you decide which one to use in which situation.
+53800	<strong>Neil <br></strong>And we'll bring you a quiz at the end of the show.
+56900	<strong>Catherine<br></strong>So listen carefully - and take some notes!
+61147	<strong>Neil <br></strong>Let's start by looking at the zero conditional.
+64700	We use it to talk about things which always happen in particular situations.
+70000	<strong>Catherine <br></strong>For example,<strong> I always get a headache if I eat chocolate.
+73900	We also use the zero conditional to talk about facts and truths. And here's Finn with our first example.
+81600	<strong>Finn <br></strong><strong>If you drop an apple, it falls to the ground.
+86100	<strong>Neil <br></strong>That's gravity for you! Now, there are two parts to the sentence.
+90500	The part with <strong>if</strong> plus the <strong>present simple</strong> tells us the situation, and the other part is in the present simple tense, and tells us what happens as a result of the<strong> if</strong> situation.
+102757	Here's Finn with an example of the <strong>if</strong> situation:
+106700	<strong>Finn <br></strong><strong>If you drop an apple</strong>. And I'll say that again: <strong>If you drop an apple</strong>.
+113600	<strong>Catherine</strong> <br>And the result:
+115500	<strong>Finn <br></strong>.<strong>it falls to the ground.
+118000	<strong>Catherine<br></strong>Once more:
+118924	<strong>Finn <br></strong>...<strong>it falls to the ground.
+122200	<strong>Neil <br></strong>And this result happens every time the situation happens. Isn't that right, Catherine?
+127640	<strong>Catherine <br></strong>That's correct Neil. It's a scientific fact - and it was first identified by Isaac Newton, I believe.
+135000	<strong>Neil</strong> <br>I think you're right! So that's the zero conditional.
+138604	Let's compare it with an example of the first conditional. Finn.
+144600	<strong>Finn <br></strong><strong>If you drop that glass, it'll break.
+148200	<strong>Catherine<br></strong>And once again:
+149410	<strong>Finn <br></strong><strong>If you drop that glass, it'll break.
+153500	<strong>Catherine <br></strong>Now, in this sentence the <strong>if</strong> plus present simple part gives us a possible future situation.
+161210	The other part is made with <strong>will</strong> plus an <strong>infinitive</strong> <strong>without 'to'</strong> and it gives us the result of this possible future situation.
+170700	<strong>Finn <br></strong><strong>If you drop that glass</strong>. <strong>If you drop that glass</strong>.
+176000	<strong>Catherine <br></strong>And this is only a possible situation.
+178600	<strong>Finn <br></strong>...<strong>it'll break...<strong>it'll break.
+182000	<strong>Catherine</strong> <br>And this is the result of the situation. We use <strong>will</strong> to show we are certain that the glass will break.
+188700	But it only breaks if we drop the glass.
+192144	<strong>Neil</strong> <br>When we are less certain of the result we can use <strong>might</strong>, like this:
+197200	<strong>Finn <br></strong>If you drop the glass, it <strong>might</strong> break.
+200700	<strong>Catherine<br></strong>And once again:
+202336	<strong>Finn <br></strong>If you drop the glass, it <strong>might</strong> break.
+205800	<strong>Neil</strong> <br>It's sometimes difficult to choose between the zero and first conditional.
+210900	It helps to remember that as well as using the zero conditional for truths, we also use it for general situations.
+218400	If you're talking about a specific situation, or a one-off situation, the first conditional is probably best.
+225600	For example, to describe a general situation that is true for everyone, we can use the zero conditional to say:
+233300	<strong>Finn<br></strong><strong>If you sit in the sun too long, you get burned.
+237800	<strong>Catherine<br></strong>But if your friend is about to go sunbathing, perhaps without any sun cream, you can use the first conditional to talk about that specific situation and its possible result, like this:
+250222	<strong>Finn<br></strong><strong>If you sit in the sun too long, you will get burned.
+254711	<strong>IDENT <br></strong>6 Minute Grammar from BBC Learning English.
+260222	<strong>Catherine <br></strong>And it's quiz time! Are these sentences grammatically correct, or wrong?
+265800	Here's the first one: When we're older, we'll go travelling.
+269800	<strong>Neil</strong> <br>OK, this first conditional sentence is correct.
+273100	<strong>Catherine</strong> <br>Good. Here's another one: If plants don't get water, they die.
+278324	<strong>Neil</strong> <br>This sentence is correct too.
+281000	<strong>Catherine</strong> <br>OK, get ready for the last sentence: If I fail my exams again, I feel terrible.
+287803	<strong>Neil</strong> <br>And that's wrong. It's a specific situation and it's describing a possibility, not a certainty.
+294500	So we need the first conditional. Here's the correct sentence:<strong> </strong>
+298600	<strong>Finn</strong> <br>If I fail my exams again, I<strong> will </strong>feel terrible.
+303400	<strong>Catherine</strong> <br>Now, before we go, there's just enough time for a top tip.
+307400	The first conditional only has one 'will'. So this sentence is wrong:
+313400	<strong>Finn</strong> <br>If <strong>they will leave </strong>now, they'll be home for lunch.
+318300	<strong>Neil</strong> <br>You need to use present simple without will in the <strong>if</strong> part. Here's the correct version:
+324100	<strong>Finn</strong> <br>If <strong>they leave </strong>now, they'll be home for lunch.
+327800	<strong>Catherine <br></strong>Thank you Finn. So that's the zero conditional, with the present tense in both parts, for things which always happen.
+334900	<strong>Neil</strong> <br>And that's the first conditional with <strong>if</strong> plus present simple, together with <strong>will</strong>, plus an infinitive, for possible future situations.
+344100	<strong>Catherine</strong> <br>There's more about this on our website at bbclearningenglish.com.
+348070	Join us again for more 6 Minute Grammar.
+350604	<strong>Both</strong> <br>Bye.

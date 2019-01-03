@@ -1,0 +1,62 @@
+1	(Introduction...)
+4618	<strong>Narrator<br></strong>Hello, it's a chilly start to the day at Tip Top Trading.
+10085	<strong>Anna<br></strong>Hi Denise!
+11450	<strong>Denise<br></strong>Good morning Anna.
+12925	<strong>Anna<br></strong>Brrr...it's so cold in here.
+15931	<strong>Denise<br></strong>The window was left open overnight.
+18618	<strong>Anna<br></strong>My papers have been blown everywhere.
+21086	<strong>Denise<br></strong>Mine too! Tom was the last one here last night â€“ it must've been him who left the window open.
+27455	<strong>Anna<br></strong>Brrr. Right then, to work!
+30102	Oh, there's a note from Paul, it must've fallen off my desk: 'I would like your ideas on our stock management system for our new laser-curve fruit range, so we know we can keep up with demand.
+44972	Please write me a couple of pages of suggestions and leave it on my desk.
+50212	I'll be back this afternoon.
+52606	Wow! I have to come up with ideas for a stock management system!
+57677	Gosh, where do I begin?!
+63059	<strong>Tom<br></strong>Good morning.
+64551	<strong>Anna<br></strong>Morning!
+65411	<strong>Tom<br></strong>Hey, my certificate for Plastic Pear Salesman of the Year is on the floor!
+71113	<strong>Anna<br></strong>Right...stock management systems.
+74653	stock-up on your laser-curved lemons â€¦ My first idea is to calculate the totalâ€¦.
+86092	<strong>Narrator<br></strong>Well, Anna has finished her report and left it on Paul's desk, but things aren't that simple.
+92052	Er, Anna, there's going to be a problem.
+94460	<strong>Anna<br></strong>Oh? A problem, bbbbutâ€¦
+97900	<strong>Narrator<br></strong>Let me teach you some phrases you might need to explain that there's been a mistake:<br>I think there's been a misunderstanding.
+105964	Or: There's been a bit of a mix-up.
+108544	<strong>Anna<br></strong>But what misunderstanding? What mix-up?
+112514	<strong>Narrator<br></strong>You could also use:<br>Let me explain what happened.
+116490	<strong>Anna<br></strong>But-
+117670	<strong>Paul<br></strong>Ah, good afternoon everyone.
+120565	<strong>All<br></strong>Hello.
+121945	<strong>Paul<br></strong>Tom, this is an excellent piece of work!
+125578	<strong>Tom<br></strong>Sorry?
+126754	<strong>Paul<br></strong>These are by far the best ideas you've ever had.
+131101	<strong>Tom<br></strong>I don't understand.
+133387	<strong>Paul</strong>Our stock management system!
+135372	<strong>Tom<br></strong>Can I see? â€¦ Oh, that's not mine.
+140141	<strong>Paul<br></strong>Eh?
+140843	<strong>Anna<br></strong>I think there's been a misunderstanding. I did it.
+144772	<strong>Paul and Tom<br></strong>You?
+146143	<strong>Anna<br></strong>I got your note Paul, here.
+149262	<strong>Paul<br></strong>No, no, that note was for Tom.
+152258	<strong>Anna<br></strong>Oh, then there's been a bit of a mix-up.
+156069	<strong>Tom<br></strong>Did you take that note from my desk?
+158110	<strong>Anna<br></strong>No, no!
+159324	<strong>Tom<br></strong>I suppose you threw my pear salesman certificate on the floor at the same time too!
+163897	<strong>Anna<br></strong>I didnâ€™t! Let me explain.
+166690	The wind must have blown the note for Tom under my desk.
+170717	<strong>Denise<br></strong>Tom left the window open overnight.
+173338	Our papers were blown all over the place.
+176645	<strong>Paul<br></strong>I see, well, golly gosh.
+179799	In that case, well done, Anna!
+181864	Excellent work, even though you weren't meant to do it.
+185129	And Tom, your ideas are still welcome of course. Thanks.
+190436	<strong>Anna<br></strong>Sorry Tom.
+191798	<strong>Tom<br></strong>What? Oh, I'm not bothered.
+194659	I've still got some great ideas in my head anyway.
+197878	<strong>Narrator<br></strong>Yeah, right!
+199348	Let's leave Tom to get on with his 'great ideas' and listen again those phrases Anna used to explain the misunderstanding: <br>I think there's been a misunderstanding.
+210527	There's been a bit of a mix-up.
+212662	Let me explain what happened.
+215675	Well, the mix-up gave Anna a chance to shine â€“ Paul certainly seemed impressed with her work.
+221772	Maybe it will bring her new opportunities. Until next time, bye!
+226309	<h3>Listening Challenge - Answer</h3><br>Tom found one of his certificates on the floor. What was it for? <br>Plastic Pear Salesman of the Year <h3><strong>

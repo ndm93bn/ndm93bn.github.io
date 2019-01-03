@@ -1,0 +1,92 @@
+1	(Introduction...)
+13800	<strong>Narrator<br></strong>Algernon and Cecily are engaged. But Cecily thinks his name is Ernest and so Algernon has rushed off to change his name.
+23612	Meanwhile, Gwendolen has arrived and <strong>is about to </strong>meet Cecily for the first time. Gwendolen also thinks she's engaged to someone called Ernest.
+36754	<strong>Cecily</strong><br>Hello, my name is Cecily Cardew.
+40303	<strong>Gwendolen</strong><br>What a sweet name! I like you already. I think <strong>we are going to be</strong> great friends.
+46000	My <strong>first</strong> <strong>impressions</strong> of people are never wrong.
+48614	<strong>Cecily</strong><br>How nice of you to like me so much when we have only just met. Please sit down.
+53888	<strong>Gwendolen</strong><br>May I call you Cecily?
+55333	<strong>Cecily</strong><br>With pleasure!
+56444	<strong>Gwendolen</strong><br>And you can call me Gwendolen. You are here on a short visit, I suppose.
+60888	<strong>Cecily</strong><br>Oh no! I live here.
+62600	<strong>Gwendolen</strong><br>Really? Your mother, no doubt, lives here, too?
+66200	<strong>Cecily</strong><br>Oh no! I don't have a mother or father - in fact, I don't have any relations.
+71555	<strong>Gwendolen</strong><br>Really?
+72500	<strong>Cecily</strong><br>My dear <strong>guardian</strong> looks after me.
+74880	<strong>Gwendolen</strong><br>Your guardian?
+76333	<strong>Cecily</strong><br>Yes, Mr Worthing.
+77999	<strong>Narrator<br></strong>She means Jack, of course.
+80999	<strong>Gwendolen</strong><br>Oh! That's strange - he's never mentioned to me that he was a guardian.
+88000	And I'm not sure, that this news fills me with great delight. I have liked you ever since I met you, Cecily.
+94999	But now that I know that Mr Worthing is your guardian, I can't help wishing that you were.
+101624	well...just a little older, and not quite so.
+106555	well...attractive. In fact, if I may speak honestly.
+111266	<strong>Cecily</strong><br>Please do.
+112184	<strong>Gwendolen</strong><br>Well, to be honest, Cecily, I wish that you were 42 and unattractive.
+116200	Ernest would never lie to me. Though I don't always trust him, [to herself] especially with beautiful women.
+122555	<strong>Cecily</strong><br>I'm sorry, Gwendolen, did you say Ernest?
+126000	<strong>Gwendolen</strong><br>Yes.
+126888	<strong>Cecily</strong><br>Oh, but it isn't Mr Ernest Worthing who is my guardian. It's his brother - his elder brother.
+133555	<strong>Narrator<br></strong>By Ernest Worthing, she means Algernon.
+138064	<strong>Gwendolen</strong><br>Ernest never mentioned to me that he had a brother.
+141692	<strong>Cecily</strong><br>Well, they haven't been getting along well for a long time.
+145111	<strong>Gwendolen</strong><br>Ah! that explains it. Cecily, you have greatly <strong>reassured </strong>me.
+149940	I was beginning to get anxious. You are quite sure that it is not Mr Ernest Worthing who is your guardian?
+157000	<strong>Cecily</strong><br>Quite sure. In fact, I am going to be his.
+160777	<strong>Gwendolen</strong><br> I beg your pardon?
+161900	<strong>Cecily</strong><br> Dearest Gwendolen <strong>Mr Ernest Worthing and I are going to get married</strong>.
+167177	<strong>Narrator<br></strong>Now when Cecily says Ernest here, she, of course, means Algernon, who she thinks is called Ernest.
+175500	<strong>Gwendolen</strong><br>My darling Cecily, there must be some mistake. Mr Ernest Worthing is engaged to me.
+182444	<strong>Narrator<br></strong>And when Gwendolen says Ernest here, she, of course, means Jack.
+188666	<strong>Gwendolen<br>The announcement will appear</strong> in the paperon Saturday.
+192222	<strong>Cecily</strong><br> You must be mistaken. Ernest proposed to me ten minutes ago. I've written it in my diary.
+199333	<strong>Gwendolen</strong><br>That's very strange, because he asked me marry him yesterday afternoon.
+204666	Here, it's in my diary. I never travel without my diary.
+209755	You should always have something excitingto read in the train.
+212933	I'm sorry, dear Cecily, but I'm afraid he was mine first.
+217300	<strong>Cecily</strong><br>It upsets me, dear Gwendolen, but I have to point out that since Ernest proposed to you, he has clearly changed his mind.
+225100	<strong>Gwendolen</strong><br>If the poor fellow has been <strong>trapped</strong> <strong>I intend to rescue</strong> him at once.
+228966	<strong>Cecily</strong> <br>Whatever <strong>entanglement </strong>my dear boy has got into, <strong>I will never</strong> <strong>blame </strong>him.
+233800	<strong>Gwendolen</strong><br>Are you referring to me, Miss Cardew, as an entanglement?
+237255	<strong>Cecily</strong><br>Do you suggest, Miss Fairfax, that I trapped Ernest into an engagement? How dare you?
+243255	<strong>Gwendolen<br></strong>Miss Cardew.
+244800	<strong>Merriman </strong><br> Ahem!
+246546	<strong>Narrator</strong><br>But they are interrupted by Merriman who arrives with the tea. The two women look angrily at each other.
+255009	They can't continue their argument in front of him.
+259000	<strong>Gwendolen</strong><br> Are there many interesting walks around here, Miss Cardew?
+263711	<strong>Cecily</strong><br>Oh! Yes! Several. From the top of the hills you can see five <strong>counties</strong>.
+269777	<strong>Gwendolen</strong><br>Five counties! I wouldn't like that; I hate crowds.
+274444	<strong>Cecily</strong><br> I suppose that is why you live in London?
+277777	<strong>Gwendolen</strong><br> Quite a well-kept garden this is, Miss Cardew.
+281500	<strong>Cecily</strong><br>So glad you like it, Miss Fairfax.
+284821	<strong>Gwendolen</strong><br>I had no idea there were any flowers in the country.
+288555	<strong>Cecily</strong><br>Oh, flowers are as common here, Miss Fairfax, as people are in London. Would you like some tea, Miss Fairfax?
+296800	<strong>Gwendolen</strong><br> Thank you. Awful girl!
+299480	<strong>Cecily</strong><br> Sugar?
+300690	<strong>Gwendolen</strong><br>[Superciliously] No, thank you. Sugar is not fashionable any more.
+304400	<strong>Narrator<br></strong>Cecily puts four lumps of sugar into the cup, which she gives to Gwendolen, who does not notice as she is <strong>short-sighted</strong>.
+314222	<strong>Cecily</strong><br>[Severely] Cake or bread and butter?
+316958	<strong>Gwendolen</strong><br>Bread and butter, please. Cake is rarely seen at the best houses nowadays.
+322555	<strong>Narrator<br></strong>Cecily cuts a large slice of cake and hands it to Gwendolen.
+327222	Gwendolen drinks the tea and <strong>shudders</strong>.
+330777	She puts down the cup, reaches out for the bread and butter and finds it's cake.
+337583	<strong>Gwendolen</strong><br>You have put sugar in my tea, and though I asked quite clearly for bread and butter, you have given me cake.
+345065	I usually have a gentle and sweet nature, but I warn you, Miss Cardew, you may go too far.
+350888	<strong>Cecily</strong><br>I would do anything to save my poor, innocent boy from the secret plansof another girl.
+356555	<strong>Gwendolen</strong><br>From the moment I saw you I distrusted you. My first impressions of people are always right.
+362288	<strong>Cecily</strong><br>It seems to me, Miss Fairfax, that I am wasting your valuable time.
+368111	<strong>Narrator<br></strong>And here comes Jack.
+371111	<strong>Gwendolen</strong><br>Ernest! My own Ernest!
+373999	<strong>Jack</strong><br>Gwendolen! Darling!
+375862	<strong>Gwendolen</strong><br>[Draws back] Wait! May I ask if you are engaged to this young lady?
+381400	<strong>Jack</strong><br> To dear little Cecily! Of course not!
+385600	<strong>Gwendolen</strong><br>Thank you.
+386400	<strong>Cecily</strong><br> I knew there must be some misunderstanding, Miss Fairfax.
+390446	This gentleman is my guardian, Mr Jack Worthing.
+394515	<strong>Gwendolen</strong><br>I beg your pardon?
+396000	<strong>Cecily</strong><br>This is Uncle Jack.
+398600	<strong>Gwendolen</strong><br>Jack! Oh!
+402222	<strong>Narrator<br></strong>And now Algernon arrives, too.
+406436	<strong>Cecily</strong><br>Here is Ernest.
+408200	<strong>Algernon</strong><br>Cecily, my love!
+409777	<strong>Cecily</strong><br>Wait, Ernest! May I ask you - are you engaged to this young lady?

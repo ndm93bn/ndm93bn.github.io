@@ -1,0 +1,27 @@
+1	(Introduction...)
+13333	<strong>Feifei<br></strong>Hello, I'm Feifei and welcome to The English We Speak.
+17666	<strong>Neil<br></strong>...and hello, it's Neil here. Are you feeling OK Feifei - you don't look very happy?
+23055	<strong>Feifei<br></strong>Oh Neil, it's been a stressful week - I've been working late, I'm so tired - and I've had no time to do any housework - my house is a mess!
+34111	<strong>Neil<br></strong>Isn't your house always a mess?!
+35866	<strong>Feifei<br></strong>Ha ha, very funny!
+37222	<strong>Neil<br></strong>Seriously, you need a break. Take some time off.
+40388	<strong>Feifei<br></strong>Easier said than done - but how will that help?
+43799	<strong>Neil<br></strong>Well, having a break from work will help blow away the cobwebs.
+47339	<strong>Feifei<br></strong>Excuse me? Are you saying I should take time off so I can do my housework - and get rid of all the cobwebs in my house - do you think my house is haunted Neil?
+57888	<strong>Neil<br></strong>I never said you said had cobwebs in your house - what I meant was, get some fresh air - do some exercise, get rid of that tired feeling - that's 'blowing away the cobwebs'!
+67444	<strong>Feifei<br></strong>Got it! So no spiders involved?
+70222	<strong>Neil<br></strong>Absolutely not. Let's hear some examples of this phrase in action.
+75999	<strong>Examples<br></strong>Do you want to go hillwalking this weekend?
+78999	It might help you blow the cobwebs away.
+81999	I've been stuck indoors for days, I need to blow the cobwebs away and go for a run.
+88160	I know studying is hard, why don't you go for a walk in the park to blow the cobwebs away?
+94777	It might help you think more clearly.
+98888	<strong>Feifei<br></strong>'To blow the cobwebs away' is the same as 'to blow away the cobwebs'.
+104444	It means to get some fresh air and exercise so that you feel refreshed and can think more clearly.
+110963	So it's about feeling more lively and alert?
+114222	<strong>Neil<br></strong>Yes.
+114999	<strong>Feifei<br></strong>Now how about blowing the cobwebs away with me and going for a run?
+119999	<strong>Neil<br></strong>Running? Oh I don't know. I'm feeling a little tired actually.
+125477	<strong>Feifei<br></strong>Don't be so lazy Neil! Come on, it's time to blow away your cobwebs too!
+130777	<strong>Neil</strong><br> Maybe I could do your housework instead?
+133536	<strong>Both<br></strong>Bye.

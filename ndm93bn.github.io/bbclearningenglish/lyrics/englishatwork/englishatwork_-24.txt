@@ -1,0 +1,44 @@
+1	(Introduction...)
+4479	<strong>Narrator<br></strong>Hello! Welcome back to the offices of Tip Top Trading, where Anna's&nbsp;interview for a sales job continues.
+12315	When we last said goodbye, Tip Top&nbsp;boss Paul had asked Anna why she wanted the job.
+18405	First she said:
+20104	<strong>Anna<br></strong>Errr... mmmmm...
+23271	<strong>Narrator<br></strong>Since then, she's added:
+25680	<strong>Anna<br></strong>Mmmm... errr...
+28862	<strong>Narrator<br></strong>And as we join her again, Anna is saying:
+32224	<strong>Anna<br></strong>Well, errrr... I'm errr...
+36916	<strong>Narrator<br></strong>Come on, Anna! If you can't think of the word you need, find another way of saying it.
+43108	<strong>Anna<br></strong>I am. Well, I really, really want this job and I am willing to work very&nbsp;hard if I get it.
+51563	<strong>Paul<br></strong>So youâ€™re very motivated, then?
+55164	<strong>Anna<br></strong>Motivated! Yes, thatâ€™s it. I am really motivated.
+59351	<strong>Paul<br></strong>Good! Why?
+61437	<strong>Narrator<br></strong>Now over to you Anna; structure your answer!
+65601	Say, 'firstly', then give your&nbsp;first reason, 'secondly' and then a second reason.
+72944	Then say, 'above all' and&nbsp;give a really, really good, enthusiastic final reason!
+80532	Go for it: firstly!
+83012	<strong>Anna<br></strong>Firstly!
+84902	<strong>Paul<br></strong>Firstly.?
+87254	<strong>Anna<br></strong>Firstly, this job is an ideal match for my skills and experience: I've spent&nbsp;several years working in sales and I get on with people easily.
+97617	Well, I mean, apart from the ones I don't like, of course.
+101524	Secondly, I know Tip Top Trading is one of the fastest-growing companies in London, and I want to&nbsp;be part of that.
+109696	<strong>Paul<br></strong>That's absolutely right. Tip Top Trading is the fastest-growing company in&nbsp;the plastic fruit sector.
+116538	But enough about the company; this is all about you, Annabel.
+119437	<strong>Anna<br></strong>Anna.
+120058	<strong>Paul<br></strong>Sorry, Anna. Where were we?
+122157	<strong>Anna<br></strong>Well, I said that firstly, this job is an ideal match for my skills and&nbsp;experience, secondly, the company is growing fast.
+131025	andâ€¦ andâ€¦ above allâ€¦ the reason I want this job isâ€¦
+136725	<strong>Paul<br></strong>Yes? (knock on the door) Denise! Is everything alright?
+142316	<strong>Denise<br></strong>No Paul, itâ€™s not. Everything is not OK!
+147398	<strong>Paul<br></strong>You look pale. Here, sit down, drink what's left of my tea.
+151551	<strong>Denise<br></strong>Oh, thank you! Ohâ€¦ what are those bits floating in it?
+155958	<strong>Paul<br></strong>Oh they're just lumps of soggy biscuit.
+159032	In fact, if I can just... get that bit out... with my finger... for youâ€¦ Mmm, delicious!
+165311	Now, tell me what happened.
+166893	<strong>Denise<br></strong>Well, it's terrible.
+171473	<strong>Narrator<br></strong>Oh dear! Just as Anna was doing really well, it looks like her interview has&nbsp;come to a sudden end.
+178516	Whatâ€™s happened? Join us next time to find out.
+182337	But before we go, here's a reminder of how Anna structured her response: <br>Firstly, this job is an ideal match for my skills and experience <br>Secondly, I know Tip Top Trading is one of the fastest-growing companiesin London andâ€¦<br>above allâ€¦ the reason I want this job isâ€¦
+203363	Anna couldnâ€™t remember the word â€˜motivatedâ€™, so she just found another way of saying what she meant.
+210954	I really, really want the job and I am willing to work very hard if I get it.
+217143	Nice work, Anna!Let's hope you get the chance to finish your interview next week!
+223606	<h3>Listening Challenge - Answer</h3> <br>What word is Anna struggling to remember that means being very enthusiastic<br>and wanting very much to succeed? <br>Motivated.

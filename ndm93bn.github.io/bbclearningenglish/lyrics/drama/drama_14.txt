@@ -1,0 +1,72 @@
+1	(Introduction...)
+13444	<strong>Mary narrator<br></strong>I now know that my uncle is involved in smuggling.
+20000	I also <strong>suspect</strong> that he has murdered a man.
+24800	But if I tell, my aunt will suffer, so I can't do anything.
+31901	Today, I am alone cleaning the kitchen. But the quiet does not last.
+40041	<strong>Mary</strong><br>Who can that be?
+44218	<strong>Mary narrator</strong><br>When I go in the bar, there's a man with a glass of beer. He looks familiar.
+51700	<strong>Mary<br></strong>What do you think you're doing? You can't help yourself to drink!
+56800	<strong>Jem<br></strong>Are you the barmaid?
+58698	<strong>Fill up</strong> my glass.
+60625	<strong>Mary<br></strong><strong>Fill it up</strong> yourself. I'll tell Mr Merlyn you are here.
+65400	<strong>Jem<br></strong>Don't <strong>bother - </strong>he won't want to see me.
+69888	<strong>Mary<br></strong>Well, I can't stand here waiting. <strong>Pay up</strong> and you can go.
+76349	<strong>Jem<br></strong>Do you order Joss around like that?
+79170	<strong>Mary<br></strong>He's my uncle. Patience was my mother's sister.
+83325	Now, I have work to do...uncle!
+89000	<strong>Joss<br></strong>Who the hell are you talking to? I told you to keep your mouth shut!
+94903	Oh, it's you, Jem. What do you want?
+99607	You can <strong>get on with</strong> your work, Mary.
+102800	<strong>Mary narrator<br></strong>So that was Jem, my uncle's brother.
+107986	He's got the same dark eyes and hair, but drink has not ruined his face - it's younger and more handsome.
+123111	<strong>Jem<br></strong>Excuse me - I didn't expect to see a girl like you at Jamaica Inn.
+128777	<strong>Mary<br></strong>My mother died, so I came here.
+131999	I'm glad she isn't alive to see how my aunt lives now.
+136333	I try to help her in the house. What do you do?
+141070	<strong>Jem<br></strong>I steal horses.
+142500	<strong>Mary<br></strong>Oh! Aren't you afraid of being caught?
+145600	<strong>Jem<br></strong>Not really. Listen, I'm being serious now.
+152100	Jamaica Inn is no place for you with its ugly business. I can help you go to Bodmin.
+158400	<strong>Mary<br></strong>I don't need help. I can <strong>look after</strong> myself.
+162222	<strong>Jem<br></strong>Well. I'm going now. But remember - I live in Trewartha if you ever need me.
+169888	<strong>Mary narrator<br></strong>How can I trust him? He's a thief - and he's Joss's brother.
+178800	The loneliness of my situation grips me again. The men have returned.
+196000	From my window, I can see them lifting heavy objects onto the wagons.
+202161	These men are <strong>desperate</strong> and dangerous.
+206778	And Jem...? Did he come to warn his brother that they were coming?
+216999	This morning, I'm doing the washing.
+220700	My uncle is away, so I can almost feel the happiness I used to feel when I worked on the farm.
+232000	<strong>Patience<br></strong>Mary!
+234444	<strong>Mary<br></strong>What is it?
+235333	<strong>Patience<br></strong>Mr Bassat is here - the <strong>magistrate, </strong>with another man.
+238400	What are we going to do? He's never been before: he must know something.
+243777	<strong>Patience<br></strong>What am I going to say?
+246888	<strong>Mary narrator<br></strong>This is my chance to tell an officer about Joss - but look at my aunt.
+254777	She is trembling and terrified.
+258275	<strong>Mary<br></strong>Just say Joss is away.
+260469	<strong>Patience<br></strong>Mary, you won't tell Mr Bassat about the wagons, will you?
+264000	If anything happens to Joss, I'll kill myself.
+269917	<strong>Mr Bassat<br></strong>You took your time. Where's the landlord?
+274100	<strong>Mary<br></strong>He's not here.
+275455	<strong>Mr Bassat<br></strong>When will he be back?
+277000	<strong>Patience<br></strong>He went out after breakfast. I don't know when he's <strong>getting back.
+281100	<strong>Mr Bassat<br></strong><strong>Damn!</strong>Listen to me - your husband is giving this whole area - my land - a bad <strong>reputation</strong>.
+288555	<strong>Patience<br></strong>I don't know what you mean. We live a quiet life here - my niece will tell you!
+294000	<strong>Mr Bassat<br></strong>I'm not a fool. We'll look around now we are here.
+298777	<strong>Mary narrator<br></strong>Mr Bassat is having a good look around the inn. He knows there is something hidden here.
+307297	<strong>Mr Bassat<br></strong>This place is a <strong>disgrace</strong>!
+310150	Call yourself an inn! There isn't one clean room.
+314333	<strong>Patience<br></strong>Mary, Mary - the room by the bar!
+318200	<strong>Mary narrating<br></strong>We come to the locked room.
+322111	<strong>Mary<br></strong>I'm afraid this room is locked.
+324240	<strong>Mr Bassat<br></strong>Why?
+325093	<strong>Mary<br></strong>I don't know.
+326320	<strong>Mr Bassat<br></strong>Have you ever heard wheels and horses at night?
+329845	<strong>Mary<br></strong>No, never.
+331222	<strong>Mr Bassat<br></strong>Where is the key to the room?
+333509	<strong>Mary<br></strong>My uncle has it.
+335022	<strong>Mr Bassat<br></strong>Well, we'll have to <strong>break down</strong> the door, then.
+338777	<strong>Mary narrating<br></strong>I'm afraid. I hate lying to save my uncle - and part of me will be glad if they find <strong>evidence </strong>of his crimes.
+349222	I remember the rope. But the fear of what might lie behind the door is clear in my aunt's eyes.
+358777	For her, it would be the end.
+365000	In the next episode - I meet a man who I can talk to and tell him about the awful things I have seen - but can he be trusted?

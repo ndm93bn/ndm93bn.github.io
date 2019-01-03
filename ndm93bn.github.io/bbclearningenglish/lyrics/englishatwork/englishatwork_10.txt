@@ -1,0 +1,75 @@
+1	(Introduction...)
+8500	<strong>Narrator<br></strong>Welcome back to English at Work where Anna is veryâ€¦ well, very happy! You're in a good mood Anna.
+17400	<strong>Anna<br></strong>Well, I'm just back from France, where everything went really well. It was quite an experience.
+25200	<strong>Narrator<br></strong>Good. You got the contract for that big order.
+28600	All you need to do now is to deliver what youâ€™ve promised.
+32200	<strong>Anna<br></strong>I know<em>.
+36700	<strong>Denise<br></strong>Hello Anna. Is Tom OK? He seems really grumpy since he got back from France.
+44100	<strong>Anna<br></strong>He's fine. He just had to sleep on the sofa last night.
+48180	<strong>Denise<br></strong>Really?! I'm sure that's not what he was planning.
+52103	Now, did Paul mention he's got a new member of staff for you to meet this morning?
+57400	<strong>Anna</strong><br>No.
+58500	<strong>Denise</strong><br>Typical! Well, she's coming up in the lift with Paul now.
+63350	<strong>Anna<br></strong>Oh, so who is she?
+65500	<strong>Denise<br></strong>It's Rachel. Do you remember? Sheâ€™s the woman who Mr Socrates recommended.
+72700	He says she's brilliant and <em>allegedly</em> one of his best employeesâ€¦ oh, here she comes now.
+82800	<strong>Paul<br></strong>â€¦and this is our office. Ah, Anna, there you are.
+87912	Did I mention before you went to France, that Rachel is joining us for a while?
+92500	<strong>Anna</strong><br>No.
+93500	<strong>Paul</strong><br>Ahâ€¦ wellâ€¦ here she is. This is Rachel.
+98600	<strong>Rachel <br></strong>Hi!
+100000	<strong>Anna<br></strong>Hi. I'm Anna. I work here as a sales executive.
+103900	<strong>Rachel<br></strong>I know. You're quite new aren't you, ya?
+108300	<strong>Paul<br></strong>Not that new. She's just won a great contract for us.
+114500	Anyway, looks like you two are going to get on like a house on fire.
+118400	Anna, I'd like you to, sort of, work alongside Rachel.
+124000	<strong>Rachel<br></strong>Alongside? Shouldn't I be in charge?
+128400	<strong>Paul<br></strong>Yesâ€¦ it's just, you know, you're not familiar with our office and Anna is, sort of, across this new contractâ€¦ soâ€¦ if you donâ€™t mind?
+140900	<strong>Rachel<br></strong>OK. Just for now, but don't think Iâ€™m going to be told what to do.
+146650	<strong>Anna <br></strong>I'm sure you won't be Rachel but maybe we could help each other?
+151800	<strong>Rachel <br></strong>I'll try.
+153221	<strong>Anna<br></strong>Good! Oh dear. This is awkward. I've never worked with anyone like <em>this</em> before.
+161900	<strong>Narrator <br></strong>Well, now's your chance Anna. Rachel may be awkward to manage but try these phrases which may help things go more smoothly.
+170759	Say, "I understand you have lots of experience so I would like to use your skills to help with the task."
+178450	And, "Together we can do this job really well."
+182600	But why not just start by making her a cup of tea. Good luck!
+187700	<strong>Anna<br></strong>Oh thanks. Rachel, would you like a cup of tea?
+191600	And then we could talk about this contract.
+194500	<strong>Rachel<br></strong>I don't drink tea. Let's just get down to business.
+199600	<strong>Anna<br></strong>Oh, right.
+201200	<strong>Rachel<br></strong>Now, I think you need to check your stock and make sure you've got your oranges.
+208400	<strong>Anna<br></strong>Errâ€¦ It's lemons actually.
+211100	<strong>Rachel<br></strong>Whatever. Just get them andâ€¦ you knowâ€¦ put them in aâ€¦ thingyâ€¦ a box.
+217800	<strong>Anna<br></strong>Well, actuallyâ€¦ I understand you have lots of experience so maybe we could you use your skills for this task?
+225300	<strong>Rachel<br></strong>Well, it's true, I do have lots of experience. Thanks for recognising that.
+232300	<strong>Anna<br></strong>So maybeâ€¦ we could work on this jobâ€¦ together?
+237190	<strong>Rachel<br></strong>Oh ya, sure. Great. Of course. I can get hold of these orangesâ€¦ errâ€¦ lemons, pronto.
+244800	I know a man who can get some second-hand ones, it'll save us loads of money.
+249700	<strong>Anna<br></strong>But what about the quality?
+252400	<strong>Rachel<br></strong>Quality?! It's the cost we've got to worry about. Keep up Hannah.
+257592	<strong>Anna <br></strong>Anna.
+259000	<strong>Narrator<br></strong>Come on Anna. Don't let her boss you around. It's time to stand your ground.
+264850	If she causes trouble say "let's discuss this so we can agree on a plan of action" or "please respect my decision and letâ€™s move on."
+275000	<strong>Anna <br></strong>Hmm, OK, I'll give it a try. Rachel, I like your enthusiasm butâ€¦ can we discuss this so we can agree on a plan of action?
+287950	<strong>Rachel<br></strong>Of course. Why didn't you say? Come on discussâ€¦ discussâ€¦ talk!
+293860	<strong>Anna<br></strong>Well, we pride ourselves on quality products and our Imperial Lemon is particularly goodâ€¦ and I think our client is expecting that.
+305560	So I would like to send them what I had promised in the contract.
+309500	<strong>Rachel<br></strong>Oh ya, I see. But I'm not really sure you're right.
+316280	<strong>Anna<br></strong>Well, if you could just respect my decision this time and we can move on?
+321508	<strong>Rachel<br></strong>Well, just this once Hannah. But I think I'm going to have to talk to Mr Socrates about you.
+335100	<strong>Narrator<br></strong>Well done Anna for standing your ground.
+338050	It can sometimes be tricky working with a new member of staff, but it's important to try and develop a good working relationship â€“ remember business comes first!
+347950	Let's hear those phrases again:
+351800	<em>I understand you have lots of experience, so I would like to use your skills to help with the task.
+359500	<em>Together we can do this job really well.
+362900	<em>Let's discuss this so we can agree on a plan of action.
+366806	<em>Please respect my decision and let's move on.
+376886	<strong>Tom<br></strong>Hi Anna. Can't believe we were in France this time yesterday.
+380950	<strong>Rachel<br></strong>Oh hello, Tommy boy. Long time no see!
+385922	This is a nice surprise.
+388800	<strong>Tom <br></strong>Errâ€¦ mmmmâ€¦
+391400	<strong>Anna<br></strong>Have you two met before?
+392930	<strong>Rachel <br></strong>We certainly have. Hey Tommy boy?
+397800	<strong>Tom<br></strong>Oh no!
+400000	<strong>Narrator <br></strong>Ha ha. Looks like Tom is lost for words â€“ let's hope he finds them in time for the next episode of English at Work.
+408780	Bye!

@@ -1,0 +1,26 @@
+1	(Introduction...)
+12100	<strong>Feifei<br></strong>Welcome to The English We Speak. I'm Feifei.
+15222	<strong>Neil<br></strong>And I'm Neil.
+16180	<strong>Feifei<br></strong>And Neil, this might be the last ever time we see each other!
+20157	All ready for your new job at... where was it again?
+23701	<strong>Neil<br></strong>A sweet factory.
+25500	<strong>Feifei<br></strong>Quite a big change from radio production.
+27886	<strong>Neil<br></strong>Yeah, well they pay very well. And I love sweets. I'll just <strong>suck it and see</strong>.
+33189	<strong>Feifei<br></strong>Suck...the sweets?
+34900	<strong>Neil<br></strong>No, you know what I mean!
+36400	<strong>Feifei<br></strong>Yes, just kidding. The phrase <strong>suck it and see</strong> is used when you do something new and you're not sure whether you will like it or not - like a new job.
+45100	<strong>Neil<br></strong>Here are some examples:
+50000	<strong>Examples<br></strong>I'm really not confident riding a bike in the centre of town.
+53550	But all my friends do it, so I guess I'll just <strong>suck it and see</strong>.
+58800	I decided to dye my hair blonde, but I'm still not sure about it.
+64305	I'll <strong>suck it and see</strong>. I can always dye it black again!
+72877	<strong>Feifei<br></strong>Well, you'll be pleased to hear Neil isn't really leaving.
+76300	<strong>Neil<br></strong>I realised I can explore my passion for sweets without actually working in a sweet factory.
+81900	In fact, I have some right here.
+84208	<strong>Feifei<br></strong>Ooh, lovely. Very bright colours. Mind if I...?
+87550	<strong>Neil<br></strong>Please, try one.
+88599	<strong>Feifei<br></strong>What flavours are they?
+89860	<strong>Neil<br></strong>I've got no idea. You'll just have to.
+92500	<strong>Feifei<br></strong><strong>Suck it and see</strong>! Mmm.
+95549	<strong>Neil<br></strong>As Feifei is busy, I'll say goodbye for both of us. Bye.
+99600	<strong>Feifei<br></strong>Mmm.

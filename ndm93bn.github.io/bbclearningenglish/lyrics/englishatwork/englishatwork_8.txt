@@ -1,0 +1,59 @@
+1	(Introduction...)
+5300	<strong>Anna  <br></strong>Tom, could you let go of my hand?
+7976	<strong>Tom  <br></strong>Sorry, it's just I get nervous flying.
+12400	<strong>Anna <br></strong>Well, we've landed in Marseille now so you're safeâ€¦ oh, I like your passport photo.
+18612	<strong>Tom  <br></strong>Oh do you?
+20397	<strong>Anna <br></strong>I didn't know your middle name was Stanley.
+23079	<strong>Tom  <br></strong>After my great-great-grandfather.
+26347	<strong>Anna <br></strong>Really? Come on we need to get a taxi. Taxi! Taxi!
+35971	<strong>Narrator</strong>   <br>Hello again. Anna and Tom are on a very important business trip to try and sign a deal to sell their plastic fruit to a company in France.
+46334	The company has received a better offer so Anna needs to convince them that Tip Top Trading's lemons are best. Are you feeling confident Anna?
+55700	<strong>Anna</strong><br>Not really. It was OK speaking to them on the phone but seeing them face-to-face is quite scary.
+63000	<strong>Narrator</strong><br>You'll be fine. Stay calm.
+65900	They'll be pleased you've taken the time to fly out and see them â€“ but tell them you're grateful for their time and recap what you told them on the phone.
+75046	<strong>Anna</strong><br>Oh yes â€“ beat the price of the competitor but get them to make a bigger order.
+82000	<strong>Narrator</strong>   <br>Yes. If they order more you can offer a bigger discount. Good luck.
+87700	<strong>Tom</strong><br>Oh look, we're here now. Now Anna, I hope you don't mind me saying, but just leave the talking to me. Right?
+97883	<strong>Anna</strong><br>Err, wellâ€¦
+99920	<strong>Tom</strong><br>Oh, Madame Brown, ciao, great to see you
+104300	<strong>Trader</strong><br>What?
+105400	<strong>Anna</strong><br>Monsieur Brown. Bonjour. I'm Anna from Tip Top Trading.
+110200	This is my colleague Tom. Thank you for sparing the time to see us.
+114500	<strong>Trader</strong><br>No problem. Did you have a good flight?
+118200	<strong>Tom</strong><br>It was great. I love those little bottles of wine they give outâ€¦ I kept a few with me if you fancy a glass of vin rouge?
+128000	<strong>Anna</strong><br>I think we should sit down and discuss business.
+133800	<strong>Trader</strong><br>Of course.
+135100	<strong>Tom</strong><br>Yeah, yeah, good idea.
+142100	<strong>Anna</strong><br>Now, I believe Tutti Fruity has offered you a good price but as I said on the phone, we can beat that.
+149600	<strong>Trader</strong><br>Yes you did.
+151300	<strong>Tom</strong><br>Did you Anna?!
+153083	<strong>Anna</strong><br>But to get this price you've got to buy lots more.
+157500	<strong>Narrator</strong>   <br>Anna! That's not very subtle. You need to convince them they need to buy more without telling them they have to.
+165600	<strong>Tom</strong><br>What she means is our Imperial Lemons are made with our unique laser curve technology.
+174100	They are hard wearing and a joy to have on display in any shop window or restaurant.
+179900	<strong>Anna</strong><br>Tom, that's amazing!
+182000	<strong>Tom:</strong><br>I read it on the back of the box!
+184400	<strong>Anna</strong><br>So, we really feel that we have a product that you'll be proud to display.
+192000	And to get this fantastic price you just need to place an order of 10,000.
+198382	<strong>Tom</strong><br>And we can even throw in a free sample of our new Perfect Peach range.
+204989	<strong>Anna</strong><br>Each lemon comes with a satisfaction guarantee. I know you won't be disappointed.
+211737	<strong>Trader</strong><br>Hmm. It sounds good. OK, I think you have a deal.
+216999	<strong>Narrator</strong><br>Good work Anna. Don't forget to ask him to sign the contract and tell him when he can expect the order to be delivered.
+225000	<strong>Anna</strong><br>OK. I would be grateful if you could just sign the contract.
+229900	We'll get the lemons to you as quickly as we can. Tom, do you have a pen?
+235788	<strong>Tom</strong><br>Erm, no actually. It was in my bag yesterday but it's goneâ€¦ it was a nice, a good one too.
+243371	<strong>Trader</strong><br>No problem. I have a pen. There you go.
+250692	<strong>Anna</strong><br>Thank you. It was a pleasure doing business with you.
+254600	We'll get those lemons to you in two weeks' time.
+257603	<strong>Trader</strong>    <br>Perfect!
+260800	<strong>Narrator</strong>   <br>Good work Annaâ€¦oh and Tom too. The contract is signed but now you have to deliver what you've promised.
+268200	There are many ways to clinch a deal; here are some of the phrases Anna usedâ€¦
+273100	<em>Thank you for sparing the time to see us.
+276500	<em>Each lemon comes with a satisfaction guarantee - I know you won't be disappointed.
+282500	<em>I would be grateful if you could just sign the contract.
+286700	<em>Thank you. It was a pleasure doing business with you.
+291800	<strong>Narrator</strong>   <br>So it's been a successful day. It's time for Tom and Anna to fly back to London and tell Paul the good newsâ€¦ or is it?
+300999	<strong>Anna</strong><br>Oh no look, our flight to London is cancelled!
+305493	It's the last one today. What are we going to do?
+309500	<strong>Tom</strong><br>Well, I guess we're just going to have to stay here for the night. I'll sort out a hotel.
+316400	<strong>Narrator</strong>   <br>Until next time. Bye!

@@ -1,0 +1,63 @@
+1	(Introduction...)
+11800	<strong>Rob</strong><strong><br></strong>Hello. Welcome to 6 Minute Grammar with me, Rob.
+14900	<strong>Catherine <br></strong>And me, Catherine. Hello.
+16400	<strong>Rob<br></strong>Today we're talking about the past perfect tense.
+19300	<strong>Catherine <br></strong>Yes, the past perfect. When we want to talk about two things that happened at different times in the past, we can use the past perfect tense - that's a subject with <strong>had</strong> plus the <strong>past participle</strong>.
+34900	And here's Harry with our first example:
+38000	<strong>Harry <br></strong><strong>Mary rang John's doorbell at 8.15 yesterday, but John had gone to work.
+44000	<strong>Catherine<br></strong>And let's hear that again.
+46000	<strong><strong>Harry <br></strong><strong>Mary rang John's doorbell at 8.15 yesterday, but John had gone to work.
+52000	<strong>Rob</strong> <br>Thanks Harry. Now we could put these two events in the past simple tense, something like this:
+58200	<strong>Harry <br></strong><strong>John went to work. Then Mary rang John's doorbell.
+62400	<strong>Rob<br></strong>And once again Harry.
+64700	<strong>Harry <br></strong><strong>John went to work. Then Mary rang John's doorbell.
+68701	<strong>Catherine</strong> <br>Or, we can change the order of events in the sentence, and use the past perfect - that's <strong>had </strong>with a <strong>past participle</strong> - to show which event actually happened first.
+80760	<strong>Harry <br></strong><strong>Mary rang John's doorbell at 8.15 yesterday, but John had gone to work.
+86200	<strong>Catherine<br></strong>And once again.
+87617	<strong>Harry <br></strong><strong>Mary rang John's doorbell at 8.15 yesterday, but John had gone to work.
+93900	<strong>Rob</strong> <br>And here, the past perfect in <strong>John had gone</strong> shows that this happened before the past simple phrase <strong>Mary rang John's doorbell</strong>.
+103200	So we have: <strong>Mary rang John's doorbell at 8.15 yesterday, but John had gone to work.
+109400	<strong>Catherine <br></strong>Exactly. Now, let's look at some more examples.
+113000	<strong>Harry <br></strong><strong>I was pleased when I got a text from Jim, because I'd lost his number.
+118000	<strong>Rob<br></strong>Let's hear that again.
+119700	<strong>Harry <br></strong><strong>I was pleased when I got a text from Jim, because I'd lost his number.
+124700	<strong>Catherine</strong> <br>So we've got two past events. First, Harry lost Jim's number; then he got his text.
+133100	But in Harry's sentence, the event that happened first in time is mentioned second in the sentence.
+140200	<strong>Rob <br></strong>So he uses the past perfect - <strong>I'd lost his number</strong> - to show that the second event he mentions, actually happened first.
+148400	<strong>Harry <br></strong><strong>I was pleased when I got a text from Jim, because I'd lost his number.
+155000	<strong>Rob</strong> <br>Now in spoken English, the past perfect can sometimes be difficult to hear.
+160300	<strong>Catherine</strong> <br>Yes that's true - in our example just now, the two words <strong>I had</strong> are shortened to <strong>I'd</strong>. I'd lost his number.
+171100	<strong>Rob</strong> <br>So <strong>had</strong> is shortened to just a /d/ sound. Listen out for the short /d/ sound in this next example:
+177800	<strong>Harry <br></strong><strong>When Mrs Brown opened the washing machine she realised she'd washed her phone.
+183200	<strong>Rob<br></strong>And again.
+184800	<strong>Harry <br></strong><strong>When Mrs Brown opened the washing machine she realised she'd washed her phone.
+190100	<strong>Catherine</strong><br>Did you catch that?
+191400	<strong>Rob<br></strong>First, Mrs Brown washed her phone in the washing machine.
+195200	Then she opened the washing machine. Then she realised. She'd washed her phone!
+199800	<strong>Catherine<br></strong>Yes, and the phrase <strong>she had washed</strong> is shortened to <strong>she'd washed</strong>. One more time please Harry.
+207100	<strong>Harry <br></strong><strong>When Mrs Brown opened the washing machine she realised she'd washed her phone.
+212400	<strong>Rob</strong> <br>Oops - that's an expensive mistake. Poor Mrs Brown!
+215100	<strong>Catherine <br></strong>Yeah, she won't do that again!
+216600	<strong>IDENT <br></strong>6 Minute Grammar from bbclearningenglish.com.
+222100	<strong>Catherine<br></strong>Now for a quiz. I'm going to say some sentences and, as you listen, try to decide what happened first, and what happened second.
+230800	Here's the first one. <strong>I woke up late because I'd forgotten to set the alarm.
+237000	<strong>Rob</strong> <br>OK, so the past perfect here is <strong>I'd forgotten</strong>, and the order of events was: first, I forgot to set the alarm, and second, I woke up late. Here it is again.
+249100	<strong>Harry <br></strong><strong>I woke up late because I'd forgotten to set the alarm.
+252900	<strong>Catherine</strong> <br>Great. Another one: <strong>I hadn't brought a towel, so I couldn't have a shower.
+259100	<strong>Rob</strong> <br>How embarrassing. OK, and we've got the negative of had, which is <strong>hadn't</strong>.
+264100	So first, I didn't bring a towel, and second, I couldn't have a shower. Here it is again.
+269700	<strong>Harry<br></strong><strong>I hadn't brought a towel, so I couldn't have a shower.
+273400	<strong>Catherine</strong> <br>Good. And for the last one: <strong>When they got to the station, they realised they'd left the tickets at home.
+281400	<strong>Rob <br></strong>This one has three events: first, they left the tickets at home.
+286194	Second, they got to the station. And third, they realised that the tickets were at home.
+291600	<strong>Catherine <br></strong>Yes and the past perfect phrase <strong>they had left</strong>, was shortened to <strong>they'd left</strong> - which helps us show that order.
+299800	<strong>Harry<br></strong><strong>When they got to the station, they realised they'd left the tickets at home.
+304400	<strong>Rob</strong> <br>Now, a mistake people sometimes make with the past perfect is: they use it too much, or they use it just because they are talking about something that happened a long time ago. Such as.
+314831	<strong>Harry<br></strong><strong>Jackie had gone to a football match last month.
+317626	<strong>Catherine</strong> <br>Yes - there's only one past event here, so we probably just need the past simple tense:
+324300	<strong>Harry<br></strong><strong>Jackie went to a football match last month.
+328500	<strong>Rob <br></strong>So that's the past perfect.
+330620	It's made of <strong>had</strong> plus the <strong>past participle</strong> and we mainly use it to talk about a past event that happened before another past event.
+338300	<strong>Catherine</strong> <br>There's more about this on our website at bbclearningenglish.com.
+342848	Join us again for more 6 Minute Grammar.
+345600	<strong>All</strong> <br>Bye.

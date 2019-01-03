@@ -1,0 +1,60 @@
+1	(Introduction...)
+12333	<strong>Neil<br></strong>Hello and welcome to 6 Minute Vocabulary. Iâ€™m Neil.
+16633	<strong>Sophie<br></strong>And Iâ€™m Sophie. Hi, Neil, Iâ€™ve got a question for you.
+20800	<strong>Neil<br></strong>OKâ€¦
+22000	<strong>Sophie<br></strong>Whatâ€™s black and white and read all over?
+25888	<strong>Neil<br></strong>Whatâ€™s black and white, and red all over? I donâ€™t know that. Go on, tell meâ€¦
+34555	<strong>Sophie<br></strong>A newspaper.
+35999	<strong>Neil<br></strong>Oh â€“ I seeâ€¦ so it wasn't the colour red, but read [/red/] as in the past form of read [/ri:d/].
+44222	White paper, black writing and the â€˜read all overâ€™ bit means people read it. Very good, Sophie. You should go into comedy.
+52900	<strong>Sophie<br></strong>Iâ€™m not too sure about that, Neil. Sorry for the bad joke everyone, but words that sound the same but have different meanings is actually our topic for todayâ€™s show.
+62811	<strong>Neil<br></strong>Thatâ€™s right â€“ homophones, words that sound the same but have different spellings and different meaningsâ€¦ Letâ€™s listen to Mark and Jane.
+73111	<strong>Sophie<br></strong>Markâ€™s just had an accident in the kitchen.
+75777	<strong>Neil<br></strong>And hereâ€™s a question for you to think about while you listen: what has Mark got on his jeans?
+83111	<strong>INSERT</strong> <br><strong>Jane<br></strong>Whatâ€™s wrong, Mark? You look really angry.
+85674	<strong>Mark<br></strong>Whatâ€™s wrong, Jane?! Canâ€™t you see? Iâ€™ve got flour all over my jeans.
+91444	<strong>Jane<br></strong>Youâ€™ve got a flower on your jeans? I didnâ€™t know you liked pretty thingsâ€¦
+96111	<strong>Mark<br></strong>Not a flower, Jane. Flour! Look.
+101933	<strong>Jane<br></strong>Ahh, Mark! Youâ€™re making me a birthday cake. Ahhâ€¦
+106999	<strong>Neil<br></strong>So, thatâ€™s Mark and Jane.
+109777	<strong>Sophie<br></strong>And we asked you what Mark had got on his jeans.
+113222	<strong>Neil<br></strong>And of course, the answer was <strong>flour</strong>.
+116491	The kind of flour you use to make bread and cakes.
+120000	And <strong>flour</strong> is spelt <strong>f-l-o-u-r</strong>.
+125777	<strong>Sophie<br></strong>Jane thought it was a different kind of <strong>flower</strong>, f-l-o-w-e-r, the brightly coloured and sweet-smelling plant you might have in your garden.
+137000	<strong>Neil<br></strong>Thatâ€™s right, <strong>flour</strong>, f-l-o-u-r, and <strong>flower</strong>, f-l-o-w-e-r, are homophones â€“ words that sound the same, but have different spellings and different meanings.
+154922	Now, homophones can be difficult to learn, and the reason is because they sound exactly the same.
+161900	<strong>Sophie<br></strong>Thatâ€™s right. And here are some more examplesâ€¦
+165222	<strong>Neil<br></strong><strong>Mail</strong>, m-a-i-l, meaning letters and parcels you send in the post, and <strong>male</strong>, m-a-l-e, the opposite of female.
+181665	<strong>Sophie<br></strong>And hereâ€™s another one: <strong>right</strong>, r-i-g-h-t, the opposite of left, and <strong>write</strong>, w-r-i-t-e, like write a letter.
+196100	<strong>Neil<br></strong>Hereâ€™s one: <strong>peace</strong>, p-e-a-c-e, when itâ€™s quiet and calm, and <strong>piece</strong>, p-i-e-c-e, a part of something â€“ a piece of cake!
+213900	<strong>Sophie<br></strong>And one more: <strong>tail</strong>, t-a-i-l, the long, narrow part that sticks out of the back of an animal's body and <strong>tale</strong>, t-a-l-e, a kind of story.
+228204	Whatâ€™s your favourite fairy tale, Neil?
+231000	<strong>Neil<br></strong>Well, I really like The Emperorâ€™s New Clothes. I think itâ€™s really relevant still today. Even for grown-ups.
+240188	<strong>Sophie<br></strong>Itâ€™s a great story.
+241444	<strong>IDENT<br></strong>Youâ€™re listening to bbclearningenglish.com.
+246900	<strong>Neil<br></strong>And weâ€™re talking about homophones.
+249444	<strong>Sophie<br></strong>Thatâ€™s words which are spelt differently and have different meanings, but sound the same.
+254777	<strong>Neil<br></strong>And now itâ€™s time for a quiz. Iâ€™m going to read a sentence with one of the homophones from todayâ€™s show.
+262623	Try to spell the word correctly as you listen and Sophie will tell you the answers afterwards.
+268922	<strong>Sophie<br></strong>Good luck!
+270000	<strong>Neil<br></strong>Are you ready? Number one. <strong>Ben gave his girlfriend a flower for Valentineâ€™s Day</strong>.
+278333	Now how do you spell <strong>flower</strong> there?
+282111	<strong>Sophie<br></strong>Unless she wanted to bake bread, he gave her a <strong>flower, f-l-o-w-e-r</strong>.
+289777	<strong>Neil<br></strong>Correct. Well done if you got that one right.
+292646	Number two. <strong>The dog is wagging its tail</strong>.
+296955	How do you spell <strong>tail</strong>?
+299000	<strong>Sophie<br></strong>This is part of an animalâ€™s body, so itâ€™s <strong>t-a-i-l</strong>.
+304500	<strong>Neil<br></strong>And well done if you got that one at home.
+307111	Finally:<strong> The postman put the letters on the table on the right.</strong>
+313000	How do you spell <strong>right</strong>?
+315111	<strong>Sophie<br></strong>The tableâ€™s on the <strong>right</strong>, not on the left, so itâ€™s <strong>r-i-g-h-t</strong>.
+323222	<strong>Neil<br></strong>Well done to everyone at home who got those right.
+326301	<strong>Sophie<br></strong>And that almost brings us to the end of the programme.
+329410	But before we go, hereâ€™s todayâ€™s top tip for learning vocabulary.
+334236	Homophones are difficult to spell correctly when you hear them because they sound the same.
+340444	So, if you think a word might be a homophone, read or listen to the words around it very carefully.
+348121	That will help you get a better idea what word it is and how to spell it.
+353333	<strong>Neil<br></strong>Thereâ€™s more about homophones at bbclearningenglish.com.
+357806	Join us again for more 6 Minute Vocabulary.
+360600	<strong>Both<br></strong>Bye!

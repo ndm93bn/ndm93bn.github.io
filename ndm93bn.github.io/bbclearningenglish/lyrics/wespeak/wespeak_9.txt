@@ -1,0 +1,26 @@
+1	(Introduction...)
+6800	<strong>Feifei<br></strong>Hello and welcome to The English We Speak. I'm Feifei.
+10600	<strong>Rob<br></strong>And I'm Rob. So Feifei, have you got any holiday plans?
+14950	<strong>Feifei<br></strong>Yes I have actually. Three weeks in Australia.
+18700	<strong>Rob<br></strong>Australia - wonderful! If I had the money, I'd go there <strong>at the drop of a hat</strong>.
+24088	<strong>Feifei<br></strong>What? <strong>At the drop of a hat</strong>? Here, take my hat.
+29200	<strong>Rob<br></strong>Your hat?
+30381	<strong>Feifei<br></strong>Yes, you said you'd go <strong>at the drop of hat</strong>, so here's my hat, now drop it - and then you can go.
+37620	<strong>Rob<br></strong>I wish it was that simple.
+39700	When I said <strong>at the drop of a hat</strong> I meant 'mmediately'.
+43100	If I had enough money, I would go to Australia immediately - without delay.
+47300	<strong>Feifei<br></strong>I see. So in other words, you would go to Australia without hesitation.
+52300	<strong>Rob<br></strong>Exactly. Let's hear some more examples.
+58000	<strong>Examples<br></strong>My husband just can't stop spending - he buys clothes <strong>at the drop of a hat</strong>!
+66800	If I knew what to do next, I'd quit my job <strong>at the drop of a hat</strong>. Until then, I'll stay where I am.
+74800	My wife's expecting a baby so I might have to rush to the hospital <strong>at the drop of a hat</strong>.
+83000	<strong>Feifei<br></strong>To do something <strong>at a drop of a hat</strong> means to do something immediately without even thinking about it.
+89700	Well Rob, I'll send you a postcard when I get to Australia but it may take a while.
+94978	<strong>Rob<br></strong>Why's that?
+96000	<strong>Feifei<br></strong>Well I'm going skiing in France first.
+99142	<strong>Rob<br></strong>Oh, well that's somewhere where you really don't want to drop your hat - it'll be freezing!
+104500	<strong>Feifei<br></strong>So you don't fancy coming with me then?
+106988	<strong>Rob<br></strong>Skiing? No, that's something I wouldn't do <strong>at the drop of a hat</strong>.
+111100	I'll think about it. But have fun.
+113200	<strong>Feifei<br></strong>Thanks.
+113800	<strong>Both<br></strong>Bye!

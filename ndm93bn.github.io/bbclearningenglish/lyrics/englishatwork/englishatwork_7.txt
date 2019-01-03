@@ -1,0 +1,63 @@
+1	(Introduction...)
+6900	<strong>Narrator</strong><br>Hello again. Well, this is very exciting!
+10800	Paul, the boss, is sending Anna and Tom on a business trip to France.
+15976	He wants them to clinch the deal with a company interested in buying their Imperial Lemons.
+21700	But has Tom got more than business on his mind?
+28100	<strong>Tom</strong> <br>Really? Whatâ€¦ me and Annaâ€¦ to France?
+32800	<strong>Paul</strong><br>Yes but make sure you get that contract signed. We need the business.
+37111	<strong>Tom</strong> <br>Yeah, yeah, of course. Are we staying overnight?
+40800	<strong>Paul</strong> <br>There's no money for that â€“ just get there and come straight back.
+44600	Oh and could you bring back those nice French biscuits that have in the duty-free shop?
+49400	<strong>Tom</strong> <br>Sure. So, Anna, we're off on holiday together are we?!
+54300	<strong>Anna</strong> <br>No! But I've got to book the flights online, can you help me please?
+59400	<strong>Tom</strong> <br>It's not my thing. I'm sure Denise will help. I need to go and pack for this trip.
+69222	<strong>Denise</strong><br>Yes Margeâ€¦ in the cupboardâ€¦ envelopes apparentlyâ€¦ Tom and Annaâ€¦ oh here she isâ€¦ got to go Margeâ€¦ bye.
+81334	Hello Anna, everything OK?
+84300	<strong>Anna</strong> <br>Sort of. I've got to go to France with Tom.
+88100	<strong>Denise</strong><br>Yes, I know. I thought you'd be pleased to go with Tom, after your time in the stationery cupboard with him!
+95200	<strong>Anna</strong>  <br>I was just finding an envelope Denise.
+98300	Anyway, I'm worried about booking the flights online.
+102200	I usually book flights at a travel agent's.
+105108	<strong>Denise</strong><br>It's company policy now, we have to do everything online â€“ even my food shopping â€“ but donâ€™t tell Paul.
+113200	<strong>Anna</strong> <br>Oh right. So where shall I begin?
+117032	<strong>Denise</strong> <br>Pull up a chair Anna and we'll log on.
+124200	Right let's start with the British Airlines website.
+130111	There. London to Marseille. What is the outbound date?
+134700	<strong>Anna</strong> <br>Going out tomorrow, back tomorrow.
+140500	<strong>Denise</strong><br>Business class or Economy class? I think we'll say Economy.
+145726	<strong>Anna</strong> <br>That's cheaper I guess. What's this mean? Flexible or fixed?
+151000	<strong>Denise</strong> <br>A flexible ticket means you can change your flight but a fixed one means you can't â€“ and that's cheaper so we'll choose that one.
+159800	I'll book you on the 8am flight from Heathrow and flying home at 6pm.
+165600	I just need to type in your full names now and select your seats. Window or aisle?
+174200	<strong>Anna</strong> <br>I'll what?
+175600	<strong>Denise</strong> <br>No Anna. A seat by the aisle or by the window?
+180082	<strong>Anna</strong> <br>Oh, an aisle seat please, Denise.
+182700	<strong>Denise</strong> <br>Good. What's your frequent flyer number?
+186200	<strong>Anna</strong> <br>Oh I don't have one of those.
+188370	<strong>Tom</strong> <br>What's that? Frequent flyer number? Here I've got a gold status card, can you stick my number in?
+195300	<strong>Denise</strong>  <br>Gold status! Where did you get that?
+199500	<strong>Tom</strong> <br>Oh, I've flown loads of times for business. I've done deals all around the world.
+205800	<strong>Narrator</strong>  <br>He means he's been on lots of jollies â€“ free trips paid for by the company â€“ and all he's come home with is a sun tan!
+214023	<strong>Denise</strong><br>Hmm, really. Right I just need to pay nowâ€¦ using the company account of course.
+222000	<strong>Tom</strong> <br>Cool. Now, what do you think of my sunglasses?
+226600	<strong>Anna</strong> <br>Lovely Tom. Denise has booked you a window seat OK?
+232000	<strong>Tom</strong> <br>No! Sorry I can't sit by the windowâ€¦ Iâ€™mâ€¦ errrâ€¦
+237200	<strong>Denise</strong> <br>Yes Tom?
+238500	<strong>Tom</strong> <br>Well, I mean, it's only polite that the lady sits by the window.
+242400	<strong>Denise</strong> <br>Really?!
+248700	<strong>Narrator<br></strong>What's Tom like?! Hopefully he'll prove a useful business partner for Anna on the trip to France.
+255800	Here's a reminder of some of the questions you may be asked when booking a flightâ€¦
+260200	<em>What's the outbound and return date?
+264008	<em>Do you want to fly business or economy?
+267600	<em>Do you want a fixed or flexible ticket?
+271600	<em>Would you like a window or aisle seat?
+275391	<em>Have you got a frequent flyer number?
+284000	<strong>Denise</strong> <br>There you go you two, your e-ticket. Now don't forget your passports.
+289800	<strong>Tom</strong> <br>Thanks Denise. Hey Anna, I'm so pleased that we're on this trip together.
+295100	It'll be nice to spend some time with you.
+297777	<strong>Anna</strong> <br>Yes and to do some business and really show Paul we are his best employees.
+305000	<strong>Tom</strong> <br>Oh yeah, of courseâ€¦ I just wonderedâ€¦
+309300	<strong>Anna</strong><br>Yes?
+310666	<strong>Tom</strong> <br>Is there any chance I could sit in the aisle seat?
+314000	<strong>Narrator</strong><br>I've got a feeling Anna's in for a bumpy ride.
+317666	Find out how their trip goes next time on English at Work. See ya!

@@ -1,0 +1,27 @@
+1	(Introduction...)
+12555	<strong>Feifei<br></strong>Hello, welcome to The English We Speak, I'm Feifei.
+16700	<strong>Neil<br></strong>...and hello, I'm Neil. So Feifei, did you enjoy Jane's leaving party last night?
+22000	<strong>Feifei<br></strong>Oh yeah, it was great. Free food and free drink.
+26140	<strong>Neil<br></strong>But that was the only reason was it?
+28700	Weren't you sad to see her leave? You've worked with her for many years.
+32806	<strong>Feifei<br></strong>Oh...right...yes. Very sad. Such a shame to see her go. We were such good friends.
+39880	<strong>Neil<br></strong>Friends! Really? Didn't she tell the boss when you took that extra-long lunch break?
+44940	<strong>Feifei<br></strong>Oh yeah - but generally, we were best buddies.
+48990	<strong>Neil<br></strong>Hmm, and didn't you once punch her when she tried to chat up your boyfriend at the Christmas party?
+54202	<strong>Feifei<br></strong>OK, OK, I didn't like her that much.
+57850	<strong>Neil<br></strong>Well it sounds like you were really her 'frenemy' - someone who pretends to be her friend but is really her enemy.
+64998	It's a combination of two words - friend and enemy. Get it?
+68888	<strong>Feifei<br></strong>Yes, a fren-emy! Hmm, I've never had one of those before.
+73666	<strong>Neil<br></strong>Really? Well let's hear this word in action.
+77700	<strong>Examples<br></strong>She seems so false, I wouldn't trust her - she's just a frenemy.
+84304	Tania's been my frenemy for years - I'd go for a quick drink with her but that's it!
+89622	Tom's just my frenemy - I pretend to like him but really I can't stand him!
+96802	<strong>Feifei<br></strong>If you pretend to be friends with someone but in reality you don't like each other then they are your 'frenemy'.
+104522	I wonder if I was <em>her</em> frenemy?
+107333	<strong>Neil<br></strong>I'm afraid you were. She told me she was only friends with you so she could share your biscuits - and she didn't really like you.
+114000	She told me at the party last night.
+115700	<strong>Feifei<br></strong>Thank goodness we're real friends Neil - at least we can be honest with each other.
+121713	<strong>Neil<br></strong>Well actually, I don't like you much either.
+124988	I only pretend to be your friend when I'm presenting this programme!
+128400	<strong>Feifei<br></strong>Oh no! Now I've got two frenemies!
+133000	<strong>Neil<br></strong>Oh don't cry Feifei. I was only joking.

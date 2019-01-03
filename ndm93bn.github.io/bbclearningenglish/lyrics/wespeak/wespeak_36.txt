@@ -1,0 +1,24 @@
+1	(Introduction...)
+14000	<strong>Feifei</strong><br>Hello and welcome to The English We Speak. I'm Feifei.
+18333	<strong>Rob</strong><br>...and hello, I'm Rob.
+19800	<strong>Feifei</strong><br>Hey Rob, do you know what's going on in the office today?
+23333	The boss has been shouting, Helen's crying and Neil doesn't look very happy either.
+28888	<strong>Rob</strong><br>Beats me. Ouch. What did you do that for?
+32953	<strong>Feifei</strong><br>You said 'beat me'.
+34777	<strong>Rob</strong><br>No, no - I mean it beats me...ouch!
+39018	<strong>Feifei</strong><br>You are strange Rob.
+41055	<strong>Rob</strong><br>No Feifei. I said 'it beats me' to mean I don't know or I don't understand something.
+47234	<strong>Feifei</strong><br>I knew that Rob - I just liked hitting you with this stick!
+51777	<strong>Rob</strong><br>Ha! Very funny. Shall we hear some examples?
+56738	<strong>Examples</strong><br>It beats me how Stephanie ever got that promotion.
+59888	A: Can you believe that Dave and Andrea are still married! He's always bossing her around.
+65222	<br>B: It beats me why she stays with him. It beats me how Jen can afford a new sports car when she only works part-time.
+76000	<strong>Feifei</strong><br>So that is 'it beats me' - a phrase used for saying that you do not know or understand something.
+83201	So there's no beating involved!
+85333	<strong>Rob</strong><br>Definitely not. So now I can safely say, it beats me what's going on in the office - I haven't got a clue.
+92600	<strong>Feifei</strong><br>Well the situation seemed very tense and the boss was shouting something about mice.
+98222	<strong>Rob</strong><br>Mice...ah yes, well in that case, it could be that I left my lunch on my desk overnight and it's possible the mice have found it and eaten it? They do get everywhere.
+109888	<strong>Feifei</strong><br>Mice! In our office? I hate mice.
+114444	<strong>Rob</strong><br>Ouch...why are you beating me again?
+117542	I think it's time to go. Bye.
+120142	<strong>Feifei</strong><br>Bye.

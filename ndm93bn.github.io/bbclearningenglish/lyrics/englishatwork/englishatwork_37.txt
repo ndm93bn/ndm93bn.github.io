@@ -1,0 +1,35 @@
+1	(Introduction...)
+5666	<strong>Narrator<br></strong>Welcome back to the offices of Tip Top Trading where there's a bit of confusion. Annaâ€¦
+12822	<strong>Anna<br></strong>Yes?
+13555	<strong>Narrator<br></strong>I think Tom's got the wrong end of the stick.
+16511	<strong>Anna<br></strong>But I didn't give him a stick.
+18666	<strong>Narrator<br></strong>No, no. I think there's been a misunderstanding.
+22666	When you said your answer was 'yes' he thought you meant 'yes, I'll marry you'!
+28666	<strong>Anna<br></strong>Oh no! I meant yes to the promotion.
+32982	Gosh I've got to sort this out. Tom, Tom, hold on please.
+38752	<strong>Tom<br></strong>We can't hang about Anna. Let's fix a date, invite everyone â€“ even Paul.
+45111	<strong>Anna<br></strong>No, no, we can't.
+47222	<strong>Tom<br></strong>You're right, not Paul â€“ he just talks about biscuits.
+50055	<strong>Anna<br></strong>No. I mean 'no', we can't get married.
+53888	I meant yes to the promotion. I can't marry you.
+58666	<strong>Tom<br></strong>What? So when you said 'yes' you meant 'no'?
+63677	<strong>Anna<br></strong>Yes.
+65666	<strong>Tom<br></strong>I see. Right, that's it.
+69646	Anna, I've made it very clear what I think about you and youâ€¦ youâ€¦ just throw it back in my face.
+76477	I've had enoughâ€¦ enough of youâ€¦ enough of this company. I quit!
+80857	<strong>Narrator<br></strong>Anna. I think he's upset. He's having a tantrum.
+86999	<strong>Anna<br></strong>A tantrum â€“ is that serious?
+90222	<strong>Narrator<br></strong>Not really. Maybe you need to calm him down and make him change his mind.
+95011	Tell him 'not to be too hasty', 'don't rush into a decision' and say 'we can work this out' â€“ you can can't you?
+103688	<strong>Anna<br></strong>I think I can. Tom, please, don't be too hasty.
+110333	Let's talk about this. We can work something out, just don't rush into making a decision â€“ please.
+117388	You're my best â€“ my only â€“ sales executive.
+122555	<strong>Tom<br></strong>Sorry Anna â€“ I'm a free spirit. I must go where the wind takes me.
+127200	You've had your chance, now itâ€™s mine. Iâ€™m off.
+134666	<strong>Narrator<br></strong>Wow, I've never seen Tom be such aâ€¦ man.
+139800	Will this be the last time we ever see him?
+142111	Here are some of the phrases Anna used to try and get Tom not to leave:
+147111	<em>Don't be too hasty</em>
+149110	<em>Don't rush into making a decision</em>
+152098	<em>We can work this out</em>
+155999	<strong>Tom<br></strong>â€¦erm, sorry, I just forgot to take my special mug. Bye.

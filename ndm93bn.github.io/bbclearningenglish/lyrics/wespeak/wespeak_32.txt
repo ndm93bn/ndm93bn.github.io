@@ -1,0 +1,28 @@
+1	(Introduction...)
+13222	<strong>Rob</strong><br>Hello, I'm Rob.
+14999	<strong>Feifei</strong><br>...and I'm Feifei and this is The English We Speak.
+18400	<strong>Rob</strong><br>So Feifei, what are you doing this weekend?
+20888	<strong>Feifei</strong><br>I thought I'd do some sightseeing in London - I never get time to see my home city, so that's what I'm going to do.
+28050	<strong>Rob</strong><br>Good idea. You mean the Tower of London, St Paul's Cathedral, Westminster Abbey.
+33155	<strong>Feifei</strong><br>...yes and especially Big Ben. I've always wanted to stand underneath and hear the clock strike 12.
+40400	<strong>Rob</strong><br>Do you know what, I might the do same thing. When you're there, give us a bell and I'll come and meet you.
+46888	<strong>Feifei</strong><br>'Give us a bell'? There is no way I can give you a bell - do you know how heavy it is?
+52444	<strong>Rob</strong><br>Errr, I don't want a bell from the clock tower.
+55865	I just meant, give me a call - on your phone. Give us a bell!
+59695	<strong>Feifei</strong><br>Why didn't you just say that!
+61666	<strong>Rob</strong><br>'A bell' originates from the days when phones had a bell that rang when someone called it.
+67800	So when I say 'a bell', I mean 'a call'. So will you 'give us a bell'?
+72300	<strong>Feifei</strong><br>Let me just think about that, while we hear some more examples.
+78032	<strong>Examples</strong><br>When you get there, give us a bell and tell us what it's like.
+81999	Just give us a bell and I'll tell you how to get here.
+85036	After our blind date, he told me to give him a bell but every time I call it his phone diverts to voicemail.
+96969	<strong>Feifei</strong><br>That's give me - or give us - a bell, meaning phone me!
+101826	But Rob, you said give US a call - are you going to be with someone else?
+107188	<strong>Rob</strong><br>No. In informal English we tend to say 'us' even when there's just one of us - just me.
+113292	But of course 'us' can mean more than one person.
+116915	<strong>Feifei</strong><br>Right. But this weekend you want me to call you because you'll be on your own and you've got nothing else to do - so you want to spend the day sightseeing with me?
+127777	<strong>Rob</strong><br>Yes. Just give us a bell and I'll be there.
+131111	<strong>Feifei</strong><br>Hmmm, well sorry I can't - I haven't got your number.
+135924	<strong>Rob</strong><br>Well, I could give you a bell - what's your number again?
+140000	<strong>Feifei</strong><br>Ah, saved by the bell - sorry, got to go, maybe next time. See ya.
+146111	<strong>Rob</strong><br>Oh. Bye

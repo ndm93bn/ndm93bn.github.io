@@ -1,0 +1,81 @@
+1	(Introduction...)
+13600	<strong>Narrator<br></strong>Jack has asked Gwendolen to marry him. She thinks his name is Ernest, her favourite name, and has happily accepted.
+22729	But her mother, Lady Bracknell, is not pleased about the engagement. She wants to ask Jack some questions about his background and finances.
+34777	<strong>Lady Bracknell<br></strong>Now, Mr Worthing, I am quite prepared to add your name to my list of <strong>eligible</strong> young men for my daughter if you answer my questions in a suitable way. Do you smoke?
+48200	<strong>Jack</strong><br>Well, yes, I do.
+50550	<strong>Lady Bracknell<br></strong>I'm glad to hear it. How old are you?
+53109	<strong>Jack</strong><br>Twenty-nine.
+54222	<strong>Lady Bracknell </strong> <br>The <strong>best</strong> age to be married in my opinion. What is your <strong>income</strong>?
+58111	<strong>Jack</strong><br>Between seven and eight thousand a year.
+61750	<strong>Lady Bracknell </strong> <br>Seven and eight thousand. Do you own a house?
+67688	<strong>Jack</strong><br>Well, I have a country house with some land.
+70333	<strong>Lady Bracknell</strong><br>A country house! How many bedrooms? You have a town house, I hope?
+74444	A girl like Gwendolen could not be expected to live in the country.
+77777	<strong>Jack</strong><br>Well, I own a house in Belgrave Square, but I rent it to Lady Bloxham.
+82777	<strong>Lady Bracknell<br></strong>Very well. Now to <strong>more minor</strong> subjects. Are your parents living?
+91444	<strong>Jack</strong><br>I have lost both my parents.
+94666	<strong>Lady Bracknell </strong> <br>To lose one parent, Mr Worthing, is unlucky; to lose both looks like carelessness. Who was your father?
+102900	<strong>Jack</strong><br>I'm afraid I don't know. The fact is, Lady Bracknell, I said I had lost my parents.
+109777	It would be <strong>more truthful</strong> to say that my parents lost me.
+114222	I was...well, I was found.
+117500	<strong>Lady Bracknell</strong><br>Found!
+118888	<strong>Jack</strong><br>The <strong>late</strong> Mr Cardew, one of <strong>the</strong> <strong>kindest</strong> <strong>gentlemen</strong> I've ever met, found me, and gave me the name of Worthing, because he happened to have a ticket for Worthing in his pocket at the time.
+130700	Worthing is in <strong>Sussex</strong>. It's <strong>the most delightful</strong> seaside resort.
+137888	<strong>Lady Bracknell</strong><br>Where did this kind gentleman find you?
+141162	<strong>Jack</strong><br>In a handbag.
+142888	<strong>Lady Bracknell</strong><br>A handbag?
+144644	<strong>Jack</strong><br>Yes, Lady Bracknell, I was in a handbag - a rather large, black handbag, with <strong>handles </strong>to it.
+154000	<strong>Lady Bracknell </strong> <br>And where did Mr Cardew come across this ordinary handbag?
+158777	<strong>Jack</strong><br>In the <strong>cloakroom</strong> at Victoria Station.
+163341	It was given to him by mistake instead of his own.
+166777	<strong>Lady Bracknell</strong><br>The cloakroom at Victoria Station?
+169931	<strong>Jack</strong><br>Yes.
+170754	<strong>Lady Bracknell<br></strong>Mr Worthing, I have to say I feel rather confused by what you have just told me.
+176820	To start life in a bag, whether it had handles or not, shows a lack of respect for family life.
+184700	As for the bag being found in a cloakroom at a railway station, that isn't <strong>the best</strong> way to begin a successful life in society today.
+194777	<strong>Jack</strong><br>May I ask you then what I should do? I would do anything to <strong>ensure</strong> Gwendolen's happiness.
+200333	<strong>Lady Bracknell</strong><br>I would strongly advise you, Mr Worthing, to <strong>acquire </strong>some relations as soon as possible, and to try to produce at least one parent.
+209111	<strong>Jack</strong><br>Well, I don't see how I can do that. I can produce the bag now.
+214111	It's at home. That should be enough for you, surely, Lady Bracknell.
+218166	<strong>Lady Bracknell</strong><br>Mr Worthing! You can hardly imagine that I and Lord Bracknell would allow our only daughter to <strong>marry into</strong> a cloakroom, and <strong>form an alliance</strong> with a parcel? Goodbye, Mr Worthing!
+230496	<strong>Jack</strong><br>Goodbye!
+241700	<strong>Algernon</strong><br>How did it go? Oh, didn't it go well, old boy? Did Gwendolen refuse you?
+248361	<strong>Jack</strong><br>Oh, as far as Gwendolen is concerned, we are engaged.
+252333	Her mother, though, is perfectly <strong>unbearable</strong>.
+256500	She's a monster. I beg your pardon, Algy, I shouldn't talk about your aunt in that way in front of you.
+262922	<strong>Algernon</strong><br>My dear boy, I love people being rude about my relations.
+266555	It's the only thing that makes me <strong>put up with</strong> them.
+269306	<strong>Jack</strong><br>You don't think Gwendolen could become like her mother, do you, Algy?
+274256	<strong>Algernon</strong><br>Gwendolen is <strong>the most sensible</strong>, intellectual girl I know.
+278777	But all women become like their mothers. That is their <strong>tragedy</strong>.
+283488	By the way, did you tell Gwendolen about being Ernest in town, and Jack in the country?
+289222	<strong>Jack</strong><br>My dear fellow, the truth isn't the sort of thing you tell a nice, sweet girl.
+295500	<strong>Algernon</strong><br>What about your brother? What about Ernest?
+298555	<strong>Jack</strong><br>Oh, I shall have finished with him by the weekend.
+301675	I'll say he died in Paris from a severe cold.
+305482	<strong>Algernon</strong><br>But I thought you said that. Cecily was interested in Ernest? Won't she be very sad?
+311850	<strong>Jack</strong><br>Oh, that's all right. Cecily is not a silly romantic girl, I am glad to say.
+317093	She has got a good appetite, goes on long walks, and pays little attention to her lessons.
+322333	<strong>Algernon</strong><br>I would like to see Cecily.
+323888	<strong>Jack</strong><br>I will take very good care you never do.
+326704	She is very pretty, and she is only just eighteen.
+329970	<strong>Algernon</strong><br>Have you told Gwendolen about Cecily?
+332403	<strong>Jack</strong><br>Oh! Cecily and Gwendolen are certain to be extremely good friends.
+337333	Half an hour after they have met, they will be calling each other 'sister'.
+341222	<strong>Algernon</strong><br>Women only do that when they have called each other a lot of other things first.
+345777	Now, my dear boy, if we want to get a good table at Willis's for dinner, we must go. It's nearly seven.
+356111	<strong>Narrator<br></strong>Just then, Gwendolen comes in and tells Jack that she will always love him, even if they don't get married.
+363988	She asks him for his address in the country, and Algernon - listening quietly - secretly writes it down.
+372358	Jack takes Gwendolen to her carriage and Algernon is left on his own, with a smile on his face.
+379600	<em>(A bell rings)</em>
+381777	<strong>Lane<br></strong>You called, sir.
+383800	<strong>Algernon</strong><br>Tomorrow, Lane, I'm going Bunburying.
+386658	<strong>Lane<br></strong>Yes, sir.
+387777	<strong>Algernon</strong><br>I'm going to Hertfordshire.
+390255	I shall probably not be back until Monday.
+392739	You can prepare all my Bunbury clothes.
+395025	<strong>Lane<br></strong>Yes, sir.
+396054	<strong>Algernon</strong><br>I hope tomorrow will be a fine day, Lane.
+399111	<strong>Lane<br></strong>It never is, sir.
+400500	<strong>Algernon</strong><br>Lane, you are a perfect pessimist.
+403400	<strong>Lane<br></strong>I do <strong>my best</strong> to give satisfaction, sir.

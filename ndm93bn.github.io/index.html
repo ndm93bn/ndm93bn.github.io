@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+.slider{
+  padding:20px;
+}
+</style>
+</head>
+<body>
+<div class="slider">
+  <a class="mySlides w3-animate-fading" href="market://details?id=com.bktranslator.anhviet"><img src="img/anh_viet_1.png" style="width:100%"></a>
+  <a class="mySlides w3-animate-fading" href="market://details?id=com.bktranslator.trungviet"><img  src="img/trung_viet_1.png" style="width:100%"></a>
+  <a class="mySlides w3-animate-fading" href="market://details?idid=com.bktranslator.nhatviet"> <img  src="img/nhat_viet_1.png" style="width:100%"></a>
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}
+    x[myIndex-1].style.display = "block";
+    setTimeout(carousel, 6000);
+}
+</script>
+<br><br><br>
+</body>
+</html>

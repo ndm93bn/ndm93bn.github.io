@@ -1,0 +1,21 @@
+1	(Introduction...)
+12666	<strong>Neil<br></strong>Hello, I'm Neil.
+14000	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17512	<strong>Neil<br></strong>Do you know someone asked me for an autograph the other day?
+20488	<strong>Feifei<br></strong>Your autograph!
+21750	<strong>Neil<br></strong>Yes, they thought I was someone famous - which of course, I'm not.
+26444	<strong>Feifei<br></strong>Well you are sort of famous - being a presenter of The English We Speak.
+31000	<strong>Neil<br></strong>Oh yeah! Maybe I am. People want to take a selfie with me, buying me presents, me at the Oscars winning awards, fans everywhere, cameras flashing.
+42922	<strong>Feifei<br></strong>Neil, Neil wake up - I think he's daydreaming. Don't get carried away.
+48563	You know if you <em>were</em> famous, you'd get lots of public attention - <strong>it</strong> <strong>comes with the territory</strong>.
+54318	<strong>Neil<br></strong>You're right Feifei - the paparazzi would be following me everywhere - I wouldn't like that - but you used a good phrase there - <strong>it comes with the territory</strong>.
+62630	<strong>Feifei</strong><br> Yes. When something <strong>comes or goes with the territory</strong> it means it's something that is expected as part of the position or situation.
+70887	<strong>Neil<br></strong>Let's hear some examples.
+75588	<strong>Examples<br></strong> <br>The job involves a lot of travelling, but I guess that <strong>comes with the territory</strong>.
+82601	If you're gonna play rugby, you're gonna get hurt - injuries <strong>go with the territory</strong>!
+91777	<strong>Feifei<br></strong>So the expression <strong>it comes with the territory</strong> means something is to be expected as part of a certain situation.
+99983	Let's face it Neil, perhaps it's a good thing that we're not famous.
+104443	<strong>Neil<br></strong>I guess so. I'll just carry on teaching English and making tea for everyone.
+108866	<strong>Feifei<br></strong>Well in our job, tea making <strong>comes with the territory</strong>.
+112222	<strong>Neil</strong> <br> You're right - I think I'll go back to daydreaming. Bye.
+115660	<strong>Feifei<br></strong>Bye.

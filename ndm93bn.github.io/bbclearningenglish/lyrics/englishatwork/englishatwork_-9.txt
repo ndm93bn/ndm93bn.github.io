@@ -1,0 +1,58 @@
+1	(Introduction...)
+3872	<strong>Narrator<br></strong>Welcome to the offices of Tip Top Trading. <br>(ongoing sound of annoying mobile phone ringtone)
+7861	<strong>Tom<br></strong>Anna, are you going to answer that?
+10766	<strong>Anna<br></strong>Er, well, no. It's stopped now anyway.
+14444	<strong>Narrator<br></strong>... where Anna is behaving strangely. <br>(ringing starts again)
+17439	<strong>Denise<br></strong>I gave you a long lesson on how to answer the phone and you're still too scared!
+24047	<strong>Anna<br></strong>It's not that. <br>(desk phone starts ringing)
+26100	<strong>Tom<br></strong>For goodness sake!
+28291	<strong>Denise<br></strong>Then what?
+29495	<strong>Anna<br></strong>I recognise the number - it's Mr Lime!
+33418	<strong>Tom<br></strong>Ha! Old Slimy Limy, he must be absolutely desperate to get you to have lunch with him â€“ even after your cruel rejection.
+43612	Here, I'll answer for you.
+44998	<strong>Anna<br></strong>No!
+45932	<strong>Denise<br></strong>I'll answer.
+47341	Hello, Tip Top Trading, Anna's phone... no, this is Denise speaking, Anna's busy at the moment.
+56939	Can I take a message? Yes... right.
+63100	I'll pass that on to her thenâ€¦ thank you for calling. Goodbye.
+68104	<strong>Anna<br></strong>Well.
+69374	<strong>Denise<br></strong>Nothing about lunch.
+71386	He wants each Imperial Lemon you deliver to come in a luxury green box â€“ like the one you had at the presentation.
+78757	<strong>Anna<br></strong>My goodness, we don't have many in stock, I'll have to order some.
+83175	Erm.
+86268	(dials a number) Hello, this is Anna speaking from Tip Top Trading, I want some imperial lemon-sized luxury boxes.
+96625	<strong>Narrator<br></strong>Woah, woah, woah.
+98949	<strong>Anna<br></strong>What?
+99541	<strong>Narrator<br></strong>Let's make this order a bit more politely okay?
+103017	<strong>Anna<br></strong>Why are the English so obsessed with being polite!?
+107430	<strong>Narrator<br></strong>Calm down Anna and listen to me.
+109768	To put in an order for something, you need phrases like:<br>I'd like to place an order for.
+115674	<br>We're going to need.
+117913	<br>Could you send.
+119799	<br>Could we also have.
+122410	<br>When can we expect to receive them?
+125957	<strong>Anna<br></strong>Right. Hello, sorry about that.
+130523	I'd like to place an order for some imperial lemon-sized luxury boxes, please.
+136115	we're going to need quite a few... could you send 300 please... yes.
+143530	the green ones... could we also have the name of our company on the sides.
+148133	when can we expect to receive them... okay, thank you, goodbye.
+155204	There! How was that?
+157348	<strong>Narrator<br></strong>Good, well done!
+159149	<strong>Denise<br></strong>You'd better phone back Mr Lime to confirm he can have his boxes!
+163134	<strong>Anna<br></strong>Oh no!
+164852	<strong>Denise<br></strong>He's your client!
+166555	<strong>Tom<br></strong>Yes Anna, he's your client!
+169439	<strong>Anna<br></strong>I'm scared he'll try and ask about lunch again.
+173645	<strong>Denise<br></strong>Then send him an email.
+175830	<strong>Anna<br></strong>Good idea!
+176845	<strong>Denise<br></strong>Copy in me, Tom and Paul, so itâ€™s clear you only mean business only.
+183230	<strong>Anna<br></strong>Yes. Thanks Denise! An email is much safer.
+190006	<strong>Narrator<br></strong>Is it, Anna, is it? Hmmm...
+193799	<br>Anyway, here are the phrases Anna used to place her order: <br>I'd like to place an order for.
+200887	We're going to need.
+203448	Could you send.
+205389	Could we also have.
+207811	<When can we expect to receive them?
+211296	Let's see if Anna's email is really such a good idea.
+215085	I have a bad feeling about it. Until next time!
+218686	<h3>Listening Challenge - Answer</h3> <br>What colour are the Imperial lemon-sized luxury boxes? <br>Green.

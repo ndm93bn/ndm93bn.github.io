@@ -1,0 +1,37 @@
+1	(Introduction...)
+13000	<strong>Neil<br></strong>Welcome to The English We Speak. I'm Neil.
+16066	<strong>Feifei<br></strong>And I'm Feifei.
+17333	<strong>Neil<br></strong>You're a pretty polite person, aren't you, Feifei?
+20000	<strong>Feifei<br></strong>Well, thanks. I don't know. I try to be!
+23222	<strong>Neil<br></strong>That was a very polite answer! But sometimes we want to say things that are very honest, or that others might not want to hear.
+30555	<strong>Feifei<br></strong>For example, I ask you: "Do I look tired today?"
+35111	<strong>Neil<br></strong>Well, I could directly say: "Yes, you do look a bit tired."
+40000	<strong>Feifei<br></strong>Or you could start with this slang expression: 'not gonna lie'.
+44458	<strong>Neil<br></strong>Not gonna lie Feifei, you do look a little tired.
+47633	<strong>Feifei<br></strong>I know, I need to get to bed earlier! 'Gonna' of course, is short for 'going to'.
+53222	Using this phrase indicates that you're choosing to be honest, rather than polite.
+58055	<strong>Neil<br></strong>It's not only used for honest criticism; we might also use it before something we're very proud of, or something we boast about.
+65700	For example: I love recording these programmes. Though I'm not gonna lie, I'm the best presenter in the team.
+72144	<strong>Feifei<br></strong>Whoah, that's enough. I'm sure everyone listening agrees that I'm the best presenter.
+77799	<strong>Neil<br></strong>Of course you're a fantastic presenter, Feifei. Just an example!
+81506	<strong>Feifei<br></strong>Talking of examples, let's hear a few more.
+87777	<strong>Examples<br></strong>A: Fancy coming round for dinner tomorrow?
+89777	B: Absolutely.
+93388	A: Oh yes. Not gonna lie, it's the best roast in town!\
+97888	Slow down! You really are a terrible driver Mark, not gonna lie.
+103999	Not gonna lie, I absolutely love my job.
+107777	I feel so happy when I walk through the office door every day.
+114111	<strong>Neil<br></strong>That last example sounds just like me.
+116888	Especially as I'm the best presenter.
+119999	<strong>Feifei<br></strong>OK, OK, that joke is getting old now.
+123299	<strong>Neil<br></strong>You're right. OK, one more thing. This phrase 'not gonna lie'.
+127633	<strong>Feifei<br></strong>Yes?
+128717	<strong>Neil<br></strong>Not gonna lie, I think some people use it too much!
+131666	<strong>Feifei<br></strong>Yes, it's become a popular phrase on social media.
+135073	Usually accompanied by a photo of someone on holiday at the beach with a post saying "Not gonna lie, it's stunning here!"
+143952	<strong>Neil<br></strong>The kind of post that makes me feel jealous when I'm stuck in the office.
+147777	<strong>Feifei<br></strong>But I thought you loved your job?!
+149391	<strong>Neil<br></strong>Oh, I do.
+150444	<strong>Feifei<br></strong>And yes, you are a very good presenter, Neil.
+153748	<strong>Neil<br></strong>That makes me feel much better, not gonna lie.
+156888	<strong>Neil and Feifei<br></strong>Bye.

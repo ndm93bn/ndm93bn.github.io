@@ -1,0 +1,25 @@
+1	(Introduction...)
+12607	<strong>Neil<br></strong>So, big presentation today, Feifei! How are you feeling?
+15703	<strong>Feifei<br></strong>Yeah, I'm ok, Neil. All prepared. I do feel a bit nervous.
+21229	I just need to remind myself to slow down and take a sip of water when I feel anxious!
+26434	<strong>Neil<br></strong>Good plan! OK, I'll see you later. Good luck.
+33942	Hey! So how did it go?
+35674	<strong>Feifei<br></strong>Not great.
+36903	<strong>Neil<br></strong>What happened? You lost your bottle?
+39342	<strong>Feifei<br></strong>Actually, I took a glass of water.
+41921	<strong>Neil<br></strong>Oh right. You know the phrase 'to lose your bottle' means 'to lose your confidence and fail to do something, or decide not to do it'.
+50005	<strong>Feifei</strong> <br>Thanks for teaching me this phrase when I'm feeling awful.
+53902	<strong>Neil<br></strong>Yes, sorry. You can also simply say 'to bottle it' which also means 'to lose your courage and fail to do something'.
+61664	Err, examples time?
+65483	<strong>Examples<br></strong>He was going to ask his girlfriend to marry him but lost his bottle at the last minute.
+69751	She asked him instead.
+73004	I thought about painting my front door bright green but I bottled it.
+77637	I went for a conservative grey instead.
+81477	<strong>Feifei<br></strong>Anyway Neil, aren't you giving a presentation this afternoon?
+84994	<strong>Neil<br></strong>Err. I was going to.
+86823	<strong>Feifei<br></strong>Oh? You mean, you're not going to do it now?
+89780	<strong>Neil<br></strong>Well, you see, I just had so much work on this week, and I've not really had time at all.
+96402	<strong>Feifei<br></strong>Yeah, yeah, I get it. You bottled it.
+99982	<strong>Neil<br></strong>You got me. I just hate presentations!
+102676	<strong>Feifei<br></strong>Well, that makes two of us! Bye.
+105142	<strong>Neil<br></strong>Bye.

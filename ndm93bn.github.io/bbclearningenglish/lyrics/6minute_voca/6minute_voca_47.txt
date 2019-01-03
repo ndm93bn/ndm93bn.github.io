@@ -1,0 +1,63 @@
+1	(Introduction...)
+12444	<strong>Alice</strong> <br>Hello and welcome to 6 Minute Vocabulary with me Alice.
+17400	<strong>Finn</strong> <br>And me, Finn. Today we're looking at compound nouns.
+24991	<strong>Alice</strong><br>What are you eating, Finn??
+26700	<strong>Finn</strong> <br>Popcorn. I've also got some ice cream - do you want some Alice?
+30777	<strong>Alice<br></strong>Well, maybe after the show.
+33777	<strong>Finn</strong> <br>Sorry. In today's show, we're looking at compound nouns.
+39400	<strong>Alice</strong>&nbsp;&nbsp; <br>We'll look at what they are, what they mean and how to use them.
+43000	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>There'll be a quiz.
+44623	<strong>Alice</strong>&nbsp;&nbsp; <br>And we'll leave you with a tasty top tip for learning vocabulary.
+49777	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>So, first up: we're going to listen to Bill and his daughter-in-law talking about Bill's computer.
+57400	<strong>Alice</strong>&nbsp;&nbsp; <br>And here's a question to think about while you listen: what's wrong with Bill's laptop?
+63222	<strong>Finn</strong><br>What's wrong with Bill's laptop? Letâ€™s find out.
+67254	<strong>INSERT<br></strong><strong>Bill</strong><br>I'm having problems with this new software.
+71666	<strong>Susan</strong> <br>Where's Mike? He's good with computers.
+74444	<strong>Bill</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>He's buying postcards at the post office, I think.
+77999	<strong>Susan</strong> <br>Let's have a look then. I think I can fix this.
+84777	<strong>Bill<br></strong>Susan, you're my favourite daughter-in-law! But should I buy a new laptop?
+93021	<strong>Susan<br></strong>I think youâ€™ll have to Bill. This keyboard doesnâ€™t work at all.
+101900	<strong>Alice</strong>&nbsp;&nbsp; <br>So, thatâ€™s Bill and his daughter-in-law. And we asked you: whatâ€™s wrong with Billâ€™s laptop?
+108111	<strong>Finn</strong> <br>And the answer is: the keyboard doesn't work.
+112444	<strong>Alice</strong>&nbsp;&nbsp; <br>Now, <strong>keyboard </strong>is a key word in today's show because it's an example of a compound noun.
+120111	<strong>Finn</strong> <br>That's right. In English vocabulary, we often put two or more nouns together to form a new noun, with a meaning that combines the meanings of the two original nouns. We call these words compound nouns.
+136000	<strong>Alice</strong><strong>&nbsp;&nbsp; <br></strong>For example, <strong>keyboard</strong>. The second part - board - names the thing we are talking about.
+142333	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>The first part tells us what type of thing it is â€“ it's a board with keys.
+148642	<strong>Alice</strong>&nbsp;&nbsp; <br>Now, we usually write <strong>keyboard </strong>as one word.
+152444	Same with <strong>laptop, software </strong>and <strong>postcard</strong>. But we write others as two words.
+159444	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>For example, <strong>post office</strong> - it's an office where we post things and we write it as two words.
+167222	<strong>Alice</strong>&nbsp;&nbsp; <br>Unfortunately there aren't really any rules about when to write compound nouns as one word and when to write them as two words - so be sure to use a good dictionary!
+177333	<strong>IDENT</strong><br>You're listening to bbclearningenglish.com.
+182888	<strong>Alice</strong> &nbsp; <br>And we're talking about compound nouns. And if you were listening carefully earlier on you might have noticed a few compound nouns right at the start.
+192276	<strong>Popcorn</strong> was one of them. We also heard <strong>ice cream</strong> - another compound noun!
+198368	<strong>Finn</strong><br>And you may also have noticed how these words are pronounced.
+203111	With compound nouns, the stress usually goes on the first part, like this - <strong>popcorn, ice cream, keyboard.</strong>What's our final example, Alice?
+215733	<strong>Alice</strong>&nbsp;&nbsp; <br><strong>Daughter-in-law.</strong> This compound noun is made of a noun and a prepositional phrase.
+223666	<strong>Finn</strong><br>Now, when we write three-word compounds, we usually use hyphens&nbsp;- little dashes - between the words.
+232222	This shows the three words go together.
+235222	<strong>Alice</strong><br>And the plural is <strong>daughters-in-law</strong>, not <strong>daughter-in-laws</strong>.
+240777	We are talking about two daughters&nbsp;- so we add the plural 's' to this word.
+245777	<strong>Finn</strong><br>Do you have any daughters-in-law, Alice?
+248555	<strong>Alice<br></strong>No I don't Finn. I'm far too young to have any daughters-in-law.
+251832	But I do have a sister-in-law, and she's a lovely woman.
+256888	Let's hear about compound nouns again.
+259222	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>They're fixed expressions formed from two or three words linked together in different ways.
+266777	There are compounds we write as one word, like <strong>keyboard, software, </strong>and<strong> popcorn.
+273900	<strong>Alice</strong>&nbsp;&nbsp; <br>But we write some of them as two separate words, like <strong>post office </strong>and<strong> ice cream</strong>.
+280777	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>Now it's time for a quiz.
+284555	I'm going to say a compound noun and I'm also going to say whether we write it as one word, two words or with hyphens, and&nbsp;you decide if this is true or false.
+298000	Ready? Number 1. <strong>Popcorn</strong>. Two words.
+303333	<strong>Alice</strong>&nbsp;&nbsp; <br>False. It's one word.
+305777	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>Number 2. <strong>Ice cream.</strong> One word.
+310222	<strong>Alice</strong><br>False! It's two words.
+312200	<strong>Finn</strong><br>And number 3. <strong>Daughters-in-law.</strong> With hyphens.
+316777	<strong>Alice&nbsp;&nbsp; <br></strong>True!
+317555	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>That's right, it has hyphens. Well done if you got those right.
+320666	<strong>Alice</strong>&nbsp;&nbsp; <br>And that brings us almost to the end of the programme.
+323444	<strong>Finn</strong>&nbsp;&nbsp;&nbsp; <br>But just before we finish, here's today's top tip for learning vocabulary: practise the pronunciation of compound nouns.
+332470	The stress is on the first word. Try saying 'hot dog' with an equal stress on both words: this means a dog that is hot.
+344333	Then say it again with the stress on the first word: hot dog is a type of sausage snack.
+351400	<strong>Alice</strong>&nbsp;&nbsp; <br>Great, thank you Finn. That's wonderful.
+353720	There's more about this at bbclearningenglish.com.
+356555	Join us again for more 6 Minute Vocabulary.
+359055	<strong>Both<br></strong>Goodbye!

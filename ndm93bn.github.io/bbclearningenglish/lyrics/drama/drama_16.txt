@@ -1,0 +1,67 @@
+1	(Introduction...)
+10222	<strong>Mary narrating<br></strong>I've hardly slept since my uncle's shocking <strong>confession</strong> - how he <strong>lures </strong>ships onto the rocks and drowns women and children.
+21777	Today, however, I have escaped and am on my way with Jem to the horse market in Launceston.
+36221	<strong>Jem <br></strong>It's Christmas Eve, Mary. Why so quiet? What's happened?
+42100	<strong>Mary <br></strong>Nothing.
+43295	<strong>Jem<br></strong>You look tired.
+45222	<strong>Mary<br></strong>My uncle has been drinking...and talking.
+49777	I know about the <strong>wrecks, </strong>Jem.
+52249	<strong>Jem<br></strong>And you think <strong>I must be involved</strong>.?
+54888	<strong>Mary<br></strong>There are gaps in the story and you fit into them.
+58666	<strong>Jem <br></strong>So you think I watch men and women drown and then steal from their dead bodies?
+63555	I may have taken some <strong>tobacco</strong> sometimes from the inn... but I've never killed a man.
+69100	<strong>Mary narrating<br></strong>Can I believe him?
+71072	<strong>Jem<br></strong>If you don't believe me, why have you come with me today?
+74111	<strong>Mary<br></strong>I like your bright eyes.
+79273	<strong>Mrs Bassat<br></strong>Look, James! That pony looks just like Beauty, except Beauty was grey. How much is she?
+86046	<strong>Jem <br></strong>She's not for sale. I promised her to a friend.
+89800	<strong>Mrs Bassat<br></strong>How much does your friend want?
+92700	<strong>Jem<br></strong>30 <strong>guineas</strong>.
+94293	<strong>Mrs Bassatt<br></strong>Well, I'm Mrs Bassat. I'd like to buy her for my children for Christmas. I'll give you 35.
+100430	<strong>Jem<br></strong>OK. She's yours.
+102444	<strong>Mrs Bassat<br></strong>Here. My man James will ride her home.
+105555	<strong>Jem and Mary<br></strong>[laughing.]
+108999	<strong>Mary<br></strong>Jem Merlyn, you should be ashamed!
+116034	<strong>Jem<br></strong>Quick Mary, stand under here. I'll keep you warm.
+124111	We'll get <strong>soaked</strong> if we go back tonight.
+126666	Stay with me in Launceston tonight.
+128888	<strong>Mary<br></strong>No, I've been <strong>foolish</strong> enough today.
+132999	<strong>Jem<br></strong>Alright. I'll get the horse. Wait here.
+138777	<strong>Mary <br></strong>He is rude, a thief and a liar. <strong>He might even be a murderer</strong>.
+148111	And yet, if he wasn't so much like his brother, I could fall in love with him.
+161411	<strong>Mary <br></strong>Where is he? He left over 30 minutes ago.
+167111	I'll ask that horse seller over there. Excuse me, have you seen Jem Merlyn?
+174228	<strong>Man<br></strong>The man with the black pony? I saw him with another man.
+178000	They left in a <strong>carriage</strong>.
+179405	<strong>Mary <br></strong>Oh no!
+182555	<strong>Mary narrating<br></strong>Did they discover that the pony was stolen?
+185666	Now I'm sorry I didn't agree to stay in Launceston with him.
+189999	He went to get the horse to take me home...and now he's gone.
+198090	<strong>Mary <br></strong>What shall I do? Perhaps someone will let me sleep on their floor.
+203333	<strong>Vicar<br></strong>Hello Mary. What are you doing here on Christmas Eve?
+207333	<strong>Mary<br></strong>Oh, Vicar, it's you.
+209666	<strong>Vicar<br></strong>Come, I'll take you home.
+211999	<strong>Mary narrating<br></strong>Once again I tell him my story ...the market, Jem's disappearance.
+218999	His glass eyes show no expression.
+226000	<strong>Vicar<br></strong>You are young...don't cry over him.
+229303	Am I right that it's quiet at Jamaica Inn.?
+232888	<strong>Mary<br></strong>My uncle has been drinking.
+236111	He talks. Vicar, do you know what <strong>wreckers</strong> are?
+243200	<strong>Mary narrating<br></strong>I tell him what my uncle told me - about using lights to bring ships onto the rocks .
+250061	the dead women and children...the stolen <strong>cargo</strong>.
+255777	<strong>Vicar</strong> <br>So your uncle talks when he is drunk, does he? Well there won't be any more wrecks.
+262947	The government is putting officers on the coast to keep watch.
+268000	I'll get off here. The driver will take you home. Goodnight, Mary.
+281888	<strong>Mary <br></strong>What's happening.?
+287666	<strong>Mary narrating<br></strong>A gun is pointing at me.
+291033	I see a face I recognise - the eyes look crazy and mad.
+297555	<strong>it can only be one person</strong>. <strong>Joss <br></strong>Get out! Ahh, so you've come back!
+308777	What do you think you're doing at this time of night...on the road! Been with a man, I suppose.
+314977	<strong>Mary <br></strong>Don't touch me! You're a murderer and a thief and I've been to Launceston today to <strong>inform</strong> on you.
+322900	<strong>Joss<br></strong>Get back, you fools! She's lying.
+326651	Get the horse Harry. The wind has changed. We'll use it.
+332777	So, Mary, you think you can inform on me so I'll hang. You're coming with us!
+339444	<strong>We might not get far</strong> but we won't stay here waiting to be caught! Away!
+350222	<strong>Mary narrating<br></strong>Where we are going, I don't know.
+353252	But I can see from the look in my uncle's eyes that something very bad is going to happen.
+361620	Join me next time - and find out exactly how bad things get when I discover what Joss and his gang of bad men really get up to.

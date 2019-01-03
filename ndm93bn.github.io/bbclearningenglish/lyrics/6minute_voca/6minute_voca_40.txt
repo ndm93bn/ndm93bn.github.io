@@ -1,0 +1,59 @@
+1	(Introduction...)
+12050	<strong>Neil<br></strong>Hello and welcome to 6 Minute Vocabulary. I'm Neil andâ€¦
+16600	<strong>Finn<br></strong>...I'm Finn. Today's programme is all about academic English.
+18800	<strong>Neil<br></strong>If you are going to study or you are studying at an English-speaking university, you might be wondering how you'll cope with understanding lectures and academic textsâ€¦
+32500	<strong>Finn<br></strong>â€¦and writing essays.
+34700	<strong>Neil<br></strong>Yes. Academic English is different to the English people speak and write every dayâ€¦
+39700	<strong>Finn<br></strong>It's more formal and uses higher level words.
+43733	So in today's programme, we'll give you ideas for understanding words and phrases that you'll come acrossâ€¦
+50300	<strong>Neil<br></strong>â€¦and some advice for writing essays and giving presentations.
+54222	<strong>Finn</strong> <br>We'll also give you tips for studying in Englishâ€¦ But first, let's look at three main features of academic English: difficult English vocabulary.
+65857	<strong>Neil<br></strong>â€¦specialist subject vocabularyâ€¦
+68333	<strong>Finn<br></strong>â€¦and language for organising essays and presentations.
+72666	<strong>Neil<br></strong>Now when you come across a word you don't know in an academic text or lecture, you can try to guess its meaning by looking at the contextâ€¦
+81600	<strong>Finn<br></strong>â€¦or by seeing if the word looks like a word in your own language.
+86060	<strong>Neil<br></strong>This is a particularly useful strategy if your own language has lots of words from Greek or Latin as many of the words used in academic English come from those languages.
+96933	Words, for example, like <strong>microscopic,</strong> which means tiny, or <strong>analysis</strong>, which means studyâ€¦
+103666	<strong>Finn<br></strong>â€¦or <strong>regeneration</strong>, which means renewal.
+107177	<strong>Neil<br></strong>Another strategy for working out the meaning is to look at how a word is constructed.
+112555	Academic English words often have prefixes and suffixes.
+117111	<strong>Finn<br></strong>Remember, a prefix comes before the main part of the word and can change a word's meaning.
+123409	For example, the prefix <strong>de</strong>, spelt <strong>d-e,</strong> means removing something, or reversing something.
+131050	<strong>Neil<br></strong>So, <strong>de-population</strong> means a reduction in the number of people somewhere, and <strong>de-forestation</strong> means clearing of trees from an area.
+139333	<strong>Finn<br></strong>Suffixes are attached to the end of words.
+142750	A common suffix in English is <strong>-ise, </strong>spelt <strong>i-s-e.</strong>
+147900	Examples of words with <strong>-ise</strong> are <strong>stabilise, characterise </strong>and<strong> specialise</strong>.
+153800	And these words are spelt with <strong>â€“ize</strong> in American English.
+158829	<strong>Neil<br></strong>That's right, they are. Now another common suffix is <strong>-ate, </strong>spelt<strong> a-t-e.</strong>
+164552	Words with this suffix are<strong> differentiate </strong>and<strong> duplicate</strong>.
+168637	<strong>Finn<br></strong>Specialist subject words may also cause difficulty.
+172777	Now you can help yourself in two ways: Firstly, prepare yourself before lectures.
+179055	Find some texts on your subject, on the internet or in journals and magazines, and study the recurring specialist words in those texts.
+188933	<strong>Neil<br></strong>Yes, and to help yourself with this get hold of an English-English dictionary, and an English subject dictionary â€“ for example of Medicine, or Law, or Linguistics.
+200100	<strong>Finn<br></strong>And secondly, listen to English radio and watch TV â€“ now there are lots of specialist features which can help improve both your general and specialist English â€“ and of course the BBC website has sections which have stories on technology, and science, and arts, which can also help.
+219111	<strong>Neil<br></strong>When writing your academic piece or giving a presentation, you will need to structure and organise your writing or presentation by using signposting language.
+228999	<strong>Finn<br></strong>You use signposts to indicate important parts of your essay such as stating its purpose, its structure, your views, the main points, and the direction of the argument and conclusions at the end as well.
+243700	<strong>Neil<br></strong>Linking words and phrases show connections between sentences and paragraphs.
+248444	<strong>Finn<br></strong>Yes, so Neil, let's give some examples of signposts. Firstly, for starting a piece of writing.
+255084	<strong>Neil<br></strong>The aim of this study is toâ€¦<br>This essay argues thatâ€¦
+260400	<strong>Finn<br></strong>Yes. And how about for ending itâ€¦
+262888	<strong>Neil<br></strong>Finallyâ€¦<br>In conclusionâ€¦
+266111	<strong>Finn<br></strong>And some examples of linking words and phrases areâ€¦
+269666	<strong>Neil<br></strong><strong>First(ly), â€¦ second(ly), â€¦ finally,</strong> â€¦
+273722	<strong>Finn<br></strong>And for adding something, you could writeâ€¦
+277050	<strong>Neil<br></strong><strong>In addition, â€¦ furthermore, â€¦ </strong>
+279628	<strong>Finn<br></strong>And if you want to show contrast, you might writeâ€¦
+284000	<strong>Neil<br></strong><strong>...however, â€¦ nevertheless, â€¦ on the other hand, â€¦ </strong>
+288222	<strong>IDENT<br></strong>6 Minute Vocabulary from BBC Learning English.
+294666	<strong>Finn<br></strong>And now for some tips for getting the best out of studying in English.
+299555	<strong>Neil<br></strong>OK, here's a good one. Have a study buddy â€“ that's someone you can study with.
+304700	You can test each other and support each other.
+307444	<strong>Finn<br></strong>And another one, set aside time for regular language study in addition to your academic study.
+314900	<strong>Neil<br></strong>Time for a quiz. Complete the sentences.
+319196	Number one: Many words in academic English come from a) Latin words, b) American words or c) newspapers?
+329700	<strong>Finn<br></strong>It's a) Latin words. Now question two: A good way to start an essay is a) for example, b) in conclusion or c) this essay argues that?
+344974	<strong>Neil<br></strong>And it's c) this essay argues that.
+348555	<strong>Finn<br></strong>And the last question is: A good way to end an essay is a) on the other hand, b) in conclusion or c) this essay argues that?
+360026	<strong>Neil<br></strong>And the answer is b) in conclusion.
+363142	There's more about this at bbclearningenglish.com. Do join us again for more 6 Minute Vocabulary.
+369622	<strong>Both<br></strong>Bye!

@@ -1,0 +1,77 @@
+1	(Introduction...)
+11800	<strong>Mary narrator<br></strong>There was nothing but a few <strong>sacks</strong> and the rope in the locked room.
+16777	My uncle has returned and is very angry about Mr Bassat's visit.
+22777	He <strong>storms</strong> <strong>out</strong> of the house and sets off across the moor.
+27900	Suddenly I have a mad plan. I put on my shoes and follow him.
+42216	<strong>Mary<br></strong>He's walking too fast. I can't keep up.
+47153	It's no good - he's disappeared! It's getting dark.
+53234	I must go back. Do I go right or left here?
+57896	I don't remember this stream. Oh no! I'm totally lost!
+69555	<strong>Vicar<br></strong>Hello, what are you doing out on the moor?
+72888	<strong>Mary<br></strong>I'm lost.
+74666	<strong>Vicar<br></strong>Where are you going?
+75900	<strong>Mary<br></strong>Jamaica Inn.
+79111	<strong>Vicar<br></strong>That's the other side of the moor - but you're <strong>exhausted</strong>!
+83888	Come back with me. You can rest and I'll take you back.
+87999	<strong>Mary</strong><br>You're very kind.
+90999	<strong>Mary narrator<br></strong>He looks strange.
+93498	His hair is white, and his eyes are pale.
+99100	His voice is young, though.
+105036	<strong>Vicar<br></strong>I'm Francis Davey, Vicar of Altarnun. Please, come.
+112010	<strong>Vicar<br></strong>Are you feeling better now?
+114144	<strong>Mary<br></strong>Yes, thank you.
+116666	<strong>Mary narrator<br></strong>He has white hair and his eyes are like a blind man's - and yet his voice is gentle.
+125552	<strong>Vicar<br></strong>It was lucky I ran into you. Why were you on the moor tonight?
+130888	<strong>Mary narrator<br></strong>Suddenly I want to tell him everything.
+135222	<strong>Mary<br></strong>It's terrible! You've probably heard <strong>rumours.</strong>
+139699	They come at night, with their wagons.
+142504	That first night there were six or seven of them. They brought huge boxes - they put them in a room by the bar.
+149877	A man was killed - I saw the rope! Oh! What have I done? I shouldn't have said anything!
+158100	<strong>Vicar<br></strong>Don't worry - <strong>I won't tell anyone if you don't want me to</strong>.
+163500	<strong>Mary<br></strong>But what should I do?
+165333	<strong>Vicar<br></strong>Wait. Watch your uncle.
+168155	<strong>When the wagons come, tell me immediately</strong>.
+171743	<strong>Mary<br></strong>What about the man who was killed? Can't we do something about that?
+176454	<strong>Vicar<br></strong>I think not. <strong>If there was a body, the police would surely investigate</strong> - but that's unlikely now.
+183317	Could it be your imagination? All you saw was a piece of rope.
+188000	<strong>Mary<br></strong>I heard my uncle <strong>threaten</strong> him.
+190839	<strong>Vicar<br></strong>People threaten others every day. Listen: you can talk to me any time.
+197471	<strong>Mary narrator<br></strong>He drives me home. My uncle has been drinking.
+204147	He stays drunk for five days. Today it's sunny, so I am out on the moor again.
+217457	<strong>Mary<br></strong>Where do these <strong>ponies</strong> come from?
+220333	<strong>Jem<br></strong>Hey! Mary!
+222716	<strong>Mary<br></strong>Oh, hello!
+224777	<strong>Jem<br></strong>I didn't expect you so soon!
+227114	<strong>Mary<br></strong>I didn't plan to come this way.
+229333	<strong>Jem<br></strong>So what's been happening at Jamaica Inn?
+232317	<strong>Mary<br></strong>We had a visit from Mr Bassat.
+234856	<strong>Jem<br></strong>Did you now? How much do you know Mary?
+238920	<strong>Mary<br></strong>I just want to get my aunt away. Your brother can drink himself to death for all I care.
+244542	<strong>Jem<br></strong>So the smuggling doesn't shock you? What about murder, though?
+249999	<strong>Mary<br></strong>I don't know what you mean.
+251666	<strong>Jem<br></strong>Why are you so silent, Mary? Even a child would know something was going on at Jamaica Inn.
+256714	'We're bad, us Merlyns - and Jem is the worst.' Is that what you're thinking?
+263555	<strong>Mary<br></strong>Something like that, but I'm not afraid of you.
+267777	<strong>I'd even like you if you didn't remind me of your brother</strong>.
+270777	<strong>Jem<br></strong>I'm better looking!
+272333	<strong>Mary<br></strong>I must get back.
+274555	<strong>Jem<br></strong>Are you coming with me to Launceston on Christmas Eve? I want to sell this pony.
+279246	<strong>Mary<br></strong><strong>And if you're caught selling a stolen pony, I'll go to prison like you.
+283806	<strong>Jem<br></strong>I won't be caught. Come, don't you like a bit of excitement?
+288200	<strong>Mary<br></strong>Well. where shall we meet?
+292908	<strong>Mary narrator<br></strong>It's late when I get back and my uncle is lying drunk in the kitchen, surrounded by empty bottles. My aunt is in bed.
+307903	<strong>Joss<br></strong>Who's there? Put away that knife!
+311122	<strong>Mary<br></strong>Uncle Joss, it's me, Mary.
+314738	<strong>Joss<br></strong>Mary - where are they?
+319074	<strong>Mary<br></strong>There's no one here. What's wrong, Uncle Joss?
+323222	<strong>Joss<br></strong>They can't hurt me now. They're all dead.
+327900	Sit by me, Mary. It's this drink! I've killed men with my own hands.
+336333	But <strong>when I'm drunk I'm afraid.</strong> I see them in my dreams, floating on the water.
+349222	The ship: it was on the rocks but the water was flat and they were coming into the shore alive!
+356999	We had to kill them all. One woman - she was holding on to some wood with her child.
+363652	The water was only up to her shoulder. She cried out to me to help her: I took a stone and smashed her with it.
+373666	I watched her and her child <strong>drown</strong> in four feet of water. We killed them all with stones and rocks.
+394333	<strong>Mary narrator<br></strong>My blood turns cold, and I feel sick.
+401821	My uncle is a murderer - that I suspected, but what he has just told me <strong>chills me to the bone.</strong>
+412225	What terrible crime will he carry out next?
+418751	Join me in the next episode when I go to the horse market with Jem, but things don't go to plan.

@@ -1,0 +1,57 @@
+1	(Introduction...)
+27800	<strong>Phil<br></strong><em>It's day 61 - and it's a miracle! I didn't hit any rocks and we're safe in the harbour at Papeete on the island of Tahiti.
+38800	It's just a quick stop to clean up the yacht and take on fresh water.
+44200	<strong>I'm going to find</strong> one more souvenir to take home as part of my challenge - some type of musical instrument - hmmm.
+52500	And how are my travelling companions?
+55900	Well, they're not under the weather anymore - I mean, they aren't feeling ill - they've recovered from the food poisoning that I unfortunately gave them - but strangely, they still seem very pleased with me.
+76600	<strong>Sophia<br></strong>'Aloha' Phil! There you are, we were looking for you.
+81089	<strong>Phil<br></strong>Hi. I thought you two should rest, so I went off to buy something.
+86000	Look, I've bought a 'pahu' - it's a traditional Tahitian drum.
+90376	I need some kind of exotic instrument as part of my challenge - so here we go.
+97800	And my credit card works here, so I've bought us all some colourful Polynesian shirts - don't they look great?
+105200	<strong>Sophia<br></strong>Brilliant - Ilove the palm trees.
+107900	<strong>PP<br></strong>I suppose I could wear it at sea where nobody could see me.
+112407	<strong>Phil<br></strong>And I've got some food for Peggy. Now look you two, I'm really sorry about the lobsters and.
+118580	<strong>Sophia<br></strong>Be quiet Phil! In fact, well done - you're my hero.
+123555	You did really well sailing the yacht all by yourself.
+127400	Look, I found this old captain's hat the back of a drawer in the galley - go on Phil, put it on. You're in charge now!
+133700	You're in charge now! Let me take a photograph. I'm going to put that on Facebook.
+139900	<strong>PP<br></strong>Yes, well done old chap. You've proved me wrong - you're not as useless as you look!
+146093	Just don't cook us any more of your 'special meals'.
+149700	<strong>Phil<br></strong>OK, I'll stick to making the tea.
+152600	<strong>PP<br></strong>Perhaps you could sail us home now?
+154900	<strong>Phil<br></strong>I think we should work together as a team.
+158600	I'd love to stay here for longer - it's so beautiful... but we have a job to do.
+164984	We need to set sail and head for the Panama Canal.
+168806	<strong>PP and Sophia<br></strong>Aye-aye, captain!
+170900	<strong>PP<br></strong>He's not really in charge, is he?
+176600	<strong>Phil<br></strong><em>Day 65 and we've had the wind in our sails. We're now passing through the Panama Canal.
+184823	It's an incredible construction and luckily for us saves us thousands of kilometres of sailing around South America.
+192808	We're not cheating - we are still sailing around the world - but will we do it in 80 days? My companions seem quite confident.
+207111	<strong>Sophia<br></strong>Phil, <strong>what are you going to spend all the money on when you get home</strong>?
+211034	<strong>PP<br></strong>Maybe you could pay me a bit more? Or buy a few more drinks in the pub?
+216901	<strong>Phil<br></strong>I haven't thought about it and anyway, we've got to win this race first, which is looking very unlikely.
+224600	But I <strong>am going to write</strong> about our adventures and I hope that this time, someone will buy my book.
+231319	What about you Sophia, <strong>what are you going to do</strong>?
+235238	<strong>Sophia<br></strong>I really don't know. I sold everything to pay for my trip.
+240022	I'm going to have to find somewhere to live as soon as I get back to the UK.
+244100	<strong>PP<br></strong>Don't worry Sophia. Phil has a sofa you can sleep on! There's room for that parrot too.
+250700	And <strong>I'm going to start</strong> looking for a new job as soon as we get home - Captain of the QE2 maybe?
+258585	<strong>Phil<br></strong>Ah look, we're finally out of the canal. This must be the Caribbean Sea.
+265194	It's beautiful and it's calm too - there aren't any waves. Look, it looks like a swimming pool.
+273500	<strong>PP<br></strong>That's because there's no wind. We'll have to use the engine for a while until the wind gets up.
+281900	<strong>Phil<br></strong><em>Day 71 - it's windy. Very, very windy.
+288500	A radio message has warned us of a hurricane heading our way. The sea is already getting rough.
+296300	It's time to batten down the hatches and prepare for another very bumpy ride. I'm getting quite used to this!
+310800	<strong>Sophia<br></strong>This is wild! We've got to change course - find some shelter.
+316100	<strong>PP<br></strong>Yes, you're right. Our sails will just rip to pieces in this weather.
+320555	<strong>Phil<br></strong>No - I think we should carry on. We've been in worse seas than this.
+326100	And we can't waste any more time. Come on everyone, we can't let this little storm beat us.
+333200	<strong>We're going to get through this</strong>.
+335000	<strong>Sophia<br></strong>Are you feeling ok Phil?
+337228	<strong>Phil<br></strong>I'm feeling great.
+344408	<strong>Phil<br></strong><em>For once I feel like I know what I'm doing. I'm not scared.
+348900	I've got Passepartout, Sophia and our lucky parrot Peggy with me -and that makes me think <strong>everything is going to be ok</strong>. I hope I'm right!
+365700	<strong>PP<br></strong>OK Phil, maybe it's the captain's hat - but you really are a changed man. Come on then, let's ride this storm.
+373300	<strong>Sophia<br></strong>Hold on tight - there's a huge wave coming.
+376300	<strong>All<br></strong>Whoooahhhh!

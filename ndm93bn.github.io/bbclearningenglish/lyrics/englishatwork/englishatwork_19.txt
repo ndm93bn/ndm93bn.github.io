@@ -1,0 +1,65 @@
+1	(Introduction...)
+4555	<strong>Narrator<br></strong>Hello and welcome to English at Work.
+7777	The company's computer system has been fixed and Anna seems to have found a new friend in Dave, the IT support man.
+16461	But her main concern now is pitching her new idea for a plastic aubergine, to Paul the boss.
+24999	<strong>Tom<br></strong>So Anna, that guy didn't really know what he was doing did he?
+29212	<strong>Anna<br></strong>You mean Dave?
+30935	<strong>Tom<br></strong>Dave â€“ was that his name? He had a really bad smell.
+36111	<strong>Anna<br></strong>No he didn't. He's done a great job.
+38908	Look everything is working so, if you don't mind, I think we should get this pitch for Paul finished.
+45444	<strong>Denise<br></strong>You'd better hurry up. Paul's taking the afternoon off to go to his biscuit loversâ€™ convention.
+51600	<strong>Tom<br></strong>Oh right. Well, we might as well leave it until tomorrow then Anna.
+55579	<strong>Anna<br></strong>No Tom. Thereâ€™s no time like the present â€“ I heard someone say that once â€“ we've got to get our idea to Paul as soon as possible.
+64120	Then we might have time for a drink, or shall I ask Dave?!
+68400	<strong>Tom<br></strong>No, no, you're right. Look, I'll design some pictures of the aubergine and you get the results of our survey together, yeah?
+77000	<strong>Anna<br></strong>Great.
+78777	<strong>Narrator<br></strong>Well done Anna. Remember to make your pitch clear and exciting.
+84245	Really sell it with words like '<em>exceptional!', 'fantastic!', 'quality', 'profit', 'efficiency', and 'value for money'.
+95666	<strong>Anna<br></strong>OK, I've got all that. I'm just adding some of the facts and figures from our customer survey.
+102666	<strong>Tom<br></strong>Anna, I've got the designs, they're coming off the printer now.
+107158	<strong>Paul<br></strong>Denise, Iâ€™m off now. Canâ€™t wait any longer for my garibaldis!
+111738	<strong>Anna<br></strong>Wait Paul! I need to tell you about our new product idea.
+115430	<strong>Paul<br></strong>Well, I, I, have to go. Can you tell me about it in the lift?
+120544	<strong>Anna<br></strong>In the lift? Do I have to?
+122888	<strong>Paul<br></strong>Sorry Anna, but that's the only time Iâ€™ve got.
+125587	<strong>Narrator<br></strong>Right Anna. It's time for your 'elevator pitch' â€“ an elevator is an American word for lift.
+132829	Youâ€™ll need to pitch your idea quickly and concisely.
+136965	You need to tell Paul what the product is and who your market is.
+141700	Then talk about how you hope it will make money for the company.
+146666	Talk about the evidence you have that it will be successful and convince him it will really benefit the business.
+153750	<strong>Anna<br></strong>Phew, there's a lot to say in a short time but here goes.
+159100	<strong>Paul<br></strong>Anna, could you just press the 0 button there, thanks.
+164000	<strong>Anna<br></strong>Now Paul. Tom and I have come up with a new exciting product â€“ the plastic aubergine.
+173695	<strong>Paul<br></strong>Oh yes?
+175192	<strong>Anna<br></strong>Yes. This fantastic product will be a great addition to table decorations in the cafĂ© and restaurant market.
+182700	<strong>Paul<br></strong>Will it now? Do you really think it will be a profitable addition to our plastic portfolio?
+188900	<strong>Anna<br></strong>Oh yes. Using the same plastics as our fruits, we can easily re-mould our bananas and change the colour.
+196600	We can increase efficiency but maintain quality.
+199900	<strong>Paul<br></strong>And profits?
+202444	<strong>Anna<br></strong>By my calculations, we can increase profits by 20%.
+207666	That's based on selling the same quantity that we now sell of Imperial Lemons.
+213178	<strong>Paul<br></strong>Hmm, 20%, really? But do you know whoâ€™s going to buy this product?
+219900	<strong>Anna<br></strong>I do. We've conducted a survey and already found 10 new companies who would buy this and 27 existing customers who have shown an interest in itâ€¦
+231200	<strong>Anna<br></strong>â€¦and I'm confident this new product will be a huge success.
+236555	<strong>Paul<br></strong>Very impressive. You've certainly done your homework.
+240112	Look, let me chew it over â€“ probably on a custard cream â€“ and I'll get back to you.
+246300	<strong>Anna<br></strong>Thanks. Paul, Paulâ€¦ you've forgotten your bag.
+250967	<strong>Paul<br></strong>Oh yes, I'll need that. Thanks.
+256777	<strong>Narrator<br></strong>Great work Anna! You convinced me but have you convinced Paul?
+262101	So Anna's done her first 'elevator pitch' and kept to the facts.
+266888	Here's a reminder of some of the things she said:
+270666	<em>We've come up with an exciting new product.
+274444	<em>This fantastic product will be a great addition to table decorations in the cafĂ© and restaurant market.
+281900	<em>We can increase efficiency but maintain quality.
+285999	<em>By my calculations, we can increase profits by 20%.
+291888	<em>I'm confident this new product will be a huge success.
+301074	<strong>Tom<br></strong>So, how did it go Anna?
+303999	<strong>Anna<br></strong>I'm not sure. I told Paul as much as I could and I think he listened.
+311066	<strong>Tom<br></strong>Good, good. So, what are you doing now?
+314968	<strong>Anna<br></strong>I've got to meet someone.
+316900	<strong>Tom<br></strong>Anyone I know?
+318373	<strong>Anna<br></strong>No, not really.
+320777	<strong>Tom<br></strong>It's Dave from IT isn't it? What does she see in him?
+326555	<strong>Narrator<br></strong>Do you want me to answer that Tom?!
+329111	Anna may have fallen for the charms of Dave but let's hope she keeps her mind on her plastic aubergines.
+335921	Join us again next time on English at Work.

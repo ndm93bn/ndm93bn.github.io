@@ -1,0 +1,77 @@
+510	Introduction...
+12051	<strong>Sophie<br></strong>Hello and welcome to 6 Minute English.
+14761	I'm Sophieâ€¦
+15699	<strong>Neil<br></strong>And I'm Neil.
+16830	Sophie - did you see the beautiful sky last night?
+20329	<strong>Sophie<br></strong>No, I went to bed early.
+21758	Why?
+22376	<strong>Neil<br></strong>I was wondering if there was life out there.
+25854	<strong>Sophie<br></strong>You mean life on other planets?
+28094	That's just science fiction, Neil.
+30355	<strong>Neil<br></strong>It isn't!
+31166	People are fascinated by life on other planets for a good reason.
+34920	<strong>Sophie<br></strong>You believe in little green men?
+36712	<strong>Neil<br></strong>Not necessarilyâ€¦ but possibly.
+39827	<strong>Sophie<br></strong>Well, Mars is our closest neighbour in the solar system and the subject of today's show.
+45480	And that brings me on to our usual quiz question.
+48509	How long is a day on Mars?
+50664	Is it aboutâ€¦<br>a) 5 hours?
+52904	<br>b) 25 hours?
+55123	<br>Or c) 45 hours?
+58088	<strong>Neil<br></strong>And I think it must be c) 45 hours.
+62568	Things are weird on other planets.
+64296	And Mars is further from the sun than usâ€¦ Mars may be our closest neighbour, but it's hardly in our backyard, is it?
+72317	<strong>Sophie<br></strong>It is in astronomical terms, Neil - it's visible to <strong>the naked eye</strong> - meaning without using instruments - and it's reachable by spacecraft.
+81661	Well, we'll find out later on in the show whether you got the answer right or not.
+86887	Now can you tell me Neil why people like you get excited about the possibility of life on Mars?
+93287	<strong>Neil<br></strong>Well, Mars is similar to the Earth in some important ways which means if life developed on our planet, why not Mars?
+100626	<strong>Sophie<br></strong>That's true.
+101586	Its temperature is in the right zone - not too hot and not too cold.
+106215	But actually we could find Mars pretty cold - an average temperature would be around minus 63 degrees Celsius compared to Earth's 14 degrees Celsius.
+118396	It's also very <strong>arid</strong> - or dry.
+121746	<strong>Neil<br></strong>And it needs to be wet for life to develop, doesn't it?
+124924	<strong>Sophie<br></strong>That's right.
+126162	Many scientists think that liquid water is essential for life!
+130151	But there may have been water on the surface of Mars in the past.
+133671	And recent research suggests that there may be water underground.
+138172	Let's hear some more about this from Professor John Zarnecki, who teaches Space Science at The Open University.
+144913	<strong>INSERT<br>John Zarnecki, Professor of Space Science, The Open University<br></strong>We are now seeing that in fact Mars probably does have water - not liquid water - that there is ice just below the surface and there's even just recently tantalizing evidence that perhaps water does flow periodically.
+160124	Now, and also coupled with the fact that here on Earth we're finding that life in very primitive form exists in the most extreme environments, these are the so called 'extremophiles' that exist at the bottom of the oceansâ€¦ So life is much, much tougher.
+174779	<strong>Neil<br></strong>What does <strong>tantalizing</strong> mean, Sophie?
+177510	<strong>Sophie<br></strong>It means something you want that's almost, but not quite, within reach.
+182246	So, scientists would love to think water flows on Mars but the evidence isn't strong enough for this to be certain.
+189734	The other interesting point the professor makes is that life may exist in the very harsh Martian environment - because primitive life exists in extreme places on Earth.
+201531	<strong>Neil<br>E</strong><strong>xtremophiles</strong> are <strong>organisms</strong> - or small creatures - that live in very extreme environments and can survive conditions that would kill most other organisms.
+210854	But on Mars they would be living underground because the <strong>radiation</strong> - or light and heat - from the Sun would kill any organisms living on the surface of the planet.
+221179	So why doesn't the Sun's radiation kill us then, Sophie?
+224976	<strong>Sophie<br></strong>The Earth has a strong magnetic field created by its hot molten <strong>core</strong> - or centre - and this protects us from the Sun's harmful solar winds.
+234682	<strong>Neil<br></strong>And what about Mars - why doesn't it have a magnetic field?
+238352	<strong>Sophie<br></strong>It used to - 4 billion years ago.
+241296	It's possible that a massive <strong>collision</strong> with an asteroid might have heated up Mars's core, disrupting the magnetic fields.
+249253	<strong>Neil<br></strong>And if you <strong>disrupt</strong> a process you stop it from continuing normally.
+253306	Now, to return to the subject of collisions, Sophie, I have something very interesting to tell you.
+259130	<strong>Sophie<br></strong>Yes?
+260133	<strong>Neil<br></strong>A <strong>meteorite</strong> - or a piece of rock from outer space - might've crashed into the Earth millions of years ago.
+267322	That meteorite might have contained Martian life forms.
+274725	So we might be descended from Martians!
+279631	<strong>Sophie<br></strong>That's actually an interesting idea, Neil.
+282810	But let's listen to Professor John Zarnecki talking about interplanetary life.
+287802	<strong>INSERT<br>John Zarnecki, Professor of Space Science at the Open University<br></strong>If we do find traces of life on Mars we don't know, do we - whether it evolved independently or was it perhaps seeded from Earth.
+297560	It is possible that life forms from Earth travelled to Mars and perhaps existed there - or the other way round.
+303695	<strong>Neil<br></strong>So life on Mars may have <strong>evolved</strong> - or developed - on its own.
+308196	Or it might have arrived from Earth in a lump of rockâ€¦ Or the other way round!
+313273	So Martians might be humans or we might be Martians!
+316537	One big interplanetary happy family, Sophie!
+319375	<strong>Sophie<br></strong>Well Neil, let's hope you stay happy after you hear the answer to today's quiz question.
+324793	I asked: How long is a day on Mars?
+327609	Is it â€¦ a) 5 hours?
+329791	b) 25 hours?
+331633	Or c) 45 hours?
+333838	<strong>Neil<br></strong>And I said c) 45 hours - they must have a long day over there.
+338041	<strong>Sophie<br></strong>And you were â€¦ wrong!
+339769	The correct answer is b) because a day on Mars is slightly longer than here on Earth - it's 25 hours.
+347193	Anyway, can we at least hear the words we learned today?
+350947	<strong>Neil<br></strong>They are:<br>the naked eye<br>arid<br>tantalizing<br>extremophiles<br>organisms<br>radiation<br>core<br>disrupt<br>meteorite<br>evolved
+365048	<strong>Sophie<br></strong>Well, that's the end of today's 6 Minute English.
+367779	Join us again soon!
+369336	<strong>Both<br></strong>Bye.

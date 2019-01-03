@@ -1,0 +1,65 @@
+1	(Introduction...)
+4731	<strong>Narrator<br></strong>Hello, welcome back to Tip Top Trading where Anna is going downstairs to speak to warehouse manager, Mr Ingle.
+12194	Youâ€™re looking a bit nervousâ€¦
+14429	<strong>Anna<br></strong>I am. Denise says if I speak to him in the wrong way, he might bite my head off!
+20294	<strong>Narrator<br></strong>Relax Anna. Itâ€™s just an expression to mean he might be a bit aggressive.
+25465	<strong>Anna<br></strong>Oh!
+26359	<strong>Narrator<br></strong>Youâ€™ll be fine, just use the right polite phrasesâ€¦ oh, and smile!
+31702	<strong>Anna<br></strong>OK, I will. Oh look here I amâ€¦
+35415	(Warehouse door opens)
+39725	<strong>Anna<br></strong>Mr Ingle, are you there?
+42256	Iâ€™d be most grateful if you could give me someâ€¦ oh, whatâ€™s that smellâ€¦ and smokeâ€¦ Mr Ingle!
+52637	<strong>Mr Ingle<br></strong>Oh, oh (coughs)
+54028	<strong>Anna<br></strong>Mr Ingle. Youâ€™re smoking!
+57011	<strong>Mr Ingle<br></strong>Wellâ€¦ itâ€™s my lunch breakâ€¦ so Iâ€™m allowed to smoke a cigarette, arenâ€™t I?
+60990	<strong>Anna<br></strong>Really? Are you sure?
+64836	<strong>Narrator<br></strong>No, heâ€™s not Anna! Smoking inside a public building is illegal â€“ itâ€™s against the law.
+71335	Itâ€™s dangerous too - youâ€™ve got to do something about this.
+74839	<strong>Anna<br></strong>Oh right. Mmm, er, Mr Ingle, you mustnâ€™t smokeâ€¦ itâ€™s wrong.
+82390	<strong>Mr Ingle<br></strong>Says who?
+83279	<strong>Anna<br></strong>Err, Me?
+85545	<strong>Narrator<br></strong>Anna. Youâ€™ll have to do better than that.
+87573	Be polite, but be firm too. Try saying, â€˜would you mind not doing that please?â€™
+94709	<strong>Anna<br></strong>Iâ€™ll try. Mr Ingle, would you mind not doing that please?
+100121	<strong>Mr Ingle<br></strong>Whyâ€™s that then?
+101685	<strong>Narrator<br></strong>Heâ€™s not being very nice is he? You need to give your reasons.
+105760	Say, â€˜Iâ€™m afraid itâ€™s against company policyâ€™. Go on you can do it.
+111389	<strong>Anna<br></strong>Mr Ingleâ€¦ Iâ€™m afraid itâ€™s against company policy.
+116305	Andâ€¦ it is actually against the law to smoke hereâ€¦ andâ€¦ itâ€™s not a nice smell, is it?
+124112	<strong>Mr Ingle<br></strong>Well, smells OK to me.
+126530	<strong>Anna<br></strong>Well, Iâ€™m sorry to have to ask you this but you need to put it out.
+131814	<strong>Mr Ingle<br></strong>Put what out â€“ the cat?!
+134195	<strong>Anna<br></strong>No. You need to extinguish your cigaretteâ€¦ please.
+138419	<strong>Mr Ingle<br></strong>Says who?
+139621	<strong>Anna<br></strong>Well, Iâ€™m sure your team wouldnâ€™t like to see you breaking the law and besides, it could cause a fire.
+146160	That would be awful.
+148335	<strong>Mr Ingle<br></strong>Yeah, I suppose it would.
+150915	<strong>Anna<br></strong>I could get you some nicotine gum if you like?
+153696	<strong>Mr Ingle<br></strong>No, itâ€™s OK. Iâ€™ll stub it outâ€¦ as you asked so nicely.
+159298	<strong>Anna<br></strong>Thank you Mr Ingle. Weâ€™ll keep it a secret this time, but please donâ€™t do it again.
+165026	Iâ€™m afraid itâ€™s just not permitted on company premises.
+168348	<strong>Mr Ingle<br></strong>Yeah, whatever!
+169396	<strong>Anna<br></strong>Oh and Mr Ingle, I still really like your overalls. Bye!
+177090	<strong>Narrator<br></strong>Nice one Anna. You dealt with Mr Ingle really well.
+181177	You kept your cool and explained the reasons why he shouldnâ€™t smoke.
+185242	Letâ€™s hope he doesnâ€™t do it again Anna.
+187891	<strong>Anna<br></strong>I hope not. I hate the smell of cigarette smoke.
+191846	But I never got to ask him about stock management.
+194670	<strong>Narrator<br></strong>Well, maybe itâ€™s best to leave it for another time?
+198882	Annaâ€™s had a tricky day so far dealing with Mr Ingle but she was firm and fair in the language she used.
+206257	Hereâ€™s a reminder of the phrases she used:<br>Would you mind not doing that please?
+211176	Iâ€™m afraid itâ€™s against company policy.
+214423	Iâ€™m afraid itâ€™s not permitted.
+216391	Sorry to have to ask you this butâ€¦
+223194	<strong>Paul<br></strong>Ah Anna, there you areâ€¦.
+225598	(sniffing) Have you been smoking?
+228274	<strong>Anna<br></strong>No!
+228897	<strong>Paul<br></strong>You smell of cigarette smoke.
+230944	Look, I know youâ€™re under pressure â€“ but smoking in the building is not permitted.
+235380	<strong>Anna<br></strong>Bbbutâ€¦
+236141	<strong>Paul<br></strong>We take this very seriously.
+238463	You had better step in to my office and weâ€™ll talk about this.
+241038	<strong>Narrator<br></strong>Oh dear! Annaâ€™s in trouble for no reason.
+244753	Letâ€™s hope she explains the mix-up, but that means telling Paul about Mr Ingle smoking.
+249984	This is going to be difficult. Until next time, bye!
+254728	<h3>Listening challenge - answer</h3> <br>What other word does Anna use to mean 'put out your cigarette'? <br>To extinguish.

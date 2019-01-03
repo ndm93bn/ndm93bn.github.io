@@ -1,0 +1,50 @@
+1	(Introduction...)
+15111	<strong>Mary narrating<br></strong>My uncle is planning our escape from Jamaica Inn tonight.
+19700	He's afraid that someone is coming to kill him â€“ someone who has been giving him the orders to <strong>wreck</strong> ships.
+28700	He thinks I'm resting in my room and he has locked my door.
+34700	But I climbed out of the window and am <strong>hurrying</strong> to the vicar's house before my uncle discovers I've gone.
+42120	The vicar will help me, I'm sure â€¦
+46037	Ah there's the church and the <strong>vicarage.</strong> I can't see any lights, though.
+53912	<strong>Mary<br></strong>Mr Daveyâ€¦ Mr Daveyâ€¦ It's Mary â€¦ Mary Yellan.
+61582	No one's hereâ€¦ Excuse me, is the vicar in the church?
+68054	I've been knocking at the house but there's no answer.
+70333	<strong>Woman<br></strong>No, he left this morning and won't be back until tomorrow.
+73776	<strong>Mary<br></strong>Are you sure? Ohâ€¦ what shall I do? I've got to find someone to help meâ€¦
+80800	<strong>Woman<br></strong>Why don't you go to Mr Bassat, the <strong>magistrate?</strong>
+83906	He lives at North Hill, but it's four miles away.
+86956	<strong>Mary<br></strong>I'll have to go thereâ€¦But firstâ€¦ I must â€¦ write â€¦ a note for Mr Davey.
+96012	Hereâ€¦ can you give this to himâ€¦?
+98999	<strong>Woman<br></strong>But you can't walk! â€“ it's getting dark â€¦
+105555	<strong>Mary</strong><strong>narrating<br></strong>In my note, I explained about the wreck and my uncle's plan to escapeâ€¦ I'll have to walk quickly to North Hill.
+113900	If my uncle discovers I've gone, he'll know I've <strong>betrayed</strong> him and he'll kill me.
+134888	<strong>Mary<br></strong>I need to see Mr Bassat â€“<strong>it's urgent!
+137555	<strong>Mrs Bassat<br></strong>I'm afraid he's not here.
+139100	<strong>Mary<br></strong>Oh no!â€¦ If I don't see him, something <strong>terrible</strong> will happen!
+143333	<strong>Mrs Bassat<br></strong>It's not about the horses is it?â€¦ I know one was <strong>quite ill</strong> this morningâ€¦
+146999	<strong>Mary<br></strong>No â€¦ When will Mr Bassat be back?
+149900	<strong>Mrs Bassat<br></strong>I really don't know. <strong>Actually</strong>, I'm very <strong>worried</strong>.
+153222	He knows a man called Joss Merlyn who's <strong>very dangerous</strong>, so he might be in <strong>serious</strong> danger.
+158650	<strong>Mary<br></strong>What do you mean?
+159977	<strong>Mrs Bassat<br></strong>My husband has <strong>suspected</strong> for a long time that's he committed <strong>serious</strong> crimes and this morning, he <strong>suddenly</strong> got<strong> proof</strong>.
+166754	He's gone to Launceston to get men and will surround the Inn this eveningâ€¦ there may be fightingâ€¦but do you know this man Merlyn?
+175666	Wait a momentâ€¦you are the girl my husband told me about, aren't you? Don't moveâ€¦!
+182222	<strong>Mary<br></strong>Don'tâ€¦ I won't hurt youâ€¦ I came to tell Mr Bassat that my uncle is planning to escape tonight.
+188704	But I've <strong>ruined</strong> your husband's plan.
+191053	When my uncle sees I'm not in my room, he'll leave before your husband gets thereâ€¦
+195392	<strong>Mrs Bassat<br></strong>I can see you're telling the truth. How can I help youâ€¦?
+199555	<strong>Mary<br></strong>I must go back and help my aunt. I'm <strong>really</strong> worried about herâ€¦ [puzzled and trying to work out] But how did Mr Bassat find out the truth so soon?
+208111	<strong>Mrs Bassat<br></strong>I've no idea. <strong>He left very suddenly</strong>â€¦ But you can't possibly walk back <strong>alone</strong> now â€“ it's <strong>dark.</strong> Our servant, James, will <strong>see you home safely.
+217555	<strong>Mary<br></strong>Really â€¦ there's no need. I'm used to the roads at nightâ€¦
+224212	<strong>Mary narrating<br></strong>But she insistedâ€¦ so I am once again on the road to Jamaica Inn.
+230666	The moor is <strong>cold</strong> and still tonightâ€¦ James has two guns and if I have to â€¦ I'll use oneâ€¦ There is the inn â€¦
+249777	<strong>Mary<br></strong>It looks like Mr Bassat hasn't got <strong>here yet</strong>.
+252777	I must find my auntâ€¦ Perhaps they've <strong>already</strong> gone.
+257555	I'll go in <strong>alone</strong>. Give me a gun James. If you hear a shot, then come.
+265888	<strong>Strange</strong>â€¦ the house is darkâ€¦ but the horses are still here. So they haven't gone yet!
+276800	Unless they went <strong>on foot</strong>, but noâ€¦ my aunt wouldn't have done that. How odd!
+286666	<strong>Mary narrating<br></strong>The kitchen is <strong>empty.</strong>The fire is <strong>dead</strong>.
+292958	Nothing but <strong>a deathly silence</strong>.
+298713	I <strong>creep</strong> to the hall, terrified of meeting my uncle with a gun.
+304777	[gasps!]
+306386	<strong>A terrible sight</strong> is there before meâ€¦ I turn and run <strong>as fast as I can</strong>â€¦
+318512	Let's meet again in the next episode â€“ after the shocking events of today I go to the <strong>safety</strong> of the vicar's house â€“ he has <strong>something important</strong> to tell me, but what can it be?

@@ -1,0 +1,26 @@
+1	(Introduction...)
+12900	<strong>Feifei<br></strong>Hello I'm Feifei and this is The English We Speak.
+16588	<strong>Neil<br></strong>And hello, I'm Neil. Today Feifei, I'm going to teach you a piece of authentic English that describes me. Any guesses what it might be?
+24725	<strong>Feifei<br></strong>Hmmm. 'Lazy-bones'?
+27111	<strong>Neil<br></strong>Ha! No, one that describes my many talents.
+30222	<strong>Feifei<br></strong>Err. 'Full of yourself'?
+31900	<strong>Neil<br></strong>No Feifei - think about my skills - all the things I do in the office, for example.
+37222	<strong>Feifei<br></strong>Sorry Neil - I have no idea.
+40022	<strong>Neil<br></strong>It's <strong>jack-of-all-trades</strong>.
+42200	<strong>Feifei<br></strong>But your name's not Jack!
+43982	<strong>Neil<br></strong>It doesn't have to be for this phrase.
+46118	A <strong>jack-of-all-trades</strong> is someone who can do many kinds of jobs - you could say they're multi-skilled.
+52417	<strong>Feifei<br></strong>Ok. Yes, I know this phrase but it just doesn't describe you!
+57461	<strong>Neil<br></strong>Look, let me tell you what I can do, while we hear some more examples. OK?!
+65000	<strong>Examples<br></strong>If you need any work doing to your house, get my Dad round - he's a <strong>jack-of-all-trades</strong>!
+73000	Jane's got a great business - she runs a cafe where she makes and sells the cakes, she does the marketing and her own accounting - she really is a <strong>jack-of-all-trades</strong>.
+88335	<strong>Feifei<br></strong>So that's <strong>jack-of-all-trades -</strong>a phrase that describes someone - a man or a woman -who can do many different types of work.
+97272	We could call them an all-rounder. But sorry Neil - making the tea and presenting The English We Speak does not make you a <strong>jack-of-all-trades</strong>.
+106600	<strong>Neil<br></strong>So you think I am a jack-of-some-trades? Don't forget I wrote this script, I can edit, I can make coffee as well as tea.
+113924	<strong>Feifei<br></strong>But some people say '<strong>jack-of-all-trades</strong>, master of none' - which means you can do many things but you're not an expert in any of them!
+122766	A real <strong>jack-of-all-trades</strong> can do many different jobs - all to a good standard.
+127666	<strong>Neil<br></strong>Well. Right, well I'm off.
+130000	<strong>Feifei<br></strong>Where are you going?
+131192	<strong>Neil<br></strong>To find this guy Jack - to see if he really exists.
+134200	<strong>Feifei<br></strong>Oh dear. Bye!
+136026	<strong>Neil<br></strong>Bye.

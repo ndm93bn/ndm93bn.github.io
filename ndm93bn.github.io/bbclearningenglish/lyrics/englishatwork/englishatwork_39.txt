@@ -1,0 +1,37 @@
+1	(Introduction...)
+5400	<strong>Narrator<br></strong>Hello and welcome to English at Work where things have got rather dramatic.
+11444	Anna is on her way to the airport to try and catch Tom before he boards his flight to Australia and his new life on the other side of the world.
+21111	But will she get there in time?
+29222	<strong>Anna<br></strong>Thanks. Excuse me, do you know where the check in desks for flights to Sydney are?
+37444	<strong>Man<br></strong>Yeah, over there luv – desk number 47.
+41700	<strong>Anna<br></strong>OK, thanks.
+48666	<strong>Tom<br></strong>… yeah, I always fly business class, it's the kind of guy I am… shame you're not available to fly with me but you know…
+58333	<strong>Anna<br></strong>Tom, Tom!
+60333	<strong>Tom<br></strong>Anna? How… what… what are you doing here?
+65800	<strong>Anna<br></strong>Don't go… we need you… I need you.
+69938	<strong>Tom<br></strong>But I don’t understand… you rejected me.
+73999	<strong>Anna<br></strong>Yes but… but…
+75999	<strong>Narrator<br></strong>But what Anna? What are you going to say?
+80224	How can you tell him you were wrong and you've changed your mind?
+84331	<strong>Anna<br></strong>Hmm, I don't know.
+87111	<strong>Passenger 1<br></strong>Tell him 'I've been doing a lot of thinking'.
+90500	<strong>Passenger 2<br></strong>Say, 'I didn't realise how much I missed you until you had gone'.
+96915	<strong>Passenger 3<br></strong>And tell him, 'I've changed my mind, I will marry you!'
+102333	<strong>Tom<br></strong>Yeah, yeah, I heard all that and that other man who you're always talking to.
+107400	<strong>Narrator<br></strong>Oh right!
+108388	<strong>Anna<br></strong>I see. Well Tom, will you marry me?
+113444	<strong>Tom<br></strong>Why should I after all you've put me through?
+117444	<strong>Narrator<br></strong>Yeah why should he?
+119600	<strong>Anna<br></strong>Because Tom… you're a funny guy and… I love you and… I can't live without you.
+127111	<strong>Passengers<br></strong>Ahhh!
+129888	<strong>Tom<br></strong>Let me think about this … oh if you put it like that then yes, I will marry you!
+139400	<strong>Anna<br></strong>Oh Tom!
+149666	<strong>Narrator<br></strong>Hooray. At last!
+152277	We got there in the end but not without using these phrases:
+156412	<em>I've been doing a lot of thinking.
+159395	<em>I didn't realise how much I missed you until you had gone.
+163639	<em>I've changed my mind, I will marry you!
+167717	<strong>Narrator<br></strong>And…
+169333	<em>I love you and I can't live without you!
+176127	<strong>Tom<br></strong>I won't be needing these anymore.
+181600	<strong>Narrator<br></strong>Join us very soon for the English at Work wedding of the year. Bye!

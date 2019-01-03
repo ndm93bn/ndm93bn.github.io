@@ -1,0 +1,59 @@
+1	( Introduction... )
+11732	<strong>Alice<br></strong>Hello and welcome to 6 Minute English. I'm Alice.
+14966	<strong>Neil<br> </strong>And I'm Neil. [rattles a bottle of pills]
+17949	<strong>Alice<br></strong>What have you got there, Neil?
+19172	<strong>Neil<br></strong>Antibiotics. I had a blister on my big toe, and it got infected.
+23737	My whole toe swelled up like a balloon! The swelling has gone down now with these little wonder drugs.
+30417	Look, I'll show you.
+31760	<strong>Alice<br></strong>No, Neil. Please keep your socks on. Thank you.
+37561	Now, the subject of today's show is penicillin, which was one of the first antibiotics to be discovered.
+44456	So, Neil, can you tell me how many lives penicillin has saved since its first use as a medicine in 1942?
+52260	Is it. <br>a) 20 million? <br>b) 200 million? <br>Or c) 2 billion?
+60448	<strong>Neil<br></strong>Well, I'll say b) 200 million. That sounds like a good number.
+65681	<strong>Alice<br></strong>OK, well, we'll see if you're right or wrong later on in the show.
+69612	Now, penicillin is a common <strong>antibiotic</strong> - or substance that kills microorganisms - that acts very effectively against certain bacteria.
+78987	And it was discovered in 1928 by a Scottish scientist called Alexander Fleming who noticed some mould growing on a petri dish of bacteria in his lab, which had a <strong>halo</strong> - or circle - around it where no bacteria were growing.
+94823	<strong>Neil<br></strong><strong>Mould</strong>, by the way, is the soft green fuzzy stuff that grows.
+99325	for example, in the bottom of my coffee cups when I forget to wash them up, Alice.
+104127	<strong>Alice<br></strong>We didn't need to know that, Neil.
+105833	<strong>Neil<br></strong>OK, well, moving on, it took decades before scientists learned how to successfully manufacture penicillin.
+112487	But they got there just in time to treat huge numbers of soldiers in World War Two where so many men were dying from infected wounds.
+120313	<strong>Alice<br></strong>And you could have died from your infected toe, Neil, before penicillin!
+124399	<strong>Neil<br></strong>That is a sobering thought, isn't it Alice?
+127280	Let's listen now to Christopher Tang, Professor of Cellular Pathology at the University of Oxford, talking about how penicillin has been a game changer in the field of medicine.
+137824	<strong>INSERT<br> </strong><strong>Christopher Tang, Professor of Cellular Pathology and Professorial Fellow at Exeter College, University of Oxford<br></strong>The sort of cancer chemotherapy which we currently use, which immunosuppress people, we couldn't possibly consider that without the use of antibiotics.
+146648	So not only has penicillin opened the door for treating people with infection, it's also essentially paved the way for modern medicine, modern interventional medicine that we benefit from now.
+157077	<strong>Alice<br></strong><strong>Chemotherapy</strong> is a chemical treatment used to kill cancer cells that also <strong>suppresses</strong> - or stops - the body's immune system from working.
+167910	The <strong>immune system </strong>is our body's defence against infection and disease.
+172712	So cancer patients have to take antibiotics to prevent infections that the body can't fight off by itself.
+179151	<strong>Neil<br></strong>So the discovery of penicillin paved the way for chemotherapy and other types of medical treatment - and to <strong>pave the way</strong> means to make something possible.
+187981	But surely, Alice, there are some bacteria that penicillin doesn't kill?
+191696	<strong>Alice<br></strong>You're right. It only works against bacteria with proteins that are sensitive to penicillin.
+197800	Other types are less sensitive, and also have systems built into the structure of the cell that sweep out harmful compounds, such as penicillin.
+206911	<strong>Neil<br></strong>And what about that superbug, what's it called. MS... MR... MSR... ?
+213872	<strong>Alice<br></strong>MRSA, Neil.
+215789	This bacterium was sensitive to penicillin but has developed a <strong>resistance</strong> to it, and to other antibiotics, meaning the drugs can't harm it any more.
+225221	<strong>Neil<br></strong>Are we returning to the past, then, Alice, where people like me might die from an infected toe?
+230323	<strong>Alice<br></strong>Well, it's possible, Neil. But drug-resistance isn't new.
+234346	Here's Professor Steve Jones to tell us more.
+237064	<strong>INSERT<br></strong><strong>Steve Jones, Emeritus Professor of Genetics, University College, London<br></strong>Penicillin is not new. It's been around for millions, probably hundreds of millions of years in the soil.
+244110	And it's because the moulds protect themselves with it.
+249514	And in fact you find resistance to penicillin in the most unlikely places.
+253473	You find it for example in corpses from before Columbus in the New World.
+259087	<strong>Neil<br></strong>Professor Steve Jones. So penicillin was discovered in 1928 but it's actually been around for hundreds of millions of years.
+267223	<strong>Alice<br></strong>Yes. And scientists have been able to test bacteria present in very old <strong>corpses</strong> - or dead bodies - discovered in the New World - that's North and South America - and found that some of it was resistant to penicillin.
+281525	<strong>Neil<br></strong>But penicillin resistance is growing, isn't it?
+284341	<strong>Alice<br></strong>Yes. These days we overuse penicillin both in agriculture and human medicine, which has given bacteria the chance to adapt and fight back.
+293310	So it's now up to scientists to adapt penicillin to extend its lifespan, and to search for new types of antibiotics.
+301091	<strong>Neil<br></strong>But prevention is better than cure, isn't it?
+303444	We should all wash our hands more - it's a fantastic way of killing bacteria.
+307518	<strong>Alice<br></strong>Yes. Good point, Neil, but washing your hands didn't cure your toe, did it?
+312358	Now, remember I asked you earlier: How many lives has penicillin saved since its first use as a medicine in 1942?
+320456	Was it. <br>a) 20 million, b) 200 million or c) 2 billion?
+327988	<strong>Neil<br></strong>And I said b) 200 million.
+330830	<strong>Alice<br></strong>And you were right!
+333942	Penicillin became the most effective life-saving drug in the world, conquering diseases such as tuberculosis, gangrene, pneumonia, diphtheria, and scarlet fever and made Alexander Fleming an international hero for discovering it.
+348588	<strong>Neil<br></strong>Now, let's hear the words we learned today.
+351399	They are:<br>antibiotic<br>halo<br>mould<br>chemotherapy<br>suppresses<br>immune system<br>pave the way<br>resistance<br>corpses
+364200	<strong>Alice<br></strong>Well, that's the end of today's 6 Minute English. And join us again soon!
+368851	<strong>Both<br> </strong>Bye!

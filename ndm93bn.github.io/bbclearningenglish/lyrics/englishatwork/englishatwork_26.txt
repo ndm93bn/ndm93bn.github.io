@@ -1,0 +1,63 @@
+1	(Introduction...)
+4333	<strong>Narrator<br></strong>Hello again. It's a difficult day at the offices of Tip Top Trading.
+10066	The office assistant Denise is losing her job, and today is her last day.
+16229	Anna is busy with her work and trying to get everyone to sign Denise's leaving card.
+22650	<strong>Anna<br></strong>Paul, have you signed Denise's leaving card yet?
+25967	<strong>Paul<br></strong>No, not yet. Have you got a pen?
+28999	"Sorry to see you go.Best foot forward. Paul."
+34420	There. I feel a bit guilty, it was me who got rid of her.
+40111	<strong>Tom<br></strong>Yeah. Well, you should feel really bad.
+42728	I can't believe you're getting rid of her.
+44433	<strong>Anna<br></strong>Tom, do you want to sign the card?
+46999	<strong>Tom<br></strong>Yeah, of course.
+48444	"You areâ€¦wereâ€¦the best employee we ever had. So sad to see you go. Kiss, kiss, kiss. Tom."
+60500	<strong>Anna<br></strong>Gosh. Three kisses! Erm, you haven't given me any money for her leaving present yet, have you?
+66777	<strong>Tom<br></strong>Oh sorry, a bit of a cash flow problemâ€¦ Here, have a pound.
+72666	<strong>Paul<br></strong>That's generous!
+78600	<strong>Paul<br></strong>Oh crumbs, she's crying again. Anna, could you deal with her? I've got something important to do.
+88333	<strong>Tom<br></strong>Oh yeah. Me too.
+93628	<strong>Anna<br></strong>Denise, are you OK? Are you upset about leaving?
+98666	<strong>Denise<br></strong>Yes. I've loved working here.
+101888	I've made some good friendsâ€¦ like you Annaâ€¦ Oh, and being able to make free phone calls has been good.
+111603	What am I going to do now?
+114777	<strong>Narrator<br></strong>Oh dear Anna. It sounds like Denise needs some career advice.
+119777	<strong>Anna<br></strong>Career advice?
+121555	<strong>Narrator<br></strong>She needs some guidance on what to do next and where to find another job. What would you do in her situation?
+129500	<strong>Anna<br></strong>Look in the newspaper, ring my contacts, register with a job agency?
+135320	<strong>Narrator<br></strong>Exactly! I'm sure you can give her some good advice. Go on, give it a go!
+141333	<strong>Anna<br></strong>OK, I'll try. Cheer up Denise, you need to think positively.
+148000	<strong>Denise<br></strong>Do I? I'm unemployed from tomorrow, how am I ever going to find another job?
+155279	<strong>Anna<br></strong>Well, have you tried looking in the job section of the newspaper?
+159920	<strong>Denise<br></strong>No.
+161666	<strong>Anna<br></strong>It's a good place to start. And there are loads of job-finding websites you could sign up for.
+167777	<strong>Denise<br></strong>I don't have a computer.
+170008	<strong>Anna<br></strong>Well what about ringing some of the people you know; contacts who may know about a job.
+176444	<strong>Denise<br></strong>Hmm, I hadn't thought about that.
+179444	<strong>Anna<br></strong>And of course, you could register with a recruitment agency. They're good at finding jobs for you.
+186222	<strong>Denise<br></strong>Oh, that's a good idea. Anna, you're brilliant! What great ideasâ€¦ you're so kind andâ€¦ thoughtful.
+198777	<strong>Paul<br></strong>Anna could youâ€¦ Oh no, she's crying again.
+202999	<strong>Tom<br></strong>Oh no, shall we go back into your office Paul?
+206777	<strong>Anna<br></strong>No, no. It's OK, Denise is crying with happiness. She's feeling better now.
+211996	<strong>Paul<br></strong>Oh well, in that caseâ€¦ shall we all gather round and officially say goodbye to Denise.
+225000	<strong>Narrator<br></strong>It's an emotional day for Denise, but Anna has been really useful with her career advice.
+231918	If a professional career advisor is not available, giving some of your own advice can sometimes be useful.
+239444	Let's hear again what Anna suggestedâ€¦
+241953	<em>You need to think positively.
+244816	<em>Try looking in the job section of the newspaper.
+248698	<em>There are loads of job-finding websites you could sign up for.
+253444	<em>What about ringing some of the people you know?
+257111	<em>You could register with a recruitment agency.
+265777	<strong>Paul<br></strong>OK everyone, the time has come to say farewell to Denise. It's with regret we've had to let her go.
+273900	<strong>Tom<br></strong>We? You, Paul.
+276110	<strong>Pau<br></strong>Thank you for all your hard work and we wish you very well in the future.
+284936	<strong>Paul<br></strong>Anna, I think we have a gift for Denise?
+288493	<strong>Anna<br></strong>There you go Denise. Careful, it's quite heavy.
+295835	<strong>Denise<br></strong>Oh, what a beautiful fruit bowlâ€¦ and full of plastic fruit!
+306444	<strong>Tom<br></strong>I'll get it.
+316600	Sorry about that everyone. That was a company called Nice'n'Cheesy, they remember you Anna.
+323100	They liked your sales pitch and want to order a hundred thousand plastic grapes to go with their cheeses!
+330222	<strong>Paul<br></strong>What?! Brilliant! Ooops.
+334777	<strong>Denise<br></strong>My new fruit bowl!
+342222	<strong>Narrator<br></strong>Oh dear. Poor Denise!
+346265	It looks like she might be leaving the company at just the wrong time. I wonder if she'll be back?
+352301	You'll have to join us again for the next episode of English at Work. Bye!

@@ -1,0 +1,77 @@
+1	(Introduction...)
+12222	<strong>Finn<br></strong>Hello and welcome to 6 Minute Vocabulary. Iâ€™m Finn.
+16299	<strong>Catherine</strong><br>And Iâ€™m Catherine.
+17444	<strong>Finn<br></strong>In todayâ€™s programme weâ€™re talking about irregular verbs.
+21499	<strong>Catherine<br></strong>Yes, and as you know, there are lots of irregular verbs in English.
+25500	<strong>Finn<br></strong>Lots and lots. Some, like <strong>write</strong>, have different forms for the past simple and past participle: <strong>wrote </strong>and <strong>written</strong>.
+35543	<strong>Catherine<br></strong>Yes and it's not always easy to remember all those different forms!
+39900	<strong>Finn<br></strong>It's not. Today, though, weâ€™re going to explain how some of these verbs can be grouped into patterns to help remember the different forms.
+49155	<strong>Catherine <br></strong>Weâ€™ll give you lots of examplesâ€¦
+51222	<strong>Finn<br></strong>Weâ€™ll have a quizâ€¦&nbsp;
+52388	<strong>Catherine<br></strong>â€¦and weâ€™ll leave you with a top tip for learning vocabulary.
+55499	<strong>Finn<br></strong>But first, letâ€™s hear my interview with singer-songwriter Andrea.
+60333	<strong>Catherine<br></strong>While you listen, think about this question: Who hasnâ€™t spoken to Andrea for a long time?
+68109	<strong>INSERT<br></strong><strong>Finn<br></strong>Hi, Andrea. Now, tell us: when did you <strong>begin</strong> to <strong>sing</strong>?
+72797	<strong>Andrea</strong><br>I <strong>sang</strong> in the school choir and I <strong>began</strong> to sing in bands when I was just ten.
+78300	<strong>Finn<br></strong>Oh, wow. So how many songs have you <strong>written</strong>&nbsp;
+81900	<strong>Andrea</strong><br>Over a hundred. I <strong>wrote</strong> one just before I <strong>drove</strong> here.
+86999	<strong>Finn</strong><br>Right. And Andrea, I'm sure you have <strong>broken</strong> many menâ€™s hearts. Tell us, who was the first?
+94555	<strong>Andrea</strong><br>Oh, he was a boy called Marcus. I <strong>knew</strong> him at school.
+99046	We <strong>grew</strong> up on the same street. Heâ€™s not <strong>spoken</strong> to me since we <strong>broke</strong> up.
+103999	<strong>Finn</strong><br>Since you broke up, that sounds bad. Thank you for coming and speaking to us today, Andrea.
+109300	<strong>Andrea</strong><br>Thanks for having me.
+110303	<strong>STING</strong>
+112777	<strong>Finn</strong><br>And there we are. So, we asked you: Who hasnâ€™t spoken to Andrea for a long time?
+119814	<strong>Catherine</strong><br>And the answer is: Marcus. They havenâ€™t spoken since they <strong>broke</strong> up.
+124066	<strong>Finn<br></strong><strong>Broke </strong>is the past simple of the verb <strong>break</strong> and it belongs to our first group of verbs.
+130789	It has the pattern <strong>break</strong>, <strong>broke</strong>,<strong> broken</strong>.
+135111	<strong>Catherine<br></strong>That's right, the past simple is <strong>broke</strong> and the past participle is <strong>broken</strong>.
+139500	<strong>Finn<br></strong>Listen to this clip. Can you hear another verb with the same pattern?
+144146	Hereâ€™s a clue. The word rhymes with <strong>broken</strong>.
+148200	<strong>INSERT CLIP 1</strong> <br><strong>Andrea</strong><br>Oh, he was a boy called Marcus. I <strong>knew</strong> him at school.
+152444	We <strong>grew</strong> up on the same street. Heâ€™s not <strong>spoken</strong> to me since we <strong>broke</strong> up.
+157333	<strong>Catherine<br></strong>OK, and <strong>spoken </strong>rhymes with <strong>broken</strong>.
+161001	The verb <strong>speak</strong> forms its past simple and past participle in the same way as <strong>break</strong>.
+166888	<strong>Finn<br></strong>So itâ€™s <strong>speak</strong>,<strong> spoke</strong>,<strong> spoken</strong>â€¦&nbsp;
+171444	<strong>Catherine<br></strong>And <strong>speak</strong> and <strong>break</strong> are pronounced differently although they both have e-a-k at the end.
+179222	<strong>Finn<br></strong>They do. Now, another verb with the same pattern is <strong>wake</strong>.
+184111	<strong>Catherine<br></strong>â€¦ so itâ€™s <strong>wake</strong>,<strong> woke</strong>,<strong> woken</strong>.
+186666	<strong>Finn<br></strong>â€¦ although we spell <strong>wake</strong>, w-a-k-e. It's not spelt e-a-k at the end.
+194333	Now, in the interview, we had two other verbs with a different pattern.
+199055	<strong>Catherine<br></strong>That's right, we had the past forms <strong>knew</strong> and <strong>grew</strong>.
+203444	Andrea <strong>knew</strong> Marcus at school and she <strong>grew</strong> up on the same street.
+209444	<strong>Finn<br></strong>Yes. These are the past simple forms of <strong>know</strong> and <strong>grow</strong>.
+214555	<strong>Catherine<br></strong>So, itâ€™s <strong>know</strong>,<strong> knew</strong>,<strong> known</strong>â€¦
+217613	<strong>Finn<br></strong><strong>Grow</strong>,<strong> grew</strong>,<strong> grown</strong>â€¦&nbsp;
+220555	<strong>Catherine<br></strong>Another verb with this pattern is <strong>blow</strong>.
+223647	<strong>Finn<br></strong>So itâ€™s <strong>blow, blew, blown</strong>.
+227030	<strong>Catherine<br></strong>So we've got two groups. The first one is verbs like <strong>speak</strong>,<strong> spoke</strong>,<strong> spoken</strong>â€¦
+233333	<strong>Finn<br></strong>And we have in our second group, verbs like <strong>grow</strong>,<strong> grew</strong>,<strong> grown</strong>.
+238711	Listen to this second clip and see if you can spot two more patterns.
+243599	Hereâ€™s a clue: listen to words that rhyme or have similar pronunciations.
+249377	<strong>INSERT CLIP 2<br>Finn</strong><br>When did you <strong>begin</strong> to <strong>sing</strong>
+251414	<strong>Andrea</strong><br>I <strong>sang</strong> in the school choir and I <strong>began</strong> to sing in bands when I was just ten.
+257000	<strong>Finn</strong><br>Oh, wow. How many songs have you <strong>written</strong>?
+260444	<strong>Andrea</strong><br>Over a hundred. I <strong>wrote</strong> one just before I <strong>drove</strong> here.
+265556	<strong>Catherine<br></strong>Did you hear the patterns <strong>begin</strong>â€¦<strong> began </strong>and<strong> sing</strong>â€¦<strong> sang?
+270977	<strong>Finn<br></strong>So, this pattern is <strong>begin</strong>,<strong> began</strong>,<strong> begun</strong>â€¦<strong>&nbsp;</strong>
+276125	<strong>Catherine<br></strong>Exactly, and we've got<strong> sing</strong>,<strong> sang</strong>,<strong> sung</strong>â€¦
+279937	<strong>Finn<br></strong>In the clip, we also had another pattern - <strong>wrote</strong>â€¦ <strong>written</strong>.
+285777	So, that's the past simple and the past participle of <strong>write</strong>.
+290104	<strong>Catherine<br></strong>We heard another verb with this patternâ€¦ <strong>drove</strong>, which is the past simple of <strong>drive</strong>.
+296445	<strong>Finn<br></strong>And the past participle isâ€¦
+298837	<strong> Catherine <br></strong>â€¦ <strong>driven</strong>. So that's <strong>drive</strong>, <strong>drove</strong>, <strong>driven</strong>.
+302666	<strong>IDENT</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>6 Minute Vocabulary from BBC Learning English
+309555	<strong>Catherine<br></strong>And now for a quiz. Iâ€™ll give you two parts of a verb.
+314222	You have to complete the pattern. Ready? Number one: swim, swam, ______.
+321999	<strong>Finn<br></strong>â€¦<strong>swum</strong>.
+323571	<strong>Catherine<br></strong>Well done if you got that right. Number two: speak, ______, spoken.
+330444	<strong>Finn<br></strong>â€¦<strong>spoke</strong>.
+331888	<strong>Catherine<br></strong>Correct. Number three: ______, wrote, written.
+337888	<strong>Finn<br></strong>â€¦<strong>write</strong>.
+339222	<strong>Catherine</strong><br>And thatâ€™s the end of the quiz. Well done if you got them right.
+343023	<strong>Finn</strong><br>And now, todayâ€™s top tip for learning vocabulary: combine irregular verbs with the same pattern in a short rhyme or story.
+352333	The pattern of the rhyme will help you remember the different forms.
+356400	<strong>Catherine<br></strong>Thereâ€™s more about this at bbclearningenglish.com.
+359609	Join us again for more 6 Minute Vocabulary.
+362471	<strong>Both</strong><br>Bye!

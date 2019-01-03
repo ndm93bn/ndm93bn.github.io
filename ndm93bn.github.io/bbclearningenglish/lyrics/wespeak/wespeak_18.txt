@@ -1,0 +1,25 @@
+1	(Introduction...)
+13000	<strong>Neil<br></strong>Hello, I'm Neil.
+14300	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17750	<strong>Neil<br></strong>What's in that bag, Feifei?
+19300	<strong>Feifei<br></strong>Oh this - it's a box of the best washing powder there is - Dazzlebright non-bio washing powder!
+26900	<strong>Neil<br></strong>And why will I need that?
+28534	<strong>Feifei<br></strong>Well, at the meeting earlier - when John suggested we all wore suits to work - you said his idea <strong>won't wash</strong> with the team - so here's some washing powder to help you make it wash.
+40779	<strong>Neil<br></strong>It's a kind thought - but I won't need it.
+43137	When I said <strong>it won't wash</strong> I meant his idea is unconvincing and won't work.
+48348	<strong>Feifei<br></strong>Ah - So you don't need my washing powder then?
+51700	<strong>Neil</strong><br> No thanks. You see, this phrase originally referred to <em>fabrics</em> that were not good quality and wouldn't last long when they were washed.
+59671	But now it's about someone's <em>idea</em> or suggestion not lasting very long because people won't believe it or accept it. Let's hear some examples.
+71222	<strong>Examples</strong> <br>Your excuses for not finishing your essay <strong>won't wash</strong> with me - you've missed your deadline and that's that.
+81197	The boss's idea to work an extra hour everyday <strong>won't wash</strong> with the team - they'll be furious.
+90546	Just saying you've got a cold <strong>won't wash</strong> with your fans - they've paid a lot of money to come and see you perform.
+100700	<strong>Feifei<br></strong>That's the expression <strong>it won't wash</strong> which really means it won't work - or nobody will believe you.
+107273	Of course, I do know this phrase Neil.
+110133	<strong>Neil<br></strong>So why did you bring in the washing powder?
+112333	<strong>Feifei<br></strong>Well I know how scruffy our team members are - and if we do have to start wearing suits, they will all need a good wash.
+120485	Erm, did you have curry last night?
+123666	<strong>Neil</strong> <br> Yeah - why do you ask?
+125546	<strong>Feifei<br></strong>There's a big yellow stain on your jumper - just there.
+129623	Here, why not test out use my Dazzlebright washing powder - 'it makes your old clothes look like new!'
+136700	<strong>Neil</strong><br> Hmm, thanks.
+138000	<strong>Both</strong><br> Bye.

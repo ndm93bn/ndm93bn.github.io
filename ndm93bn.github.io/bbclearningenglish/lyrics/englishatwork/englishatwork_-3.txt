@@ -1,0 +1,60 @@
+1	(Introduction...)
+5073	<strong>Narrator<br></strong>Welcome back. Things are quite tense at Tip Top Trading today.
+9889	Paul, the boss, mistakenly thinks Anna's been smoking on company premises and she's trying to explain herself.
+17350	<strong>Anna<br></strong>But, butâ€¦
+17951	<strong>Paul<br></strong>Frankly, I'm disappointed with you Anna.
+20294	You're a hard worker but it doesn't mean you can go against company policy.
+24688	<strong>Narrator<br></strong>Anna, remember the phrases we've learnt about a misunderstanding!
+29555	<strong>Anna<br></strong>Oh yes. Paul, I think there's been a misunderstanding.
+33939	<strong>Paul<br></strong>A misunderstanding? How can you explain the smell of cigarette smoke?
+38701	This is a 'no smoking' building.
+40701	<strong>Anna<br></strong>Let me explain. I went down to the warehouse to speak to Mr Ingle andâ€¦ wellâ€¦ someone else was smoking.
+49566	<strong>Paul<br></strong>What!? Someone was smoking in the warehouse?
+52469	Golly gosh, that's highly dangerous. Who was it Anna?
+56421	<strong>Anna<br></strong>Errâ€¦ wellâ€¦ I can't really say. But I dealt with it and it won't happen again.
+63352	<strong>Narrator<br></strong>Yes, you dealt with it very well Anna but can you keep your secret about Mr Ingle safe?
+69961	<strong>Paul<br></strong>Thank you Anna and sorry about the misunderstanding.
+74396	Would you like a biscuit? Now I really think it's time we had a review of our health and safety procedures.
+83108	<strong>Paul<br></strong>Denise, could you gather everyone round in the meeting room please.
+86723	<strong>Denise<br></strong>(On phone) I'll have to call you back Marge.
+89315	(Hangs up) Could you all gather in the meeting room please, Paul has something important to say.
+95165	<strong>Tom<br></strong>What is it Denise? Is it about my fantastic sales figures again, huh?
+99243	<strong>Denise<br></strong>I doubt it Tom. It sounded urgent. I'd better bring some tea.
+105374	<strong>Paul<br></strong>Thank you for joining me. Unfortunately, there has been an incident in the warehouse.
+111229	Someone has been smoking and I'm not happy, so I thought I would remind you of our health and safety procedures.
+118726	<strong>Tom<br></strong>Not this again!
+120410	<strong>Paul<br></strong>Your safety is our responsibility.
+123727	But to keep safe we must follow some simple rules.
+127092	Denise, what's the first one?
+129144	<strong>Denise<br></strong>(Slurps tea) If you see a fire, raise the alarm â€“ oh and call the fire service.
+136707	<strong>Tom<br></strong>Yeah, you love seeing those firemen, don't you, Denise!
+140094	<strong>Paul<br></strong>Shhh Tom. Maybe you could tell us the other rule?
+143406	<strong>Tom<br></strong>Oh yeah right. If you hear the fire alarm, get out quick.
+148294	<strong>Paul<br></strong>Not exactly Tom.
+150650	I think we should walk calmly to our nearest fire exit, following the green signs, go outside and meet at the fire assembly point.
+159040	<strong>Denise<br></strong>Yes, and I will take a register of who is here, using my red pen (slurps tea).
+165765	<strong>Paul<br></strong>Do you mind not slurping Denise?
+168363	<strong>Denise<br></strong>This is thirsty work.
+170933	<strong>Paul<br></strong>Hmm. Now is everyone clear about what to do if there is a fire alarm?
+176742	<strong>Tom<br></strong>It's usually a false alarm anyway.
+179287	<strong>Paul<br></strong>That's not the point. Now Anna, what about smoking?
+183503	<strong>Anna<br></strong>No smoking on company premises. But it wasn't me, it was Mr Ingle.
+189443	<strong>All<br></strong>Mr Ingle!
+192914	<strong>Paul<br></strong>I see, so it was Mr Ingle smoking in the warehouse.
+197784	You should have told me Anna.
+199262	<strong>Anna<br></strong>Sorry!
+200517	<strong>Paul<br></strong>Right, I'm going to have to look into this.
+202784	Back to work everyoneâ€¦ oh and take a biscuit with you.
+212864	<strong>Narrator<br></strong>So Anna's let the cat out of the bag â€“ Mr Ingle won't be pleased â€“ but at least she now knows what do if a fire breaks out.
+221754	Here are some of the phrases we've heard today, that can be used in an emergency:<br>If you see a fire, raise the alarm.
+230589	Walk calmly to your nearest fire exit.
+233845	Meet at the fire assembly point.
+236446	No smoking on company premises.
+245698	<strong>Tom<br></strong>Sorry to interrupt Paulâ€¦ but the fire alarm's going off!
+249410	<strong>Denise<br></strong>Don't panic anyone. Everything will be OK.
+252824	(On phone) Jane, I'll have to call you backâ€¦ yes, a bit of a panic.
+255861	Bye. Quick, where's my red pen?
+258585	<strong>Narrator<br></strong>Uh-oh. Those emergency phrases might come in useful sooner than you think.
+263641	Is this going to be the end of Tip Top Trading, will it really go up in smoke?
+268598	Find out next time. Bye.
+272317	<h3>Listening challenge - answer</h3> <br>What colour are the fire exit signs? <br>Green.

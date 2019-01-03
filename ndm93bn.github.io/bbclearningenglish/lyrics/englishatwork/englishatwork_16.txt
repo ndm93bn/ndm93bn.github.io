@@ -1,0 +1,63 @@
+1	(Introduction...)
+6222	<strong>Waiter<br></strong>Would you like to see the menu?
+8222	<strong>Tom<br></strong>Oh yes please.
+10136	<strong>Waiter<br></strong>I was asking the lady actually.
+12666	<strong>Tom<br></strong>Oh, right.
+14618	<strong>Narrator<br></strong>Hello again. Anna and Tom are finally on their dinner date at a pizza restaurant.
+21400	Eating could be difficult for Tom because he's sprained his arm after that accident in the office.
+27388	He might still have romance on his mind but Anna is thinking about something else. Are you feeling nervous Anna?
+34990	<strong>Anna<br></strong>Nervous? Why?
+37055	<strong>Narrator<br></strong>Being out on your own with Tom. What are you going to talk about?
+41312	<strong>Anna<br></strong>Don't worry. I can handle this, besides I want Tom's ideas about developing a new plastic vegetable.
+48410	<strong>Narrator<br></strong>A plastic vegetable! Oh right. Well, good luck.
+53903	<strong>Tom<br></strong>So, this is nice. Finally, us together, on our own, me and you, pizza, red wineâ€¦ expensive red wine, actually.
+66555	<strong>Anna<br></strong>Lovely, Tom. You know Tom, Paul wants me to develop a new idea â€“ plastic vegetables â€“ I thought, maybe, you might like to help me?
+78216	<strong>Tom<br></strong>Come on Anna, we're not here to talk business. Tell me about you â€“ the real Anna.
+84700	Have you had manyâ€¦ err, many boyfriends before?
+88200	<strong>Anna<br></strong>That's a bit personal. What do you think about plastic peas?
+92999	<strong>Tom<br></strong>Err? Can you not switch off from work for one minute?
+98555	<strong>Anna<br></strong>Tom. I think you and me are very similar â€“ we're a good team.
+104444	If we could come up with a great idea for Paul then who knowsâ€¦ we may get to travel the world selling it together?
+112179	<strong>Tom<br></strong>Oh, I see. I hadn't thought of it like that. Right wellâ€¦
+118333	<strong>Waiter<br></strong>Your pizzasâ€¦ madamâ€¦ sir.
+121735	<strong>Anna<br></strong>Thanks. Tom, I think you'll need some help cutting that.
+127923	<strong>Tom<br></strong>Thanks. Mmm, you smell niceâ€¦ or is that the pizza?
+137837	<strong>Anna<br></strong>I've got it!
+139075	<strong>Tom<br></strong>What?
+140521	<strong>Anna<br></strong>Plastic aubergines!
+143027	<strong>Tom<br></strong>Plastic aubergines?
+145040	<strong>Anna<br></strong>Yes. Plastic aubergines. They would look great on this table â€“ a sort of decoration.
+153888	<strong>Tom<br></strong>Yeah! And you could put sauces insideâ€¦ or salt and pepper.
+160666	You could be on to something here.
+162784	<strong>Anna<br></strong>We need to put a proposal together, to give it to Paul. But what should we say?
+169200	<strong>Narrator<br></strong>Anna, your proposal needs to be brief but clear. Use positive language to propose your idea to Paul.
+177481	Use words like '<em>exceptional</em>', '<em>fantastic</em>', '<em>quality</em>', and talk about how it would benefit the business by using words like '<em>profit</em>', '<em>efficiency</em>', and '<em>value for money</em>'. Good luck!
+193002	<strong>Tom<br></strong>Are you OK Anna?
+195101	<strong>Anna<br></strong>Yes. Just writing some things down.
+197903	<strong>Tom<br></strong>OK, well write down how we could target restaurants and cafes.
+204028	They'll be begging for our vegetables. Oh this is so excitingâ€¦ let's drink to ourâ€¦ succâ€¦ Oh!
+211319	<strong>Anna<br></strong>Tom! What have you done? You've knocked red wine all over meâ€¦ and my notebook.
+217236	<strong>Tom<br></strong>Ermm, sorry. We had better get you out of that dress.
+229000	<strong>Narrator<br></strong>Hmm, what a mess and what a date!
+232748	But what may be lacking in romance is made up for in a potentially successful business deal.
+239409	Let's find out how it's going much much later at Tom's flatâ€¦
+244847	<strong>Anna<br></strong>â€¦this <em>exceptional</em> product has <em>fantastic</em> potentialâ€¦
+249506	<strong>Tom<br></strong>Say 'demand for this plastic aubergine will reach melting point!' My little joke.
+256211	<strong>Anna<br></strong>â€¦by making the production more <em>efficient</em>, our customers will get <em>value for money</em> and our <em>profits</em> will increase. There, done.
+266156	<strong>Tom<br></strong>Great. We can pitch this to Paul first thing on Monday morning.
+270479	So now, maybe we can get back to our date? Look I saved some of that pizza.
+276100	<strong>Anna<br></strong>It's all cold! Anyway, I had better go.
+280427	It's late and I want to tidy up this proposal.
+283708	But it's been great. I can't wait till next time.
+286900	<strong>Tom<br></strong>Bbbutâ€¦Next time?
+292900	<strong>Narrator<br></strong>Well, that went well!
+295034	The pizza may be cold but Anna and Tom have developed a red hot proposal.
+300395	Here's a reminder of some of the words you might want to use to make your business proposal stand outâ€¦
+306723	<em>Exceptional!
+308422	<em>Fantastic!
+309674	<em>Quality.
+310700	<em>Profit.
+311700	<em>Efficiency.
+312783	<em>Value for money.
+314081	<strong>Narrator<br></strong>So with the proposal written, Tom and Anna just need to convince Paul â€“ and that means pitching their idea.
+321800	Find out how they get on next time. Bye for now.

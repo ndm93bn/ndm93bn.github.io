@@ -1,0 +1,63 @@
+1	(Introduction...)
+5863	<strong>Narrator<br></strong>Welcome back to the chaotic offices of Tip Top Trading.
+10300	Now Denise has left the company, the place is a mess and important phone messages are being lost.
+16814	What can be done to make things better? I think we know the answer!
+21777	<strong>Paul</strong><strong><br></strong>Hi. Did anyone take a message for me while I was out? I'm expecting an important call.
+28333	<strong>Tom</strong><strong><br></strong>Errâ€¦ no!
+29539	<strong>Anna</strong><strong><br></strong>Actually yes Paul. I wrote it on Tom's hand but he washed it off.
+34666	<strong>Tom</strong><strong><br></strong>Look, good hygiene's very important to me.
+37000	<strong>Paul</strong><strong><br></strong>Hmm. That's not very good is it? What's wrong with writing on a piece of paper?
+42444	<strong>Anna</strong><strong><br></strong>We've run out of paperâ€¦ and pens.
+45844	<strong>Tom</strong><strong><br></strong>Everything really. Nobody's ordered any stationery or tidied up the office.
+51666	<strong>Anna</strong><strong><br></strong>It's since Denise left.
+53600	<strong>Paul</strong><strong><br></strong>Yes, maybe I was a bit hasty getting rid of her. It was really just to save money.
+59845	<strong>Tom</strong><strong><br></strong>Yeah, but look, if we can't take messages from possible clients we're going to lose even more money.
+65888	<strong>Paul</strong><strong><br></strong>Yesâ€¦ I suppose you have a point. Maybe I will to have reinstate her.
+72555	<strong>Anna</strong><strong><br></strong>You mean, get her back?
+74999	<strong>Narrator</strong><strong><br></strong>Yes Anna, he does. Another way of saying reinstate is he's got to 'reverse his decision'.
+83051	It means Paul has got to make an awkward call to Denise.
+87126	<strong>Tom</strong><strong><br></strong>Look Paul, you're going to have to call her and tell her you've made an errorâ€¦ a huge one actually.
+93267	<strong>Paul</strong><strong><br></strong>It wasn't that huge? Actuallyâ€¦ Anna, you're her good friend, would you like to call her?
+99555	<strong>Anna</strong><strong><br></strong>Me?! B-b-but I can't.
+102888	<strong>Narrator</strong><strong><br></strong>What a coward! I think it's time to stand your ground Anna.
+108222	Tell him "You're the boss, I think it's better coming from you", and remind him "it was your decision so you need to explain the situation", and remind him "this is your responsibility".
+122038	You could suggest he says "I'm sorry, I made a mistake and we would love to have you back."
+128800	<strong>Anna</strong><strong><br></strong>OK. Do you know what Paul, I think the news is better coming from youâ€¦ just to make it official.
+135777	<strong>Tom</strong><strong><br></strong>Yeah Paul, you are the boss after all.
+138333	<strong>Anna</strong><strong><br></strong>And it was your decision in the first place so you need to explain that the situation has changed.
+144777	<strong>Paul</strong><strong><br></strong>Well, maybe you're right but I can't tell her I'm wrong can I?
+149735	<strong>Anna</strong><strong><br></strong>Look, just say you're sorry. Tell her you made a mistake and I would love to have you backâ€¦ we all would.
+158161	<strong>Paul</strong><br>Yes, you're right. I should do it. I'll just have a quick biscuit. Here goes.
+172974	<strong>Denise</strong><strong><br></strong>Hello?
+174666	<strong>Paul</strong><strong><br></strong>Ah...h-h-h-ello Denise. It's meâ€¦ Paulâ€¦your bossâ€¦ your ex-boss from Tip Top Trading.
+182666	<strong>Denise</strong><strong><br></strong>Oh.
+183771	<strong>Paul</strong><strong><br></strong>How are youâ€¦ getting on?
+186666	<strong>Denise</strong><strong><br></strong>Wellâ€¦
+187999	<strong>Paul</strong><strong><br></strong>Good, good. Actually, I've been rethinking our staffing situation in the officeâ€¦
+193922	<strong>Denise</strong><strong><br></strong>Yes?
+195666	<strong>Paul</strong><strong><br></strong>Andâ€¦wellâ€¦ I'm sorry Deniseâ€¦ Iâ€¦ miscalculated my staffing numbers.
+202122	<strong>Denise</strong><strong><br></strong>You mean you made a mistake?
+204700	<strong>Paul</strong><strong><br></strong>Well, I suppose so.
+207388	So. I would love to have you back in the office as soon as possible. What do you say?
+213888	<strong>Denise</strong><strong><br></strong>Hmm, let me think about itâ€¦ hmmmâ€¦ errrâ€¦ wellâ€¦ hmmmâ€¦
+231800	<strong>Narrator<br></strong>What will Denise decide? It was a hard phone call for Paul to make, but not one Anna should have made as it wasn't her mistake.
+240632	She stood her ground with Paul and used the following phrases:
+245555	<em>You're the boss and I think the news is better coming from you.
+249705	<em>It was your decision in the first place so you need to explain that the situation has changed.
+257000	<em>This is your responsibility.
+259882	<strong>Narrator</strong><strong><br></strong>And here is a reminder of the phrases Paul used to try and apologise:
+265564	<em>I've been rethinking our staffing situation in the office.
+270555	<em>Sorry, I made a mistake. I miscalculated my staffing numbers.
+277854	<em>I would love to have you back in the office.
+285349	<strong>Denise</strong><strong><br></strong>Hmmmâ€¦ wellâ€¦ OK then. I'll start back tomorrow.
+290540	<strong>Paul</strong><strong><br></strong>Oh wonderful. I'm so pleased. We'll get your old chair back in position.
+296103	<strong>Denise</strong><strong><br></strong>Actually Paul, if you want me back I'll need a new chairâ€¦ and a new phoneâ€¦
+303359	<strong>Paul</strong><strong><br></strong>OK Denise! See you tomorrow.
+306222	<strong>Denise</strong><strong><br></strong>And a pay rise!
+308625	<strong>Tom</strong><strong><br></strong>So, is she coming back then?
+311000	<strong>Paul</strong><strong><br></strong>Yes, first thing tomorrow.
+313155	<strong>Tom</strong><strong><br></strong>That's good because we've just had a call from Nice'n'Cheesy â€“ they said nobody returned their call yesterday and that if we don't contact them by the end of tomorrow they will go elsewhere for their plastic grapes.
+327679	<strong>Paul</strong><strong><br></strong>Right, we must actâ€¦ and act fast.
+331111	<strong>Narrator</strong><strong><br></strong>Let's hope they don't lose that contract.
+334109	At least with Denise returning to work, things will be a little more organised but for how long?
+340493	Join us again next time on English at Work. Bye!

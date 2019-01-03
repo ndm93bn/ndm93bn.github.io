@@ -1,0 +1,46 @@
+1	(Introduction...)
+6610	<strong>Narrator</strong><br>It's time again for English at University - the series that teaches some English phrases to help you through your first year of study abroad.
+20391	Mary's met her new roommate Abi and is settling in well.
+24382	But before her lectures finally begin there's some admin to doâ€¦
+29189	<strong>Mary</strong><br>Admin?
+30354	<strong>Narrator</strong><br>Administration â€“ paperwork â€“ you need to go to registration and complete some forms.
+35533	Oh and don't forget to pick up your student card â€“ that will be very useful.
+40368	<strong>Mary</strong><br>Oh ok. Thanks. I'll do that now.
+45168	<strong>Sharon</strong><br>Next.
+49127	<strong>Mary</strong><br>Oh, hello. I'm Mary. I'm new.
+52991	<strong>Sharon</strong><br>So is everyone else â€“ you've come to register have you?
+56656	<strong>Mary</strong><br>I think so. I think I need to fill in some forms.
+60624	<strong>Sharon</strong><br>Oh yes, lots of them. Here you goâ€¦ next!
+65947	<strong>Narrator</strong><br>She's not very friendly â€“ but it's a good idea to keep in with the administration assistant â€“ she can help you with lots of things.
+74024	Do you need help now Mary?
+76088	<strong>Mary</strong><br>Oh yes I do. Look at all this paperâ€¦ this one asks for D-O-B and this one says plagiarism declaration.
+90030	<strong>Narrator</strong><br>Don't panic. Be polite and ask for help.
+93422	Say something likeâ€¦ I'm really sorry but I'm not sure what to write, or, could you explain this form to me please, or, I know you're busy but I'd be grateful if you could help me.
+104581	Give it a go â€“ I'm sure she won't bite your head off.
+108108	<strong>Mary</strong><br>Bite my head off?! I hope not.
+112113	Rightâ€¦ I know you're really busy but I'd be grateful if you could help me. Please?
+122409	<strong>Sharon</strong><br>Yes of course dearâ€¦ this is a 'plagiarism declaration' which says that you won't copy anyone's workâ€¦ just sign it here.
+133132	This is a form with your important contact details and next-of-kinâ€¦ that's the person we'll contact if you get ill or die or something.
+143466	<strong>Mary</strong><br>And this?
+145370	<strong>Sharon</strong><br>Oh don't forget this one.
+147052	Fill this in and you'll get a student card â€“ that'll give you discounts on books and food and get you into the student nightclub.
+155901	You'll need to include a photograph of yourself.
+159249	<strong>Mary</strong><br>Oh great. Thanks so muchâ€¦err?
+162445	<strong>Sharon</strong><br>Sharon.
+163247	<strong>Mary</strong><br>And I'm Mary. One last thingâ€¦ could I borrow a pen please?
+169066	<strong>Narrator</strong><br>Well done Mary.
+174327	You're making progress.
+175816	You can usually get help by using these useful phrasesâ€¦
+179410	I'm really sorry but I'm not sure what to write.
+183234	Could you explain this form to me please?
+187221	I know you're busy but I'd be grateful if you could help me.
+192641	And of courseâ€¦<br>Could I borrow a pen please?
+197815	Visit bbclearningenglish.com to practise these phrases and learn more about some of the forms you may have to complete when starting university. Now how's Mary getting on?
+209241	<strong>Mary</strong><br>â€¦.D-O-Bâ€¦date of birthâ€¦. There all done.
+215390	<strong>Sharon</strong><br>Ah, hello sweetheartâ€¦ are those the forms for me? Great.
+222211	Now all I need now is your passportâ€¦ to prove who you are.
+227608	<strong>Mary</strong><br>Yes of courseâ€¦ oh no, my passport! It was in my back pocketâ€¦
+232079	<strong>Daniel</strong><br>Helloâ€¦ are you looking for this?
+234737	<strong>Mary</strong><br>Danielâ€¦ my passport! Oh thank you.
+237832	<strong>Daniel</strong><br>You look prettier in real life than you do in your passport photo.
+242679	<strong>Mary</strong><br>Thanks!

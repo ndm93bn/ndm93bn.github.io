@@ -1,0 +1,67 @@
+1	(Introduction...)
+4309	<strong>Narrator<br></strong>Hello and welcome back to Tip Top Trading.
+8122	New recruit Rachel has been making life difficult for Anna; she's been making some bad business decisions. Let's find out how Anna can save the day.
+19937	<strong>Tom<br></strong>Right, we've definitely got to do something about Rachelâ€¦ definitelyâ€¦ only, I'm a bit busy at the moment.
+29600	<strong>Denise<br></strong>Sorting out your dinner date are you Tom?! So Anna, have you spoken to Paul about this?
+36700	<strong>Anna<br></strong>Yes I have, but he didn't do anything.
+40400	<strong>Denise<br></strong>Hmm, well he is your boss so I think you've got to speak to him again.
+46400	Take him some biscuits, that might get his attention.
+49663	<strong>Anna<br></strong>Well, I'll try
+51483	<strong>Denise    <br></strong>Oh and keep notes so you have a record of your conversation.
+55930	<strong>Anna     <br></strong>Denise, you're amazing. But where have the pens gone to?
+61900	<strong>Denise    <br></strong>That is strange â€“ we all seem to be losing our pens. Here, use this old pencil.
+68800	<strong>Anna     <br></strong>Thanks.
+70071	<strong>Narrator  <br></strong>Anna. Are you happy complaining officially about Rachel?
+74628	<strong>Anna      <br></strong>Not really but what else can I do? She's been spoiling all the work I've been doing.
+81300	<strong>Narrator  <br></strong>Yes she has. OK, well tell Paul the facts and tell him you want action.
+87311	<strong>Anna  <br></strong>OK. Right, here goes.
+91423	<strong>Paul   <br></strong>Come in.
+95700	<strong>Anna  <br></strong>Hi Paul. I really need to speak to you about Rachel. She really is messing things upâ€¦Paul?
+106000	<strong>Paul   <br></strong>Sorry, just counting my biscuits.
+108700	What were you saying? Rachel? Great girl, isn't she?
+112500	<strong>Anna  <br></strong>No she's not.
+113999	<strong>Paul  <br></strong>Oh.
+115700	<strong>Anna   <br></strong>Paul, she's already sent out the wrong order and now she's upset our new client.
+122400	Plus, have you seen the way she dresses? I'm not happy and I think you've got to take some action.
+129000	<strong>Narrator <br></strong>Anna, you're on fire! But stick to the facts, don't get personal about Rachel.
+135700	<strong>Paul      <br></strong>Well I'm sure Mr Socrates would disagree with you.
+139900	Look, if she is as bad as you say then I'll give you my permission to discipline her â€“ give her a warning.
+148538	<strong>Anna     <br></strong>What! Me?
+150864	<strong>Paul      <br></strong>You know what's she done wrong so tell her not to do it againâ€¦and besides, I've got an important meeting to go toâ€¦ and they usually have those delicious shortbread biscuits.
+161800	So â€¦I'll leave it with you then?
+164200	<strong>Narrator  <br></strong>What a useless boss! Anna are you happy about what to do next?
+170500	<strong>Anna     <br></strong>Not really. What am I going to say?
+173222	<strong>Narrator</strong> <br>It's not easy but keep calm and professional and say to Rachel, "<em>you've made some serious mistakes</em>" and "<em>you need to consult me before you contact any of our clients</em>."
+185000	Give her a verbal warning saying "<em>These mistakes cannot happen again, otherwise I will have to refer the matter to someone higher</em>."
+194747	This may lead to disciplinary action but it may be for the best.
+199300	<strong>Anna      <br></strong>Oh it's all very serious but I suppose I've got to do it.
+203100	<strong>Narrator  <br></strong>Good luck!
+204000	<strong>Rachel    <br></strong>Anna! Darling! What's wrong?
+207712	I saw Paul and he said you're in a bit of a mood.
+211200	<strong>Anna     <br></strong>It's not a mood Rachel. Can we talk pleaseâ€¦now?
+216194	<strong>Rachel    <br></strong>Yeah sure. Let's sit here, shall we â€“ not in that chair â€“ that's my favourite.
+223258	<strong>Anna      <br></strong>Rachel, I wanted to let you know that <em>you've made some serious mistakes</em>.
+229200	<strong>Rachel    <br></strong>Oh!
+231048	<strong>Anna      <br></strong>You have really upset our new client â€“ and you think it's ok to sell second hand plastic oranges.
+236550	<strong>Rachel    <br></strong>Calm down. It's business, darling.
+240577	<strong>Anna     <br></strong>It's not good business Rachel. <em>These mistakes cannot happen again.
+246000	<em>If they do I will have to take matters higher and it could result in disciplinary action</em>.
+251693	<strong>Rachel    <br></strong>Oh! You're quite scary for a short girl.
+259700	<strong>Narrator  <br></strong>That was unnecessary! But well done Anna for keeping cool and calm in a difficult situation.
+266851	Let's hope Rachel has got the message. Here is a reminder of the phrases you could use when giving someone a verbal warningâ€¦
+275524	<em>You've made some serious mistakes.
+278478	<em>You need to consult me before you contact any of our clients.
+282999	<em>These mistakes cannot happen again otherwise I will have to refer the matter to someone higher.
+289200	<strong>Narrator  <br></strong>Let's find out how Rachel is behaving.
+293700	<strong>Tom       <br></strong>Ah hello, Rachel.
+295999	<strong>Rachel    <br></strong>Tommy boy. Come and give me a hug. Opps!
+302700	<strong>Tom       <br></strong>Our pens! All our pens!
+306300	You've been stealing them! Rachel!
+310181	<strong>Paul      <br></strong>What's going on? I say, what are all those pens doing on the floor?
+315200	<strong>Denise    <br></strong>They're from Rachel's handbag. She's been stealing them!
+322000	<strong>Paul       <br></strong>What? The company's pens?
+326021	Right, well, I need to see you in my office please Rachel, nowâ€¦if you don't mind.
+334328	<strong>Anna/Tom/Denise<br></strong>Gasp!
+336100	<strong>Narrator  <br></strong>So Rachel is the pen thief!
+339700	What does this mean for her job at Tip Top Trading?
+343500	Find out next time. Until then, bye!

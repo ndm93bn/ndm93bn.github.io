@@ -1,0 +1,77 @@
+1	(Introduction...)
+8111	<strong>Mary narrating<br></strong>I'm at the Vicar's house.
+11700	I'm here because last night, when I returned to the inn, I found my uncle - dead.
+21899	lying on the floor with a knife in his back.
+27600	When Mr Bassat arrived with his men, they found my aunt's body upstairs...she'd also been <strong>stabbed</strong>.
+38000	The vicar suggested I stay with him.
+40999	He came to the inn as soon as he read my note.
+44800	He's not here. He left before I woke up.
+49868	While I've been waiting for him, I've been thinking about who the killer could be.
+58666	Mr Bassat asked me if I had an idea who it was.
+62666	I told him I didn't...but that's not true.
+69222	I remember how Jem told me that he hated his brother.
+74199	so they'll catch and hang him...or else he'll ride away, laughing at me.
+84800	Either way, I know that I love him.
+95666	Strange how this room is so empty. No books, no paintings.
+103333	Not like the vicar's house in Helford where I lived with my mother.
+107777	His living room had pictures of smiling angels and village scenes.
+112870	and piles of books on the desk. There's nothing on this desk.
+120777	I know. I'll write and ask if I can stay with him.
+126777	Now, where's a pen and paper? Ah. in this drawer perhaps.
+138000	That's <strong>odd! </strong>Nothing in the drawer, wait, there <em>is</em> a piece of paper.
+145000	oh but it's already got something on it... a picture - by the vicar Â­Â­- his initials are there.
+153777	What a strange picture. It makes me <strong>shiver</strong>.
+160888	It's the village church with the vicar and his <strong>congregation</strong>.
+166888	but all the people have got sheep's heads and look stupid.
+171725	The vicar has drawn himself as a wolf but not an ordinary wolf, a laughing wolf.
+180700	What does it mean.? Oh no! He's back...quick!
+187066	I shut the drawer quickly and sit by the fire. I'm shaking.
+194570	<strong>Mary<br></strong>Oh, Vicar.
+196333	<strong>Vicar<br></strong>Did I <strong>startle</strong> you? I'm sorry I was so long.
+200127	My horse was <strong>lame</strong>. You must be hungry?
+204333	<strong>Mary narrating<br></strong>I find it difficult to speak. The picture has shocked me.
+209135	The vicar asks me to get the food from the kitchen.
+212377	When I return, there are papers all over the desk. He's been burning letters.
+217777	<strong>Vicar<br></strong>Don't you want to know what I've been doing today?
+220720	<strong>Mary<br></strong>I'm sorry - I haven't thanked you for your kindness last night.
+225555	<strong>If you hadn't taken me in, I wouldn't have had anywhere to stay.
+229600	<strong>Vicar<br></strong>Well. I've been to North Hill.
+232222	Mr Bassat invited me and others to discuss the murder.
+236863	<strong>Mary<br></strong>Does Mr Bassat <strong>suspect</strong> anyone?
+239222	<strong>Vicar<br></strong>They've found the man, Harry. He can't be the murderer though.
+243666	<strong>He would have been a suspect if he hadn't been locked up in the room by the bar for the last few days.
+249111	But he said that someone else gave your uncle orders. This person must be the murderer. Don't you agree?
+257999	<strong>Mary<br></strong>Well...er. Yes, I suppose.
+263400	<strong>Vicar<br></strong>It can't be one of the men. This person is clever.
+267444	He must have come to the inn and he knows the moor well.
+271968	He probably lives nearby. Did anyone like this come to the inn?
+277700	<strong>Mary<br></strong>Er...no. I can't think.
+282777	<strong>Vicar<br></strong>Why do you look so anxious, Mary? But I forgot.
+287250	I saw a friend of yours today at North Hill.
+289700	<strong>Mary<br></strong>I have no friends except you.
+292333	<strong>Vicar<br></strong>But you told me you went to Launceston with your uncle's brother.
+296285	<strong>Mary narrating<br></strong>I froze. I didn't know what to say.
+301666	<strong>Vicar<br></strong>He gave me a message for you. Tell her that "I'm sorry". I.
+307888	<strong>Mary<br></strong>Jem was at North Hill? Why?
+311000	<strong>Vicar<br></strong>Well, he's the dead man's brother. He wasn't upset, though.
+315777	<strong>Mary<br></strong>Was Mr Bassat asking him questions?
+318555	<strong>Vicar<br></strong>They've been talking all day. He's got brains - more than his brother.
+323900	You told me he lives nearby, and steals horses?
+328999	<strong>Mary narrating<br></strong>I can't look at him, but I feel his eyes studying my face. He knows the truth.
+338000	<strong>Mary<br></strong>What will they do to him, Mr Davey?
+340777	<strong>Vicar<br></strong>'Do'? What do you mean? I'm sure he won't be punished since he has helped them.
+348000	<strong>Mary<br></strong>'Helped'? I don't understand.
+351077	<strong>Vicar<br></strong>Mary, it was Jem who <strong>informed</strong> Mr Bassat about his own brother.
+356222	They left Launceston together after the horse market.
+359111	Mr Bassat told him he could go free if he gave them <strong>proof </strong>about his brother and he did.
+366264	<strong>Mary narrating<br></strong>I can't believe it. I was so sure.
+371111	<strong>Mary<br></strong>Oh, Vicar, I'm such a fool. Where is Jem now?
+377238	<strong>Vicar<br></strong>He's gone to find the <strong>blacksmith</strong>.
+379326	He found a <strong>nail</strong> in the field by the inn. It must belong to the killer's horse.
+385678	Only one person went to the blacksmith yesterday.
+389353	<strong>Mary<br></strong>How do you know?
+391333	<strong>Vicar<br></strong>Because I know who that person was.
+400800	<strong>Mary narrating<br></strong>His strange eyes are staring at me.
+404988	I can't breathe! He knows who the murderer is!
+411000	Meet me in the next episode when I finally discover the shocking truth about who killed my aunt and uncle at Jamaica Inn.
+419666	I am also in danger but who will come to my rescue?

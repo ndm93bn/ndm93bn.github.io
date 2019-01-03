@@ -1,0 +1,70 @@
+1	(Introduction...)
+4400	<strong>Paul<br></strong>Could I have a word Anna, in my office?
+9111	<strong>Narrator  <br></strong>Hello again. I wonder what Paul wants to say to Anna?
+13333	Could it have something to do with Rachel, the pen thief - or is it just to do with biscuits?! Let's find out.
+24800	<strong>Paul<br></strong>Have a seatâ€¦ so well done for speaking to her. Stealing all those pens from the office was the final straw.
+31960	<strong>Anna<br></strong>She was stealing straws?
+33950	<strong>Paul<br></strong>No, no. It was the final thing that she did wrong â€“ and it meant disciplinary action.
+39988	I've had to 'let her go' â€“ in other words, sack her.
+44055	<strong>Anna<br></strong>Oh, so she's gone. But what is Mr Socrates going to say?
+50100	She was his best employee.
+52500	<strong>Paul<br></strong>Leave it with me. Iâ€™m sure he'll understandâ€¦I hope.
+58700	Now, I wanted to speak to you about your appraisal.
+62500	<strong>Anna<br></strong>My appraisal?
+64280	<strong>Paul   <br></strong>Yes, we do it every year. It's a chance to talk about you, talk about the highs and lows of the past year and look forward.
+72073	<strong>Anna     <br></strong>Highs and lows? But I haven't been walking up any hills.
+76222	<strong>Narrator  <br></strong>No Anna! He means your appraisal is about reviewing your performance and setting objectives for the year ahead.
+84700	<strong>Anna<br></strong>I see. But what are objectives?
+88222	<strong>Narrator   <br></strong>These are tasks for you to do, to try and improve your performance and skills and help the business.
+94899	Here are the questions youâ€™re likely to hear in an appraisal: <br><em>What's gone well for you this year?
+102600	<em>What didn't go so well?
+105300	<em>What should you do more of?
+107900	<em>Let's look ahead and set some objectives.
+112032	<strong>Anna<br></strong>Right. Thanks. So Paul, when shall we have this, err, appraisal?
+118990	<strong>Paul<br></strong>If you've time, we could make a start now?
+122053	<strong>Anna<br></strong>Oh OK. So I need to think about my performance first?
+127600	<strong>Paul<br></strong>Exactly. What has gone well for you this year?
+131900	<strong>Anna<br></strong>Well I guess I've just done my job.
+136504	<strong>Narrator  <br></strong>Anna! This is your chance to sell yourself.
+140100	Think about the deals you've made, the people you've managed, that sort of thing.
+144879	<strong>Anna<br></strong>Right. Well, I did complete two big contracts for the Imperial Lemonâ€¦
+151000	<strong>Paul<br></strong>You've had plenty of compliments for that. You seem to have a zest for selling!
+156900	<strong>Anna<br></strong>Err, rightâ€¦ and then there was dealing with Mr Ingle in the warehouse.
+163800	<strong>Paul<br></strong>Yes, that's a good example of dealing with difficult staff. And what didn't go so well?
+170800	<strong>Anna<br></strong>Wellâ€¦ ermâ€¦ working with Rachelâ€¦ and cold calling I suppose. That wasnâ€™t easy.
+178999	<strong>Paul<br></strong>Ah yes. But you soon warmed up! And what should you do more of?
+184862	<strong>Anna<br></strong>Err, ermâ€¦
+187800	<strong>Narrator   <br></strong>It's a tricky question Anna â€“ but don't be ashamed about admitting things that you feel you could improve on.
+194900	Nobody's perfect! Think about skills you'd like to improve.
+199600	<strong>Anna<br></strong>Oh OK. Well Paul, I guess I couldâ€¦ develop some ideas for new products?
+207200	Continue to work on the European marketing strategy...sell more Imperial Lemonsâ€¦ errâ€¦
+214600	<strong>Paul<br></strong>That's enough Anna! If you do all that, you'll put me out of a job!
+218900	<strong>Anna<br></strong>Oh, I don't want to do that!
+221100	<strong>Paul<br></strong>Now let's look ahead and set some objectives. Biscuit?
+227100	<strong>Anna<br></strong>Biscuits as an objective? Oh I seeâ€¦no thanks.
+232848	<strong>Paul     <br></strong>We've all got to improve our sales targets so I'm asking all the team to make an extra ten sales deals this year.
+242800	<strong>Anna<br></strong>Oh, ten, thatâ€™s a lot.
+246500	<strong>Paul<br></strong>It is - but I know you can do it.
+249300	And you mentioned developing new products, well I'd like you to do just that â€“ but not plastic fruit, I'd like you to develop a plastic vegetable.
+260100	Potato, carrot, that sort of thing.
+262812	<strong>Anna<br></strong>Gosh...Well, OK.
+265600	<strong>Paul<br></strong>Oh and one more thing. Could you help Denise sort out the stationery cupboard? It's a right mess.
+275300	<strong>Narrator   <br></strong>That's a lot of objectives for Anna. She's got her work cut out for the next year.
+280900	Appraisals are a good time to review your work and plan what you are going to do next.
+286800	Here's a reminder of the kind of questions your manager may ask you:<br><em>What has gone well for you this year?
+293900	Give me some examples.
+296102	<em>What didn't go so well?
+299300	<em>What should you do more of?
+301777	<em>Let's look ahead and set some objectives.
+310318	<strong>Paul<br></strong>So if you could write up your appraisal and have it back to me by Friday?
+315400	<strong>Anna<br></strong>Of course Paul. Thanks. See you later.
+319802	<strong>Tom<br></strong>Oh hi Anna. Are you still on for dinner on Friday?
+324076	<strong>Anna<br></strong>Yes Tom!
+327301	What's going on?!
+328401	<strong>Denise   <br></strong>A mouseâ€¦ a mouse! I've just seen a mouse running out of the stationery office.
+333400	<strong>Tom<br></strong>Was he stealing the pens?!
+334800	<strong>Denise    <br></strong>It's no joke. Quickâ€¦there he goes!
+337288	<strong>Tom<br></strong>Leave him to me! Ohâ€¦ oww!
+340941	<strong>Anna<br></strong>Tomâ€¦ Tom? Are you ok?
+344600	<strong>Narrator   <br></strong>Uh oh! Whatâ€™s happened to Tom? Has he broken something?
+349310	Join us next time to find out. Bye!

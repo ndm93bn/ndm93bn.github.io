@@ -1,0 +1,77 @@
+1	(Introduction...)
+17258	<strong>Neil<br></strong>Hello and welcome to 6 Minute Grammar. I'm Neil.
+21169	<strong>Rob<br></strong>And I'm Rob. Hello.
+22555	<strong>Neil<br></strong>Today we're talking about the passive voice.
+26056	<strong>Rob <br></strong>Yes, the passive voice. In English, we can talk about things in both the active and passive voice.
+32662	<strong>Neil<br></strong>Yes. And we're going to start with the active voice.
+36389	And here's Mike with our first example.
+39477	<strong>Mike</strong><br><strong>Pharrell Williams sang the song Happy.
+42609	<strong>Neil<br></strong>And one more time.
+44254	<strong>Mike<br></strong><strong>Pharrell Williams sang the song Happy.
+47235	<strong>Neil<br>Pharrell Williams sang the song Happy.</strong> Good song Rob, isn't it.
+52681	<strong>Rob<br></strong>Well it makes me happy anyway.
+54595	<strong>Neil<br></strong>And in grammatical terms, we've got the <strong>subject</strong> - <strong>Pharrell Williams</strong>, then the <strong>verb</strong>, <strong>sang</strong>, then the <strong>object</strong> of the verb - <strong>the song Happy.
+66111	And that is an example of the active voice because the <strong>performer of the action</strong>, the <strong>doer</strong>, is at the beginning of the sentence - Pharrell.
+76645	Weâ€™re focusing on the person or the thing that <strong>does</strong> the action of the verb.
+82222	<strong>Rob<br></strong>So far so good - but what if we want to focus on what receives the action?
+87995	That's the object in the active sentence.
+90685	What if we're more interested in the song than we are in the singer?
+94754	Can we put <strong>the song Happy</strong> at the beginning of the sentence?
+97890	<strong>Neil<br></strong>Well yes, we can, but the grammar needs to change. Listen carefully:
+103053	<strong>Mike <br></strong>The song Happy was sung by Pharrell Williams.
+106645	<strong>Neil<br></strong>Again.
+107416	<strong>Mike <br></strong>The song Happy was sung by Pharrell Williams.
+111114	<strong>Neil<br></strong>So now the receiver of the action - <strong>The song Happy</strong> - comes first. It changes place with the doer.
+119665	And because we've changed the sentence structure, we need to make two changes to the sentence.
+125389	First, we need to add the verb <strong>to be</strong>, in the correct form.
+129657	Second, we have to use the <strong>past participle</strong> of the verb.
+134607	<strong>Rob<br></strong>And that gives us a sentence in the passive voice:
+137679	<strong>Mike<br></strong><strong>The song Happy was sung by Pharrell Williams.
+141291	<strong>Neil<br></strong>Let's listen to those two sentences one more time. <strong> Active voice:</strong>
+146561	<strong>Mike<br></strong><strong>Pharrell Williams sang the song Happy.
+149507	<strong>Neil<br></strong>And<strong> passive voice:</strong>
+151070	<strong>Mike<br></strong><strong>The song Happy was sung by Pharrell Williams.
+154045	<strong>Rob<br></strong>Thanks Mike. And the two sentences have exactly the same meaning, don't they, Neil?
+159396	<strong>Neil<br></strong>They do. They have exactly the same meaning.
+161843	So you might be wondering why we need two different ways of saying the same thing.
+166661	<strong>Rob<br></strong>I was wondering. But, the good thing about passive sentences is that we can give the receiver of the action more importance in our sentence by putting it at the start, but that's not the only reason that the passive voice is useful, right Neil?
+181232	<strong>Neil</strong> <br>Right! The passive voice is really useful when we don't know who or what performed the action - or if everyone knows it.
+190505	So we don't need to say it. Can we have an example please, Mike.
+194751	<strong>Mike</strong><br><strong>Millions of cars were sold in 2012.
+198660	<strong>Neil<br></strong>And one more time.
+200171	<strong>Mike</strong><br><strong>Millions of cars were sold in 2012.
+203474	<strong>Neil</strong> <br>So that's a passive sentence with <strong>millions of cars</strong> at the start.
+208593	Then we've got the verb <strong>to be</strong> plus the past participle - <strong>were sold</strong> - and then for the doer of the action - well, there is no doer.
+218906	<strong>Rob<br></strong>What's that? No doer of the action at allâ€¦ sound strange?
+223118	Well, actually, we don't have to have a doer in a passive sentence, so, if the doer is not really important, or if it's obvious, we can leave it out.
+233246	We know that some people bought all these millions of cars. But we don't have to say it.
+238583	<strong>Neil<br></strong>Yeah. So we leave the performer of the action out if it's not important or if everybody knows.
+245701	<strong>Rob</strong> <br>Right. You can also leave the doer out if you <strong>don't</strong> know it, like this:
+250684	<strong>Mike <br></strong><strong>My bicycle was stolen last weekend</strong><strong>.
+253840	<strong>Neil</strong> <br>Oh, Mike!
+254986	<strong>Rob<br></strong>Poor Mike.
+255834	<strong>IDENT <br></strong>6 Minute Grammar from bbclearningenglish.com.
+261693	<strong>Rob</strong> <br>And we're talking about the passive voice.
+264316	Now to make tenses in the passive voice, we change the form of the verb <strong>to be</strong>.
+270175	Here's a present tense example:
+272196	<strong>Mike<br></strong><strong>Millions of songs are downloaded every day.
+275837	<strong>Neil<br></strong>Again.
+276784	<strong>Mike<br></strong><strong>Millions of songs are downloaded every day.
+280119	<strong>Neil</strong> <br>And a past tense example:
+282708	<strong>Mike<br></strong><strong>15 million songs were downloaded yesterday.
+287509	<strong>Rob</strong> <br>And now - it's time for a quiz.
+289934	Change these sentences from active into passive, and remember, you might not need a doer.
+296009	Number one: People speak Spanish in Cuba and Chile.
+300606	<strong>Neil</strong> <br>And the answer is: <strong>Spanish is spoken in Cuba and Chile.</strong>
+307428	Number two: The police arrested ten people last night.
+312570	<strong>Rob</strong> <br>And the answer is: <strong>Ten people were arrested last night.</strong>
+317477	OK, last one: Brazil won the 1994 World Cup.
+322597	<strong>Neil<br></strong>Ah, I remember it well! <strong>The 1994 World Cup was won by Brazil.</strong>
+328968	And the doer - Brazil - is important here, isn't it Rob?
+332270	<strong>Rob<br></strong>Yes it is, very important.
+333426	<strong>Neil<br></strong>So we don't leave it out.
+334824	<strong>Rob <br></strong>Well done if you got all those right. So that's the passive voice.
+339114	We use it to give importance to the receiver of the action of a verb, or when we donâ€™t know who did it or everyone knows it.
+346319	<strong>Neil</strong> <br>There's more about this on our website at bbclearningenglish.com.
+350722	Join us again for more 6 Minute Grammar.
+353470	<strong>Both<br></strong>Bye!

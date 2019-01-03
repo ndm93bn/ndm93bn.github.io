@@ -1,0 +1,27 @@
+1	(Introduction...)
+12444	<strong>Neil</strong><br> Hi Feifei, what are you up to?
+14444	<strong>Feifei<br></strong>Hi Neil. Oh, I'm just...ironing a few clothes.
+17500	<strong>Neil<br></strong>That's a big pile of clothes.
+19333	<strong>Feifei<br></strong>I'm going on holiday! Everything has to be neat and clean.
+23111	<strong>Neil<br></strong>You're even ironing your shorts!
+25222	<strong>Feifei</strong><br> Nothing like perfectly ironed shorts.
+27733	<strong>Neil</strong><br> Nah, that's <strong>long</strong>, Feifei!
+30111	<strong>Feifei</strong><br> They're shorts - not long!
+32022	<strong>Neil</strong><br> Haha - very funny. You know what I mean.
+34700	<strong>Feifei</strong><br> <strong>Long</strong> is British street slang which we use to talk about a task which is boring and not really worth it.
+42100	<strong>Neil<br></strong>Exactly. Ironing is <strong>long</strong>. It's dull and takes forever.
+46555	<strong>Feifei<br></strong>That's because you do it all wrong. Here, let me show you, while we play these examples.
+54963	<strong>Examples<br></strong>I can't believe you're cleaning the whole house. That's <strong>long</strong>, bro.
+59333	Come out and enjoy the sun.
+60999	A: Why don't you stick with your diet?
+63666	B: Dieting is <strong>long</strong>. I just eat what I want and go to the gym instead.
+71333	<strong>Neil<br></strong>You know, Feifei, you're right. Ironing isn't so bad.
+74555	<strong>Feifei<br></strong>Just you wait. You'll be ironing your socks before you know it.
+78111	<strong>Neil<br></strong>So, where are you off to on holiday?
+80888	<strong>Feifei<br></strong>I'm travelling around the world for five months!
+83399	<strong>Neil<br></strong>Wow, five months! That's long.
+85666	<strong>Feifei<br></strong>Aha - but do you mean <strong>long</strong> - as in boring?
+88666	<strong>Neil<br></strong>Of course not. Five months is a long holiday. Have a great trip!
+92222	<strong>Feifei<br></strong>You can do all my ironing when I get back.
+94900	<strong>Neil<br></strong>So long, Feifei.
+96337	Bye!

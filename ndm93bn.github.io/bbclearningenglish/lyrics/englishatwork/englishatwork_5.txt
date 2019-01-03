@@ -1,0 +1,69 @@
+1	(Introduction...)
+4700	<strong>Anna <br></strong>Help, help!
+7616	<strong>Tom   <br></strong>Help us! We're locked in.
+10621	<strong>Narrator <br></strong>Oh dear. Do you remember that Tom and Anna are locked in the stationery cupboard?
+16844	What are they going to do? And what will people say when they are discovered in there?
+21993	I have a feeling we're about to find outâ€¦
+25026	<strong>Denise<br></strong>Goodness, what's that? Anna is that you? And is that you Tom?
+31742	<strong>Anna <br></strong>Yes, help! We're locked in.
+34959	<strong>Denise<br></strong>Don't panic, I've got the key.
+40400	There. How on earthâ€¦
+44300	<strong>Tom<br></strong>â€¦it's not how it looks Denise. We were justâ€¦ ermâ€¦
+50114	<strong>Anna<br></strong>â€¦just looking for envelopes.
+51996	<strong>Denise<br></strong>Really?!
+53054	<strong>Anna<br></strong>Yes, yes, really. The door slammed shut and locked from the inside when Tom walked in.
+59800	<strong>Tom<br></strong>Yeah, she's right. Just walked in, and shut the door and bang.
+66352	<strong>Denise<br></strong>Hmm. Let's just keep it our little secret shall we.
+70763	(<em>Aside to Anna</em>) I thought you had better taste Anna!
+75844	<strong>Paul<br></strong>Ah there you are Anna, I need a word with youâ€¦ Oh, you look like you've been caught doing something you shouldn't! Ha ha.
+82609	<strong>Anna<br></strong>â€¦but I haven't.
+83900	<strong>Paul<br></strong>Just joking Anna.
+85046	Now could you step in to my office, we need to touch base about the European marketing strategy.
+90969	<strong>Anna<br></strong>Are we playing baseball?!
+93100	<strong>Narrator <br></strong>No Anna! Touch base.
+95853	He wants to catch up with you, probably to see how you're getting on.
+100444	Go on Anna, let's see what he has to say.
+103555	<strong>Anna<br></strong>Oh I see. That door doesn't lock does it?
+109444	<strong>Paul  <br></strong>No, I don't think so. Right Anna.
+113074	Biscuit? These new peanut ones are quite nice.
+118373	So how are things with the project?
+121397	<strong>Anna<br></strong>Well, I've done some cold calling and have an order from a company in France.
+127511	<strong>Paul<br></strong>I see. Very impressive but have they signed on the dotted line yet?
+132963	<strong>Anna<br></strong>The dotted line?
+134853	<strong>Paul<br></strong>Have they actually signed the contract yet?
+137864	<strong>Anna<br></strong>Well, no, butâ€¦
+139555	<strong>Paul<br></strong>â€¦that's the problem. There's a rival company who's also targeting the European market called Tutti Fruity - and they'll do anything to steal our customers.
+149912	<strong>Anna<br></strong>Oh I see.
+152000	<strong>Paul<br></strong>So, to keep our head above water, we need a clear strategyâ€¦ and that's why I've put you in charge.
+158679	So what shall we do?
+161222	<strong>Narrator<br></strong>I've a feeling Paul hasn't a clue â€“ that's why he wants you to come up with the ideas.
+167900	<strong>Anna<br></strong>I think you're right â€“ but I don't know what to say.
+171670	<strong>Narrator<br></strong>Tell him we need to <em>price the rivals out of the market, </em>that means offer the lowest prices so nobody wants to buy plastic fruit from our rivals.
+182438	You could say that we need to <em>corner the market, </em>that means Tip Top Trading dominates the plastic fruit market.
+190700	<strong>Anna<br></strong>Oh, thanks. That's very useful.
+194410	<strong>Paul<br></strong>So Anna, any thoughts?
+196805	<strong>Anna<br></strong>Lots Paul. I think we've got to compete on price.
+200966	<strong>Paul<br></strong>Oh yes?
+201848	<strong>Anna<br></strong>We need to price Tutti Fruity out of the market.
+205965	We need to corner the market so that everyone knows we are the best choice for good quality, good value plastic fruit.
+215111	<strong>Paul<br></strong>I like it!
+216193	<strong>Anna <br></strong>Andâ€¦ andâ€¦
+218111	<strong>Narrator</strong>  <br>Tell him we need to<em> build good relationships with our customers</em> â€“ that means we give them good service.
+225333	<strong>Anna</strong><br>â€¦we need to build good relationships with our customers.
+229647	Talk to them regularly, send them giftsâ€¦ go and meet them face to face.
+236702	<strong>Paul<br></strong>Face to face? Yes, great idea â€“ just what I was thinking.
+241997	If we follow this strategy I reckon there could be a bonus for us all by Christmas.
+254590	<strong>Narrator <br></strong>Well done Anna. Very convincing.
+258064	If you can put your ideas into practice you'll save the company.
+263111	Let's remind ourselves of the words you used to create the European marketing strategyâ€¦
+269063	<em>We've got to compete on price.
+271816	<em>We need to price the rivals out of the market.
+275438	<em>We need to corner the market.
+278145	<em>We need to build good relationships with our customers.
+283620	<strong>Narrator<br></strong>Well, things seem to be going well for Annaâ€¦ or are they?
+288160	<strong>Denise<br></strong>Anna! Anna! That man from France has called again and left a message.
+293742	He's not happy this time. Something about us trying to rip them off!
+298975	<strong>Anna <br></strong>What? Rip them off?
+301684	<strong>Denise <br></strong>It means over charging them or giving them poor quality goods.
+305686	<strong>Anna <br></strong>That's not fair. I'm going to have to sort this out.
+309799	<strong>Narrator   <br></strong>That's it Anna â€“ go and build a good relationship with your customer! Bye for now.

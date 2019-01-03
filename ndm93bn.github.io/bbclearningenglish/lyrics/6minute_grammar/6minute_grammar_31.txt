@@ -1,0 +1,77 @@
+1	(Introduction...)
+10777	<strong>Callum<br></strong>Hello and welcome to 6 Minute Grammar with me, Callum
+13850	<strong>Finn<br></strong>And me, Finn
+15100	<strong>Callum<br></strong>So Finn, what is our topic today?
+17333	<strong>Finn<br></strong>I donâ€™t know.
+19000	<strong>Callum<br></strong>Havenâ€™t you read the script?
+20444	<strong>Finn<br></strong>No, when I come to the studio, I read the script, not before.
+24730	<strong>Callum<br></strong>If you had read the script, you would know what itâ€™s about.
+27555	<strong>Finn<br></strong>Well if you give me a few minutes, Iâ€™ll just give it a quick read.
+32444	<strong>Callum<br></strong>Iâ€™d love to give you a few minutes if we had the time. But this is 6 Minute Grammar, not 16 Minute Grammar.
+39400	<strong>Finn<br></strong>If Iâ€™d known you were going to be so bossy, Iâ€™dâ€™ve stayed in bed.
+44444	<strong>Callum<br></strong>Mmm. So what is todayâ€™s topic? If youâ€™ve been paying attention, you might have worked it out.
+50500	<strong>Finn<br></strong>Weâ€™ve had a lot of â€˜ifsâ€™, that is a bit of a clue.
+54888	<strong>Callum<br></strong>It is indeed. Today weâ€™re reviewing conditionals.
+60406	<strong>Finn <br></strong>Conditional sentences connect two things. One thing follows on from something else.
+67012	<strong>Callum<br></strong>Conditional sentences generally have two parts, the <strong>conditional</strong> <strong>clause</strong>, which is sometimes called the <strong>if clause</strong>, and a <strong>main clause</strong>.
+77068	The <strong>if clause</strong> states a condition and the <strong>main clause</strong> has what happens because of that condition.
+84400	<strong>Finn<br></strong>And there are different kinds of conditional structures depending on whether weâ€™re dealing with something in the present or past and if weâ€™re talking about something real or imagined.
+96966	<strong>Callum<br></strong>We normally talk about four different conditional structures.
+100666	The first one is called the zero conditional. Hereâ€™s an example from earlier. Letâ€™s wind back a bit.
+106777	<strong>[sfx: tape rewinding]</strong>
+109500	<strong>Finn<br></strong>When I come to the studio, I read the script.
+112202	<strong>Callum<br></strong>Now Finn, what time does that refer to?
+115432	<strong>Finn<br></strong>Itâ€™s not really past, present or future, is it? Itâ€™s timeless. Itâ€™s always.
+122277	<strong>Callum<br></strong>And this is what the zero conditional is for. Things that are always true, things that always happen.
+128666	One thing happens, something else follows.
+131222	<strong>Finn<br></strong>Itâ€™s also commonly used for general truths and facts. Like in these examples.
+137000	<strong>Feifei<br></strong><em>When you heat water enough, it boils.
+139900	<em>If you leave milk out long enough, it goes bad.
+143300	<strong>Callum<br></strong>And in zero conditionals, <strong>when </strong>and <strong>if</strong> have the same meaning.
+148061	Letâ€™s move on now to the first conditional.
+151444	<strong>[sfx: tape rewinding]</strong>
+154111	<strong>Finn<br></strong>Well if you give me a few minutes, Iâ€™ll just give it a quick read.
+158442	<strong>Callum<br></strong>Finn, what time does this refer to?
+161222	<strong>Finn<br></strong>This one is about something that might happen in the future. Iâ€™ll read the script.
+167900	<strong>Callum<br></strong>Will that definitely happen?
+169831	<strong>Finn<br></strong>No, itâ€™ll only happen after a particular condition is met, and that condition is that you give me enough time.
+178900	<strong>Callum</strong><br>With the first conditional, you can use <strong>when</strong> as well as <strong>if</strong> but unlike the zero conditional, they do have different meanings. Listen to these examples.
+189200	<strong>Feifei<br></strong><em>If I go to the shops, Iâ€™ll get some bread.
+191897	<em>When I go to the shops, Iâ€™ll get some bread.
+195131	<strong>Callum<br></strong>So Finn: â€œIf I go to the shopsâ€. Am I definitely going to the shops?
+200177	<strong>Finn</strong><br>No, not this time. Itâ€™s a possibility, but not definite.
+204155	<strong>Callum<br></strong>And what about: â€œWhen I go to the shopsâ€?
+206305	<strong>Finn<br></strong>In this one, using <strong>when</strong>, there is a definite plan to go to the shops.
+210888	<strong>Callum<br></strong>So the first conditional expresses a likely result of a possible or definite future condition.
+218000	<strong>IDENT <br></strong>Youâ€™re listening to BBC Learning English.
+223777	<strong>Callum<br></strong>Today weâ€™re reviewing different conditional forms.
+227300	<strong>Finn<br></strong>Weâ€™ve looked at zero and first conditionals, and it was Callum who gave us an example of the second conditional.
+234444	<strong>[sfx: tape rewinding]</strong>
+237000	<strong>Callum<br></strong>Iâ€™d love to give you a few minutes if we had the time.
+240132	<strong>Finn</strong><strong><br></strong>What time does this refer to, Callum?
+244333	<strong>Callum<br></strong>Itâ€™s an imaginary present time â€“ do we have the time now? No we donâ€™t.
+251111	Itâ€™s making a prediction about something that could be possible if something in the present were different. Weâ€™re imagining a different present reality.
+262666	<strong>Finn<br></strong>Wow. That's very sci-fi, Callum!
+266111	<strong>Callum<br></strong>And now the third conditional. Letâ€™s go back again and here the example.
+270600	<strong>[sfx: tape rewinding]</strong>
+273111	<strong>Finn<br></strong>If Iâ€™d known you were going to be so bossy, Iâ€™dâ€™ve stayed in bed.
+277777	<strong>Callum<br></strong>Finn, what time are we talking about here?
+280600	<strong>Finn</strong><br>Weâ€™re talking about the past, but something that didnâ€™t happen in the past.
+286000	<strong>Callum<br></strong>Yes, you didnâ€™t know when you got up this morning that I was going to be so bossy.
+290940	<strong>Finn<br></strong>No, my past action would have been different, if I had known. I would have stayed in bed!
+298730	<strong>Callum</strong><br>So with the third conditional were imagining a different past reality.
+304402	<strong>Finn <br></strong>Very good. Thatâ€™s right. Very sci-fi again Callum.
+312333	<strong>Callum<br></strong>Now, just time for a quick quiz.
+314333	Youâ€™re going to hear a sentence and you need to work out whether itâ€™s a zero, first, second or third conditional.
+322000	Hereâ€™s the first one:
+323140	<strong>Finn</strong><br>If you drop the price, youâ€™ll sell more.
+327255	<strong>Callum<br></strong>Thatâ€™s first conditional. Hereâ€™s the next one:
+330633	<strong>Finn<br></strong>If I were you, Iâ€™d take the job.
+334043	<strong>Callum<br></strong>And that one is second conditional. What about this one?
+338222	<strong>Finn<br></strong>When Iâ€™ve had a busy day, I want some peace and quiet when I get home.
+344001	<strong>Callum<br></strong>Did you get it? That was the zero conditional.
+348107	<strong>Finn<br></strong>Well done if you got all of those right.
+350811	<strong>Callum<br></strong>If we had more time we could tell you a lot more about conditionals.
+353901	<strong>Finn<br></strong>But we donâ€™t, so weâ€™re going to say goodbye for now, and remind you that there's more about this topic on our website <strong>bbclearningenglish.com</strong>.
+362749	Do join us again soon for more 6 Minute Grammar.
+365802	<strong>Both</strong> <br>Bye.

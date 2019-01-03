@@ -1,0 +1,64 @@
+1	(Introduction...)
+4700	<strong>Narrator<br></strong>Hello. It's another busy day at the offices of Tip Top Tradingâ€¦
+9921	<strong>Denise<br></strong>And I said no John, not at my age, I'd rather take the busâ€¦
+16000	<strong>Tom<br></strong>â€¦yeah Pete, that's great, so we'll deliver 2,000 bananas by Friday. Let's have a beer soonâ€¦ yeahâ€¦ cheers mate.
+25018	<strong>Narrator<br></strong>But there are two people who are busy annoying each otherâ€¦
+29260	<strong>Anna<br></strong>So you did what? You ordered the second-hand ones?!
+33100	<strong>Rachel<br></strong>Chillax Hannahâ€¦
+35000	<strong>Anna<br></strong>Anna!
+35873	<strong>Rachel<br></strong>â€¦they're just orangesâ€¦
+38200	<strong>Anna<br></strong>â€¦plastic lemons actually.
+40100	<strong>Narrator<br></strong>Anna is struggling to work with Rachel, Mr Socrates' favourite Sales Executive, who he's sent in to help outâ€¦ or hinder more like!
+50200	<strong>Rachel<br></strong>Look, I'm off for a cappuccino, everything will be just fine. Ciao.
+58800	<strong>Tom<br></strong>Anna, has Rachel gone out?
+61702	<strong>Anna<br></strong>Yes.
+64000	<strong>Tom<br></strong>She's a bit of a man-eater. She almost ate me once.
+68500	<strong>Anna<br></strong>She eats men?
+69800	<strong>Tom <br></strong>Well, not exactly. I worked with her in my last job.
+74200	She was always listening in to other people's conversations and she's always changing jobs.
+79807	That's why they call her Rachel Rabbit â€“ you know, big ears, always jumping from one job to another.
+86914	<strong>Anna<br></strong>Rachel Rabbit! That's funny. So she isn't that good then?
+92600	<strong>Tom <br></strong>Oh, useless! She only worked for Mr Socrates because her father threatened to sue the company, after one of our plastic pineapples fell off a shelf and broke his toe.
+105600	But, better keep that under your hat.
+108500	<strong>Anna<br></strong>My hat?
+109900	<strong>Tom<br></strong>I mean, keep it secret.
+112100	<strong>Anna<br></strong>Oh right, I see. Well, now she's ordered loads of second-hand oranges to send to our new customer in France.
+120980	<strong>Tom<br></strong>But they wanted Imperial Lemons?
+123800	<strong>Anna<br></strong>I know. I'm not sure what to do, so I'm going to have to speak to Paul about this.
+130200	<strong>Narrator<br></strong>Yes it's a good idea to refer up sometimes â€“ ask the boss for advice.
+136300	Say to him "I'm concerned that Rachel has made a mistake that might affect the business".
+142600	You might also say "she's not pulling her weight", meaning she's not doing the work she is supposed to do.
+149400	And you could say "I'm finding it very difficult to work with this person."
+154723	<strong>Anna<br></strong>Right. I'll try. There's Paul nowâ€¦ Paul, could I have a word please?
+161970	<strong>Paul<br></strong>Of course, Anna. Let's go in my office. Now, how can I help?
+168378	<strong>Anna<br></strong>Err, well, it's Rachel.
+171700	<strong>Paul<br></strong>Yes, amazing woman. Mr Socrates' favourite.
+176000	<strong>Anna<br></strong>I knowâ€¦ but <em>I'm finding it difficult to work with her.
+180963	<strong>Paul<br></strong>Oh why's that?
+182453	<strong>Anna<br></strong><em>I'm a bit concerned that she's made a mistake and it might affect our business.
+188804	<strong>Paul <br></strong>Golly gosh. Really?! Why's that?
+191766	<strong>Anna<br></strong>Well, she's ordered second-hand oranges for our new client in France.
+197000	<strong>Paul <br></strong>That's marvellousâ€¦ isn't it?
+199914	<strong>Anna<br></strong>Well, I asked her not to. They wanted lemonsâ€¦ new Imperial Lemons.
+207600	<strong>Paul <br></strong>Ahâ€¦ not so marvellous. Anything else?
+212295	<strong>Anna<br></strong>Well, speaking personally, <em>I don't think she's pulling her weight.
+217403	She doesn't seem to do any work and just keeps going out to buy cappuccinos.
+222700	<strong>Paul <br></strong>Well, that's just not on. Look Anna, I will look into this straight away and see if I can sort this out.
+230000	Thank you for bringing it to my attention. Now, I think you've earned a custard cream.
+239000	<strong>Narrator  <br></strong>So Anna has expressed her concerns to Paul, the boss. It's up to him to investigate.
+246200	As long as you have a fair reason to complain about a difficult member of staff, these are some of the phrases you could use:<em></em>
+253800	<em>I'm concerned that she's made a mistake that might affect the business.
+258732	<em>She's not pulling her weight.
+261000	<em>I'm finding it very difficult to work with her.
+265100	I wonder how Paul is going to handle the situation?
+269200	<strong>Paul</strong> <br>Ah, there you are Rachel. Nice cappuccino?
+273814	Could you step in to my office for a momentâ€¦ I'd like a word.
+279600	<strong>Rachel</strong>   <br>Ya, sure.
+281625	<strong>Denise</strong>  <br>Ooh, I wonder what that's all about. Do you know Anna?
+287100	<strong>Anna</strong><br>Hmm, no idea.
+289690	<strong>Tom</strong> <br>She's probably going to get a promotion and a pay riseâ€¦ and a custard cream!
+296169	<strong>Rachel</strong>   <br>Thanks Paul, ciao. What a great guy he is.
+302200	Such a great sense of humour! Looks like we're doing some good work Anna!
+308052	<strong>Anna</strong> <br>Wwwhat?!
+309691	<strong>Narrator</strong>  <br>Oh Anna. I'm not sure Paul has really sorted out your concerns.
+314650	But don't worry, we're here to help you out. See you next time on English at Work. Bye!

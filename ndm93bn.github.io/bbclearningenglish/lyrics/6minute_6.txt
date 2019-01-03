@@ -1,0 +1,90 @@
+11646	<strong>Alice<br></strong>Hello and welcome to 6 Minute English.
+14270	I'm Aliceâ€¦
+14953	<strong>Neil<br></strong>â€¦ and I'm Neil.
+16446	Alice, have you got two pounds?
+18985	I forgot my wallet and I need a coffee.
+21395	I've only got these pennies.
+22547	<strong>Alice<br></strong>Sorry - I always use my bankcard in the cafeteria.
+25107	<strong>Neil<br></strong>You use a card to buy coffee?
+27240	<strong>Alice<br></strong>Yes.
+28051	It's a tap-and-go card so it's quick - you don't enter a PIN number - and everyone in the coffee queue uses themâ€¦ except you.
+34600	And today's show is about how we pay for things.
+38056	<strong>Neil<br></strong>Well, I pay for things with money!
+40211	<strong>Alice<br></strong>There are different kinds of money.
+42664	You're behind the curve, digging around in your pockets for change, Neil.
+46291	Do you still use cheques too?
+48125	<strong>Neil<br></strong>Yes, I do.
+49107	Cheques are very useful.
+50344	Now, being <strong>behind the curve</strong> means not keeping up with current trends.
+54696	So help me keep up, Alice.
+56659	What's a tap-and-go card?
+58045	I thought you were talking about your regular bankcard.
+60861	<strong>Alice<br></strong>Well,<strong> tap-and-go </strong>cards are regular bankcards but with a built-in chip and antenna.
+66642	The card reader sends out a radio frequency and when you bring the card close to the reader, the antenna picks up the signal to make the payment.
+75304	<strong>Neil<br></strong>Hmm.
+75880	This antenna business doesn't sound secure - an <strong>antenna</strong> is used for sending or receiving radio signals.
+82237	Doesn't it mean your personal data is flying around in the ether for anyone to steal?
+87143	<strong><span data-mce-mark="1">Alice<br></strong>In this context, <strong>ether</strong> means the air where electronic communication happens.
+92114	And nothing's flying around, Peter Pan!
+95079	At less than half a second per transaction, there's no time for anyone to steal your cash!
+100818	Now, why don't you answer today's quiz question?
+104423	Which man's face appears on a UK ten pound note?
+108626	Is itâ€¦<br>a)&nbsp;&nbsp; Charles Darwin<br>b)&nbsp;&nbsp; Isaac Newton<br>or c)&nbsp;&nbsp; Albert Einstein<br><br><strong>Neil<br></strong>None of them - it's the Queen.
+119783	<br><br><strong>Alice<br></strong>No, Neil.
+120956	The Queen is on one side, but on the other side of each note is an important historical figure.
+127271	<strong>Neil<br></strong>Oh really?
+128316	I've never noticedâ€¦ OK, I'll go for b) Isaac Newton.
+131537	He's a historical figure.
+132988	<strong>Alice<br></strong>So are Darwin and Einstein.
+136017	And coins and banknotes will be historical soon.
+139089	But we'll find out if you're right later on.
+141479	<strong>Neil<br></strong>I'm still concerned about tap-and-go.
+143505	What if someone steals my card?
+145319	<strong>Alice<br></strong>Each contactless payment is limited to a certain amount - the UK's limit is Â£30.
+151740	After you've used your card a few times in a row, you have to enter your PIN.
+156497	And if a thief does go on a spending spree with your card, your bank covers you against fraud.
+162172	Whereas, if someone steals your banknotes, that's your bad luck!
+165948	<strong>Neil<br></strong>OK, good points.
+166950	<strong>Fraud</strong> means getting money by cheating people.
+169894	And a <strong>spending spree</strong> is a short period of time where you do a lot of shopping.
+173883	Are you a big spender, Alice?
+175355	<strong>Alice<br></strong>Not with my tap-and-go, Neil.
+176998	How about you and your chequebook?
+178897	<strong>Neil<br></strong>No comment.
+180070	<strong>Alice<br></strong>Moving on.
+181713	If getting your bankcard out seems like too much trouble there's now a solution with <strong>wearable tech</strong> - that's clothing and accessories that include computer and electronic technologies.
+192272	Let's hear what Kenneth Cukier, a technology expert, has to say.
+196624	<strong>INSERT<br>Kenneth Cukier, economist and technology expert<br></strong>You can simply take any wireless card and the chip from it that your bank might issue you with, and you can put it into the coat and then when you want to make a payment you just simply wave your arm in front of the terminal and leave with your latte.
+212560	This is intended for people who are incredibly lazy who don't want to take their card out of their wallet, or use their phone, or use their watch.
+219600	People are going to be making more purchases more of the time - particularly for small-valued goods.
+225211	<strong>Neil<br></strong>What Kenneth Cukier said is very interesting.
+230053	That sounds tempting but I'm still concerned about how safe this all is.
+234149	What if I wave my arm around and make a payment by mistake?
+237370	<strong>Alice<br></strong>The chip has to get very close to the card reader to make a payment so that's not likely to happen.
+242021	Now companies are creating new biometric technology - which you might like Neil - because it combines payment and security technology.
+249829	Let's hear more from the BBC reporter Kate Russell.
+253114	<strong>INSERT<br></strong><strong>Kate Russell, BBC reporter</strong><br>For those times when not even carrying a phone is convenient - at the beach or a festival for example - the fingo-pay system reads the unique maps of veins under the surface of your finger.
+265146	The trick is remembering which finger you registered with.
+268303	<strong>Alice<br></strong>This high-tech stuff reporter Kate Russell is talking about is amazing!
+273615	Some day soon we won't have to carry a wallet or a purse or anything.
+278010	The veins in our finger will <strong>authenticate</strong> payments - and prove the payments are ours.
+282895	I can't wait!
+284004	<strong>Neil<br></strong>Hmm.
+284580	Sounds a bit too sci-fi for my liking.
+286671	How about giving us the answer to today's quiz question?
+289594	<strong>Alice<br></strong>Alright then.
+290554	I asked: Which man's face appears on a UK ten pound note?
+295140	Is itâ€¦ a) Charles Darwin b)&nbsp; Isaac Newton or c)&nbsp; Albert Einstein
+305487	<strong><span data-mce-mark="1">Neil<br></strong><span data-mce-mark="1">And I said b) Isaac Newton.
+306895	<strong>Alice<br></strong>Yes.
+307492	And you were wrong, Neil!
+310671	It was that other famous person, a) Charles Darwin.
+314916	Isaac Newton was on the old one pound note which is no longer used.
+319247	And Einstein was German, not British, so he wouldn't appear on a UK banknote anyway.
+324516	<strong>Neil<br></strong>Well they look similar, I think.
+326158	Can you tell us today's words once again, Alice?
+328654	<strong>Alice<br></strong>Yes, of course I can.
+330084	They are:<br>behind the curve<br>tap-and-go<br>antenna<br>ether<br>fraud<br>spending spree<br>wearable tech<br>authenticate<br><br><strong>Neil<br></strong>Well, that's the end of this edition of 6 Minute English.
+357561	Get ahead of the curve, and join us again soon.
+360057	Meanwhile, visit our website: <a href="http://www.bbclearningenglish.com/">bbclearningenglish.com</a>, where you'll find guides to grammar, exercises, videos and articles to read and improve your English.
+368590	<strong>Both<br></strong>Bye.

@@ -1,0 +1,55 @@
+1	(Introduction...)
+11777	<strong>Mary narrator<br></strong>I've not seen my uncle much since I arrived. I am glad because he's got a violent temper and treats my aunt badly.
+23666	This morning, I've been exploring the country around the inn. There is nothing but <strong>heather </strong>and grass for miles.
+35333	In the distance I can see the <strong>marsh.</strong>
+40333	It was in this wild and lonely land that my uncle lived as a boy with his two brothers.
+47095	Last night he told me their story.
+55111	<strong>Joss<br></strong>If you had lived here, you would have taken to drink, like I did. it makes you do things.
+61555	I had a family once: a father, mother, two brothers, but <strong>each one of them</strong> disappeared one way or another.
+70110	My father was <strong>hanged</strong>. He killed a man. My brother Jem is clever - but they'll catch him, too and hang him.
+79955	My brother Matthew - well, he drowned in the marsh. They found him one summer when the marsh dried up.
+91542	<strong>Mary narrator</strong><br>When I get back to the inn my uncle is there.
+95777	<strong>Joss<br></strong>Well, did you miss me?
+98499	<strong>Mary<br></strong>Did you have a nice trip?
+100444	<strong>Joss<br></strong>Nice, <strong>be</strong> <strong>damned</strong>. I've been riding for four days.
+104475	There was a bit of money involved - that's all I care about.
+108513	<strong>Mary<br></strong>Well, I'll go and help my aunt.
+110666	<strong>Joss<br></strong>It's me you'll be helping tonight, in the bar.
+117536	<strong>Mary narrator<br></strong>It's Saturday night - the bar is crowded.
+122444	The air is full of smoke and the smell of unwashed bodies. <strong>All of them</strong> are drunk.
+130333	Some men are so drunk that they lie on the benches like dead men.
+137345	<strong>Harry (man in bar)<br></strong>Another pint.
+140444	<strong>Joss<br></strong>Hurry up there, girl.
+142222	<strong>Mary<br></strong>Uncle, I cannot <strong>bear</strong> this. I'm going upstairs.
+146222	<strong>Joss<br></strong>Too good for us are you? Well it's almost midnight now.
+150666	Go to your room and lock your door .
+153777	<strong>Mary<br></strong>Oww! Let go of my wrist! You're hurting me!
+157888	<strong>Joss<br></strong>Hear this: Keep your mouth shut, and you won't get hurt - but if you start to ask.
+170888	<strong>Mary<br></strong>Oh! What's that noise? It's coming from under my room.
+181222	<strong>Mary narrator<br></strong>The moonlight pours into my room creating ghostly shadows. I creep over to the window.
+190310	My uncle is below and I recognise other men from earlier this evening. There are four or five <strong>wagons.
+199888	</strong> The men have been taking big boxes from them into the inn.
+209555	<strong>Harry<br></strong>That's the last of them.
+211333	<strong>Joss<br></strong>Good. Get going now. Be quick.
+214813	<strong>Man<br></strong>What will you do about him?
+217484	<strong>Joss<br></strong>Don't worry. Harry and I will deal with him later.
+221222	<strong>Mary narrator<br></strong>I understand now. They are <strong>smuggling!</strong> Jamaica Inn is a perfect place for it.
+231700	But what's my uncle doing at the moment? I have to go and see. As I get closer to the bar, I hear voices. I hide in the shadows.
+248688	<strong>Man<br></strong>No, and no again - I will not be a part of it - that's murder you are talking about Mr Merlyn .
+260400	killing <strong>innocent</strong> women and children - no!
+264917	<strong>Joss<br></strong>Not so fast! By God, you will do as I say.
+269585	Another man said the same and he was hanging at the end of a rope a few minutes later!
+274087	Harry - you go and lock the door behind you. I'll finish here.
+288333	<strong>Mary narrator<br></strong>I feel sick. My heart has been beating so loudly, I am sure they have heard it.
+296197	I go back to my room quietly.
+303777	<strong>Mary<br></strong>What shall I do? If I had a gun or a knife, I could perhaps hurt my uncle so that the man can escape.
+311333	But I have nothing .I must do something, though .
+319111	<strong>Mary narrator<br></strong>I creep downstairs again. The door to the bar is shut.
+326473	There is silence. I suddenly know I have to open the door to find out.
+336777	<strong>Mary<br></strong>There's no one here! Just the tables and a few empty glasses.
+343813	The door is open at the back.
+347700	But wait...what's that hanging in the middle of the room?
+353323	It's swinging. A rope hanging from a hook in the ceiling!
+359999	But there's nothing on the end of it. What's happened to that man? I fear the worst.
+373999	<strong>Mary narrator</strong><br>Next time we meet, an interesting visitor arrives at Jamaica Inn.
+380700	But who is he and can he be trusted?

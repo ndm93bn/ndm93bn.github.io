@@ -1,0 +1,39 @@
+1	(Introduction...)
+5700	<strong>Narrator<br></strong>Hello again. At the offices of Tip Top Trading things are a bit strange after Tom walkedâ€¦ stormed out in a huff after realising that Anna was never going to marry him.
+18999	So Anna, I suppose you can get on with being the manager now?
+23439	<strong>Anna<br></strong>Yes, I suppose so. But something's not right.
+27444	<strong>Narrator<br></strong>Well, you've lost a valuable member of your team.
+30531	<strong>Anna<br></strong>I know, and a good friend too.
+33666	<strong>Narrator<br></strong>Well, you're the boss now â€“ it's time to deal with the situation and get down to business.
+39499	Tell the team you'll be finding a replacement for Tom and you're going to make some changes in the office.
+45670	You could also say you want to turn the business round and make it really successful.
+51333	<strong>Anna<br></strong>OK, thanks. Excuse me everyone, could we gather round for a quick meeting please. Oh, it's just you now Denise.
+63111	Right, well, I need to get down to business so I'll be advertising for a replacement for Tom today â€“ in fact Denise, you might be interested in that?
+75111	And I want to make some changes in the office.
+78555	I need to turn this business round and â€¦ make it the world's leading plastic fruit production company andâ€¦ I'mâ€¦ keen to hearâ€¦ your ideas.
+90999	<strong>Denise<br></strong>Is everything alright?
+93588	<strong>Anna<br></strong>Errâ€¦ I can't stop thinking about Tom.
+97055	He seemed so upset when he left andâ€¦ it's not the same without him around.
+103037	He made me laugh andâ€¦ I miss his floppy hair.
+107277	<strong>Narrator<br></strong>Anna, it's time to swallow your pride!
+110900	<strong>Anna<br></strong>Swallow what?
+112488	<strong>Narrator<br></strong>Admit you are wrong â€“ be honest with yourself and follow your heart â€“ go and marry Tom!
+119178	Although personally, I don't know what you see in him.
+122903	<strong>Anna<br></strong>You're right! Why didn't I see it?
+126666	Tom is the man for me â€“ I must call him and find out where he is â€¦ oh no, his phone's switched off.
+138300	Where can I find him?
+140318	<strong>Mr Ingle<br></strong>Hey Anna. You looking for Tom?
+143489	<strong>Anna<br></strong>Yes Mr Ingle, I am.
+145666	<strong>Mr Ingle<br></strong>I saw him a while ago, in a real rage, getting into a taxi.
+150538	He told me he'd booked a flight to Australia and was heading for the airport.
+156111	He said something about being a 'free spirit'.
+162777	<strong>Narrator<br></strong>Struth! Tom really is going too far â€“ to the other end of the world in fact.
+169085	Does this mean we'll never hear from Tom again?
+172277	For now, let's remind ourselves of some of the phrases Anna used to deal with a difficult situation:
+179444	<em>I'll be advertising for a replacement for Tom today</em>
+183999	<em>I want to make some changes in the office</em>
+187927	<em>I need to turn this business round</em>
+191009	<em>I'm keen to hear your ideas</em>
+195888	<strong>Anna<br></strong>â€¦but work can wait. I've got to get to the airport quickly before Tom gets on that flight.
+203335	Taxi! Taxi!
+208106	<strong>Narrator<br></strong>This is going to be interesting!

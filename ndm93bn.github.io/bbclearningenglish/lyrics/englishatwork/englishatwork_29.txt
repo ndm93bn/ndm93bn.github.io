@@ -1,0 +1,62 @@
+1	(Introduction)
+11111	<strong>Tom<br></strong>Quick, gather round, here she comes.
+17888	<strong>Anna<br></strong>Welcome back Denise, we just couldn't survive without you.
+22444	<strong>Denise<br></strong>Oh bless you.
+24222	<strong>Narrator<br></strong>Yes welcome back to Tip Top Trading Denise.
+27950	Paul, the boss, was a little hasty in getting rid of her so now he's asked her back but negotiated some new conditions which include learning how to be a Sales Executive, like Anna.
+40613	But who's going to show her what to do?
+44777	<strong>Paul<br></strong>Oh, hello Denise. Nice to have you back.
+49400	I suppose I had to eat my words didn't I?
+53100	<strong>Denise<br></strong>Yes, well it makes a change from biscuits!
+57410	Now, where have you put my stapler and my red pens?
+61444	<strong>Paul<br></strong>Don't worry about that, I've got you a new stapler and a new desk, right here next to Anna.
+70555	<strong>Denise<br></strong>Oh lovely.
+72444	<strong>Paul<br></strong>Well you wanted some experience in sales, so I thought Anna could show you the ropes.
+78179	<strong>Anna<br></strong>Ropes? I don't have any ropes!
+81240	<strong>Narrator<br></strong>Anna, if you 'show someone the ropes' it means you explain to someone how to do the job.
+88200	You'll be great at that.
+89964	<strong>Anna<br></strong>Oh I see. Well I might know what to do but I'm no good at explaining it to someone else.
+98200	<strong>Narrator<br></strong>Well the best way is to start at the beginning.
+101666	Why not suggest to her to 'watch what I do', or give her some of your tasks and say 'please could you make a start on these?'
+110526	and then reassure her by saying 'I'm here to help so please ask me if you need to know what to do.' Good luck.
+119000	<strong>Anna<br></strong>Thanks! So Denise, it's nice to have you back, how's your new desk?
+124821	<strong>Denise<br></strong>Much bigger than my old one â€“ and look, it goes upâ€¦.and down.
+130900	<strong>Anna<br></strong>Yes it does. OK, shall we make a start then and I'll show you the ropes.
+136777	<strong>Denise<br></strong>Oh yes Anna, of course Anna. Do I need to use the phone?
+140888	<strong>Tom<br></strong>I reckon you're quite experienced with the phone already Denise!
+144743	<strong>Anna<br></strong>Thank you Tom. We won't make any calls yet, just watch what I do for a while.
+150111	Look, I'm just checking our database so see who we haven't called for a while.
+155342	<strong>Denise<br></strong>Oh yes.
+156888	<strong>Anna<br></strong>I'm just checking the dates hereâ€¦in fact Denise, why don't you make a start on this.
+164099	<strong>Denise<br></strong>Of courseâ€¦oh look, my phone's ringing.
+169111	<strong>Tom<br></strong>Are you going to answer it then?
+171444	<strong>Denise<br></strong>Oh right. Hello, Tip Top Trading, Denise speakingâ€¦oh hello Marge!
+180999	<em>(To Anna)</em> It's Marge, Anna!
+182444	<strong>Anna<br></strong>Oh right. I'll leave you to it â€“ I'm here to help, so please ask me if you need to know what to do.
+189622	<strong>Denise<br></strong>OK Anna, I won't be long. So Marge, how did it go the other night?
+196261	Really? Really! Well, I'm sitting at my new deskâ€¦
+202222	<strong>Tom<br></strong>Nice to have her back hey?! Some Sales Exec she's going to be!
+210111	<strong>Narrator<br></strong>Everyone has to start somewhere Tom!
+212660	Now Anna is helping â€“ or coaching - Denise I'm sure she'll become an excellent worker.
+218600	Here are some of the phrases Anna used to help her:
+222666	<em>Let me show you the ropes.
+224999	<em>Watch what I do for a while.
+227576	<em>Why don't you make a start on this?
+230576	<em>I'm here to help, so please ask me if you need to know what to do.
+238888	<strong>Narrator<br></strong>Let's find out how Denise is getting on.
+242333	<strong>Denise<br></strong>So I said to him, it's just not my colourâ€¦yes exactlyâ€¦hold on Marge, everyone's looking at me.
+253903	I'd better call you back. Yes, tonight. Bye!
+258666	<strong>Tom<br></strong>Hmm, you've certainly got a good phone manner.
+262000	Do you think you could order some pens now, we've run out.
+265000	<strong>Denise<br></strong>That's not my responsibility anymore.
+268381	<strong>Tom<br></strong>Err, I think it is.
+270300	<strong>Denise<br></strong>Isn't!
+271100	<strong>Tom<br></strong>Is.
+272000	<strong>Denise<br></strong>Isn't!
+272800	<strong>Anna<br></strong>You two, please!
+274500	<strong>Tom<br></strong>Well, she's got time for personal calls but not to order pens.
+278666	Oh hold onâ€¦.Oh Hi Jim, how's things? Did you catch the match last night? What a goal!
+286917	<strong>Denise<br></strong>Really!
+288111	<strong>Narrator<br></strong>Oh dear Anna. Things aren't going well.
+292100	It's time to sort things out again but what are you going to do?
+296586	Join us again next time to find out. Bye!

@@ -1,0 +1,80 @@
+1	(Introduction...)
+13111	<strong>Narrator<br></strong>Cecily and Gwendolen both thought they were engaged to someone called Ernest.
+19821	But Gwendolen has just found out her man's real name is Jack.
+26002	Let's join them in the garden now, where Cecily is asking Algernon an important question.
+34111	<strong>Cecily<br></strong>Are you engaged to Gwendolen?
+37075	<strong>Algernon</strong><br>Engaged to Gwendolen? Of course not! What made you think that?
+43111	<strong>Cecily</strong><br>Thank you.
+44555	<strong>Narrator<br></strong>And Cecily lets Algernon kiss her on her cheek.
+49000	<strong>Gwendolen</strong><br>I knew there was some slight error, Miss Cardew.
+51943	<strong>The gentleman who is now</strong> <strong>embracing</strong> you is my cousin, Mr Algernon Moncrieff.
+57555	<strong>Cecily</strong><br>Algernon! Is your name Algernon?
+61222	<strong>Algernon</strong><br>I cannot <strong>deny</strong> it.
+62777	<strong>Cecily</strong><br>Oh!
+63888	<strong>Gwendolen</strong><br>Is your name really Jack?
+66388	<strong>Jack</strong><br>My name certainly is Jack. It's been Jack for years.
+70488	<strong>Cecily</strong><br>Gwendolen, we have both been greatly <strong>deceived</strong>.
+74222	<strong>Gwendolen</strong><br>My poor Cecily!
+75800	<strong>Cecily</strong><br>My sweet Gwendolen!
+77099	<strong>Jack </strong><strong>and Algernon</strong> <br>[groan]
+79666	<strong>Gwendolen</strong><br>Mr Worthing, there is just one question I would like to ask you. Where is your brother Ernest?
+86625	Cecily and I are both engaged to be married to your brother, so it is a <strong>matter</strong> of some importance to us to know where he is at present.
+95777	<strong>Jack</strong><br>Gwendolen, Cecily, it is very painfulfor me to speak the truth and I am really quite inexperienced in doing anything of the kind.
+107000	However, I will tell you quite frankly that I don't have a brother Ernest.
+113555	I don't have a brother at all.
+115441	I've never had a brother in my life, and I don't plan to ever have one in the future.
+120333	<strong>Cecily</strong><br>No brother at all?
+122777	<strong>Jack</strong><br>None!
+123817	<strong>Gwendolen</strong><br>Have you never had a brother of any kind?
+126666	<strong>Jack</strong><br>Never. Not even of any kind.
+129325	<strong>Gwendolen</strong><br>Cecily, it's quite clear that neither of us are engaged to be married to anyone.
+134566	<strong>Cecily</strong><br>It's not a very pleasant position for a young girl suddenly to find herself in. Is it?
+140444	<strong>Gwendolen</strong><br>Let's go in the house. They'll dare not come after us there.
+144388	<strong>Cecily</strong><br>No, men are so <strong>cowardly</strong>, aren't they?
+148732	<strong>Narrator<br></strong>And the two women, who minutes before were arguing, now go arm in arm into the house.
+157777	<strong>Jack</strong><br>This awful situation is what you call <strong>Bunburying</strong>, I suppose?
+163000	<strong>Algernon</strong><br>Yes, and a wonderful Bunbury it is.
+165666	<strong>Jack</strong><br>Well, you've no right to Bunbury here.
+167888	<strong>Algernon</strong><br>That's absurd. People can Bunbury anywhere they choose.
+171222	Every serious Bunburyist knows that.
+173699	<strong>Jack</strong><br>Serious Bunburyist! Good heavens!
+176400	<strong>Algernon</strong><br>Well, you have to be serious about something.
+178577	<strong>Jack</strong><br>Well, the only satisfaction I have in all this terrible business is that your friend Bunbury is finished.
+185444	You won't be able to run to the country quite as often as you used to, dear Algy.
+189777	<strong>Algernon</strong><br>Your brother is a little unwell, isn't he, dear Jack?
+193222	You won't be able to disappear to London quite so frequently now.
+196777	<strong>Jack</strong><br>As for your behaviour towards Miss Cardew, I must say that fooling a sweet, innocent girl like that is quite <strong>inexcusable</strong>.
+204777	To say nothing of the fact that I am her guardian.
+207222	<strong>Algernon</strong><br>I can see no excuse at all for you deceiving a clever, thoroughly experienced young lady like Miss Fairfax.
+213666	To say nothing of the fact that she is my cousin.
+216111	<strong>Jack</strong><br>I wanted to be engaged to Gwendolen, that is all. I love her.
+220555	<strong>Algernon</strong><br>Well, I simply wanted to be engaged to Cecily. I adore her.
+224288	<strong>Jack</strong><br>There is certainly no chance of your marrying Miss Cardew.
+227999	<strong>Algernon</strong><br>And I don't think it's very likely, Jack, that you and Miss Fairfax will be together.
+233800	Ooh...muffins.
+235999	<strong>Jack</strong><br>Well, that's no business of yours.
+238609	And how can you sit there, calmly eating muffins when we are in this horrible trouble?
+245666	You seem perfectly <strong>heartless</strong>.
+248357	<strong>Algernon</strong> <br>[eating] Well, I can't eat muffins in a nervous way. The butter would probably get on my sleeves.
+254584	You should always eat muffins quite calmly. It's the only way to eat them.
+258812	<strong>Jack</strong> <br>Well, that's no reason to eat them all in that greedy way. Give them to me.
+263333	<strong>Algernon<br></strong>But you just said it was heartless to eat muffins.
+265600	<strong>Jack<br></strong>Algy, I wish you would go.
+267403	<strong>Algernon</strong><br>You can't possibly ask me to go without having some dinner.
+270700	Besides I have just arranged with <strong>Reverend</strong> Chasuble to be christened at a quarter to six with the name of Ernest.
+276555	<strong>Jack</strong><br>My dear fellow, please stop that nonsense.
+280000	I arranged this morning with Reverend Chasuble to be <strong>christened</strong> myself at 5.30, and I will, of course, take the name of Ernest.
+288291	We can't both be called Ernest. Besides, I have a perfect <strong>right</strong> to be christened if I like.
+294213	There is no evidence at all that I have ever been christened by anybody.
+298019	You, on the other hand, have already been christened.
+301499	<strong>Algernon</strong><br>Yes, but I haven't been christened for years.
+304000	<strong>Jack</strong><br>Yes, but you have been christened. That's the important thing.
+307555	<strong>Algernon</strong><br>Yes, so I know I can stand it. You're not quite sure that you have ever been christened, and I think it would be rather dangerous to do it now.
+315331	It might make you very unwell.
+317233	<strong>Jack</strong><br>[eating] Oh, that's nonsense; you are always talking nonsense.
+321222	<strong>Algernon</strong><br>Jack, you're eating the muffins again!
+323704	I wish you wouldn't. There are only two left.
+326500	I told you I was particularly fond of muffins.
+329111	<strong>Jack</strong><br>Algernon! I have already told you to go. I don't want you here.
+334500	<strong>Algernon</strong><br>I haven't quite finished my tea yet! And there is still one muffin left.
+339018	<strong>Jack</strong><br>[groans in despair]

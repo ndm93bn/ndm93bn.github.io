@@ -1,0 +1,82 @@
+1	(Introduction...)
+5333	<strong>Narrator<br></strong>Hello again and welcome back to the final English at Work.
+9732	Mr Socrates has sacked Paul from his position as manager of Tip Top Trading and he's offered Anna a promotion â€“ to be the new boss.
+20000	But will she accept? What's wrong Anna?
+23300	<strong>Anna<br></strong>I feel bad about replacing Paul. He's been good to me.
+27333	<strong>Narrator<br></strong>It's business Anna. He's just not up to the job â€“ but you are.
+32333	<strong>Anna<br></strong>Thanks. But why me? Can I do the job?
+36570	I'm not as experienced as Tom.
+38914	<strong>Narrator<br></strong>I think we have seen over the year that you definitely have more experience than Tom!
+44622	Go on Anna, you can do it.
+46888	<strong>Anna<br></strong>Hmmm.
+47812	<strong>Mr Socrates<br></strong>So Annaâ€¦ what do you say? Will you replace Paul as the new boss of Tip Top Trading?
+53555	Come on Anna. This promotion recognises your achievements at the company. It's an opportunity of a lifetime.
+59900	<strong>Anna<br></strong>I know.
+61183	<strong>Mr Socrates<br></strong>You'll be my right-hand man.
+63335	<strong>Narrator<br></strong>I think he means right-hand woman! It means you'd be his most trusted and invaluable assistant.
+70400	<strong>Anna<br></strong>I see.
+71848	<strong>Narrator<br></strong>Anna, if you need time to think you could say "thank you for your kind words" and, "could I have time to consider your offer?"
+81336	<strong>Anna<br></strong>Erm, Mr Socrates. This news has come as a bit of a shock.
+86466	Thank you for your kind words but please could I have some time to consider your offer?
+92300	<strong>Mr Socrates<br></strong>Ohâ€¦ OK Anna. But don't leave it too long.
+96888	I have a habit of changing my mind.
+98710	<strong>Anna<br></strong>OK, Mr Socratesâ€¦ I mean Bradâ€¦ I'll call you back soon. Bye.
+104444	<strong>Tom<br></strong>Ohâ€¦ has Mr S offered you Paul's job by any chance?
+108500	<strong>Anna<br></strong>Yes!
+109396	<strong>Tom<br></strong>And you said you'd think about it?
+111777	<strong>Anna<br></strong>Yes. I'm not sure if I can take on that much responsibility.
+115500	<strong>Tom<br></strong>It's easy peasy. I could do it standing on my head.
+119522	<strong>Denise<br></strong>But he's not offeringÂ­ you the job Tom.
+122059	<strong>Anna<br></strong>Please don't mention this to Paulâ€¦ not yetâ€¦ he's very upset.
+127400	<strong>Tom<br></strong>I know nothing!
+128956	<strong>Anna<br></strong>You know nothing? About what?
+131555	<strong>Tom<br></strong>I mean, I'll remain tight lippedâ€¦ I won't say a wordâ€¦ until it's all official like. You can count on me.
+140777	<strong>Anna<br></strong>"You can count on me"!?
+143300	<strong>Tom<br></strong>Uh?
+144106	<strong>Anna<br></strong>"You can count on me".
+146666	That was the message with that that bunch of flowers someone sent me.
+151101	It was you wasn't it?!
+153000	<strong>Tom<br></strong>Wellâ€¦ errâ€¦ I supposeâ€¦ yesâ€¦ it was me Anna.
+158886	I couldn't help it. Iâ€¦ Iâ€¦ love you Anna.
+163115	<strong>Anna<br></strong>Do you know what Tomâ€¦ I quite like you tooâ€¦ I think you'reâ€¦ sweet<em>.</em>
+169666	Now come on and give me a kiss.
+173333	<strong>Paul<br></strong>Oh crumbs, shall I come back later?!
+176700	<strong>Tom<br></strong>No it's ok Paul. Weâ€™re justâ€¦ getting to know each other a bit better.
+181900	In fact, Annaâ€¦ I'd like to ask you something.
+185666	<strong>Denise<br></strong>Oh, why is Tom getting down on one knee?
+189777	<strong>Paul<br></strong>I expect he's dropped one of his contact lenses.
+192914	<strong>Tom<br></strong>No it's not that. Anna, I'd like to ask you somethingâ€¦ errâ€¦ will youâ€¦ will you marry me?
+201825	<strong>Anna<br></strong>What?!
+206822	<strong>Narrator<br></strong>Crikey, what a dilemma. Now Anna's got two important questions to answer.
+213300	Will she take the job as Tip Top Trading's newest and youngest manager? And will she marry Tom?
+220444	Here's a reminder of what Mr Socrates had to say about her:
+224888	<em>This promotion recognises your achievements at the company.
+228646	<em>It's an opportunity of a lifetime.
+231999	<em>You would be my right-hand man.
+235100	<strong>Narrator<br></strong>And if Anna accepts the job, here's what she could say:
+239666	<em>I'd be delighted to accept. Thank you.
+243368	<em>When would I start?
+245555	<em>Could we discuss the terms and conditions of the new job?
+253666	<strong>Narrator<br></strong>Let's find out what Anna has to say.
+256380	<strong>Anna<br></strong>Oh Tom, I don't know what to say.
+259999	It's come as a bit of a shock. Can I have some time to think about it?
+264055	<strong>Tom<br></strong>I suppose.
+267017	<strong>Paul<br></strong>Well, while you think about that, I've got some good news. I've been offered a new job.
+273888	<strong>Denise<br></strong>That's fantastic news Paul. What is it?
+277962	<strong>Paul<br></strong>It's to be Head Taster at a company called Better Biscuits.
+282999	<strong>Anna<br></strong>That's fantastic news Paul.
+285111	<strong>Tom<br></strong>Yeah, well done Paul. That's right up your street.
+288716	<strong>Denise<br></strong>So Anna, does that mean you'll do Paulâ€™s job now?
+293111	<strong>Tom<br></strong>Don't answer that. Answer my proposal first.
+297100	<strong>Denise<br></strong>No, I think she should sort out her work first.
+300111	<strong>Tom<br></strong>But I've been waiting to ask her for months.
+304888	<strong>Anna<br></strong>Quiet! Look everyone, I can't decide what to say to you Tom, or Mr Socrates.
+312444	So I've decided I'm going to take a short holiday to have some time to think.
+317555	<strong>Tom<br></strong>Good idea. Where shall we go?
+319888	<strong>Anna<br></strong>On my own Tom. When I return I will give you my answers.
+324111	<strong>Paul<br></strong>Crumbs. I think I'd better get a biscuit.
+328888	<strong>Narrator<br></strong>A good idea Anna. But weâ€™re going to have to wait a while to find out what she decides.
+335084	She needs a rest after learning so much during her year at Tip Top Trading.
+340888	We hope you've enjoyed learning with her and now feel more confident in using English at work!
+347426	Thatâ€™s all from me and the team at Tip Top Trading for now.
+351171	Until we meet again, bye!

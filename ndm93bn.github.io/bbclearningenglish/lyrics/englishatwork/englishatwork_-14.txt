@@ -1,0 +1,53 @@
+1	(Introduction...)
+3290	<strong>Narrator<br></strong>Hello, welcome to the offices of Citrus Ventures!
+6913	It's a big day for Anna, she's about to present Tip Top Trading's new Imperial Lemon to Mr Lime and his colleagues.
+14983	This must not go wrong.
+16956	<strong>Anna<br></strong>â€¦revoltionary laser-curve...revolUtionary laser-curve...revol-...
+27744	<strong>Narrator<br></strong>How are you feeling today Anna?
+29391	<strong>Anna<br></strong>Scared! I want to do really well.
+33536	If I mess up and Citrus Ventures doesn't place an order, I'll be so upset.
+39119	<strong>Narrator<br></strong>You're well prepared, that's the main thing.
+41886	Explain clearly how your presentation will be organised.
+45847	<strong>Anna<br></strong>OK. Oh dear, I didn't think of the very beginning.
+50310	Can you give me examples of what I should say?
+53375	<strong>Narrator<br></strong>After you've introduced yourself, you could say:<br>Today I'm going to... and explain.
+59710	Then say:<br>I'll start by.
+62578	And then I'm going to move on to discussâ€¦<br>And finally.
+68300	<strong>Anna<br></strong>OK, like this:<br>Today I'm going to.
+73246	I'll start by.
+75656	And then I'm going to move on to discussâ€¦<br>And finally.
+81666	<strong>Narrator<br></strong>Exactly.
+82947	<strong>Anna<br></strong>Right, thanks, I'll try.
+85377	Everything will be fine.
+87231	I feel relaxed now.
+90086	<strong>Mr Lime<br></strong>Anna!
+91078	<strong>Anna<br></strong>Mr Lime!
+91928	<strong>Mr Lime<br></strong>How lovely to see you... You look absolutely.
+96508	I've been looking forward to this for days!
+101197	Everyone is waiting in the meeting room. Come this way.
+108085	<strong>Anna<br></strong>Oh gosh.
+110024	<strong>Mr Lime<br></strong>Everyone in Citrus Ventures is very excited about this new Imperial Lemon, so I allowed a few extras to come and watch, I hope you don't mind.
+120791	All your equipment has been set up so you can begin!
+129971	<strong>Anna<br></strong>Hello, I'm Anna of Top Tip Tradingâ€¦ I mean, Tip Top Trading, sorry!
+138183	I'm very unhappy to be here.
+142175	<strong>Narrator<br></strong>Anna- focus!
+144550	<strong>Anna<br></strong>I mean, I'm very happy to be here.
+147665	<strong>Narrator<br></strong>Anna, breathe deeply, then say:<br>Today I'm going to.
+153627	<strong>Anna<br></strong>Today I'm going to.
+157824	Today I'm going to present our revolutionary, new Imperial Lemon.
+164284	I'll start by telling you a bit about Tip Top Trading and some of the exciting new developments at our company.
+171973	And thenâ€¦Iâ€™m going to move on to explain how the Imperial Lemon is designed and what makes it so revolutionary.
+181028	And finally, you will all have a chance to see it close up for yourselves and ask questions.
+188009	So, let's begin. This picture shows.
+194386	<strong>Narrator<br></strong>Well, as usual, Anna seems to be turning a difficult situation into a success.
+201089	She used the phrases we discussed, which made her opening clear and well-structured.
+206695	She said: <br>Today I'm going to.
+210156	I'll start by.
+212157	And then I'm going to move on to discussâ€¦</li> <li>And finally.
+218504	But that's just the beginning, now she's got to get through the rest of the pitch â€“ how will that go?
+224957	<strong>Anna<br></strong>â€¦this picture showsâ€¦.
+227619	oh no, why isnâ€™t it workingâ€¦I should just click on thisâ€¦.
+232886	oh, whatâ€™s wrong with this stupid computer!
+236917	<strong>Narrator<br></strong>Uh oh! It was all going so well but now Annaâ€™s got computer problems.
+242788	What is she going to do? We'll find out next time. Bye!
+248913	<h3>Listening Challenge - Answer</h3> <br>Where is Annaâ€™s presentation taking place? <br>In the meeting room at Citrus Ventures.

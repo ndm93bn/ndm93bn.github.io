@@ -1,0 +1,70 @@
+1	(Introduction...)
+5243	<strong>Narrator<br></strong>Hello again. Itâ€™s the big day and Mr Socrates is about to arrive at the offices of Tip Top Trading to talk officially to the team.
+14715	What is he going to say? And more importantly, will he get his freshly squeezed orange juice?
+23257	<strong>Tom<br></strong>Quickly everybodyâ€¦ heâ€™s coming out of the lift with Paul.
+26958	<strong>Denise<br></strong>Anna quickly, get a glass of orange juice ready.
+32621	<strong>Paul<br></strong>â€¦and if we come through this door here we get to the office andâ€¦ morning everyone.
+39433	Iâ€™m sure weâ€™ve all met Mr Socrates on the day of theâ€¦ fireâ€¦ but today everything is a bit calmer and well heâ€™s here to say hello.
+51001	<strong>Mr S<br></strong>Hi!
+51946	<strong>Denise<br></strong>Biscuit Mr Socrates?
+53931	<strong>Mr S<br></strong>Biscuit? You mean a goddamn cookie. Thanks.
+57404	<strong>Anna<br></strong>Err, Mr Socrates, Iâ€™m Anna. Would you like some orange juice â€“ freshly squeezed?
+65008	<strong>Mr S<br></strong>You betcha as long as itâ€™s made from Florida oranges.
+68615	Heyâ€¦ Anna? Ainâ€™t you the girl who booked my hotel room?
+72230	<strong>Anna<br></strong>Oh yes, sorry about the bed andâ€¦
+75525	<strong>Mr S<br></strong>Hey, you got me a new room, it was great.
+77789	You did a good job there. Well done.
+80017	<strong>Anna<br></strong>Oh thanks.
+82256	<strong>Tom<br></strong>Hello. Itâ€™s Tom. I recommended the hotel, it was aâ€¦
+87810	<strong>Paul<br></strong>Tom. Everyone, shall we gather round and hear what Mr Socrates has to say? Please.
+93355	<strong>Mr S<br></strong>Heyâ€¦ errr, whatâ€™s your nameâ€¦
+95824	<strong>Paul<br></strong>Paul.
+96871	<strong>Mr S<br></strong>Yeah you. Donâ€™t you think I should be sitting in the big chair?
+100342	<strong>Paul<br></strong>Sorry. Yes of course. (Shuffling) There you go.
+107214	<strong>Mr S<br></strong>Now. Tip Top Trading. I gotta give it to you straight.
+111937	Things ainâ€™t looking good, in fact the outlook is gloomy.
+115933	The global recession has led to a meltdown in the plastic fruits sector.
+120001	And Iâ€™ve got to announce a profit warning.
+123092	We just ainâ€™t selling enough of these bananas, oranges and lemons to make any money.
+128563	<strong>Paul<br></strong>Thereâ€™s a bit of an economic squeeze on lemons!
+131223	<strong>Mr S<br></strong>What?!
+131867	<strong>Anna<br></strong>(To herself) Oh dear. Iâ€™m not sure what heâ€™s talking about but it sounds bad.
+138278	<strong>Narrator<br></strong>It is Anna. Heâ€™s delivering some bad news without hiding the truth.
+143565	Thatâ€™s why he said â€œIâ€™ve got to give it to you straightâ€.
+147205	He said â€œthe outlook is gloomyâ€ which it means the future doesnâ€™t look good.
+152985	And he mentioned a â€œprofit warningâ€, which means company profits are probably going to go down.
+159377	<strong>Anna<br></strong>Crikey! That is bad. What does it mean?
+164639	<strong>Narrator<br></strong>Just keep listening for now.
+166679	<strong>Mr S<br></strong>â€¦so, this calls for action. Iâ€™m going to have toâ€¦
+171448	<strong>Tom<br></strong>(interrupts) Oh no, not me Mr Socrates, Iâ€™ve been a loyal employee, I couldnâ€™t face being unemployed.
+181338	<strong>Denise<br></strong>Tom, calm down.
+183764	<strong>Mr S<br></strong>Iâ€™m not talking about redundancies yet.
+186646	<strong>Paul<br></strong>Gosh, well that calls for another biscuit.
+189615	<strong>Mr S<br></strong>My plan isâ€¦ weâ€™re going into Europe.
+195668	<strong>Anna<br></strong>You mean weâ€™re moving to Europe?
+198177	<strong>Paul<br></strong>No, no Anna. I think he means weâ€™re going to sell plastic fruit to the European market.
+204002	<strong>Tom<br></strong>Oh right! Great. Mr Socrates, Iâ€™ve lots of experience with Europe.
+210536	I had a holiday in Spain onceâ€¦ twice actually.
+214297	<strong>Denise<br></strong>Well weâ€™ll have to make sure our phones can make international calls.
+218464	<strong>Mr S<br></strong>Hmm. I think youâ€™re gonna need some help with this, so Iâ€™m bringing in my best marketing executive, Rachel.
+224963	What she doesnâ€™t know about selling to Europe, you donâ€™t wanna know.
+228997	Sheâ€™ll be here in a few weeksâ€™ time.
+230880	<strong>Denise<br></strong>Do you know if she prefers tea or coffeeâ€¦ or orange juice perhaps?
+236342	<strong>Mr S<br></strong>Look Dianaâ€¦
+238257	<strong>Denise<br></strong>Deniseâ€¦
+240219	<strong>Mr S<br></strong>Denise. Like Dennis right?
+243445	Sheâ€™ll want the best â€“ the best tea, coffee, the best team.
+248150	Iâ€™ll expect improved results and profits.
+251326	If not your necks will be on the line â€“ especially yours Paul.
+255778	<strong>Paul<br></strong>(nervously) Oh, chop chop. Weâ€™d better get to work.
+265093	<strong>Narrator<br></strong>Scary! â€œYour necks will be on the lineâ€ â€“ he means their jobs will be at risk if things donâ€™t improve.
+273308	Itâ€™s a worrying time for Tip Top Trading.
+276411	Letâ€™s remind ourselves of the phrases Mr Socrates used to deliver bad news:<br>Iâ€™ve got to give it to you straight<br>The outlook is gloomy<br>Iâ€™ve got to announce a profit warning<br>Letâ€™s hope this new marketing strategy for Europe is going to work.
+294951	How are you feeling Anna?
+296559	<strong>Anna<br></strong>A little nervous. But Iâ€™m going to try my best to make sure this new strategy works.
+302249	<strong>Narrator<br></strong>Thatâ€™s the spirit Anna!
+303885	<strong>Paul<br></strong>Right everyone. I think we need to take Mr Socrates down to the Rose and Crown after work for a pint or two and show him some true English hospitality. How about it?
+314226	<strong>Mr S<br></strong>I donâ€™t drink.
+315435	<strong>Paul<br></strong>Ah well, perhaps some lemonade?
+319472	<strong>Narrator<br></strong>Oh dear. This should be interesting. Until next time, bye!
+324956	<h3>Listening challenge - answer</h3> <br>Which market does Mr Socrates want to focus the business on? <br>The European market.

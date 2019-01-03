@@ -1,0 +1,60 @@
+1	(Introduction...)
+4876	<strong>Narrator<br></strong>Welcome back to the offices of Tip Top Trading where Tom has taken a tumble.
+10757	He was trying to catch a mouse but tripped over. Can Anna help soothe the pain? Let's find out.
+18300	<strong>Tom<br></strong>Oohâ€¦ owwâ€¦ ouch. My arm really hurts.
+25500	<strong>Paul<br></strong>What's all this noise about?
+28227	<strong>Denise<br></strong>It's Tom. He's had an accident â€“ tripped over a mouse â€“ I mean tripped over trying to catch a mouse.
+35200	<strong>Paul<br></strong>Golly gosh. Are you OK Tom?
+38157	<strong>Tom<br></strong>I dunno. I think I've broken something.
+41346	<strong>Denise<br></strong>Your pencil I think! Just sit there at my desk and I'll go and call a first-aider.
+48700	<strong>Paul<br></strong>Anna,you're going to have to fill in one of those Health and Safety reports.
+53399	<strong>Anna<br></strong>Oh really? Do we have to?
+56132	<strong>Paul<br></strong>It's procedure and it's the law â€“ it's got to be done. Now Tom, would a biscuit make you feel better?
+63935	<strong>Narrator<br></strong>Health and Safety is important in the workplace.
+69222	The office needs to be a safe place to work in, but accidents do happen and that's when you have to report it.
+76725	Anna, do you know where to find the form you need to fill in?
+80852	<strong>Anna<br></strong>I think so. It's here on the company intranetâ€¦ here it is, 'accident report form'.
+89100	<strong>Narrator<br></strong>Yes, it's sometimes called an 'incident or accident report form'.
+93586	It will ask you: <em>How did the accident happen?
+96833	<em>What was the cause of the accident?
+99747	<em>Were there any injuries?
+101600	<em>And how could the accident have been avoided?
+105300	<strong>Anna<br></strong>OK, I had better get started.
+108505	<strong>Denise<br></strong>Right, I've call the first-aider. She'll be here in ten minutes.
+113821	Now, do you need a hand with this form, Anna?
+117187	<strong>Anna<br></strong>Yes please Denise. It wants to know <em>how the accident happened.
+121999	<strong>Denise<br></strong>Just say there was a mouseâ€¦ no, a large ratâ€¦ running about that needed catching.
+128574	And Tom, very bravely, tried to catch it
+132900	<strong>Anna<br></strong>Yesâ€¦ and then he tripped over something.
+137020	<strong>Denise<br></strong>Was it your ego Tom?
+138999	<strong>Tom<br></strong>Err? Ha ha. Ouch! No, it was a sample box of Perfect Peaches.
+147744	<strong>Denise<br></strong>So, <em>the cause of the accident</em> was a box of Perfect Peaches left on the floor.
+154409	Who left them there anyway?
+157425	<strong>Tom<br></strong>That might have been me Denise.
+161422	<strong>Denise<br></strong>What do I always say about putting things away?
+164702	Now Anna, it says here <em>'Were there any injuries?'</em>
+169500	<strong>Anna<br></strong>So I'll write, 'Yes, a member of staff broke his arm.'
+174500	<strong>Denise<br></strong>Sprainedhis arm. I think he'd be in a lot more pain if it was broken, hey Tom?
+181321	<strong>Tom<br></strong>What? Err, yeah. It still hurts though.
+186286	<strong>Denise<br></strong>Hmm! Now finally it says <em>'What can be done to avoid this accident again?'</em>
+193100	<strong>Anna<br></strong>Get rid of the miceâ€¦ I mean rats?
+195922	<strong>Denise<br></strong>No. Store things away properly and keep the office tidy, eh Tom?
+202781	<strong>Tom<br></strong>Yeah, I suppose soâ€¦ but I was only trying to catch that mouse.
+207562	<strong>Denise<br></strong>I know, very heroic. I'm starting to see what Anna sees in you, you know.
+214187	<strong>Tom<br></strong>Oh no, Anna, our dinner date!
+226200	<strong>Narrator<br></strong>So, it's been an eventful day in the office.
+229500	Anna has done the proper thing by completing an accident report form.
+233878	If you have to report an accident at work, here are some of the questions you might be asked:
+239888	<em>How did the accident happen?
+242888	<em>What was the cause of the accident?
+246222	<em>Were there any injuries?
+248866	And: <em>How could the accident have been avoided?
+257222	<strong>Narrator<br></strong>So luckily for Anna she might get out of that date with Tom!
+262113	<strong>Anna<br></strong>Hey Tom, don't look so glum. I'm up for dinner if you still are?
+267422	<strong>Tom<br></strong>Ouchâ€¦ really?
+269500	<strong>Anna<br></strong>Sure Tom, and as you've only got one arm now, you won't be hugging me all the time.
+275968	<strong>Denise<br></strong>You'll have to spoon feed him his food too!
+281600	<strong>Tom<br></strong>Denise, could you go and call pest control please?
+286000	<strong>Narrator<br></strong>Careful what you say Denise, or you may get injured too!
+290540	So it looks Anna and Tom's dinner date is on â€“ I can't wait to be a fly-on-the-wall!
+296684	See you again soon. Bye!

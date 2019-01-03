@@ -1,0 +1,81 @@
+1	(Introduction...)
+9608	<strong>Narrator<br></strong>Bye bye Mr Socrates. Heâ€™s flying back to America leaving Tip Top Tradingâ€™s London team trying to work out how best to focus their business on the European market.
+21900	<strong>Paul<br></strong>Sorry to keep you waiting. I had to go to the airport with Mr Socrates to see him off.
+27520	We had a good chat in the taxi and he said some very positive things.
+32191	<strong>Denise<br></strong>Oh yes. Like what?
+34554	<strong>Paul<br></strong>Err, wellâ€¦ well, how nice English beer is.
+39273	<strong>Tom<br></strong>Yeah but what about the European marketing strategy â€“ what are we going to do about that?
+45306	<strong>Paul<br></strong>Well, Anna is supposed to lead on that, Iâ€™m taking a more biscuitorial control over it.
+52052	<strong>Anna<br></strong>A what?
+53385	<strong>Tom<br></strong>It means you do all the work while he eats all the biscuits!
+57430	<strong>Paul<br></strong>Do you mind Tom. Now, what Iâ€™m thinking is we put the feelers out â€“ do some cold calling, see what people are buying at the moment.
+66402	<strong>Anna<br></strong>Cold calling? But I like to be warm when Iâ€™m on the phone.
+71389	<strong>Denise<br></strong>No Anna. Cold calling is when you call prospective clients when theyâ€™re not expecting you to, to ask them something or to sell them something.
+82402	Iâ€™m very good at calling people.
+85071	<strong>Tom<br></strong>Yeah, usually the hair dresser!
+87241	So Paul, where do we begin, who do we call first?
+90652	<strong>Paul<br></strong>Track down some potential clients in Europe, see what theyâ€™re buying now, see what they want in the future.
+96759	Make them think itâ€™s our laser-curved fruit they want!
+100856	<strong>Denise<br></strong>But keep your calls brief, international calls are very expensive.
+109144	<strong>Narrator<br></strong>OK Anna, itâ€™s time to cold call.
+112248	What are you going to say?
+113927	<strong>Anna<br></strong>I donâ€™t know.
+115266	<strong>Narrator<br></strong>Find someone to call, then be pleasant and polite.
+119327	When you call, ask to speak to the person who deals with buying or purchasing.
+124786	And then ask that person if they could spare a few minutes of their time.
+129577	<strong>Anna<br></strong>OK. Here goes.
+135590	(Looking through a telephone directory) Letâ€™s have a lookâ€¦ fruit growers, fruit pickers, fruit tradersâ€¦ Fruit Traders Internationalâ€¦ (Dials number) 0-0-4-3-9-8-4-5-5-4-4.
+162502	<strong>Trader<br></strong>Bonjour?
+163584	<strong>Anna<br></strong>(surprised) Ah, erm, ohâ€¦.
+165808	<strong>Narrator<br></strong>Donâ€™t be surprised! Youâ€™ve called a company in France, they speak French.
+170970	Just ask if itâ€™s OK to speak English.
+173950	<strong>Anna<br></strong>Oh hello. Is it possible to speak to you in English?
+178316	<strong>Trader<br></strong>Ouiâ€¦ yes.
+180441	<strong>Anna<br></strong>Great. Are you the person who purchases plastic fruit for your company?
+186004	<strong>Trader<br></strong>I am. How can I help you?
+189049	<strong>Anna<br></strong>Yes, can you spare a few minutes of your time?
+193398	I want to sell you some laser-curved fruit.
+196571	<strong>Trader<br></strong>What?!
+198142	<strong>Narrator<br></strong>Thatâ€™s a bit direct Anna.
+200048	Slow down and tell them your name and why youâ€™re calling.
+204080	Find out something about them.
+206087	Maybe say â€œIâ€™d like to tell you about our great new laser-curved fruitâ€.
+211746	Ask them â€œHow much plastic fruit do you buy?â€
+215285	and at the end of the call say â€œThank you for your time. We hope to hear from you soon.â€
+221094	Give it a go Anna.
+223230	<strong>Anna<br></strong>OK. Ermâ€¦ hello my name is Anna.
+228618	How are you today?
+230204	<strong>Trader<br></strong>Good thank you.
+232203	<strong>Anna<br></strong>Thatâ€™s good. Iâ€™d like to tell you about our great new laser-curved fruit.
+237657	<strong>Trader<br></strong>Oh yes.
+238764	<strong>Anna<br></strong>Our company is called Tip Top Trading and we are the UKâ€™s number 1 plastic fruit manufacturer â€“ and well, weâ€™re so proud of our fruit that weâ€™ve decided to let the rest of Europe enjoy it too.
+254456	<strong>Narrator<br></strong>Very good Anna!
+255973	<strong>Anna<br></strong>We make our fruit using laser-curved technology.
+259935	In fact weâ€™ve just launched our best product ever, the Imperial Lemon â€“ it looks so real you want to squeeze it.
+269069	<strong>Trader<br></strong>Hmm, lemons, interesting.
+273114	<strong>Narrator<br></strong>Annaâ€™s got the hang of this â€“ sheâ€™s on fire â€“ I mean, sheâ€™s doing really well.
+280258	Her cold calling technique has really warmed up.
+283709	Sheâ€™s pitched the products now she needs to sell.
+290219	<strong>Anna<br></strong>â€¦so thank you for your time.
+293334	I hope you may consider us when you next purchase some plastic fruit.
+297509	<strong>Trader<br></strong>We will certainly consider your company.
+300932	<strong>Anna<br></strong>Well we hope to hear from you soon.
+303702	Goodbye (puts phone down).
+305087	Tom, Tom, how are you getting on?
+307653	<strong>Tom<br></strong>(On phone/angry) â€¦well if thatâ€™s what you think then you can shove your kumquatsâ€¦ hello?
+312471	Hello? (Slams phone down)
+315507	<strong>Anna<br></strong>Whatâ€™s wrong?
+316312	<strong>Tom<br></strong>Theyâ€™ve hung up on me. Really!
+319735	He said the plastic fruit industry is in meltdown.
+325004	But Anna, if I donâ€™t get any contracts soon Iâ€™ll be fired.
+330142	<strong>Anna<br></strong>Well, this calls for teamwork Tom â€“ tomorrow, Tuesday, weâ€™re going to tackle this task â€“ together!
+338081	<strong>Narrator<br></strong>Hooray for Anna. Now sheâ€™s sounding like a leader.
+342419	And sheâ€™s mastered cold calling by using some simple phrases, like these:<br>My name is Anna.
+349354	Can you spare a few minutes of your time?
+352279	Iâ€™d like to tell you about our great new laser-curved fruit<br>How much plastic fruit do you buy?
+359505	Thank you for your time.
+361249	We hope to hear from you soon.
+364219	Phone rings
+370425	<strong>Denise<br></strong>Anna. Thereâ€™s a call for you, from someone in France, they want to talk to you about lemons.
+379115	<strong>Narrator<br></strong>Sounds promising.
+381087	Find out what happens next time on English at Work. Bye.

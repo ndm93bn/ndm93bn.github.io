@@ -1,0 +1,69 @@
+1	(Introduction...)
+5555	<strong>Narrator<br></strong>Welcome back to English at Work. Paul, Anna and Tom are at an important International Plastics Conference.
+13500	Itâ€™s been a busy day of networking but the big boss from America, Mr Socrates, has told Paul some bad news.
+21741	Before he tells the team, there is an important award to be won â€“ the Plastic Innovation of the Year award.
+29000	Will Tip Top Trading win it? I hope you've written your acceptance speech Anna.
+34666	<strong>Anna<br></strong>Yes, I'm just doing it now.
+36900	<strong>Narrator<br></strong>You've left it a bit late.
+39009	<strong>Anna<br></strong>I've been so busy and now I'm really struggling. I don't know what to write.
+43998	<strong>Narrator<br></strong>Well, don't forget to say "<em>On behalf of everyone at Tip Top Trading, thank you for our award</em>".
+51711	Or, you could say "<em>our company is at the forefront of plastic innovation</em>".
+57800	Tell the audience "<em>this award is a real boost for everyone working at the company</em>".
+64388	Say that and you'll be fine.
+66888	<strong>Anna<br></strong>â€¦working at the company. Good, got it. Thanks.
+72177	Oh hi Tom, how have you got on?
+74333	<strong>Tom<br></strong>Great great. I've been hanging out with some of our clients â€“ keeping them sweet, you know what I mean?
+80444	<strong>Anna<br></strong>Err, I don't actually know. But I've had some success. Oh, here comes Paul. Hi Paul.
+88606	<strong>Paul<br></strong>Oh hello. Having a good day?
+91900	<strong>Anna<br></strong>Yes, we're just talking about our success â€“ let's hope we win that Plastic Innovation of the Year award, eh?
+98700	<strong>Paul<br></strong>Oh yes...let's hope so. Although that means I've got to read out that speech you wrote for me.
+105000	Public speaking is not really one of my things.
+107800	<strong>Host<br></strong>Ladies and gentlemen, please take your seats for our special award ceremony.
+114633	<strong>Anna<br></strong>OK, here's your speech Paul.
+117888	<strong>Tom<br></strong>We've got to win first.
+119666	<strong>Anna<br></strong>Shhh shhh. Listen!
+121936	<strong>Host<br></strong>Thank you everyone for attending this year's conference.
+126333	As you know, the highlight of the day is announcing the winner of our Plastic Innovation Award.
+135939	So, without further ado, let's find out who this year's winner is.
+141777	It isâ€¦ Tip Top Trading for their Imperial Lemon.
+151016	<strong>Tom<br></strong>Hey, that's us. We've actually won!
+155666	<strong>Paul<br></strong>Oh crumbs. I suppose I'd better do my speech now.
+160000	<strong>Tom<br></strong>Yeahâ€¦ go on Paul you can do it!
+161900	<strong>Paul<br></strong>OK, right. Whooahâ€¦ ouch.
+166042	<strong>Anna<br></strong>Oh no. Paul's tripped over that chair.
+171873	<strong>Host<br></strong>Is there anyone from Tip Top Trading here?
+176000	<strong>Tom<br></strong>Anna, you'll have to do the speech â€“ you did write it after all.
+181005	<strong>Anna<br></strong>What me?! I can't.
+183611	<strong>Tom<br></strong>Go on. You'll be fine and besides I'm no good at public speaking.
+188900	<strong>Narrator<br></strong>Yes you can do it Anna! Just start by saying '<em>ladies and gentlemen</em>'.
+195301	<strong>Anna<br></strong>Oh, if I have to. Ermâ€¦ <em>ladies and gentlemen.
+209046	On behalf of everyone at Tip Top Trading, thank you for our awardâ€¦ our company is at the forefront of plastic innovation.
+218444	<strong>Tom<br></strong>Yeah!
+219603	<strong>Anna<br></strong>Ermâ€¦ thanks Tom. <em>This award is a real boost for everyone working at the company</em>.
+226333	We pride ourselves on innovation, quality and errâ€¦ plastic fruit. And coming soon, we'll be launching a new plastic aubergine.
+236555	<strong>Paul<br></strong>Ow, my big toe!
+238800	<strong>Anna<br></strong>So thank you everyone, this really means a lot to us.
+244647	<strong>Tom<br></strong>Brilliant Anna.
+246666	<strong>Paul<br></strong>Yes splendid. Well done Anna.
+254222	<strong>Narrator<br></strong>Well done indeed. Anna saved the day again by making that speech.
+260100	She sounded confident and genuinely happy about getting the award. Here's a reminder of some of things she said:
+268603	<em>Ladies and gentlemen, on behalf of everyone at Tip Top Trading, thank you for our award.
+275888	<em>Our company is at the forefront of plastic innovation.
+280406	<em>This award is a real boost for everyone working at the company.
+285900	<em>This award really means a lot to us.
+292748	<strong>Anna<br></strong>Are you OK now Paul?
+294700	<strong>Paul<br></strong>Yes, sorry, that was rather unfortunate and a bit embarrassing too, butâ€¦ hold onâ€¦ what's happening now?
+303600	<strong>Host<br></strong>Ladies and gentlemen, before you go, we have one more award to present.
+309777	<strong>Everyone<br></strong>Oooh!
+311900	<strong>Host<br></strong>We have a special award. 'Employee of the Year'.
+316037	This recognises someoneâ€™s achievements and contribution to the plastics industry.
+322399	<strong>Tom<br></strong>At last, I've been recognised.
+327107	<strong>Host<br></strong>Please welcome Brad Socrates from Tip Top Trading International to award the prize.
+334999	<strong>Mr Socrates<br></strong>Out the way. Where's the Goddamn envelope? OK, right, and the award goes toâ€¦ Anna from Tip Top Trading.
+347666	<strong>Anna<br></strong>Me? Bbbut Iâ€¦
+350666	<strong>Paul<br></strong>Go on Anna. You deserve it. Go and make another speech!
+354222	<strong>Anna<br></strong>Thank you everyone â€“ this is amazing.
+359333	<strong>Mr Socrates<br></strong>This girl is amazing. In just one year she has risen from an apprentice to a champion.
+365444	It's great to have her on board. I think we should talk about your salary later hey?
+370624	<strong>Narrator<br></strong>Can things get any better for Anna? I think they can.
+375199	Join us again soon for more English at Work. Bye.

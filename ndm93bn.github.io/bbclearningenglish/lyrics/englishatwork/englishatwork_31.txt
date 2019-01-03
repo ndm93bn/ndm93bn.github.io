@@ -1,0 +1,75 @@
+1	(Introduction...)
+28222	<strong>Paul<br></strong>So Anna, Iâ€™m sorry Tom didn't tell you but do you think you can turn something round by Friday?
+34555	<strong>Anna<br></strong>I'll try, but what do I need to do?
+38555	<strong>Paul<br></strong>Oh not much, book a room somewhere, send out some invitesâ€¦ arrange some foodâ€¦ and drinkâ€¦ that sort of thing.
+47155	<strong>Anna<br></strong>That's all?!
+48333	<strong>Paul<br></strong>You can do it - you're great at this kind of thing. And get the team to help.
+53520	<strong>Anna<br></strong>Well, I'll give it a go. See you later.
+57222	<strong>Paul<br></strong>Thanks Anna. And don't forget to order some of those posh Belgian chocolate biscuits, they always go down well with the clients.
+65999	<strong>Narrator<br></strong>Oh dear Anna. It looks like you have your work cut out.
+70555	<strong>Anna<br></strong>Cut out?
+71888	<strong>Narrator<br></strong>I mean, you have a difficult job to do - but as Paul says, you can do it.
+78100	<strong>Anna<br></strong>Thanks.
+79222	<strong>Tom<br></strong>Are you OK Anna? You look a bit worried.
+83452	<strong>Anna<br></strong>I am. You forgot to tell me about the product launch on Friday and now Paul wants me to organise it.
+90666	<strong>Tom<br></strong>Did I? Oh sorry. Look, if I can help in any way, just let me know.
+96640	<strong>Anna<br></strong>Well, you could book a venue for the launch.
+100111	<strong>Tom<br></strong>Ahh yeahâ€¦ just remembered, I've got some Imperial Lemons I need to send out. Maybe later, yeah?
+108999	<strong>Anna<br></strong>How am I going to find a venue for the launch at such short notice?
+116304	<strong>Narrator<br></strong>You need to ask for recommendations, search on the internet, or look in the phone directory, and then make a call.
+123222	You need to say "Could I check availability for your venue please?",
+128075	then ask "What business facilities do you have?"
+131808	and "How many people can the room or venue hold?"
+136155	You could ask "Can you provide hospitality?" â€“ thatâ€™s things like food and drink.
+142111	Finally, don't forget to ask "How much does it cost?"
+146050	<strong>Anna<br></strong>Thanks, there's a lot to ask.
+148728	Hi Denise, I've got to book a venue for our plastic aubergine launch.
+153900	Have you any ideas?
+155555	<strong>Denise<br></strong>Well, my friend Marge works for a hotel company that has conference facilities.
+161222	You could give her a call. Look, here's her number.
+165111	<strong>Anna<br></strong>Oh, thanks Denise. Let's give it a tryâ€¦ 0â€“2â€“0â€“7â€“5â€“6â€“9â€“2.
+178333	<strong>Marge<br></strong>Hello, the Pitz Hotel. Margery speaking.
+182444	<strong>Anna<br></strong>Oh hi, this is Anna from Tip Top Trading, I'm a friend of Denise's.
+187555	<strong>Marge<br></strong>Oh hi Anna. I've heard all about you.
+190888	What are you ringing for?
+192883	<strong>Anna<br></strong>I need to check availability for your venue for a product launch weâ€™re doing.
+197888	<strong>Marge<br></strong>Right! Well, I'm sure I can help.
+200441	We do have a conference room. When is it for?
+203777	<strong>Anna<br></strong>This Friday.
+205350	<strong>Marge<br></strong>Friday! This Friday?
+207431	Wellâ€¦ that's a bit tricky: the room is being decorated at the moment.
+212222	<strong>Anna<br></strong>Oh.
+212915	<strong>Marge<br></strong>But we do have a smaller room that you could use â€“ it's got a lovely view of the car park.
+219888	<strong>Anna<br></strong>I seeâ€¦ and how many people does it hold?
+224111	<strong>Marge<br></strong>You could easily squeeze in about 20 people.
+227777	<strong>Anna<br></strong>20 people. I guess it will have to do.
+231797	Do you have any business facilities â€“ somewhere to plug in the laptop, projector, wi-fi, that sort of thing?
+239533	<strong>Marge<br></strong>Oh yes, yes, we're very hi-tech. We even have a fax machine!
+244222	<strong>Anna<br></strong>And can you provide hospitality too?
+246999	<strong>Marge<br></strong>Of course! We do a 'business platter' consisting of orange juice, sandwiches, canapĂ©s â€“ that really means cheese and pineapple on sticks.
+256000	<strong>Anna<br></strong>I wonder, can you also provide Belgian chocolate biscuits?
+260999	<strong>Marge<br></strong>I'm sure we can.
+262090	<strong>Anna<br></strong>That's great! OKâ€¦ and most importantly, how much does it cost?
+267222	<strong>Marge<br></strong>Well, to book the room for 2 hours usually costs Â£1,000.
+272733	The hospitality is extra but as you're a friend of Denise, I'll throw it in for nothing.
+278888	<strong>Anna<br></strong>You'll throw the food and drink in?! Won't that get messy?
+283169	<strong>Marge<br></strong>No - I mean we'll provide it for free. Just don't tell anyone, otherwise everyone will expect it!
+293100	<strong>Anna<br></strong>Well, that's fantastic Marge. Thanks.
+296555	If you can send us an invoice, we'll sort payment out as soon as possible.
+301222	<strong>Marge<br></strong>Bye Anna, and tell Denise I'll see her for our Zumba class tomorrow.
+308777	<strong>Narrator<br></strong>Anna has saved the day again. The launch party for the plastic aubergine can now go ahead.
+315538	If you're trying to book a venue for a business meeting or product launch, here are some of the phrases you could use:
+322777	<em>Could I check availability for your venue please?
+326333	<em>What business facilities do you have?
+329239	<em>How many people can the room or venue hold?
+332810	<em>Can you provide hospitality?
+335666	<em>How much does it cost?
+343777	<strong>Denise<br></strong>So Anna, was Marge any help?
+346888	<strong>Anna<br></strong>Yes. She found me a room and gave me a good deal.
+351055	We just need to invite our clients now.
+353444	<strong>Denise<br></strong>I can do that. I think itâ€™s best if I call them - there's no time to post out invitations.
+359955	<strong>Anna<br></strong>Good idea.
+361023	<strong>Denise<br></strong>But I just need to give Marge a call first, just to check a few things.
+366000	<strong>Tom<br></strong>Typical Denise. Nothing's more urgent than talking to Marge!
+370641	<strong>Narrator<br></strong>He can talk! If you need something doing it seems like Anna is the woman you need.
+376795	Find out what else she is capable of in the next episode of English at Work. Bye!

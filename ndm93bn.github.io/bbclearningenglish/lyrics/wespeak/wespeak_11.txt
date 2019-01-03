@@ -1,0 +1,25 @@
+1	(Introduction...)
+14200	<strong>Rob<br></strong>Hello, I'm Rob.
+15790	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+19100	<strong>Rob<br></strong>Feifei, you've travelled all over the world but have you ever been to la-la land?
+23901	<strong>Feifei<br></strong>Ha - you mean Los Angeles - the city of angels. It's an amazing place, full of film stars!
+30207	<strong>Rob<br></strong>Sounds great and you're very clever - la-la land is the informal name for Los Angeles...but there is another la-la land.
+37800	<strong>Feifei<br></strong>And where is this other la-la land?
+40730	<strong>Rob<br></strong>It's usually in someone's head!
+42550	Like our boss - he wants me to write all these scripts, edit them and make him a cup of tea - by the end of the day.
+49100	He really is living in la-la land!
+51400	<strong>Feifei<br></strong>Our boss is living in la-la land - but the last time I checked he was living in London!
+57500	<strong>Rob<br></strong>Well Feifei, if someone is living in la-la land it can also mean they are in a fantasy world where they believe impossible things might happen - but they are being unreasonable and not being realistic.
+69430	<strong>Feifei<br></strong>Just like our boss.
+70700	<strong>Rob<br></strong>Someone in la-la land doesn't really understand how things really are - take a listen to these examples.
+78300	<strong>Examples<br></strong>She's clearly living in la-la land - how can we ever afford to buy a house with the little money we earn?
+84600	My boyfriend's living in la-la land if he thinks I'm going sailing with him - I get seasick!
+92500	<strong>Feifei<br></strong>That's la-la land - a phrase to describe someone who is unreasonable or out of touch with reality.
+99500	I know the feeling - I've got lots of work to do too and I'm going on holiday tomorrow.
+105313	I don't suppose you could help me?
+107706	<strong>Rob<br></strong>Feifei you really are living in la-la land - I've told you I haven't got any time.
+112900	<strong>Feifei<br></strong>Ah well, I just thought I'd ask.
+115300	<strong>Rob<br></strong>Anyway, where are you off on holiday to this time?
+118000	<strong>Feifei<br></strong>Can't you guess?
+119300	<strong>Rob</strong><br> La-la land?
+120709	<strong>Both</strong><br>Bye!

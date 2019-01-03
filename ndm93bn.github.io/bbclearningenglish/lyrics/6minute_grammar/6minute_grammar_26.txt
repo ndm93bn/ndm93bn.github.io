@@ -1,0 +1,67 @@
+1	(Introduction...)
+10222	<strong>Callum<br></strong>Hello and welcome to 6 Minute Grammar with me, Callum.
+13333	<strong>Catherine<br></strong>And me, <strong>Catherine</strong>. Hello.
+15034	<strong>Callum<br></strong>I was just admiring your hat Catherine.
+17111	<strong>Catherine<br></strong>Oh, do you like it?
+18100	<strong>Callum<br></strong>Well, it's interesting, <strong>really</strong> interesting. It's <strong>quite</strong> <strong>brightly</strong> coloured, isn't it? And <strong>very</strong> shiny.
+24122	<strong>Catherine<br></strong>Thank you, I think.
+26643	<strong>Callum<br></strong>Anyway, moving on. In today's programme we're going to be looking at adverbs and we'll focus on how they are used with adjectives, other adverbs and also look at a couple of categories of adverbs and their usual positions.
+41235	Catherine, could you remind us what adverbs do and why they are important?
+46133	<strong>Catherine<br></strong>Certainly Callum. Adverbs give us more information about <strong>verbs</strong>, <strong>adjectives</strong> and other <strong>adverbs</strong>.
+53487	And they're important because they help us to answer questions such as where? When? How? And how often?
+61900	And adverbs can add colour and depth to what we say and write. For example, listen to this sentence.
+69100	<strong>Finn<br></strong>He picked up his coat and left. He picked up his coat and left.
+76095	<strong>Catherine<br></strong>Now, this is a perfectly good sentence, it's clear and grammatically correct. It tells us what happened but it's not very descriptive.
+84760	Now listen again, only this time we're going to add some adverbs.
+89704	<strong>Finn<br></strong>He <strong>calmly</strong> picked up his coat and left <strong>without making a sound</strong>.
+95116	He <strong>calmly</strong> picked up his coat and left <strong>without making a sound</strong>.
+100775	<strong>Catherine<br></strong>OK, so the adverb <strong>calmly </strong>is very descriptive. It tells us how the person did the action.
+108273	And there's an adverbial phrase as well, did you spot it? Listen again.
+113257	<strong>Finn<br></strong>He <strong>calmly</strong> picked up his coat and left <strong>without making a sound</strong>.
+118333	<strong>Catherine<br></strong>So, did you spot the adverbial phrase?
+121888	<strong>Callum<br></strong>It was 'without making a sound'.
+124900	<strong>Catherine<br></strong>Exactly. So these adverbs give us lots of information which, depending on the context, can be very dramatic and atmospheric.
+133777	<strong>IDENT<br></strong>You're listening to BBC Learning English.
+139666	<strong>Callum<br></strong>This is 6 Minute Grammar and today we're taking a look at the position of adverbs. Catherine, I want to take you back to your hat.
+147555	<strong>Catherine<br></strong>Really, must you?
+148888	<strong>Callum<br></strong>I'm afraid I must, but it's all in the cause of education.
+152299	<strong>Catherine</strong><br>OK then.
+153222	<strong>Callum</strong><br>Can you remember how I described it?
+155700	<strong>Catherine<br></strong>OK. If I remember rightly you said my hat was <strong>really</strong> interesting, <strong>quite</strong> <strong>brightly</strong> coloured and <strong>very</strong> shiny.
+164308	Aah, Callum, I see what you've done there. You've given examples of adverbs being used with adjectives and adverbs.
+173777	<strong>Callum<br></strong>You see, I'm not just a pretty face.
+176004	<strong>Catherine<br></strong>Mmm. Anyway, when we use adverbs to describe adjectives or other adverbs, they must go <strong>before</strong> the adjective or adverb being modified.
+186999	So, <strong>interesting</strong> is an adjective, and the adverb you used was <strong>really</strong>.
+193111	The adverb goes before the adjective so the correct form is <strong>really interesting</strong>.
+198451	And it's the same with the adjective<strong> shiny</strong>. You used the adverb <strong>very</strong>.
+203503	So <strong>very shiny </strong>is correct.
+206608	<strong>Callum<br></strong>And we also had an example of using an adverb to add information to another adverb, didn't we?
+213333	<strong>Catherine<br></strong>We did Callum. You said my hat was <strong>very</strong> <strong>brightly</strong> coloured.
+217222	Again the modifying adverb, in this case, <strong>very</strong>, must go before the adverb being described.
+224008	<strong>IDENT<br></strong>You're listening to BBC Learning English.
+229777	<strong>Callum<br></strong>I think we've got a little time to look at some different categories of adverbs.
+234000	<strong>Catherine<br></strong>We have, so let's start with adverbs like <strong>always</strong>,<strong> never</strong>, <strong>often</strong>, <strong>regularly </strong>and<strong> hardly ever</strong>.
+241888	We call these adverbs of indefinite frequency and these are <strong>frequently</strong> used â€“ oh, there's another one, <strong>frequently</strong>â€“ these are frequently used before the main verb.
+253888	There are two in this example, <strong>never </strong>and <strong>always</strong>.
+258854	<strong>Finn<br></strong>I have <strong>never</strong> met anyone like you. I think I will <strong>always</strong> love you.
+264872	<strong>Catherine<br></strong>Now let's compare adverbs of indefinite frequency to adverbs of definite frequency, like <strong>this week</strong>, <strong>this year</strong>, <strong>daily</strong>.
+275111	Listen out for the position of <strong>daily </strong>in this example.
+278598	<strong>Finn<br></strong>I ride my bike <strong>daily</strong>.
+281444	<strong>Catherine<br></strong>So, these adverbs usually go in the third position, after the verb and object clause and not directly before the main verb.
+290333	<strong>Callum<br></strong>Thanks Catherine. Now time for a short quiz to check some of today's points.
+294800	<strong>Catherine<br></strong>We're going to give some example sentences.
+297111	What are the adverbs and are they in the correct place? Here's the first one.
+302999	<strong>Finn<br></strong>He plays tennis well very.
+306333	<strong>Catherine<br></strong>The adverbs there are <strong>well </strong>and <strong>very</strong>.
+309814	But the adverb <strong>very </strong>is in the wrong place. It should go before <strong>well</strong>.
+314777	The correct sentence is: He plays tennis <strong>very well</strong>. Next example, please.
+320888	<strong>Finn<br></strong>It was a dark blue car that nearly hit me.
+324902	<strong>Catherine<br></strong>The adverb there is <strong>dark</strong> and it was in the correct place. Final sentence, please.
+331333	<strong>Finn<br></strong>I every day take the train to work.
+335555	<strong>Catherine<br></strong>And the adverb there, <strong>every day</strong>, is not in the correct place.
+340500	It needs to go after the verb clause. So: I take the train to work <strong>every day</strong>.
+346363	<strong>Callum<br></strong>You can find more about adverbs on our website bbclearningenglish.com.
+350777	<strong>Catherine<br></strong>And please join us again for more 6 Minute Grammar.
+353701	<strong>Both<br></strong>Goodbye.
+355111	<strong>Callum<br></strong>One more question Catherine. Just why are you wearing a fluorescent purple cycle helmet in the studio?
+360777	<strong>Catherine<br></strong>That's a very good question.

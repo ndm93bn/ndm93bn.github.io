@@ -1,0 +1,21 @@
+1	(Introduction...)
+11829	<strong>Neil</strong><br>Hello, I'm Neil.
+13699	<strong>Feifei</strong><br>...and I'm Feifei and this is The English We Speak.
+17333	<strong>Neil</strong><br>Today I thought I'd impress you with an old Chinese phrase that we use in English now.
+22777	<strong>Feifei</strong><br>Oh yes - go on then, Impress me!
+25333	<strong>Neil</strong><br>The phrase is jiggery-pokery.
+27555	<strong>Feifei</strong><br>Jiggery-pokery! Oh come on, that's not Chinese!
+31400	<strong>Neil</strong><br>It is - everyone in China uses it - apparently.
+35055	<strong>Feifei</strong><br>I don't think so. What does it mean anyway?
+37999	<strong>Neil</strong><br>Jiggery-pokery refers to dishonest behaviour that is intended to trick people.
+42677	<strong>Feifei</strong><br>Oh hold on...were you trying to trick me just to illustrate this phrase?
+47444	<strong>Neil</strong><br>Yes! I almost tricked you, didn't I?
+50055	<strong>Feifei</strong><br>Hmmm. I think we had better hear some better examples of this phrase in action.
+58800	<strong>Examples</strong><br>The company is being investigated after some shareholders accused it of jiggery-pokery.
+64555	I was surprised that the businessman got away with so much jiggery-pokery before he was finally caught and sent to prison.
+75111	<strong>Feifei</strong><br>That's 'jiggery-pokery', which describes dishonest or secret behaviour - but it is definitely not a Chinese phrase, Neil!
+83666	<strong>Neil</strong><br>OK, I know. Now before I forget, don't you owe me ten pounds?
+87733	<strong>Feifei</strong><br>No! I bought you lunch remember. Honestly, jiggery-pokery in action!
+93222	<strong>Neil</strong><br>Well at least you won't forget the phrase now.
+95666	<strong>Feifei</strong><br>True. Bye.
+97488	<strong>Neil</strong><br>Bye.

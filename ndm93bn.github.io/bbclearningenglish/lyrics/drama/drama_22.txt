@@ -1,0 +1,82 @@
+1	(Introduction...)
+13940	<strong>Narrator<br></strong>Algernon has just asked his good friend Jack to explain why he calls himself Jack in the country but Ernest in London.
+25100	Jack says it's because he is the <strong>guardian</strong> of a girl called Cecily, who lives with him in the country.
+32122	She looks up to him and he feels he should behave well when he's with her, so he pretends he has a younger brother called Ernest so that when he comes up to London, he can enjoy himself.
+48646	<strong>Jack<br></strong>That, my dear Algy, is the whole truth.
+52933	<strong>Algernon<br></strong>So, Ernest, you are a <strong>Bunburyist</strong>!
+56555	<strong>Jack<br></strong>What on earth do you mean?
+58215	<strong>Algernon<br></strong>You have invented a very useful younger brother called Ernest, so that you can come to London as often as you like.
+65555	I have invented a sick friend called Bunbury so that I can go to the country whenever I like. Bunbury is <strong>invaluable</strong>.
+74479	For example, if Bunbury didn't have such bad health, I would have to have dinner with my aunt Lady Bracknell tonight. And I have no intention of doing that.
+84999	<strong>Jack<br></strong>Why not?
+86300	<strong>Algernon<br></strong>Well, to begin with, I had dinner with her on Monday - once a week is quite enough to eat with your own relations.
+92977	Secondly, I know <strong>I will be seated </strong>next to Mary Farquhar, who always <strong>flirts</strong> with her own husband - most unpleasant!
+100017	Besides, I want to have dinner with you and talk about Bunburyism.
+103999	<strong>Jack<br></strong>I'm not a. Bunburyist. In fact I think I am going to kill my brother Ernest.
+110946	Cecily is a little too interested in him. And I strongly advise you to do the same with Mr... with your sick friend.
+119777	<strong>Algernon<br></strong><strong>I will not be separated</strong> from Bunbury.
+122202	<em>(a bell rings)</em> Ah! That must be my aunt now.
+126744	Now, if I keep her busy for ten minutes so you can <strong>propose </strong>to Gwendolen, will you have dinner with me tonight?
+133777	<strong>Jack<br></strong>Alright Algy.
+143333	<strong>Lane<br></strong>Lady Augusta Bracknell and Miss Gwendolen Fairfax.
+149074	<strong>Narrator<br></strong>A well-dressed, elderly woman and her daughter, a pretty, young lady enter the room.
+158111	<strong>Lady Bracknell<br></strong>Good afternoon, dear Algernon. Oh, hello, Mr Worthing.
+162700	<strong>Jack<br></strong>Hello, Lady.
+163833	<strong>Lady Bracknell<br></strong>Now, Algernon. I'd like a nice cup of tea, and one of those cucumber sandwiches you promised me.
+168300	<strong>Algernon<br></strong>Certainly, Aunt Augusta. Good heavens! Lane! Why are there no cucumber sandwiches?
+176300	<strong>Lane<br></strong>There were no cucumbers in the market this morning, sir.
+179888	<strong>Algernon<br></strong>No cucumbers!
+181111	<strong>Lane<br></strong>No, sir.
+182084	<strong>Algernon<br></strong>I am very sorry, Aunt Augusta.
+184333	<strong>Lady Bracknell<br></strong>It doesn't matter, Algernon. Pour me some tea.
+187055	<strong>Algernon<br></strong>Here you are.
+188777	<strong>Lady Bracknell<br></strong>Thank you. Now, Algernon, about tonight - <strong>you</strong> <strong>will be seated</strong> next to Mary Farquhar.
+195100	<strong>Algernon<br></strong>I'm afraid, Aunt Augusta, I won't be able to have dinner with you tonight.
+199444	<strong>Lady Bracknell<br></strong>But why not, Algernon?
+201111	<strong>Algernon<br></strong>Well, I have just heard that my poor friend Bunbury is very ill again. I'll have to go and see him.
+207888	<strong>Lady Bracknell<br></strong>It's very strange. This Mr Bunbury seems to have curiously bad health.
+214111	I think it is time that he made up his mind whether he was going to live or to die.
+218777	And I would be very grateful if you could ask Mr Bunbury to please not be ill on Saturday, because I need you to organise my music at my <strong>soirĂ©e</strong>.
+227700	<strong>Algernon<br></strong>I'll speak to him, Aunt Augusta, and I'm sure he'll be well by Saturday.
+232333	But why don't we go next door to look at the programme of music I've prepared.
+236150	<strong>Lady Bracknell<br></strong>Thank you, Algernon. It is very thoughtful of you.
+243000	<strong>Narrator<br></strong>Algernon and his aunt go into the music room, leaving Jack and Gwendolen alone.
+252313	<strong>Jack<br></strong>It has been a lovely day, Miss Fairfax.
+255216	<strong>Gwendolen<br></strong>Please don't talk to me about the weather, Mr Worthing.
+258262	Whenever people talk about the weather, I am sure they mean something else. And that makes me nervous.
+263932	<strong>Jack<br></strong>I do mean something else.
+266777	<strong>Gwendolen<br></strong>I thought so.
+268068	<strong>Jack<br></strong>Miss Fairfax, ever since I met you I have admired you.
+273555	<strong>Gwendolen<br></strong>Yes, I realised that. Actually, I<strong> have always been fascinated </strong>by you...even before we met.
+281970	<strong>Jack<br></strong>Really?
+283279	<strong>Gwendolen<br></strong>Yes, I've always wanted to love someone called Ernest. That name <strong>inspires</strong> complete confidence.
+291555	When Algernon first mentioned that he had a friend called Ernest, I knew I was<strong> destined </strong>to love you.
+298222	<strong>Jack<br></strong>You really love me, Gwendolen?
+300166	<strong>Gwendolen<br></strong><strong>Passionately</strong>!
+301444	<strong>Jack<br></strong>But you don't really mean that you couldn't love me if my name wasn't Ernest?
+306222	<strong>Gwendolen<br></strong>But your name <em>is</em> Ernest.
+308833	<strong>Jack<br></strong>Yes, I know. But what if it was something else?
+313107	Do you mean you couldn't love me then? Personally, I don't think the name suits me.
+319111	<strong>Gwendolen<br></strong>It suits you perfectly.
+320969	<strong>Jack<br></strong>But there are lots of other much nicer names. Jack, for instance, is a charming name.
+327444	<strong>Gwendolen<br></strong>Jack? Oh, no, Jack does not have the same sound at all.
+332149	It's not exciting. The only really safe name is Ernest.
+337333	<strong>Jack<br></strong>Gwendolen, <strong>I must get christened </strong>at once - I mean, we must get married at once.
+342404	<strong>Gwendolen<br></strong>Married, Mr Worthing?
+344049	<strong>Jack<br></strong>Well...surely. You know that I love you, and you led me to believe, Miss Fairfax, that you felt the same.
+351900	<strong>Gwendolen<br></strong>I adore you. But you haven't proposed to me yet.
+355700	<strong>Nothing has been said</strong> at all about marriage.
+358555	<strong>Jack<br></strong>Well...may I propose to you now?
+366698	<strong>Narrator<br></strong>And so Jack <strong>kneels</strong> down and asks Gwendolen to marry him.
+372888	She accepts and Jack is still on his knees when Lady Bracknell returns.
+382362	<strong>Lady Bracknell<br></strong>Mr Worthing! Do get up!
+385887	<strong>Gwendolen<br></strong>Mamma! Please leave us. Mr Worthing has not quite finished yet.
+391555	<strong>Lady Bracknell<br></strong>Finished what, may I ask?
+393800	<strong>Gwendolen<br></strong><strong>I am engaged</strong> to Mr Worthing, mamma.
+396888	<strong>Lady Bracknell<br></strong>Pardon me, you are not engaged to anyone.
+399683	When you do become engaged, I, or your father will tell you.
+404112	<strong>A young girl should be surprised</strong> by an engagement, pleasantly or unpleasantly.
+409900	It is not something that <strong>she is allowed</strong> to arrange for herself.
+413222	And now I would like to ask you a few questions, Mr Worthing.
+416700	Gwendolen, can you wait for me below in the carriage.
+419555	<strong>Gwendolen<br></strong>Mamma!

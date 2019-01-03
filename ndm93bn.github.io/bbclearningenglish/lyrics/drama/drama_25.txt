@@ -1,0 +1,95 @@
+1	(Introduction...)
+14444	<strong>Narrator<br></strong>Jack has returned earlier than expected to his house in the country.
+19666	He's just told Miss Prism and Reverend Chasuble that his younger brother Ernest is dead.
+26996	What they don't know is that Algernon is at the house at this very moment, pretending to be Ernest.
+36222	<strong>Chasuble</strong><br>I am very sorry about your brother, Mr Worthing.
+40207	I shall, of course, mention this tragic event in my <strong>sermon </strong>next Sunday.
+45471	<strong>Jack</strong><br>That would be most kind, Reverend.
+48555	<strong>Chasuble</strong> <br><strong>I can usually adapt</strong> my weekly sermon to almost any occasion, happy or sad - weddings, <strong>christenings</strong>.
+58000	<strong>Jack</strong><br>Christenings. Ah! That reminds me, Reverend Chasuble.
+62777	I suppose you do know how to <strong>christen</strong>?
+66200	<strong>Chasuble</strong><br>Well.
+67333	<strong>Jack</strong> <br>I mean, of course, <strong>you often christen people</strong>, don't you?
+72277	<strong>Chasuble</strong> <br>But which baby do you want to christen, Mr Worthing? Your brother wasn't married, was he?
+78077	<strong>Jack</strong><br>Oh no. But it's not for a child, Reverend.
+81446	No! It's me - I'd like to be christened...this afternoon.
+86263	<strong>Chasuble</strong><br>But surely <strong>you have been christened</strong> <strong>already</strong>?
+88777	<strong>Jack</strong><br>I don't remember anything about it.
+90777	<strong>Chasuble</strong> <br>Well, what time would you like the ceremony performed?
+94200	<strong>Jack</strong><br>Oh, around five if that would suit you?
+97555	<strong>Chasuble</strong><br>Perfectly!
+101444	<strong>Narrator<br></strong>Just at this time, Cecily comes out of the house into the garden.
+106666	<strong>Cecily</strong><br>Uncle Jack! Oh, I am pleased to see you back. But why are you wearing those awful clothes?
+112908	<strong>Miss Prism</strong><br>Cecily!
+114111	<strong>Cecily</strong><br>Oh! What's the matter, Uncle Jack? You look so sad, and I've got such a surprise for you.
+120933	Who do you think is in the dining room? Your brother!
+124444	<strong>Jack</strong><br>Who?
+125333	<strong>Cecily</strong><br>Your brother Ernest. He arrived about half an hour ago.
+129888	<strong>Jack</strong><br>But I haven't got a brother.
+132700	<strong>Cecily</strong><br>Oh, don't say that. However badly he may have behaved to you in the past, he is <strong>still </strong>your brother.
+139111	I'll tell him to come out. You will shake hands with him, won't you, Uncle Jack?
+143727	[Cecily leaves]
+145222	<strong>Chasuble</strong><br>This is happy news.
+147222	<strong>Jack</strong><br>My brother here?
+149572	<strong>That's quite</strong> <strong>absurd</strong>.
+152999	<strong>Narrator</strong><br>Cecily comes out of the house again, this time holding Algernon's hand.
+160028	<strong>Jack</strong><br>Good heavens!
+161888	<strong>Algernon</strong><br>Brother Jack, I've come to tell you that I'm very sorry for all the trouble I've given you, and that I plan to lead a better life in the future.
+170333	<strong>Narrator</strong><br>Jack can't believe his eyes and stares at his friend. Algernon puts out his hand, but Jack ignores it.
+180499	<strong>Cecily</strong><br>Uncle Jack, you are not going to refuse to shake your own brother's hand?
+185222	<strong>Jack</strong><br>Nothing will make me shake his hand.
+187989	I think him coming down here is <strong>disgraceful</strong>. He knows perfectly well why.
+193500	<strong>Cecily</strong><br>Uncle Jack, do be nice. There is some good in everyone.
+198013	<strong>Ernest has just been telling me</strong> about his poor sick friend Mr Bunbury whom <strong>he often visits</strong>.
+203800	And <strong>there must certainly be</strong> a lot of good in someone who is kind to a sick friend.
+208200	<strong>Jack</strong><br>Oh! He's been talking about Bunbury, has he?
+212222	<strong>Cecily</strong><br>Yes, he has told me all about poor Mr Bunbury, and how ill he is.
+217777	<strong>Jack</strong><br>Bunbury! Well, I won't let him talk to you about Bunbury or about anything else.
+223600	<strong>Algernon</strong><br>Of course I admit that I have not behaved well, but I expected a more enthusiastic welcome, especially as it's the first time I have come here.
+232857	<strong>Cecily</strong><br>Uncle Jack, if you don't shake hands with Ernest I'll never forgive you.
+238666	<strong>Jack</strong><br>Never forgive me?
+240156	<strong>Cecily</strong><br>Never!
+241100	<strong>Jack</strong><br>Well, this is the last time I shall ever do it. There!
+248068	<strong>Chasuble</strong><br>I think we should leave the two brothers together.
+251222	<strong>Miss Prism</strong><br>Cecily, you will come with us.
+254200	<strong>Narrator</strong><br>And so they all go off leaving the men alone.
+258533	Jack tells Algernon he must leave immediately, but just then, the butler, Merriman, arrives.
+267888	<strong>Merriman</strong><br>I have put Mr Ernest's things in the room next to yours, sir. I suppose that is all right?
+275888	<strong>Jack</strong><br>What?
+276777	<strong>Merriman</strong><br>Mr Ernest's luggage, sir.
+279444	<strong>Jack</strong><br>His luggage?
+280888	<strong>Merriman</strong><br>Yes, sir.
+282333	<strong>Jack</strong><br>Merriman, order the carriage at once. Mr Ernest has been suddenly called back to London.
+290000	<strong>Merriman</strong><br>Yes, sir.
+291277	<strong>Algernon</strong><br>What a terrible <strong>liar</strong> you are, Jack. I have not been called back to London at all.
+296444	<strong>Jack</strong><br>Yes, you have.
+297777	<strong>Algernon<br></strong>Well, I have to say, Cecily is lovely.
+300900	<strong>Jack</strong><br>You are not allowed to talk of Miss Cardew like that. I don't like it.
+305400	<strong>Algernon</strong><br>Well, I don't like your clothes. Why don't you go and change?
+308888	It is perfectly <strong>childish</strong> to be in <strong>mourning </strong>for a man who is <strong>actually</strong> staying in your house as a guest.
+314111	<strong>Jack</strong><br>You are certainly not staying with me as a guest or anything else. You are leaving... by the four-five train.
+321333	<strong>Algernon</strong><br>Well, I won't leave you while you are in mourning. It would be most unkind.
+326117	If I was in mourning, I think it would be very unkind if you didn't stay with me.
+329888	<strong>Jack</strong><br>Well, will you leave if I change my clothes?
+333777	<strong>Algernon</strong><br>Yes, if you are not too long.
+336112	<strong>I've never known</strong> anyone take so long to get dressed and with such little result.
+340777	<strong>Jack</strong><br>Well, <strong>it's better than</strong> <strong>always being</strong> over-dressed as you are.
+344600	<strong>Algernon</strong><br>If <strong>I am occasionally a little over-dressed</strong>, I make up for it <strong>by always being</strong> immensely over-educated.
+350444	<strong>Jack</strong><br>Your <strong>vanity</strong> is ridiculous and your behaviour is an <strong>outrage</strong>.
+355111	You have got to catch the four-five back to London.
+357988	This Bunburying, as you call it, has not been a great success for you.
+364111	<strong>Narrator</strong><br>Jack leaves.
+367777	<strong>Algernon</strong><br>[To himself] I think it has been a great success.
+371608	I'm in love with Cecily. I must see her before I go.
+376297	Ah, there she is watering the flowers.
+380066	<strong>Cecily</strong><br>Oh, I just came back to water the roses. I thought you were with Uncle Jack.
+385333	<strong>Algernon</strong><br>He's gone to order the carriage for me.
+387555	<strong>Cecily</strong><br>Oh, is he going to take you for a nice drive?
+390222	<strong>Algernon</strong><br>He's going to send me away.
+392444	<strong>Cecily</strong><br>Then have we got to say goodbye?
+394400	<strong>Algernon</strong><br>I'm afraid so. It's a very painful <strong>parting</strong>.
+398992	<strong>Cecily</strong><br>It's always painful to part from people you have only just met.
+403111	It's easy to be apart from old friends for a long time.
+406555	But being apart for just a short period from someone you have just been introduced to is almost unbearable.
+413000	<strong>Algernon</strong><br>Thank you.
+415258	<strong>Merriman</strong><br>The carriage is at the door, sir.

@@ -1,0 +1,24 @@
+1	(Introduction...)
+13333	<strong>Neil<br></strong>Hello, I'm Neil.
+15400	<strong>Feifei<br></strong>... and hello, I'm Feifei and welcome to The English We Speak.
+19422	<strong>Neil<br></strong>Now Feifei, here's a question for you. If you had some news what would do?
+24333	<strong>Feifei<br></strong>Hmm, I would tell someone of course.
+27488	<strong>Neil<br></strong>Yes but some good news, some amazing, incredible news about yourself - like for example, I'm having a baby.
+35354	<strong>Feifei<br></strong>Are you really?
+36666	<strong>Neil<br></strong>Of course not - but if you had exciting news like that, how would you tell people?
+41897	<strong>Feifei<br></strong>I'd use social media. tell all my friends... tell everyone in the office.
+47747	I would shout about it - but not literally.
+50400	<strong>Neil<br></strong>Exactly! Which is why, in English, we say we would 'shout it from the rooftops' which means we would share some information publicly so everyone knows.
+60155	<strong>Feifei<br></strong>I guess this is how people shared important news before TV, radio and the internet had been invented.
+66822	<strong>Neil<br></strong>Exactly. They would climb up somewhere high and shout it out! Let's hear some examples.
+73666	<strong>Examples<br></strong>Congratulations for getting a first in your degree, you should go and shout it from the rooftops!
+80700	I know you won the lottery but don't shout it from the rooftops; otherwise everyone will be after your money!
+88055	We all know Ming is in love with JiYuen, he's been shouting it from the rooftops!
+96111	<strong>Feifei<br></strong>So to shout something from the rooftops means to tell everyone your good news.
+101514	Hold on a minute Neil, I do have some good news. I am getting a pay rise!
+107705	<strong>Neil<br></strong>Sorry, what did you say?
+109560	<strong>Feifei<br></strong>I am getting a pay rise!
+111666	<strong>Neil<br></strong>OK, no need to shout. Feifei, be careful, there are some things you don't want to shout from the rooftops - that news will just upset people.
+119377	<strong>Feifei<br></strong>Like who?
+120448	<strong>Neil</strong><br> Like me. I didn't get one. But congratulations anyway.
+124649	<strong>Both<br></strong>Bye.

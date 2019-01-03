@@ -1,0 +1,51 @@
+[
+	{
+		"id": "com.ndm.tienganh",
+		"name": "Học tiếng Anh giao tiếp",
+		"link_icon": "https://ndm93bn.github.io/englishdictionary/icon_tagt.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_tagt.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.tienganh",
+		"description": "Ứng dụng hỗ trợ học giao tiếp tiếp anh trực quan, hiệu quả, và không nhàm chán trên điện thoại thông minh"
+	},
+	{
+		"id": "com.bkit.congthuctienganh",
+		"name": "Công thức - Ngữ pháp tiếng Anh",
+		"link_icon": "https://ndm93bn.github.io/englishdictionary/icon_ctta.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_ctta.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.congthuctienganh",
+		"description": "Ứng dụng giúp bạn tra cứu ngữ pháp tiếng Anh nhanh chóng trên điện thoại."
+	},
+	{
+		"id": "com.bkit.learnenglishlockscreen",
+		"name": "Học tiếng Anh - English Lock Screen",
+		"link_icon": "https:ndm93bn.github.io/englishdictionary/icon_lock.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_lock_screen.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.learnenglishlockscreen",
+		"description": "Giúp bạn học tiếng anh mỗi ngày ngay trên khoá màn hình (lock screen)."
+	},
+	{
+		"id": "ccom.ndm.englishlistening",
+		"name": "Luyện Nghe Tiếng Anh",
+		"link_icon": "https://ndm93bn.github.io/englishdictionary/icon_listen.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_listen.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.englishlistening",
+		"description": "Luyện nói tiếng Anh giao tiếp - Ứng dụng giúp bạn nâng cao kỹ năng nói tiếng Anh."
+	},
+	{
+		"id": "com.bkit.englishpronounce",
+		"name": "Học Phát Âm Tiếng Anh Chuẩn",
+		"link_icon": "https://ndm93bn.github.io/englishdictionary/icon_pronounce.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_pronounce.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.englishpronounce",
+		"description": "Phát âm tiếng Anh chuẩn giúp bạn tự tin hơn trong giao tiếp, từ đó cải thiện trình độ tiếng Anh."
+		
+	}, 
+	{
+		"id": "com.bktranslator.anhviet",
+		"name": "Dịch Tiếng Anh",
+		"link_icon": "https://ndm93bn.github.io/englishdictionary/icon_dict_ta.png",
+		"link_banner": "https://ndm93bn.github.io/englishdictionary/banner_dich_ta.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bktranslator.anhviet",
+		"description":"Ứng dụng hộ trợ dễ dàng việc dịch tiếng anh sang tiếng Anh sang tiếng Việt và từ tiếng Việt sang tiếng Anh."
+	}
+]

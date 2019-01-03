@@ -1,0 +1,26 @@
+1	(Introduction...)
+12777	<strong>Neil<br></strong>Hello and welcome to The English We Speak. I'm Neil.
+16222	<strong>Feifei<br></strong>Hello, I'm Feifei. All well, Neil?
+19100	<strong>Neil<br></strong>Not great, Feifei.
+21222	<strong>Feifei<br></strong>What's up?
+22051	<strong>Neil<br></strong>I'm just so done with writing this report.
+25222	<strong>Feifei<br></strong>You're done with it? You've finished?
+28044	<strong>Neil<br></strong>I wish. The opposite. Lots more to do.
+31900	<strong>Feifei<br></strong>So you're not done yet?
+33591	<strong>Neil<br></strong>Sadly no. If you say you're 'so done with' something - it means you are irritated and bored by it! Often it's a task that you don't want to do.
+42955	<strong>Feifei<br></strong>Indeed. For example, I could say: "I'm so done with recording with Neil."
+48333	<strong>Neil<br></strong>You could say it, Feifei. But it wouldn't be true!
+51636	<strong>Feifei<br></strong>Of course it's not true. Let's hear some examples.
+57395	<strong>Examples<br></strong>I need a new job. I'm so done with delivering pizza.
+62222	I need to get to bed earlier.
+64880	I'm so done with feeling like a zombie every day.
+67851	I'm so done with learning Hungarian. The grammar is so hard!
+74777	<strong>Feifei<br></strong>So Neil, do you need some help with the report?
+78124	<strong>Neil<br></strong>That's kind. I just need to sit down, focus, and write the thing. It's just boring.
+83770	<strong>Feifei<br></strong>If you like, we can swap. I'm making an incredibly dull spreadsheet right now.
+89888	<strong>Neil<br></strong>Wow. Sounds great.
+91300	<strong>Feifei<br></strong>I'm so done with it.
+93111	<strong>Neil<br></strong>Tell you what. Let's work hard all afternoon and then treat ourselves to dinner.
+97444	<strong>Feifei<br></strong>Done! Which means, of course, that I agree to your suggestion.
+101535	<strong>Neil<br></strong>Perfect. Bye for now.
+103242	<strong>Feifei<br></strong>See you later!

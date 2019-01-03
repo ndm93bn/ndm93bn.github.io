@@ -1,0 +1,24 @@
+1	(Introduction...)
+13900	<strong>Feifei<br></strong>Hello, I'm Feifei and it's time again for The English We Speak and with me today is Rob.
+19950	<strong>Rob<br></strong>Hello everyone!
+22800	<strong>Feifei<br></strong>Rob, what is that awful smell of fish?
+26350	<strong>Rob<br></strong>Ah, you mean these smoked kippers?
+30700	<strong>Feifei<br></strong>Smoked kippers? Why have you got smoked kippers in the studio?
+36192	<strong>Rob<br></strong>To illustrate today's phrase.
+38332	And this long pan is a kettle. It's not the thing you boil water in.
+44600	<strong>Feifei<br></strong>Oh right. So what is the fish-related phrase then?
+49300	<strong>Rob<br></strong>The phrase is <strong>a different kettle of fish</strong> - we say it to mean a situation or subject that is being discussed is completely different from the one you are talking about.
+59434	<strong>Feifei<br></strong>A strange phrase indeed.
+61400	So we could say writing English is <strong>a very different kettle of fish</strong> from speaking it?
+67200	<strong>Rob<br></strong>Yes, we can - it means it's a different thing - let's hear some more examples.
+73900	<strong>Examples<br></strong>I loved the first film but the sequel was<strong> a different kettle of fish.
+78700	Heating a ready meal in the microwave is one thing but preparing a freshly cooked meal is <strong>a different kettle of fish</strong>.
+86600	Camping on the beach would be amazing but camping in the rain would be <strong>a different kettle of fish</strong>!
+94700	<strong>Feifei<br></strong>So, when something is a different kettle of fish it means to be completely different from something or someone else that has been talked about. I've got it Rob!
+103800	<strong>Rob<br></strong>Good. You can also say <strong>to be</strong> <strong>another</strong> <strong>kettle of fish</strong>.
+107427	So then Feifei, how about coming round to my house and eating some of this fish?
+112050	<strong>Feifei<br></strong>Rob, going to your house is one thing but trying your cooking is <strong>a different kettle of fish</strong>!
+118550	<strong>Rob<br></strong>Don't you like fish?
+119956	<strong>Feifei<br></strong>Fish is ok - it's your cooking that isn't.
+123900	<strong>Rob<br></strong>I shall eat alone then! Come on fishy-wishys.
+127046	<strong>Feifei<br></strong>Bye.

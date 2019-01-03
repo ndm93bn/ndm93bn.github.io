@@ -1,0 +1,66 @@
+1	(Introduction...)
+10111	<strong>Callum<br></strong>Hello. Welcome to 6 Minute Grammar with me, Callum.
+13177	<strong>Catherine <br></strong>And me, Catherine. Hello.
+14666	<strong>Callum</strong> <br>In this programme, weâ€™re talking about relative clauses.
+17900	<strong>Catherine <br></strong>Yes, relative clauses add information about the person or thing that youâ€™re talking about.
+24166	There are two kinds of relative clauses: defining and non-defining.
+32555	<strong>Callum</strong> <br>Letâ€™s begin with defining relative clauses. Hereâ€™s Finn with an example:
+37183	<strong>Finn <br></strong>The man <strong>whose phone I found</strong> gave me a reward.
+41111	<strong>Callum</strong> <br>Thanks Finn. The clause <strong>whose phone I found</strong> is a defining relative clause because it identifies which man Finn is talking about.
+51618	If I ask the question â€˜which manâ€™ â€“ the relative clause answers it: the man <strong>whose phone I found</strong>.
+59000	<strong>Catherine</strong> <br>That's right. And relative clauses usually start with a relative pronoun.
+64499	We use <strong>who</strong> for people, <strong>which </strong>for things, <strong>that</strong> for both people and things and <strong>whose </strong>where a possessive is needed.
+76444	Letâ€™s hear another defining relative clause:
+79888	<strong>Finn <br></strong>Iâ€™ve lost the t-shirt <strong>that my mother gave me</strong>.
+83799	<strong>Callum <br></strong>How careless of you Finn! Here, the relative clause <strong>that my mother gave me</strong> tells us which t-shirt Finn is talking about.
+93279	<strong>Finn</strong><br>Iâ€™ve lost the t-shirt that my mother gave me.
+97030	<strong>Callum<br></strong>Letâ€™s move on to non-defining relative clauses. Hereâ€™s an example:
+102093	<strong>Finn<br></strong>Davidâ€™s mother, <strong>who was born in Mexico</strong>, is my sisterâ€™s Spanish teacher.
+107666	<strong>Catherine <br></strong>OK. he phrase <strong>who was born in Mexico</strong> is a non-defining relative clause.
+114555	It doesn't answer the question â€˜which mother?â€™ because David only has one mother!
+120222	Instead, the relative clause gives us extra information about Davidâ€™s mother: she was born in Mexico.
+128300	<strong>Callum <br></strong>In fact, if we leave the relative clause out entirely, the sentence still makes sense:
+134666	<strong>Finn</strong> <br>Davidâ€™s mother is my sisterâ€™s Spanish teacher.
+138739	<strong>Callum <br></strong>Now letâ€™s look again at relative pronouns.
+142177	We can use them to refer to the subject or object of a clause. Finn, who is Daniel Radcliffe?
+150220	<strong>Finn <br></strong>Daniel Radcliffe is the actor <strong>who</strong> plays Harry Potter.
+155100	<strong>Callum</strong> <br>In this sentence, the relative pronoun <strong>who</strong> refers to the subject â€“ Daniel Radcliffe. Daniel Radcliffe plays Harry Potter.
+164071	<strong>Catherine<br></strong>And another question for you Finn. Which sport do you enjoy the most?
+169666	<strong>Finn <br></strong>Well, football is the sport <strong>that</strong> I enjoy the most, Catherine.
+174016	<strong>Callum</strong> <br>This time, the pronoun <strong>that</strong> refers to the object.
+178275	And you can usually leave out object pronouns, like this:
+182124	<strong>Finn</strong> <br>Football is the sport I enjoy the most.
+185894	<strong>IDENT <br></strong>Youâ€™re listening to bbclearningenglish.com.
+191563	<strong>Callum</strong> <br>For non-defining clauses, you canâ€™t leave out the pronoun.
+195631	Also, non-defining relative clauses can't begin with the word <strong>that</strong>.
+201726	Use <strong>which</strong> instead, like this:
+204753	<strong>Finn</strong> <br>Last year I went to Paris, <strong>which</strong> is the capital of France.
+209599	<strong>Callum <br></strong>The clause <strong>which is the capital of France</strong> â€“ is giving us extra information.
+214918	We can leave it out and still understand the sentence:
+218090	<strong>Finn</strong> <br>Last year I went to Paris.
+220423	<strong>Catherine<br></strong>And now it's time for a quiz. Join these sentences together using a defining or non-defining relative clause.
+228817	Number one. The bus was very late. I took it this morning.
+233917	The bus was very late. I took it this morning.
+239020	<strong>Callum<br></strong>The bus <strong>that</strong> I took this morning was very late.
+243033	Or you could also say: The bus I took this morning was very late.
+247499	<strong>Catherine</strong> <br>You can, very good. Number two: My car needs repairing. I only bought it last month.
+254169	My car needs repairing. I only bought it last month.
+259900	<strong>Callum <br></strong>My car, <strong>which</strong> I only bought last month, needs repairing.
+264333	<strong>Catherine</strong> <br>And that was a non-defining relative clause. Number three.
+268585	David Beckham has over 20 tattoos. He used to play for Manchester United.
+275333	David Beckham has over 20 tattoos. He used to play for Manchester United.
+283000	<strong>Callum <br></strong>David Beckham, <strong>who</strong> used to play for Manchester United, has over 20 tattoos.
+288535	<strong>Catherine<br></strong>Right. And we could also say: David Beckham, <strong>who</strong> has over 20 tattoos, used to play for Manchester United.
+296555	<strong>Callum</strong> <br>And thatâ€™s the end of the quiz. Well done you got them all right. Now for a little tip.
+302447	In written English, we put commas around non-defining relative clauses.
+307610	In spoken English, we leave a small pause for each comma. Listen to this example:
+313111	<strong>Finn</strong> <br>My sister, who works in Nairobi, is a doctor.
+317735	<strong>Callum<br></strong>The pauses tell us that this is a non-defining relative clause, which means Finn has only one sister, so he doesnâ€™t need to define her.
+327333	<strong>Finn</strong> <br>My uncle who works in Athens is a dentist.
+330200	<strong>Catherine</strong> <br>And this time, thereâ€™s no pause, which means itâ€™s a defining relative clause.
+335108	Finn is defining which uncle he is talking about, so he probably has more than one uncle.
+341600	<strong>Callum <br></strong>Thanks Finn. So thatâ€™s defining and non-defining relative clauses.
+346927	They start with a relative pronoun and give additional information about the person or thing that youâ€™re talking about.
+354000	<strong>Catherine</strong> <br>Thereâ€™s more about this on our website at bbclearningenglish.com.
+357993	Join us again for more 6 Minute Grammar.
+360277	<strong>All</strong> <br>Bye.

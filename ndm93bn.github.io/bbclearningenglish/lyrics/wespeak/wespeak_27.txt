@@ -1,0 +1,24 @@
+1	(Introduction...)
+12222	<strong>Rob<br></strong>Hello, I'm Rob.
+13633	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17021	<strong>Rob<br></strong>...and today we're outdoors, in the park, having a picnic.
+20900	<strong>Feifei<br></strong>Yes, a picnic - it's very nice, thanks for preparing it Rob.
+25666	<strong>Rob<br></strong>Oh no problem. Well actually, it was a problem.
+29999	<strong>Feifei<br></strong>Oh, I thought preparing a picnic would be easy.
+33400	<strong>Rob<br></strong>No. First I had to find some money to buy some food, then I had to walk to the supermarket because my car isn't working, then I had to prepare the food, then I had to go to work...and then I had to.
+45333	<strong>Feifei<br></strong>Oh I get it, it was an effort.
+48333	<strong>Rob<br></strong>What I'm saying is it was no picnic!
+51022	<strong>Feifei<br></strong>Huh? It is Rob, look, sandwiches, crisps, salad, strawberries.
+56050	<strong>Rob<br></strong>That's a picnic but making it was 'no picnic' - I mean there was nothing easy or pleasant about it.
+63022	<strong>Feifei<br></strong>I get it! Let's hear some more examples of situations that are 'no picnic'.
+70800	<strong>Examples<br></strong>Having no job and trying to pay the bills is no picnic.
+76077	Living on the fifth floor without a lift is no picnic; I have to carry everything up the stairs.
+84612	<strong>Feifei<br></strong>So when you say something is 'no picnic' you mean it's a difficult or unpleasant situation.
+90762	Well Rob, it may have been difficult to prepare but it was worth the effort - the food is delicious.
+97511	<strong>Rob<br></strong>Oh thanks very much. <br>(FX: Thunderstorm begins)
+99000	<strong>Feifei<br></strong>Oh no, rain! I think we'd better take cover. Quick!
+102735	<strong>Rob<br></strong>Oh dear, it seems that this is literally no picnic.
+106888	<strong>Feifei<br></strong>Come on let's drive home.
+108555	<strong>Rob</strong><br> We can't. My car's not working remember?
+110955	<strong>Feifei<br></strong>Oh yes. Bye.
+113100	<strong>Rob<br></strong>Bye.

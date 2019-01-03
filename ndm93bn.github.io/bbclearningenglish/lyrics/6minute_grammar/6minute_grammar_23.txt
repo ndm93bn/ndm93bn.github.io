@@ -1,0 +1,60 @@
+1	(Introduction...)
+13000	<strong>Neil</strong> <br>Hello and welcome to 6 Minute Grammar with me, Neil.
+16400	<strong>Catherine</strong> <br>And me, Catherine. Today, we're talking about the <strong>past perfect continuous</strong> tenseâ€¦
+23222	<strong>Neil<br></strong>â€¦ which we use to give background information to an event in the past. We'll give you lots of examples.
+29247	<strong>Catherine<br></strong>We'll explain when to use the past perfect simple instead of the past perfect continuousâ€¦
+35222	<strong>Neil<br></strong>â€¦ and of course we'll finish with a quiz.
+37530	<strong>Catherine<br></strong>Let's start with an example. Hereâ€™s Finn.
+40714	<strong>Finn<br></strong>Joe and Alice got together in 2012. Joe had been living in London for two years when they met.
+48666	<strong>Catherine<br></strong>So, we use the past perfect continuous to talk about something that was happening before another event or situation in the past.
+57650	We can use it when we want to say how long this earlier action was happening for.
+63304	<strong>Neil<br></strong>Now, in this case <strong>Joe</strong> <strong>had been living</strong> tells us what Joe was doing up to the time he met Alice.
+70766	<strong>Catherine<br></strong>That's right. And the later action <strong>when they met</strong> was in the past simple. Let's hear that example again.
+78333	<strong>Finn<br></strong>Joe and Alice got together in 2012. Joe had been living in London for two years when they met.
+85277	<strong>Neil<br></strong>Here's another example. Which action happened first?
+89000	<strong>Finn<br></strong>We had been trying to open the door for five minutes when I finally found the key.
+94700	<strong>Neil<br></strong>So <strong>we had been trying</strong>, in the past perfect continuous, was the earlier action.
+100444	<strong>Catherine<br></strong>Exactly. Sometimes, the action or situation that happens first in time comes second in the sentence. Listen to this:
+110000	<strong>Finn<br></strong>Jack ran the marathon in less than three hours. He had been training for it since 2010.
+116684	<strong>Neil<br></strong>So, the past perfect continuous phrase <strong>he had been training </strong>came in the second part of the sentence, but it happened earlier in time.
+125666	<strong>Catherine<br></strong>Yes. And the event that happened later in time: <strong>Jack</strong> <strong>ran the marathon</strong>, was in the past simple and came first in the sentence.
+135111	<strong>Neil<br></strong>Right. So, here's another sentence. Can you work out which action or happened first?
+141796	<strong>Finn<br></strong>He missed the train, which he'd been hoping to catch.
+145727	<strong>Catherine<br></strong>The earlier action was <strong>heâ€™d been hoping</strong>.
+149359	<strong>Neil<br></strong>That's right. So, in that example the past perfect continuous was in a relative clause: <strong>which he had been hoping</strong>â€¦
+157204	<strong>Catherine<br></strong>That's quite common with the past perfect continuous. And another common structure to use with past perfect continuous is a time conjunction, like this:
+166824	<strong>Finn<br></strong>After I had been swimming for an hour, I was so cold I had to stop.
+172333	<strong>Neil<br></strong>So, we had <strong>after</strong> plus <strong>I had been swimming.
+176444	<strong>Catherine<br></strong>Yes, and that is the past perfect continuous in relative clauses and after time conjunctions.
+182700	<strong>Neil<br></strong>Now, we form the past perfect continuous with <strong>subject</strong> plus <strong>had been </strong>and the <strong>present participle</strong> of the main verb.
+192030	Here are those examples again, Finn.
+194707	<strong>Finn<br></strong>Joe had been livingâ€¦ Weâ€™d been tryingâ€¦ I had been swimmingâ€¦
+199951	<strong>Catherine<br></strong>For negative sentences, it's <strong>subject </strong>plus <strong>hadn't been </strong>and the present participle.
+206595	<strong>Finn<br></strong>I hadn't been waiting very long when the bus arrived.
+210869	<strong>Neil<br></strong>And don't forget those short forms: <strong>I had</strong> becomes <strong>I'd</strong>;<strong> We had </strong>is<strong> we'd</strong>;<strong> had not </strong>is<strong> hadn't</strong> and so on.
+221444	<strong>IDENT<br></strong>6 Minute Grammar from the BBC.
+227071	<strong>Catherine<br></strong>And we're talking about the past perfect continuous.
+230666	<strong>Neil<br></strong>We often use it to give background information about a situation or event that was happening up to another event in the pastâ€¦
+238600	<strong>Catherine<br></strong>â€¦ which is usually in the past simple.
+241133	<strong>Neil<br></strong>Sometimes we can use either the past perfect simple or the past perfect continuous, particularly for activities that continue for a long time, like <strong>work, run </strong>or <strong>sleep</strong>.
+252840	<strong>Catherine<br></strong>So we can say:
+254122	<strong>Finn</strong><br> Patrick felt refreshed because <strong>he had slept</strong> all afternoon.
+258973	<strong>Catherine</strong><br> Or we can say:
+260600	<strong>Finn<br></strong>Patrick felt refreshed because <strong>he had been sleeping</strong> all day.
+265335	<strong>Catherine<br></strong>But if the earlier action had been completed, then we use the past perfect simple.
+271401	<strong>Finn<br></strong><strong>I'd</strong> already <strong>cooked</strong> supper when Jan got home.
+275100	<strong>Catherine<br></strong>If the earlier action is incomplete, use the past perfect continuous, to focus on the process or length of time that the action continued, rather than the end result.
+287036	<strong>Neil<br></strong>And, now it's time for our quiz.
+291722	Which is correct? Number one: a) I'd only been waiting a few minutes when the bus arrived.
+299669	b) I only waited a few minutes when the bus had arrived.
+307777	<strong>Catherine</strong><br> Itâ€™s a). We need the past perfect continuous for the earlier action or situation.
+314221	<strong>Neil<br></strong>Correct. Number 2: a) After they'd been walking for three hours, they realised they were lost.
+322117	b) After they walked for three hours, they'd realised they were lost.
+331663	<strong>Catherine<br></strong>And it's a) again. The earlier action was the walking, so that's in the past perfect continuous.
+338900	<strong>Neil<br></strong>Good, finally, number 3: a) Sam finally bought the car that he'd saved up for.
+345555	b) Sam finally bought the car that he'd been saving up for.
+353416	<strong>Catherine<br></strong>And this time, both are correct.
+356555	<strong>Neil<br></strong>That's right. Well done if you got them all right.
+359122	There's lots more about this on our website at bbclearningenglish.com.
+363561	Join us again for more 6 Minute Grammar.
+366000	<strong>Both<br></strong>Bye.

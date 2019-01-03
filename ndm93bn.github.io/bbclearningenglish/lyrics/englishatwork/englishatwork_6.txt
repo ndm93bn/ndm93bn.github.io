@@ -1,0 +1,59 @@
+1	(Introduction...)
+4500	<strong>Narrator<br></strong>Welcome back to Tip Top Trading where things aren't going too well.
+9122	Anna negotiated a deal with a client in France but now they claim they've been ripped off!
+15706	This has got to get sorted â€“ quickly.
+18750	<strong>Anna  <br></strong>Oh Denise, what exactly did they say?
+22555	<strong>Denise</strong> <br>Something about them agreeing a price for 5,000 lemons and then being offered a better price by another company.
+30600	<strong>Anna <br></strong>That'll be Tutti Fruity â€“ they want our business.
+34900	<strong>Denise <br></strong>Sounds like they're going to get it, unless you sort it out. Maybe you should work out some new figures.
+42100	<strong>Anna <br></strong>Figures? Is there something wrong with my figure â€“ am I too fat?
+47100	<strong>Denise <br></strong>No Anna! Your numbers â€“ work out a new price, see if you can squeeze the price of lemons â€“ maybe you can price Tutti Fruity out of the market.
+58050	<strong>Anna  <br></strong>Hmm, somebody else has said that.
+61444	<strong>Narrator <br></strong>Yes it was me Anna! Do your calculations, see if you can offer a better deal and price Tutti Fruity out of the market.
+70400	<strong>Anna</strong><br>OK. I could sell them cheaper but there would be less profit.
+83473	<strong>Narrator</strong><br>Well, less profit is better than no profit.
+86755	And who knows, if this goes well, it might lead to more contracts.
+91513	But it's down to you now to make that call.
+94444	<strong>Anna</strong><br>But what am I going to say?
+96467	<strong>Narrator</strong>  <br>Be friendly and sayâ€¦ <em>I'm sorry to hear you're not happy with our price</em>.
+102005	Tell them <em>Tip Top Trading prides itself on quality products and good value for money</em>.
+108463	And flatter them and say they are <em>a valued customer and their business is very important to us.
+115166	<strong>Anna</strong><br>And what shall I say about the price?
+118374	<strong>Narrator</strong>    <br>Tell them you can match the price of our competitors.
+121932	<strong>Anna</strong> <br>Match the price. Right. Thanks. OK, I had better call them.
+138000	<strong>Trader <br></strong>Bonjour. Fruit Traders International.
+142444	<strong>Anna  <br></strong>Oh, erm, hello, is that Monsieur Brown?
+147050	<strong>Trader <br></strong>Oui. Yes.
+148900	<strong>Anna  <br></strong>This is Annaâ€¦ from Tip Top Trading. I was sorry to receive your message.
+154778	<strong>Trader <br></strong>Yes, well. I thought we were doing good business and then another company called me and offered me a much better deal.
+163700	<strong>Anna  <br></strong>Yes, I understand. Iâ€™m sorry to hear you're not happy with our priceâ€¦ but hopefully we can sort something out?
+172100	<strong>Trader <br></strong>Oh yes?
+173100	<strong>Anna  <br></strong>You are a valued customer and your business is very important to usâ€¦ and we would love to see our Imperial Lemons on display in the restaurants and shops of France.
+186999	<strong>Narrator <br></strong>That's a nice touch Anna, well done!
+190400	<strong>Trader <br></strong>So?
+191900	<strong>Anna  <br></strong>So, I've done some calculations and we can offer you a better price.
+198588	<strong>Trader <br></strong>But Tutti Fruity can offer us a good price.
+202588	<strong>Anna  <br></strong>I'm sure they can butâ€¦ weâ€¦ weâ€¦
+206500	<strong>Narrator <br></strong>Yes Anna?
+207600	<strong>Anna   <br></strong>â€¦at Tip Top Trading we pride ourselves on quality products and good value and I think we can match Tutti Fruity's priceâ€¦ in fact I know we can beat it.
+219800	<strong>Trader <br></strong>I see. That's good to hear butâ€¦
+222666	<strong>Anna <br></strong>We'll give you an extra 10% discount â€“ but obviously we would like you to make a bigger order.
+229222	<strong>Trader <br></strong>Oh, a bigger order. I will have to have a think about this.
+233000	<strong>Anna<br></strong>Yes, of course, but please let me know as soon as you can before someone else snaps up this offer.
+239480	Merci. Au revoir.
+241000	<strong>Trader <br></strong>Ah, merci, au revoir.
+247444	<strong>Narrator <br></strong>Excellent work Anna! I can see why she's got the job now. But will her sales tactics pay off?
+255100	Let's remind ourselves of some of the great lines that Anna used in trying to resolve a tricky sales dealâ€¦
+262127	<em>I'm sorry to hear you're not happy with our price.
+265864	<em>Tip Top Trading prides itself on quality products and good value for money.
+271582	You are a valued customer and your business is very important to us.
+277900	<em>We can match the price of our competitors.
+286000	<strong>Denise</strong><br>Well done Anna. It looks like you may have saved that deal.
+291200	<strong>Paul</strong> <br>Saved the deal? Is there a problem?
+294317	<strong>Anna</strong> <br>Well, Tutti Fruity has tried to undercut our price but I think I may have saved the deal we had with International Fruit Traders in France.
+304333	<strong>Denise</strong><br>Yes, Anna offered a lower price for a bigger order and they're having a think about it.
+311901	<strong>Paul</strong> <br>Crumbs. If the deal's not complete I think you need to get out to France and seal the deal.
+318430	I want you and Tom to fly out there as soon as possible and do some schmoozing.
+323323	<strong>Denise</strong><br>Oh! You and Tom hey?
+326100	<strong>Narrator</strong><br>That's enough Denise! This should be fun.
+330328	Find out what happens next time on English at Work. Bye.

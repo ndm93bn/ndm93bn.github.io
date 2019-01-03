@@ -1,0 +1,51 @@
+1	(Introduction...)
+24700	<strong>Phil <br></strong><em>Day 15 - we're in Sao Tome and trying to smuggle our new friend Sophia off the island and onto our boat.
+32900	She wants to escape from her violent husband and return to her home in the UK.
+38700	I'm <strong>always</strong> happy to help someone in distress and my reward for doing so is a bag of top quality cacao beans - something I have to collect as part of my challenge.
+49800	But there's no time to hang around - I only have 65 days left to sail around the world, and I'm not sure if Passepartout wants an extra passenger.
+63500	<strong>PP<br></strong>Phil, I don't <strong>often</strong> complain but I'm not sure if we've got room for another passenger.
+70100	I mean, have we got enough food? Where will she sleep? And can she sail?
+76414	<strong>Phil<br></strong>Keep your voice down. we can't leave her here - she's very upset.
+82500	Sssh, look, here she comes. Sophia, over here... get inside this crate and we'll smuggle you onto the yacht.
+91900	And if anyone asks us what we're doing, we can say we're loading up with supplies for our journey.
+99503	In you get. Come on Passepartout, you can carry it; I'll keep a look out.
+110300	<strong>PP<br></strong>Thanks!
+115100	<strong>Phil<br></strong><em>Well, we did it. We now have a stowaway and despite Passepartout's doubts, Sophia seems to know about sailing because, like us, she was sailing around the world.
+126400	I think it'll be fun having an extra person on board. I just hope Passepartout agrees.
+134800	<strong>PP<br></strong>Sophia - you need to let the sail out a bit more - loosen that rope.
+141170	<strong>Sophia<br></strong>No, I don't think so. Wait until we 'go about' and then I'll do it; otherwise the wind will take us in the wrong direction.
+149300	<strong>Phil<br></strong>Ha ha Passepartout! I think you've met your match. Anyway, what's our best route from here?
+156800	<strong>PP<br></strong>We've got to go around the Cape of Good Hope. It's <strong>always</strong> a tricky bit of water.
+161900	Plenty of ships have got caught in the strong currents and gone onto the rocks.
+166200	<strong>Sophia<br></strong>If you allow me to steer, I can safely navigate us through these dangerous waters.
+172100	<strong>Phil<br></strong>I think that's a great idea - don't you Passepartout? I'll put the kettle on and make some tea.
+187300	<strong>Phil<br></strong><em>Day 22 - we've crossed the Equator and we're rounding the Cape of Good Hope.
+194100	The sea is rough: the waves are like the huge hands of a monster trying to grab us.
+202500	If we can get through this, we'll be out into the Indian Ocean and we will head for Indonesia.
+210700	Sophia is doing a great job steering the yacht and Passepartout is busy looking after the ropes and sails.
+219200	I'm downstairs in the galley writing this - I don't think I'm much help on deck you see.
+228400	I'll see what our exact position is now on the satnav... oh, that's strange... the screen is blank.
+241030	I can <strong>usually</strong> see where we are and our coordinates. What's wrong with it?
+251200	<strong>Phil<br></strong>Passepartout, the navigation system isn't working.
+257600	<strong>PP<br></strong>What? Let me have a look.
+263000	Hmmm, very strange... everything else is working. let me just turn it on and... off again...that <strong>usually</strong> helps. No good.
+274100	<strong>Sophia<br></strong>Is there a problem?
+276814	<strong>Phil<br></strong>We can't get the satnav to work - the screen is just blank.
+282550	If we don't get it working again we're going to be lost at sea - we won't know where we're going.
+288600	<strong>PP<br></strong>I'll take a look at the fuse box. Phil, you need to help up on deck and...woooah.
+302030	<strong>Phil<br></strong><em>A huge wave has hit us. I'm ok, thankfully, but Passepartout has knocked his head badly.
+310707	The satnav is broken and we're not sure what direction we're heading in. This is a bad, bad situation.
+319795	If we go in the wrong direction we could lose days and we'll <strong>never</strong> win this race.
+329000	<strong>Sophia<br></strong>Phil! Phil! I need your help.
+332030	Passepartout is in a bad condition - look, he's got a huge cut on his head - he's bleeding badly.
+338500	I need your help to keep us on course through these huge waves.
+342200	<strong>Phil<br></strong>OK. But we need to find land soon and get Passepartout to a hospital. But which direction do we go?
+350107	<strong>Sophia<br></strong>Well, the sun always sets in the west - so that way must be east.
+355600	And when it gets dark we can follow the stars. You steer that way and I'll sort out the sails. And Phil.
+363915	<strong>Sophia<br></strong>You're doing really well.
+365800	<strong>Phil<br></strong>Oh. gosh, thanks.
+379300	<strong>Phil<br></strong><em>I'm beginning to like our new travelling companion.
+384900	But I'm worried - we don't know where we're heading and Passepartout needs medical help.
+391500	We've got to find land, but where? We're miles from anywhere.
+399400	I'm beginning to wonder why I agreed to this stupid challenge.
+405100	I've never missed home as much as now.

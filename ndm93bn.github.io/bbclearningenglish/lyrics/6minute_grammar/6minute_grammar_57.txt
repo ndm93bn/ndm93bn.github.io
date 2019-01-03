@@ -1,0 +1,75 @@
+1	(Introduction...)
+10878	<strong>Callum <br></strong>Hello and welcome to 6 Minute Grammar, I'm Callum.
+13900	<strong>Catherine <br></strong>And I'm Catherine, hello.
+15222	<strong>Callum</strong> <br>In this programme we're talking about the definite article with abstract uncountable nouns.
+20700	<strong>Catherine<br></strong>Yes, we'll explain what that all means.
+23166	<strong>Callum <br></strong>And we'll end up with a quiz to see if we've done a good job.
+26111	<strong>Catherine<br></strong>No pressure then!
+26975	<strong>Callum <br></strong>Indeed. To start with, let's just remind everyone about the terms we're using.
+32300	First, there's the definite article. What's that, Catherine?
+35992	<strong>Catherine <br></strong><strong>The</strong>.
+37222	<strong>Callum <br></strong>The what?
+38400	<strong>Catherine <br></strong>Just <strong>the</strong>.
+39777	<strong>Callum<br></strong>Just the what?
+40800	<strong>Catherine<br></strong>You're doing this on purpose, aren't you Callum?
+43268	The definite article is the word <strong>the</strong>. Articles are used before nouns.
+49500	<strong>Callum<br></strong>Today's topic is using <strong>the</strong> with abstract uncountable nouns. Tell us about those.
+55333	<strong>Catherine<br></strong>OK. Now, before I get to the abstract part, let's just remind everybody about uncountable nouns, which you might also hear described as mass nouns.
+65899	These are nouns that, as the name suggests, you can't count. They have no plural form. Words like air, water, cheese, money.
+77972	<strong>Callum<br></strong>Wait a minute.
+78800	<strong>Catherine</strong><br>Yes?
+79555	<strong>Callum</strong><br>Did you say money?
+80722	<strong>Catherine<br></strong>Yes.
+81400	<strong>Callum<br></strong>Did you say you can't count money?
+83555	<strong>Catherine<br></strong>That's right. You can't count money, at least not grammatically.
+87888	You can't count money in the same way as you can count, for example, chairs.
+92500	Because, when you count chairs, you can just give a number.
+96000	How many chairs are there? Three, ten, 2,150.
+101100	But if I ask you Callum how much money you have in your pocket, what would you say?
+106888	<strong>Callum<br></strong>OK, well, let me see. I've got five, ten. I've got Â£15. So I can count money, surely?
+116933	<strong>Catherine<br></strong>Yes, you've got <strong>15 pounds</strong>. But you haven't got <strong>15 moneys</strong>.
+122600	So, pounds are countable, money isn't. We are counting the pounds.
+128777	<strong>Callum<br></strong>I see, and what are abstract uncountable nouns then?
+132900	<strong>Catherine<br></strong>Well, before we go to abstract, let's first talk about the concrete ones.
+137555	Concrete uncountable nouns are things that you can physically experience, that's things that you can touch, see, hear, smell or taste.
+146600	But abstract nouns don't refer to these physical things.
+151000	Abstract nouns refer to ideas, feelings, emotions, qualities and concepts.
+157148	So, things like: <strong>love</strong>, <strong>fun</strong>, <strong>happiness</strong>, <strong>bravery</strong>, <strong>patience</strong>, <strong>enthusiasm</strong> and <strong>childhood.
+164141	<strong>Callum<br></strong>But I'm sure I experienced <strong>childhood</strong>. It seemed pretty real to me.
+168444	<strong>Catherine<br></strong>Well, because we describe something as abstract, it doesn't mean it isn't real.
+173000	You certainly were a child Callum at some time, whenever that was. But the period of time when you were a child.
+181000	all the experiences that you had when you were growing up. aren't physical things.
+185792	Together they make an idea or a concept that we call <strong>childhood</strong>.
+191374	<strong>IDENT<br></strong>6 Minute Grammar from BBC Learning English
+198695	<strong>Callum<br></strong>Today we're looking at using the definite article with abstract uncountable nouns.
+204100	We've defined our terms, so now let's look at how these two go together.
+208702	Catherine, can we use <strong>the </strong>with abstract uncountable nouns?
+212900	<strong>Catherine<br></strong>Well, Callum, it depends on the context.
+215700	If we are talking about something in general, we don't use the definite article. Here's Finn, with an example.
+222666	<strong>Finn<br></strong>It can be difficult to find <strong>happiness.
+226464	<strong>Catherine<br></strong>The abstract noun there is <strong>happiness</strong>.
+229325	Here we're talking about <strong>happiness</strong> in general, we don't use the definite article.
+234800	Now compare that use of <strong>happiness</strong>, with this one.
+238444	<strong>Finn<br></strong>I can't express <strong>the happiness</strong> that I felt when my son was born.
+243217	<strong>Catherine<br></strong>Now in this case, are we talking about <strong>happiness</strong> in general?
+247762	<strong>Callum<br></strong>No, we're talking about a specific time, a particular moment when there was <strong>happiness</strong>.
+254000	<strong>Catherine<br></strong>Right, so in this case, because it is referring to a particular time we do need to use <strong>the definite article</strong>.
+261424	Note that after the noun <strong>the happiness </strong>there is a phrase that points to the exact time being described. And in this case the phrase is:
+270804	<strong>Callum<br></strong>That I felt when my son was born.
+273200	<strong>Catherine<br></strong>Exactly. And that phrase is a defining relative clause.
+277418	When there is a defining relative clause following an abstract uncountable noun, the chances are the noun will have the definite article in front of it.
+287902	<strong>Callum<br></strong>So we know that the definite article <strong>the </strong>is used with abstract uncountable nouns when we are talking about a specific example of that noun.
+296700	<strong>Catherine<br></strong>And when we are talking about that noun in general, we don't use any article.
+301927	<strong>Callum<br></strong>I think it's time for a little quiz.
+304256	Listen to each sentence and decide if the use of the article is correct or not. Finn, number one please.
+311222	<strong>Finn<br></strong>I've got a lot of the ambition.
+313925	<strong>Catherine<br></strong>And that one is...not correct.
+317086	<strong>Ambition</strong> is the noun but it shouldn't have the definite article. Next one please, Finn.
+322639	<strong>Finn<br></strong>He had the confidence that is needed to sing in public.
+327111	<strong>Callum<br></strong>That is correct. The noun is <strong>confidence</strong> and as the particular example of confidence is defined, we do need <strong>the</strong>. Last question, please.
+338334	<strong>Finn<br></strong>Love is all you need.
+340717	<strong>Catherine<br></strong>Of course, that one is correct.
+343444	<strong>Love</strong> is the noun and it refers to the idea of love in general so no definite article. Well done if you got all those right.
+352100	<strong>Callum<br></strong>That's all from us today, there's more about this topic on our website bbclearningenglish.com.
+357444	Do join us again for more 6 Minute Grammar.
+360290	<strong>All<br></strong>Bye.

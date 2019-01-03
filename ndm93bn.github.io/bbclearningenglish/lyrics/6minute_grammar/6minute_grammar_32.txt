@@ -1,0 +1,60 @@
+1	(Introduction...)
+11888	<strong>Finn<br></strong>Hello and welcome to 6 Minute Grammar with me, Finn.
+15777	<strong>Catherine<br></strong>And me, Catherine. Hello.
+17888	<strong>Finn<br></strong>In this programme, we're talking about linking devices.
+22288	<strong>Catherine<br></strong>That's right! And there are lots of different kinds of linking devices, but today we're looking at ways of contrasting one idea with another.
+30648	<strong>Finn<br></strong>So, some words and phrases that do this are <strong>however</strong>, <strong>although</strong> and <strong>despite</strong>.
+38065	We'll give you lots of information and examplesâ€¦
+40933	<strong>Catherine<br></strong>And of course there'll be a quiz to see what you've learnt.
+44444	<strong>Finn<br></strong>So, here we go, with our first example sentences from Neil:
+49828	<strong>Neil<br></strong>Dean and I were the best of friends. Sometimes we completely disagreed.
+55675	<strong>Catherine<br></strong>OK. Now the ideas in those two sentences contrast with each other a little bit.
+61555	<strong>Finn<br></strong>The fact that they completely disagreed is slightly surprising or unexpected if they were the best of friends, isn't it?
+69977	<strong>Catherine<br></strong>It depends on the friendship but yes, it could be true.
+73111	<strong>Finn<br></strong>It could be.
+74111	<strong>Catherine<br></strong>And to express this contrast clearly and in an interesting way, we can link the ideas in the sentences with the word <strong>but</strong>, like this:
+84111	<strong>Neil<br></strong>Dean and I were the best of friends, <strong>but</strong> sometimes we completely disagreed.
+89666	<strong>Catherine<br></strong>Or we can use the word <strong>however</strong>, like this:
+93850	<strong>Neil<br></strong>Dean and I were the best of friends. <strong>However</strong>, sometimes we completely disagreed.
+100222	<strong>Finn<br></strong>Now, <strong>however </strong>doesn't make two sentences into one long sentence, like the word <strong>but </strong>does.
+107400	<strong>Catherine<br></strong>No, as you heard, <strong>however </strong>usually goes at the start of a new sentence, or, we can sometimes put it at the end of a sentence, like this:
+117257	<strong>Neil<br></strong>Dean and I were the best of friends. Sometimes we completely disagreed, <strong>however</strong>.
+123100	<strong>Finn<br></strong>Right. Now if we prefer to join the two sentences together into one longer sentence, we could use <strong>although</strong> or <strong>even though</strong>.
+133695	And they express surprise more than <strong>however </strong>or<strong> but</strong>. Neil.
+139300	<strong>Neil<br></strong><strong>Although</strong> Dean and I were the best of friends, sometimes we completely disagreed.
+144777	<strong>Catherine<br></strong>Good. The phrase <strong>even though</strong> works in exactly the same way.
+150000	And you can use <strong>although</strong> and <strong>even though</strong> at the beginning or in the middle of this longer sentence:
+157588	<strong>Neil<br></strong>Dean and I were the best of friends, <strong>even though</strong> sometimes we completely disagreed.
+163800	<strong>IDENT<br></strong>6 Minute Grammar from BBC Learning English.
+169623	<strong>Catherine<br></strong>Now let's take a look at <strong>despite</strong> and <strong>in spite of</strong>.
+174300	They mean the same as each other but do they mean the same as <strong>although</strong> and <strong>even though</strong>?
+180933	<strong>Finn<br></strong>Actually yes, they do. They're also used to link and contrast surprising or unexpected ideas and they can go at the beginning or in the middle of a sentence.
+192222	But the grammar is slightly different. Listen:
+195777	<strong>Neil<br></strong><strong>Despite</strong> being the best of friends, Dean and I sometimes completely disagreed.
+201444	<strong>Catherine<br></strong>So:<strong> despite </strong>isfollowed by the -ing form of the verb, <strong>despite being</strong>, We don't use a subject and a verb after <strong>despite</strong>.
+212888	<strong>Finn<br></strong>And <strong>in spite of</strong> is the same. We can also use a noun phrase instead of an â€“ing verb. Neil.
+221800	<strong>Neil<br></strong><strong>Despite</strong> our great friendship, Dean and I sometimes completely disagreed.
+227222	<strong>Catherine<br></strong>OK. So the noun phrase after <strong>despite</strong> is <strong>our great friendship</strong>.
+232700	And one more point about <strong>despite </strong>and <strong>in spite of</strong>.
+236733	They can both be followed by the phrase <strong>the fact that </strong>plus a subject and a verb. Listen.
+244111	<strong>Neil<br></strong><strong>In spite of the fact that</strong> Dean and I were the best of friends, sometimes we completely disagreed.
+251333	<strong>Catherine<br></strong>Right. Now we'll finish with two more linking words, <strong>while </strong>and <strong>whereas</strong>.
+257222	<strong>Finn<br></strong>Yes, these are a bit different. <strong>While </strong>and<strong> whereas </strong>are used mainly for contrasting facts.
+264822	They don't usually express surprise or any other attitude. Examples please, Neil?
+271888	<strong>Neil<br></strong><strong>Whereas</strong> I studied zoology, Dean studied medieval history.
+277222	<strong>Catherine<br></strong>So that's a fact! And again, these words can go at the beginning or in the middle of a sentence. So we could also say:
+286491	<strong>Neil<br></strong>I studied zoology <strong>while</strong> Dean studied medieval history.
+291111	<strong>Finn<br></strong>Very good. And now it's quiz time!
+295700	Number one. Complete this sentence with either a) <strong>although</strong> or b)<strong>despite</strong>.
+303333	We hardly ever saw our cousins _____ living very near each other.
+309953	<strong>Catherine<br></strong>And the answer is b) <strong>despite </strong>because it's followed by a verb-ing.
+317707	<strong>Finn<br></strong>Number two. Fill the gap with either a) <strong>despite</strong> or b) <strong>although</strong>.
+324199	Libraries are being closed _____ many people have protested against the move.
+331797	<strong>Catherine<br></strong>And the answer is b) <strong>although</strong>.
+334486	<strong>Finn<br></strong>Number three. Fill the gap with either a) <strong>in spite of</strong> or b) <strong>whereas</strong>.
+342090	Honey is supposed to be good for you _____ sugar is considered bad.
+348700	<strong>Catherine<br></strong>And it's b) <strong>whereas</strong>. Honey is supposed to be good for you <strong>whereas</strong> sugar is considered bad.
+356222	<strong>Finn<br></strong>Well done! Congratulations if you got them right at home <strong>despite the fact that</strong> they were quite difficult!
+361500	<strong>Catherine<br></strong>Well done indeed. There's more about this on our website at bbclearningenglish.com.
+367000	Join us again for more 6 Minute Grammar.
+369600	<strong>Both<br></strong>Bye!

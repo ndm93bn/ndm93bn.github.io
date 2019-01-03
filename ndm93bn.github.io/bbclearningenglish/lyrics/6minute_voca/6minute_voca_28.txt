@@ -1,0 +1,70 @@
+12999	<strong>Finn</strong>  <br>Hello and welcome to 6 Minute Vocabulary. Iâ€™m Finnâ€¦
+17555	<strong>Catherine</strong><br>And Iâ€™m Catherine.
+20000	<strong>Finn<br></strong>In todayâ€™s programme, weâ€™re talking about antonyms.
+23883	<strong>Catherine<br></strong>Antonyms are words with opposite meanings.
+26555	<strong>Finn<br></strong>Like big and smallâ€¦
+28444	<strong>Catherine<br></strong>Fat and thinâ€¦ Weâ€™re going to give you lots of examples of antonyms today.And weâ€™ll give you a top tip for improving your vocabulary.
+37222	<strong>Finn</strong>  <br>So letâ€™s start by listening to someone called Ruth. She's shopping and trying on shoes.
+44177	<strong>Catherine</strong><br>While you listen, think about this question: what colour are the two pairs of shoes with heels?
+51999	<strong>INSERT<br></strong><strong>Assistant<br></strong>Hereâ€™s a selection.
+53808	<strong>Ruth<br></strong>Iâ€™ll try these on firstâ€¦ Hmm â€“ theyâ€™re a bit <strong>uncomfortable</strong> â€“ too <strong>tight</strong>.
+60080	<strong>Assistant<br></strong>OK. Try these. Theyâ€™re the next size up.
+65266	<strong>Ruth<br></strong>Hmmâ€¦ theyâ€™re a little more <strong>comfortable</strong>, but theyâ€™re too <strong>wide</strong> at the back and they feel a bit <strong>loose</strong>!
+71175	Iâ€™ve got very <strong>narrow</strong> feet.
+72999	<strong>Assistant<br></strong>What about the flat ones?
+75888	<strong>Ruth<br></strong>They look a bit <strong>old-fashioned</strong>.
+77782	<strong>Assistant<br></strong>These <strong>dark</strong> blue ones with the heels are really popular at the moment.
+82444	<strong>Ruth<br></strong>Yes, theyâ€™re quite <strong>trendy</strong>, but I think I prefer the <strong>light blue</strong> onesâ€¦ Actually, the dark blue ones are quite niceâ€¦ Oh, Iâ€™m so <strong>indecisive</strong>!
+93964	<strong>Finn</strong><br>So that was Ruth shopping there. And we asked you: what colours were the two pairs of shoes with heels?
+101464	<strong>Catherine</strong><br>And the answer is: one pair was <strong>dark</strong> blue and one pair was <strong>light</strong> blue.
+107333	<strong>Finn<br></strong><strong>Dark</strong> and <strong>light</strong> are antonyms. Here theyâ€™re describing two different shades of blue.
+113340	<strong>Catherine<br></strong>Now we often find antonyms when we are comparing things. So listen to this clip for some more opposites.
+121333	<strong>INSERT CLIP 1<br></strong><strong>Ruth</strong><br>Hmm â€“ theyâ€™re a bit <strong>uncomfortable</strong> â€“ too <strong>tight</strong>.
+125942	<strong>Assistant</strong><br>OK. Try these â€“ theyâ€™re the next size up.
+131107	<strong>Ruth<br></strong>Theyâ€™re a little more <strong>comfortable</strong>, but theyâ€™re too <strong>wide</strong> at the back and feel a bit <strong>loose</strong>!
+137000	Iâ€™ve got very <strong>narrow</strong> feet.
+140020	<strong>Catherine<br></strong>So we had <strong>tight, </strong>spelt<strong> t-i-g-h-t, </strong>meaning fitting too closely.
+147628	<strong>Finn<br></strong>And we had the opposite <strong>loose</strong>, spelt <strong>l-o-o-s-e</strong>, meaning not fitting closely.
+155469	<strong>Catherine<br></strong>Ruth also said that one pair of shoes were too <strong>wide </strong>because sheâ€™s got <strong>narrow</strong> feet.
+162111	So <strong>wide</strong>, spelt <strong>w-i-d-e</strong>, means the space from one side to the other is bigger than usual or bigger than comfortable.
+172222	<strong>Narrow</strong>, spelt <strong>n-a-r-r-o-w</strong>, means the opposite â€“ the space from one side to the other is smaller than usual or smaller than comfortable.
+184915	<strong>Finn<br></strong>There were two other words that are opposites â€“ <strong>comfortable</strong> and <strong>uncomfortable</strong>.
+190615	The difference between these two words is just two letters <strong>u</strong> and <strong>n</strong>, which form the prefix <strong>un</strong>.
+198030	<strong>Catherine<br></strong>And in English we often use the prefixes <strong>un, in</strong> (spelt <strong>i-n</strong>) and <strong>dis </strong>(spelt <strong>d-i-s</strong>) to make antonyms.
+208120	If we put one of these prefixes at the start of the word, it can change the meaning of the word to its opposite.
+215593	<strong>Finn<br></strong>So Ruth said that she was <strong>indecisive</strong>.
+219017	By adding the prefix <strong>in</strong> (<strong>i-n</strong>) to the word <strong>decisive</strong>, which means being able to make decisions easily, we make <strong>indecisive</strong>, which has the opposite meaning â€“ not being able to make decisions easily.
+234100	<strong>Catherine<br></strong>What are you Finn?
+235278	<strong>Finn<br></strong>Iâ€™m a little indecisive, I must say.
+237777	<strong>Catherine<br></strong>Are you sure about that? Not really?
+239999	<strong>Finn<br></strong>Very good.
+241100	<strong>Catherine<br></strong>Letâ€™s have another short clip with two more antonyms. Can you spot them?
+245888	<strong>INSERT CLIP 2<br></strong><strong>Assistant<br></strong>What about the flat ones?
+249333	<strong>Ruth<br></strong>They look a bit <strong>old-fashioned</strong>.
+251333	<strong>Assistant<br></strong>These dark blue ones with the heels are really popular at the moment.
+256594	<strong>Ruth<br></strong>Yes, theyâ€™re quite <strong>trendy</strong>.
+258777	<strong>Catherine<br></strong>So we had <strong>old-fashioned</strong> and <strong>trendy</strong>.
+263100	<strong>Finn<br></strong>You describe something as <strong>old-fashioned</strong> when it looks like itâ€™s from a time in the past.
+268555	<strong>Catherine<br></strong>Whereas something that is <strong>trendy</strong> is modern, up-to-date or cool.
+273282	<strong>IDENT</strong> <br>6 Minute Vocabulary from BBC Learning English.
+279999	<strong>Catherine</strong><br>And weâ€™re talking about antonyms, which are words with opposite meanings.
+285888	<strong>Finn<br></strong>The prefixes <strong>un</strong>, <strong>in</strong> and <strong>dis</strong> are often used to make antonyms, for example: <strong>decisive</strong> and<strong> indecisive</strong>.
+293438	Now all the words weâ€™ve seen earlier are adjectives, but other parts of speech can be antonyms.
+300000	<strong>Catherine<br></strong>So you can have verbs, like <strong>ask</strong> and <strong>answer</strong>â€¦
+303900	<strong>Finn<br></strong>Which is what weâ€™re going to do now because itâ€™s time for a quiz.
+310333	So, what is the opposite of the word tight: is it a) loose or b) narrow?
+317785	<strong>Catherine</strong> <br>The answer is a) <strong>loose</strong>.
+320317	<strong>Finn</strong> <br>Well done if you got that right. Number two: trendy.
+324050	Is the opposite a) modern or b) old-fashioned?
+328894	<strong>Catherine</strong> <br>Itâ€™s b) <strong>old-fashioned</strong>.
+332146	<strong>Finn<br></strong>Thatâ€™s correct! And number three: comfortable.
+335885	Is the opposite a) discomfortable or b) uncomfortable?
+341153	<strong>Catherine<br></strong>And the answer is b)<strong> uncomfortable</strong>.
+344856	<strong>Finn</strong><br>And thatâ€™s the end of the quiz â€“ so well done if you got them all right.
+349071	<strong>Catherine</strong><br>And now hereâ€™s todayâ€™s top tip for learning vocabulary: when you learn a new word, have a look in the dictionary to see if there is a prefix that will help you make the opposite word.
+359666	<strong>Finn<br></strong>Yes, and that way you can get two words for the price of one!
+363111	<strong>Catherine<br></strong>Bargain!
+363700	<strong>Finn<br></strong>Absolutely.
+364665	Thereâ€™s more about this at bbclearningenglish.com.
+368000	Join us again soon for more 6 Minute Vocabulary.
+370900	<strong>Both</strong>  <br>Bye!

@@ -1,0 +1,66 @@
+1	(Introduction...)
+24700	<strong>Vicar<br></strong>Yes, Mary. I planned the <strong>wrecks</strong>.
+27999	Your uncle followed my <strong>orders </strong>but they thought <em>he</em> was the leader.
+32666	He loved that. No one knew about me. But then you came and asked questions.
+39333	<strong>They had to die because of that</strong>. The end was near in any case. The fool got drunk on Christmas Eve.
+46999	Well, you saw what happened...the whole country knew what he'd done.
+51999	With a rope round his neck, he'd have told them about me.
+55888	<strong>Mary<br></strong>At least my uncle didn't lie - he talked and dreamt about his crimes.
+61061	You... you hid yours behind the cross and the face of a priest. But why are you telling me all this now?
+67690	<strong>Vicar<br></strong>I know you found the picture. I saw it had been moved. It frightened you, didn't it?
+73724	"Who is this strange man?" you thought. Yes, Mary I am strange.
+80444	Oh, but they listened to me in church and followed me like sheep. Now, get ready. We've got to leave.
+89222	<strong>Mary<br></strong>We?!
+90193	<strong>Vicar<br></strong>Yes, you're coming with me - you'll be a good <strong>companion</strong>.
+94111	I've admired your courage since we first met.
+96888	<strong>Mary<br></strong>And if I don't come with you?
+98986	<strong>Vicar<br></strong>You're no fool, Mary. There are no houses nearby and your screams won't be heard.
+104600	<strong>Mary<br></strong>You know that I'll run away at the first village.
+107429	<strong>Vicar<br></strong>You won't be able to.
+109333	<strong>There aren't any villages on the Cornish coast because of the steep cliffs</strong>...just birds, and when we're on the ship.
+117000	<strong>Mary<br></strong>You're leaving England?
+118666	<strong>Vicar<br></strong>Of course - we'll go to Spain, to Africa. Get ready now.
+126444	<strong>Mary narrating<br></strong>I think quickly. I look at the clock. Jem will have reached the <strong>blacksmith</strong> and will know the truth.
+133900	<strong>He'll realise I'm in serious danger so he will follow us</strong>.
+138114	If I go with the vicar, at least I'll slow him down a bit, so Jem will have a chance to catch up.
+144888	I have no choice in any case.
+148800	We cross the dark, empty moor quickly, avoiding the roads.
+153122	The moon is hidden behind clouds. The Vicar has luck on his side.
+159900	As the ground becomes softer, we slow down. The <strong>marshes</strong> lie waiting.
+166666	The Vicar knows, as I do, that <strong>one wrong step will result in a horrible death</strong>.
+174555	<strong>Mary<br></strong>Oh, where is Jem?
+177666	<strong>Vicar<br></strong>Whoah!
+180766	<strong>Mary narrating<br></strong>A wall of fog rises in front of us.
+184666	<strong>Vicar<br></strong>It's no good. We can't see anything. We'll have to wait until light.
+190666	We'll sleep here...on these rocks, out of the wind.
+194311	<strong>Mary narrating<br></strong>I <strong>drift in and out</strong> of sleep.
+197777	<strong>Vicar<br></strong>Shhh! Be quiet!
+200777	<strong>Mary narrating<br></strong>I'm woken by his cold hand on my mouth.
+205888	I can still hear the wind, but there is something else, too.
+212900	We leave the horses and he <strong>drags </strong>me higher and higher.
+220555	<strong>Mary<br></strong>I can't go any further.
+224111	<strong>Vicar<br></strong>Stay here, then.
+229878	<strong>Mary narrating<br></strong>The last I see of him - he's standing on a rock with his arms stretched out.
+237001	<strong>Vicar<br></strong>(gunshot) Aaaah!
+241000	<strong>Mary narrating<br></strong>I look up. Jem is about 100 metres away behind a rock with a gun.
+258777	I haven't seen Jem since he shot the vicar. The Bassat family have been looking after me.
+265264	They've asked me to stay and look after their children.
+269800	but I <strong>long for</strong> the green fields and valleys of Helford.
+273888	I'm walking for the last time on the moor.
+277780	Tomorrow I'll go back and live quietly on the farm.
+289418	<strong>Mary<br></strong>Someone is coming this way...but I can't see who because the sun is in my eyes.
+294888	<strong>Jem<br></strong>Hello Mary. I heard you're going to go and live at North Hill?
+299986	<strong>Mary<br></strong>They've asked me, but no. I'm going back to Helford tomorrow. And you, are you leaving Cornwall?
+309222	<strong>Jem<br></strong>Yes, I'm going to start a new life.
+312999	I've got my whole home with me here. I may go north.
+316710	Perhaps I'll <strong>breed</strong> horses instead of stealing them. Come with me, Mary.
+322500	<strong>Mary<br></strong>I miss my home in Helford. I want to see the trees and animals.
+327900	<strong>Jem<br></strong>Go then and live on your farm.
+329753	<strong>Mary<br></strong>That's not very kind.
+331697	<strong>Jem<br></strong>I speak unkindly to my horses when they're <strong>obstinate</strong>...it doesn't mean I don't love them.
+338333	Well, I'll be on my way. Goodbye Mary.
+345424	<strong>Mary<br></strong>Wait! Are you saying you love me?
+351999	<strong>Jem<br></strong>Maybe. It'll be a hard life.
+356180	<strong>Mary<br></strong>I know, I'll take my chance...and we'll be together.
+366555	<strong>Mary narrating<br></strong>So, I cross the moor for the last time - and for the first time, it looks beautiful in the sunshine.
+378333	Behind me lies Jamaica Inn, empty, no more secrets - they have all been told...my new life is about to begin.

@@ -1,0 +1,70 @@
+1	(Introduction...)
+4500	<strong>Narrator<br></strong>Welcome back to English at Work. It's the big day of the International Plastics Conference and a good opportunity for the staff at Tip Top Trading to promote its business.
+16696	But hold on, who's this? It's Mr Socrates, the big boss from America.
+23700	<strong>Mr Socrates<br></strong>Hey, you guys, where have you been?
+26222	<strong>Paul<br></strong>Ah, Mr Socratesâ€¦ nice to see you again. I'd heard you were in town.
+31407	<strong>Anna/Tom<br></strong>Hello Mr Socrates.
+33555	<strong>Mr Socrates<br></strong>I've been looking for you everywhere. I need to catch up with you and see how business is going.
+38755	<strong>Paul<br></strong>Oh very, <span data-mce-mark="1">very well. We're selling Imperial Lemons to France and Anna is developing plastic vegetables.
+47222	<strong>Mr Socrates<br></strong>Ah Anna! My favourite girl. Still doing a good job?
+51214	<strong>Anna<br></strong>I'm doing my best.
+53100	<strong>Paul<br></strong>In fact she's been doing my job for a few daysâ€¦ had a bit of a biscuit accidentâ€¦
+58845	<strong>Mr Socrates<br></strong>Yeah, well that's not hard for you, Paul.
+61444	Listen, listen I need to talk you - shouldn't the others be doing some networking now?
+65900	<strong>Paul<br></strong>Of course, that's why weâ€™re here.
+68111	Right, Tom, I need you to catch up with some of our existing customers â€“ do some schmoozing â€“ and Anna, could you talk to some potential new customers?
+78444	I need to speak to Mr Socrates.
+80888	<strong>Anna<br></strong>Right. Erm, networkingâ€¦ what exactly am I supposed to do?
+87444	<strong>Narrator<br></strong>Networking is about helping your business through connecting with other people in the industry.
+93787	It involves meeting people and talking to them, sharing information, hopefully helping each other and ultimately, getting new business.
+102222	<strong>Anna<br></strong>So I have to talk to strangers?
+105100	<strong>Narrator<br></strong>Well, yes. Introduce yourself, say who you work for.
+110000	Ask them about their business and what they do.
+112866	Then explain a bit about what you do and who uses your products.
+118111	If it's appropriate, say that you may be able to help them.
+122000	Then see if they would consider buying from you. Just be chatty and friendly.
+126777	<strong>Anna<br></strong>Thanks. I'll give it a try. Excuse me, hello, I'm Anna.
+132981	I work as a Sales Executive at Tip Top Tradingâ€¦ and you are?
+137800	<strong>Woman<br></strong>Jane. Jane from Nice'n'Cheesy. It's very busy here today isn't it?
+143444	<strong>Anna<br></strong>It is. It's my first time here but it's very exciting. I really didn't know what to wear.
+149888	<strong>Narrator<br></strong>Anna! That's chatty and friendly, but let's get down to business.
+155200	<strong>Anna<br></strong>Oh yes, of course. So can you tell me about your company, Nice'n'Cheesy?
+163080	<strong>Woman<br></strong>Well, we sell cheese to London's top cheese shops - we like to say we're a wedge above the rest â€“ a wedge of cheese, get it?!
+173444	<strong>Anna<br></strong>Err, right. Well, can I briefly tell you about what our company does?
+179474	Our company â€“ Tip Top Trading â€“ makes plastic fruit mainly for the catering and food industry.
+186693	We're up for an award today for one of our designs.
+190566	<strong>Woman<br></strong>Smashing. That's quite interesting actually.
+194222	We have an issue with the fresh grapes we provide with our cheeses â€“ they keep going mouldy.
+199888	<strong>Anna<br></strong>Oh dear.
+201555	<strong>Woman<br></strong>Yes â€“ sour grapes you could say! A good quality plastic grape would be useful to put with our cheese displays.
+210444	<strong>Anna<br></strong>Well, I think we might be able to help you.
+213111	<strong>Narrator<br></strong>Yes you can! This is the time to exchange contact details â€“ give her your business card.
+221555	<strong>Anna<br></strong>Well, if I could have your contact details I'll send you one of our brochures and then give you a call about prices.
+229599	And here's my business card should you want to call me.
+233044	<strong>Woman<br></strong>That's fantastic. So nice to have met you â€“ and I think what you're wearing for the conference is perfect.
+240333	<strong>Anna<br></strong>Thanks!
+243555	<strong>Narrator<br></strong>Bingo! Looks like Anna has a potential new customer.
+248319	She was friendly and chatty but kept her mind on business. She used phrases like these:
+254731	<em>Excuse me, hello, I'm Anna. I work as a Sales Executive at Tip Top Trading.
+261333	<em>Can you tell me about your company?
+263967	<em>Can I briefly tell you about what our company does?
+267999	<em>I think we might be able to help you.
+270777	<em>Here's my business card should you want to call.
+277888	<strong>Narrator<br></strong>So, some good work by Anna but there's more networking to be done.
+283096	A conference is a good place for networking and for catching up with your boss, too.
+288290	Let's find out how Paul is getting on with Mr Socrates.
+292457	<strong>Mr Socrates<br></strong>It's a tough economic climate Paul.
+295444	We're already cutting out cookies in management meetings.
+298399	<strong>Paul<br></strong>Oh, gosh.
+300000	<strong>Mr Socrates<br></strong>And now we're cutting staff. We've already lost Rachel â€“ my favourite Sales Executive.
+304694	<strong>Paul<br></strong>Ah yes, well, she was stealing the pens.
+307432	<strong>Mr Socrates<br></strong>Pens can be replaced but not people like her.
+310100	<strong>Paul<br></strong>Wellâ€¦
+311333	<strong>Mr Socrates<br></strong>But now it's time to reduce your team Paul â€“ share the pain.
+315318	<strong>Paul<br></strong>Are you sure?
+316666	<strong>Mr Socrates<br></strong>Absolutely. By my calculations you need to be rid of one member of staff.
+320810	<strong>Paul<br></strong>Ohâ€¦ well let's not tell the team until we've had the awards ceremony.
+325333	<strong>Mr Socrates<br></strong>OK Paul. But it's in your hands to sort this out.
+328555	<strong>Paul<br></strong>Crumbs!
+330000	<strong>Narrator<br></strong>Ah yes, Tip Top Trading could be about to win a prestigious award but how will this bad news go down with the team?
+338092	And what is Paul going to do? Find out next time on English at Work.

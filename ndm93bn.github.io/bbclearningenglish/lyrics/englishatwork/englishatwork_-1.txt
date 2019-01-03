@@ -1,0 +1,75 @@
+1	(Introduction...)
+5218	<strong>Narrator<br></strong>Hello again. Things haven't been going well at Tip Top Trading.
+9256	There was a fire in the warehouse, caused by Mr Ingle's cigarette and now Mr Socrates â€“ the big boss from America â€“ has turned up unexpectedly.
+19933	<strong>Mr S<br></strong>So honey, are youâ€¦?
+21586	<strong>Anna<br></strong>Anna. I'm Anna, I work here as a sales executive. We haven't met before.
+26722	<strong>Mr S<br></strong>We sure ain't. Looks like I've arrived just in the nick of time.
+30337	<strong>Paul<br></strong>(Out of breath)â€¦ what's going onâ€¦ oh, Mr Socrates!
+35725	Golly gosh, what an unexpected.
+38405	<strong>Mr S<br></strong>Unexpected alright. Looks like this company is in a mess.
+42040	<strong>Paul<br></strong>Err yes. It was OK when I popped out for some biscuitsâ€¦ erm, would you like one?
+49673	<strong>Mr S<br></strong>Biscuits?! They're cookies man.
+51796	Look, now what do I have to do to get a triple-shot, organic, skinny cappuccino round here?
+56255	<strong>Anna<br></strong>I'll get you one Mr Socrates.
+57911	<strong>Mr S<br></strong>It's OK honey. I need you to book me a hotel room.
+61262	You...what's your name againâ€¦Paulâ€¦ can you fetch me one?
+64631	<strong>Narrator<br></strong>Right Anna. Booking a room for Mr Socrates.
+67977	This is something you can't get wrong.
+70478	<strong>Anna<br></strong>Well I've never done it before.
+73018	<strong>Narrator<br></strong>I'm sure you'll be OK.
+75119	When you book a room, here's what you could say:<br>Hello, I'd like to check availability and prices for a room please.
+84035	Does the price include breakfast?
+88340	Are there any business facilities such as internet and wi-fi?
+94011	I'd like to go ahead and make the reservation please.
+97258	<strong>Anna<br></strong>OK I'll give it a try. But where shall I look?
+101856	<strong>Narrator<br></strong>Try searching on the internet.
+104026	Look for a five-star hotel.
+106404	He is a five-star guest after all. Good luck.
+110618	<strong>Anna<br></strong>Thanks. I better get back to the office and get started.
+118746	<strong>Tom<br></strong>Hi Anna.
+120097	<strong>Anna<br></strong>Oh hi Tom. Well done for saving Mr Ingle in that fire.
+124300	You were very brave.
+126342	<strong>Tom<br></strong>It was nothing really.
+128604	Soâ€¦ err...what are you doing?
+130996	<strong>Anna<br></strong>I've got to book a hotel for Mr Socrates.
+134494	<strong>Tom<br></strong>No! You know, we must be in trouble. He never visits.
+139905	<strong>Anna<br></strong>Really? So where shall I book him in to?
+144067	<strong>Tom<br></strong>Well my friend runs a fantastic hotel â€“ it's five star!
+150273	It's called the Royal Imperial. Look, I've got his number.
+155049	Give him a call, mention my name. You're bound to get a special rate.
+159385	<strong>Anna<br></strong>Thanks Tom.
+160283	<strong>Tom<br></strong>No problem. Oh but don't forget, I've heard Mr S only likes a room with a single bed in it.
+169681	He gets spooked out if there's another empty bed.
+172835	<strong>Anna<br></strong>Oh right. OK, I might as well give it a try.
+186836	<strong>Receptionist<br></strong>Hello. Royal Imperial Hotel.
+189291	<strong>Anna<br></strong>Oh, hello. I'd like to check availability and rates for a room.
+193791	<strong>Receptionist<br></strong>When for?
+194934	<strong>Anna<br></strong>For three nights from tonight. Your best room please!
+199654	<strong>Receptionist<br></strong>All our rooms are the best!
+201208	Butâ€¦ yes, we have one. It's Â£100 a night.
+204697	<strong>Anna<br></strong>Right. I work with Tomâ€¦Tom Darcyâ€¦ his friend runs the hotel.
+211424	I wondered if you could offer me a special rate?
+214823	<strong>Receptionist<br></strong>Tom Darcy? No I've never heard of him.
+218967	Sorry, it's still Â£100.
+221341	<strong>Anna<br></strong>Does the price include breakfast?
+223991	<strong>Receptionist<br></strong>Yes. We offer a full continental breakfast of toast, or bread, oh, and teaâ€¦or coffeeâ€¦. and cereal.
+231407	<strong>Anna<br></strong>Oh. And do you have any business facilities?
+235068	<strong>Receptionist<br></strong>Well, we've got paper and pens.
+237351	<strong>Anna<br></strong>I was thinking, internet, wi-fiâ€¦ shoe-shine?
+242925	<strong>Receptionist<br></strong>Yes. We've got that.
+244590	<strong>Anna<br></strong>Good. And most importantly, is this a single room?
+249092	<strong>Receptionist<br></strong>We've only got twin rooms.
+251173	<strong>Anna<br></strong>Twins? You've only got room for twins?
+255012	<strong>Receptionist<br></strong>No. We could take a bed out and just leave one in, if you want?
+259407	<strong>Anna<br></strong>Oh that would be perfect.
+261671	In that case, I'd like to go ahead and make a reservation please.
+265898	<strong>Receptionist<br></strong>Good. How would you like to pay?
+272299	<strong>Narrator<br></strong>Well done Anna for booking the hotel but I have a feeling Tom's recommendation may not be as luxurious as he says.
+280496	Let's hear the phrases Anna used when booking a hotel:<br>Hello, I'd like to check availability and prices for a room please.
+289571	Does the price include breakfast?
+292492	Are there any business facilities such as internet and wi-fi?
+297890	I'd like to go ahead and make the reservation please.
+303313	So the room is booked.
+305741	I wonder what Mr Socrates will think of it?
+308817	He's a particularly fussy man as we'll find out next time. Bye!
+313874	<h3>Listening challenge - answer</h3> <br>How much is the nightly rate for the hotel?<br>Â£100.

@@ -1,0 +1,60 @@
+1	(Introduction...)
+5196	<strong>Narrator<br></strong>Hello. We're back at Tip Top Trading.
+8135	Anna is very busy dealing with Mr Lime's big order for Imperial Lemons.
+13707	<strong>Anna<br></strong>Yes? Who?
+17260	I can't hear you.
+19677	Mr what? What?
+22832	Mr Who? I don't know, you tell me.
+27288	Oh, you are Mr Hu. H-U: Hu.
+32603	Er... No, Tom's busy.
+35041	Call back later. Bye. Tom, Mr Hu called you.
+39326	<strong>Tom<br></strong>Mr Hu-
+40735	<strong>Anna<br></strong>Mr Hu: H-U
+45131	<strong>Tom<br></strong>Anna, Mr Hu is a very important
+49824	<strong>Anna<br></strong>Oh! What now?! Yes?
+55690	<strong>Tom<br></strong>(to himself) I'm going to have to talk to the boss about this.
+58793	<strong>Anna<br></strong>No. I'm busy, give me your number, I'll call you later.
+63475	Yep, yep, 6...8... thanks. Bye!
+67323	Right, now where was I?
+70423	<strong>Paul<br></strong>Anna, could I have a word?
+73548	<strong>Anna<br></strong>Yes. Ohhh, he must want to tell me how pleased he is with the Citrus Ventures deal.
+79056	<strong>Paul<br></strong>Now, Anna. biscuit?
+82101	<strong>Anna<br></strong>Thank you.
+82830	<strong>Paul<br></strong>I'm a little bit concerned about something.
+86097	<strong>Anna<br></strong>"I'm a little bit concerned." Doesn't that mean something bad?
+91758	<strong>Narrator<br></strong>Yes, Anna, Paul is using a polite turn of phrase to say he is unhappy about something.
+98167	Let's see what he's got to say.
+100915	<strong>Paul<br></strong>I think you need to work on your telephone manner.
+103959	<strong>Anna<br></strong>Work on my telephone manner?
+107724	<strong>Narrator<br></strong>It means the way you talk on the phone is not good enough and you have to improve it â€“ to work on it to make it better.
+115522	<strong>Paul<br></strong>Perhaps you should think about â€¦
+118084	<strong>Narrator<br></strong>Perhaps you should think about â€“ that's a polite way of telling you to do something!
+123725	<strong>Paul<br></strong>Anna, are you listening to me?
+126346	<strong>Anna<br></strong>Yes, sorry, I was just sort of, err, talking to myself.
+130077	Could you repeat what you said please?
+132688	<strong>Paul<br></strong>Right, I'll start again.
+135057	I said: I'm a little bit concerned about your telephone manner.
+140453	You need to work on the way you speak to clients.
+143234	Perhaps you should think about being a bit more polite to clients; it's important for the image of the company.
+149476	<strong>Anna<br></strong>Oh okay.
+151037	<strong>Paul<br></strong>You can go now â€“ take another biscuit with you â€“ that's my last chocolate wafer, you lucky thing!
+159024	<strong>Denise<br></strong>Anna? Is everything all right?
+164435	<strong>Anna<br></strong>Yes.
+166696	<strong>Denise<br></strong>What's the matter?
+168657	<strong>Anna<br></strong>Paul says I need to w-w-w-work on my telephone manner.
+174844	<strong>Denise<br></strong>Well I was a bit concerned about it myself.
+179156	And I think Tom actually mentioned it to Paul.
+182417	But, look, I'll help you if you like.
+188905	I'm a bit of an expert on the phone. I'll give you some lessons.
+193654	<strong>Anna<br></strong>Oh thank you.
+195235	<strong>Denise<br></strong>Come in early tomorrow morning, before the others get here and we'll practise.
+201091	<strong>Anna<br></strong>Thank you Denise, that's very kind.
+205415	<strong>Narrator<br></strong>Wow! Denise is actually being nice to Anna.
+208812	Amazing! Although from what I've heard of Denise on the phone, she's only ever gossiping with friends.
+215537	Paul was very gentle and polite in the way he explained to Anna there was a problem and that she needed to improve some things.
+222736	He used these phrases: <br>I'm a little bit concerned about.
+227244	You need to work on.
+228803	Perhaps you should think about.
+231345	Let's see if Denise manages to teach Anna anything useful next time.
+236395	Until then!
+238428	<h3>Listening Challenge - Answer</h3> <br>What does Paul tell Anna to be when she is on the phone to clients? <br>He says she needs to be more polite.

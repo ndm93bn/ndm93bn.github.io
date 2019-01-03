@@ -1,0 +1,71 @@
+1	(Introduction...)
+28500	<strong>Phil<br></strong><em>Day 73 - we were sailing through a huge hurricane when a massive wave hit us.
+36035	Oh why did I <strong>try to sail</strong> through this storm?
+39638	I was <strong>hoping to get</strong> back home in 80 days but that seems impossible now.
+46136	I must make sure my crew is ok - I need them now more than ever.
+60500	<strong>Phil<br></strong>Is everyone OK?
+62335	<strong>Sophia<br></strong>Oh, ouch, my arm. Passepartout, are you OK down there?
+67800	<strong>PP<br></strong>Where I am? Who am I?
+71400	<strong>Phil<br></strong>You're Passepartout - you're on a yacht and we were hit by a big wave.
+76500	<strong>PP<br></strong>Oh yes. I knew that...of course...a big wave.
+81000	Let me just get up. oh my legs...right, I need to inspect the damage.
+87131	<strong>Sophia<br></strong>Well, Peggy the parrot seems OK.
+89688	<strong>PP<br></strong>Hooray! Well the satnav is still working but there's a tear in the front sail and everything in the galley is underwater.
+98600	<strong>Phil<br></strong>I'm so sorry. I <strong>wanted to carry on</strong> through the storm - but I was wrong.
+104300	<strong>Sophia<br></strong>It's OK Phil. I thought you were very courageous, very brave.
+109100	Look we're still alive. We've just got to get back to London, and with the money you'll get, we... I mean you.
+116463	...can <strong>enjoy living</strong> the rest of your life.
+118600	<strong>Phil<br></strong>Oh Sophia, thank you, I'm so glad we found you.
+125400	<strong>PP<br></strong>We won't be going anywhere with this damage.
+127800	<strong>Phil<br></strong>We must try Passepartout - never give up!
+134407	<strong>Phil<br></strong><em>I don't know where all my courage and determination has come from but I like it!
+140999	We are now sailing across the Atlantic - it doesn't seem as big and scary anymore.
+146684	We've sailed past the Azores - we couldn't <strong>stop to have</strong> a rest - and now we're not far from the coastline of Britain, but we've run into some thick fog and we can't see where we're going.
+161016	I can hear the foghorn of a lighthouse but we are all so tired, weary and exhausted from our trip that we're.
+175000	falling...asleep.
+192800	<strong>Sophia<br></strong>What's that? We've hit something. We're sinking.
+197200	<strong>Phil<br></strong>Oh no, look, water, water. Abandon ship, abandon ship! Get the lifebelts.
+205070	<strong>PP<br></strong>Quick, set off one of those emergency flares - we need help.
+211100	<strong>Phil<br></strong>Oh no, The Mermaid is sinking, farewell.
+221100	<strong>Phil<br></strong><em>We've <strong>failed to get back</strong> home in 80 days. Disaster!
+228894	We didn't reach the pub in London on time and we've lost Tom's yacht - the yacht I was <strong>supposed to win</strong> and then sell to make some money.
+239500	But we're alive and we have been rescued by a lifeboat.
+244941	It's taking us to shore where we can make our way to the station, catch a train to London and hopefully meet our friends in the Horse and Groom pub.
+262800	<strong>John<br></strong>Phil - goodness, we'd forgotten all about you. And you, Pete.
+268185	<strong>Phil<br></strong>We have been sailing around the world for 80 days. We've nearly faced death and you have forgotten about us?!
+277000	<strong>Tom<br></strong>He's just joking. It's great to see you again: let me get you a drink and you can tell me all about your adventure but, hold on, who's your new companion?
+287600	<strong>Phil<br></strong>This is Sophia - we met her in Sao Tome and she's helped us sail around the world.
+294803	<strong>Tom<br></strong>Pleased to meet you Sophia.
+296500	<strong>Sophia<br></strong>Sorry we're a day late.
+298683	<strong>Tom<br></strong>A day late? You mean it's day 81? Oh well.
+302707	In that case, the yacht is still mine. A bet is a bet!
+306871	<strong>Phil<br></strong>Ahh...well, about that. Your yacht.
+311531	The Mermaid...she's wonderful.
+315047	I mean, she was wonderful...we had an accident. we hit some rocks and sank.
+324263	<strong>Tom<br></strong>You're joking?!
+326500	<strong>Sophia<br></strong>Errr...he's not. We sank off the coast of Cornwall this morning.
+334400	<strong>Phil<br></strong><em>Tom wasn't pleased to hear the news about his yacht. I <strong>was hoping to win</strong> our bet.
+340222	But here we are, with no yacht and no money - and I have to write a story about how we <strong>failed to sail</strong> around the world in 80 days.
+356179	<strong>PP<br></strong>Excuse me. Can everyone <strong>stop talking</strong> for a moment - I have an important announcement.
+362251	I've just double-checked our route on the computer and I realised that at zero degrees west and zero degrees east we crossed the International Date Line.
+374000	<strong>Tom<br></strong>Very interesting, Pete - but so what?
+378131	<strong>PP<br></strong>Well when you cross that line you gain an extra day - that means today is only day 80, not day 81!
+386966	<strong>Phil<br></strong>You're right Passepartout - today is day 80.
+390623	We're on time! What would I do without you?
+392900	<strong>Sophia<br></strong>So does that mean Phil has won the challenge after all?
+395700	<strong>Tom<br></strong>Well...erm. I suppose so.
+398234	You went around the world in 80 days - but did you <strong>stop to collect</strong> the things on your challenge list?
+404400	<strong>Phil<br></strong>I...we got them all. Look.
+408700	Morna music from Cape Verde, cacao beans from Sao Tome, Bourbon Pointu coffee from Reunion Island, a conch shell from.
+420500	well we don't know where really, a Savi mask from Papua New Guinea, and a pahu drum from Tahiti.
+428500	<strong>Tom<br></strong>Impressive! Congratulations - but I'm afraid you still don't get a prize - that was my yacht, and you sank it.
+438999	<strong>Phil<br></strong>It's OK. I don't really need it.
+443483	I've decided there's something much more important.
+447695	Sophia. I'm so glad we rescued you.
+453777	I've grown very fond of you and I <strong>don't want to lose</strong> you.
+460800	I know it's going to be complicated but...will you marry me?
+467003	<strong>Sophia<br></strong>Oh gosh...well, yes! You're my hero - give me a kiss.
+474111	<strong>PP<br></strong>Oh dear. I suppose I <strong>get to keep</strong> the parrot?
+481151	<strong>Phil<br></strong><em>Dear Diary - My adventure is going to make a great story. I'm <strong>hoping to sell</strong> lots of books this time.
+489123	Sometimes you need a big adventure to change your life. Even when your journey doesn't go to plan you just learn so much.
+499310	Luckily for me, I've won a great prize - a loyal friend in Passepartout, and Sophia, a new friend and wife. It's good to be home.

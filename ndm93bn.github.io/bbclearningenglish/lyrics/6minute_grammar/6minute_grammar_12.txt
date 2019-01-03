@@ -1,0 +1,77 @@
+1	(Introduction...)
+12241	<strong>Neil<br></strong>Hello. Welcome to 6 Minute Grammar with me, Neil.
+15962	<strong>Sophie<br></strong>And me, Sophie. Hello.
+18034	<strong>Neil<br></strong>Today weâ€™re talking about the first conditional.
+21232	<strong>Sophie<br></strong>Yes, the first conditional. Weâ€™ll be looking at why and when we use it.
+26380	<strong>Neil<br></strong>Weâ€™ll see how to make itâ€¦
+27853	<strong>Sophie<br></strong>Thereâ€™ll be a very helpful pronunciation tipâ€¦
+30428	<strong>Neil<br></strong>And thereâ€™ll be a quiz at the end of the show, so keep listening!
+36117	<strong>Sophie<br></strong>OK, letâ€™s start with why and when.
+39822	We use the first conditional to talk about possible future situations - and their possible results.
+46584	Hereâ€™s Catherine with our first example:
+49100	<strong>Catherine<br></strong>If I lose my umbrella, I will buy another one.
+52859	<strong>Sophie<br></strong>Thanks, Catherine. A weather-related example there: If I lose my umbrella, I will buy another one.
+60621	<strong>Neil<br></strong>And itâ€™s made of two parts.
+62549	The first part describes a possible future situation, and itâ€™s made from if plus the present simple: <strong>If I lose</strong> my umbrellaâ€¦
+71744	<strong>Sophie<br></strong>â€¦and the second part is the result part.
+74728	Itâ€™s made of <strong>will</strong> plus an <strong>infinitive</strong>.
+77699	<strong>I will buy</strong> another one.
+80211	Can you put them both together now please Catherine.
+83337	<strong>Catherine<br></strong>If I lose my umbrella, I will buy another one.
+87186	<strong>Neil<br></strong>Thanks, Catherine. Here are some more examples.
+90948	<strong>Catherine<br></strong>If I visit Mexico, I will stay with my friends.
+95247	They will go to the beach if itâ€™s sunny.
+98576	If Michal passes his exams, weâ€™ll have a party for him.
+103930	<strong>Neil<br></strong>So thatâ€™s the first conditional: <strong>if plus present simple</strong>, with <strong>will plus an infinitive</strong>, to talk about a possible future situation and its possible result.
+115984	<strong>Sophie<br></strong>Thatâ€™s right. But if weâ€™re not sure if the result part will actually happen, we can use <strong>might</strong> instead of <strong>will</strong>. Catherine.
+124832	<strong>Catherine<br></strong>If I lose my umbrella, I <strong>might</strong> buy another one.
+129419	<strong>Neil<br></strong>I might buy you dinner tonight, Sophie, if youâ€™re nice to me!
+133773	<strong>Sophie<br></strong>Well, Iâ€™m always nice, Neil.
+135317	So thatâ€™s <strong>might</strong> instead of <strong>will</strong> â€“ when weâ€™re not certain about the future result.
+141249	<strong>Neil<br></strong>But if weâ€™re sure that the future situation will happen, we can change <strong>if</strong> to <strong>when</strong>, like this:
+148576	<strong>Catherine<br></strong>When I lose my umbrella, Iâ€™ll buy another one.
+152078	<strong>Sophie<br></strong>You should always look after your umbrellas, Catherine.
+154656	Ok, letâ€™s look at using <strong>should</strong> for advice in a first conditional sentence.
+160846	<strong>Catherine<br></strong>You shouldnâ€™t use the kettle if it isnâ€™t working properly.
+164648	<strong>Sophie<br></strong>So the result part comes first.
+168038	We have a modal verb, <strong>shouldnâ€™t</strong>, and we use this to give advice: Donâ€™t use the kettle!
+174485	The <strong>if</strong> part gives the possible future situation: The kettle isnâ€™t working.
+180465	<strong>Neil<br></strong>But how are we going to make the tea if the kettleâ€™s broken?
+183854	I havenâ€™t had a cup all morning!
+185467	<strong>Sophie<br></strong>Iâ€™ll do my best to fix it, Neil. Now for a pronunciation tip.
+190164	In our examples about umbrellas, the two words <strong>I will</strong> can be shortened to <strong>Iâ€™ll</strong>.
+197783	Hereâ€™s Catherine with the long and short versions of I will. Listen carefully.
+203766	<strong>Catherine<br></strong>If I lose my umbrella, I will buy another one.
+207290	If I lose my umbrella, Iâ€™ll buy another one.
+211290	<strong>Neil<br></strong><strong>I will</strong> buyâ€¦ <strong>Iâ€™ll </strong>buy.
+214974	So <strong>will</strong> is shortened to just a <strong>/l/</strong> sound.
+219305	Here are some more examples:
+221513	<strong>Catherine<br></strong>They will go to the beach if itâ€™s sunny.
+224224	Theyâ€™ll go to the beach if itâ€™s sunny.
+226948	If Michal passes his exams, we will have a party for him.
+231729	If Michal passes his exams, weâ€™ll have a party for him.
+237155	<strong>IDENT<br></strong>Youâ€™re listening to BBC Learning English.
+242426	<strong>Sophie<br></strong>And weâ€™re talking about the first conditional.
+245571	<strong>Neil<br></strong>And itâ€™s time for a quiz! Decide if these sentences are right or wrong.
+252448	Sophie will give you the answers. Number one.
+255695	If William wakes up late, he miss the school bus.
+260504	<strong>Sophie<br></strong>And this sentence is wrong: the <strong>if</strong> part is correct; but <strong>will</strong> is missing from the result part.
+269451	Hereâ€™s the correct sentence, with a short <strong>will</strong>: If William wakes up late, he<strong>â€™ll</strong> miss the school bus.
+277722	<strong>Neil<br></strong>Great. Another one: Iâ€™ll visit Central Park if I go to New York.
+283459	<strong>Sophie<br></strong>This sentence is correct!
+286739	<strong>Neil<br></strong>And the last one: I might go to the doctor if I wonâ€™t feel better tomorrow.
+292845	<strong>Sophie<br></strong>This sentence has the future form <strong>wonâ€™t</strong> in the <strong>if</strong> part - and thatâ€™s wrong.
+299660	The correct sentence needs <strong>present simple</strong> in the <strong>if</strong> part, so: I might go to the doctor <strong>if I donâ€™t feel</strong> better tomorrow.
+310064	<strong>Neil</strong> <br>Well done if you got those right at home.
+312367	Now, before we go, hereâ€™s a top tip for using the first conditional correctly â€“ you only need one <strong>will</strong>, and itâ€™s never in the <strong>if</strong> part.
+323666	Hereâ€™s a wrong example:
+325658	<strong>Catherine<br></strong>If I will see Peter on Saturday, I will tell him to call you.
+330165	<strong>Sophie<br></strong>If I will seeâ€¦ I will tell him â€“ two <strong>wills</strong> â€“ thatâ€™s got to be wrong.
+336587	Letâ€™s have a correct version please, Catherine.
+339219	<strong>Catherine<br></strong>If I see Peter on Saturday, Iâ€™ll tell him to call you.
+343184	<strong>Neil<br></strong>Thatâ€™s much better. Only one <strong>will</strong> and it isnâ€™t in the <strong>if</strong> part.
+347924	<strong>Sophie<br></strong>So thatâ€™s the first conditional. Itâ€™s made of <strong>if plus the present simple, with will plus the infinitive.
+357020	<strong>Neil<br></strong>And we mainly use it to talk about a possible situation in the future and its results.
+362967	<strong>Sophie<br></strong>Thereâ€™s lots more about this at bbclearningenglish.com.
+366096	Join us again for more 6 Minute Grammar.
+368465	<strong>Both<br></strong>Bye.

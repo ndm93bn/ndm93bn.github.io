@@ -1,0 +1,23 @@
+1	(Introduction...)
+12666	<strong>Rob<br></strong>Hello, I'm Rob.
+14266	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17744	<strong>Rob<br></strong>So it should have been Neil presenting with you today but he's gone on holiday so you've got me instead.
+23277	<strong>Feifei<br></strong>Yes I know - Neil's on holiday for two whole weeks!
+27555	<strong>Rob<br></strong>Oh lucky Neil. Two weeks doing nothing - sitting on the beach in the sun, eating ice-cream. Wonderful!
+34888	<strong>Feifei <br> </strong>Oh Neil won't be sitting on any beaches. He's going to help teach English at a school in Spain.
+41333	<strong>Rob<br></strong>What! He's gone to Spain to do the <em>same</em> work he does here - that's a bit of a busman's holiday.
+48222	<strong>Feifei<br></strong>But his job isn't driving buses Rob.
+51555	<strong>Rob</strong><br> No Feifei - a busman's holiday is a holiday where you do the same thing you do at work instead of just having a rest.
+58700	<strong>Feifei</strong><br> I see. A busman's holiday is not about going on a bus. It's a strange choice for Neil isn't it Rob?
+65777	<strong>Rob</strong><br> It is but he's not the only one - listen to these examples.
+72000	<strong>Examples<br></strong>The taxi driver said he was going on a driving holiday around Europe - it sounds like a busman's holiday to me!
+80666	I decided to take a break from playing in the band and go on holiday but it turned into a busman's holiday when I ended up busking to raise enough money for my plane ticket home.
+92777	<strong>Feifei<br></strong>So that's a busman's holiday, where you go on holiday to do the same or similar work that you do at home.
+100313	If I went on holiday, doing my job would be the last thing I'd do.
+106208	<strong>Rob<br></strong>Yes me too but think about what Neil actually does in his job.
+111900	<strong>Feifei<br></strong>He drinks tea...sits around chatting...goes shopping.
+117333	<strong>Rob</strong> <br> Exactly - and he'll be doing the same in Spain.
+120555	<strong>Feifei<br></strong>Now that sounds like my kind of busman's holiday! When can I go?
+126222	<strong>Rob</strong><br> Let's finish the programme first.
+128300	<strong>Feifei<br></strong>OK. Bye!
+129788	<strong>Rob</strong><br> Bye.

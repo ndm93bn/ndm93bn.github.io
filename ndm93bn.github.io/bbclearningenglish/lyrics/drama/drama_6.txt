@@ -1,0 +1,65 @@
+1	(Introduction...)
+27860	<strong>Phil<br></strong><em>Day 38 - Disaster! Our yacht has been stolen.
+33460	We were on Reunion Island when someone<strong> cut</strong> the ropes and <strong>took</strong> it.
+40147	Where is it - and how are we going to find it? Does this mean we're going to lose the race?
+52600	<strong>PP<br></strong>Well that's it then. We might as well give up and go home.
+56700	<strong>Phil<br></strong>We can't stop now - we're having so much fun.
+61000	And anyway, we can't go home without our yacht.
+64600	Oh look, there's that man who gave me the coffee beans. Maybe he can help.
+70200	<strong>Man<br></strong>Hello, how's the satnav now? All working?
+74900	<strong>Phil<br></strong>Well, err, yes - it's working, thank you very much.
+79900	But we have another slight, little problem. We haven't got a yacht to put it on anymore.
+86252	<strong>Man<br></strong>Really?
+87400	<strong>Phil<br></strong>Yes, I'm afraid so. It looks like it's been <strong>stolen</strong>.
+92800	you know,<strong> pinched</strong>.<strong>nicked.
+96300	<strong>Man<br></strong>Surely not. This sort of thing doesn't happen around here. It must be... pirates!
+103900	<strong>Sophia<br></strong>Pirates! Real-life pirates?
+107300	<strong>Man<br></strong>Yes, they do exist but they're not like the pirates in stories.
+112900	They will steal almost anything and they are very, very dangerous.
+118445	But we must get your boat back so let's hope these pirates aren't too bad.
+124849	Come on, let's use my fishing boat and go looking for your missing yacht. They can't be very far away.
+136091	<strong>Phil<br></strong><em>The man who <strong>gave</strong> me the coffee beans is taking us out to sea in his fishing boat.
+142734	But how are we going to find our yacht?
+145937	Pirates are lawless and will do anything to protect their bounty - but why does it have to be our yacht?
+155800	Oh, it could be anywhere now. But hold on.
+162040	what is it? I think Passepartout has seen something.
+172300	<strong>PP<br></strong>Over there, look! That's our yacht.
+175884	and I think I can see one... two people on board.
+180100	Let's hope they haven't sabotaged our yacht.
+183000	<strong>Phil<br></strong>What are we going to do? We don't want to get too close - they might have guns.
+189900	<strong>Man<br></strong>OK, we need to slow down and approach carefully.
+194236	Let me just look through my binoculars to see if they have guns... hold on! They look familiar.
+202600	<strong>Phil<br></strong>Do you know them?
+204408	<strong>Man<br></strong>Errr...yes! I do.
+207043	<strong>Sophia<br></strong>Are they dangerous?
+208964	<strong>Man<br></strong>Absolutely not. They are not fearsome pirates: I used to play with them in the island football team.
+218200	They <strong>didn't score</strong> any goals then and they're not going to sabotage your journey now.
+225400	Come on, let's get your boat back.
+228600	<strong>PP<br></strong>It's a yacht!
+233400	<strong>Phil<br></strong><em>We've caught up with our yacht - The Mermaid - and the would-be pirates have given it back to us, and we <strong>got </strong>an apology.
+243400	These guys <strong>were</strong> 'joyriders' - they <strong>stole</strong> our boat just for a bit of fun - luckily they <strong>didn't cause</strong> much damage but they've almost ruined our chances of getting back to London on time.
+260000	<strong>Man<br></strong>So sorry again about these guys.
+262884	I will make sure they pay for what they <strong>did</strong>.
+266000	<strong>Phil<br></strong>Farewell and thanks for your help.
+271100	<strong>PP<br></strong>Well, that <strong>was</strong> a real adventure - now can we get back on course and try and make up for lost time?
+277700	We have a long way to go.
+279700	<strong>Sophia<br></strong>Passepartout, don't forget it <strong>was</strong> you who <strong>hit</strong> his head and <strong>had </strong>to go to hospital remember?
+285357	<strong>PP<br></strong>Err, well, I think it was you who<strong> sailed</strong> us 500 miles in the wrong direction.
+290966	<strong>Phil<br></strong>Will you two just stop it - we all need to get on and try and work out how we're going to win this challenge and get back to London on time.
+302603	<strong>Sophia<br></strong>Don't worry Phil, it's easy - if we head south we'll pick up some trade winds - that will make us much faster.
+310200	We'll get to Indonesia in just a few days.
+312800	<strong>Phil<br></strong>Sounds like a plan. Passepartout?
+315962	<strong>PP<br></strong>Fine by me. But we've got a long, long way to go - I think we'll need to take turns in sailing while the other two get some sleep.
+323892	<strong>Sophia<br></strong>Good idea. I'll steer first and get us back on course.
+327500	You guys get some sleep - it's been a long and busy day.
+331300	First Phil, perhaps you can make some of that delicious tea you're good at making, hmm?
+336670	<strong>Phil<br></strong>Aye-aye captain! I've always <strong>wanted</strong> to say that. Right away Sophia.
+347000	<strong>Phil<br></strong><em>Making tea! It seems to be the only thing I'm good at doing on this yacht.
+355000	Ah well, if it keeps the crew happy! Well, we're out in the middle of the Indian Ocean now and we have the wind in our sails.
+365300	Sophia is on deck and Passepartout is here asleep - you can probably hear him snoring!
+373700	Actually, I'm feeling...quite sleepy. now.
+377838	The rolling of the yacht on the waves seems to be rocking me to sleep. like a baby.
+387700	Maybe I... should get some sleep before.
+395600	I have to steer...the yacht.
+411100	<strong>PP<br></strong>What? Huh? What was that?
+415400	<strong>Phil<br></strong>I think we've hit something - but what?

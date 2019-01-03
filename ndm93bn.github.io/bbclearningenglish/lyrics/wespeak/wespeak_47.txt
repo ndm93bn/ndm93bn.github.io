@@ -1,0 +1,28 @@
+1	(Introduction...)
+12777	<strong>Feifei<br> </strong>Hello, I'm Feifei and this is The English We Speak.
+16777	<strong>Rob<br> </strong>...and hello, it's Rob here. Err, Feifei, I hope you don't mind me saying but you look a bit hot and sweaty.
+23666	<strong>Feifei<br> </strong>That's because I've been training for this 'thing' that Dan's having for his birthday.
+28900	<strong>Rob <br> </strong>A 'thing' - what sort of thing?
+30888	<strong>Feifei <br> </strong>Well according to his party invitation, he's having a knees-up to celebrate his birthday.
+36888	I'm not sure what it is but I wanted to be prepared by getting fit. Look I can get my knee up to my chin!
+45155	<strong>Rob<br> </strong>That's impressive but completely unnecessary.
+48670	A knees-up is an informal way of saying a lively party where there's usually dancing. So he's having a party!
+55333	<strong>Feifei<br> </strong>Oh right. So I've been invited to Dan's birthday party!
+60041	Well, if there's dancing I still need to get fit.
+63777	<strong>Rob</strong><br> That's true. Let's hear some more examples of people having a knees-up.
+71666	<strong>Examples<br> </strong>Sorry I'm a bit sleepy today, we had a big knees-up last night.
+77878	It was great! We're planning a knees-up for Dad's 70th birthday, I hope you can come.
+86111	Now our exams have finished, let's have a knees-up at my house tonight!
+93444	<strong>Feifei<br> </strong>So a knees-up is a lively party or gathering to celebrate something. This is going to be fun!
+100500	<strong>Rob<br> </strong>Yes, there'll be dancing.
+102055	<strong>Feifei<br> </strong>Good.
+102777	<strong>Rob</strong> <br> Eating and drinking.
+104000	<strong>Feifei<br> </strong>Perfect.
+104777	<strong>Rob</strong><br> And lots of celebrating. But this knees-up will be missing one thing.
+109266	<strong>Feifei<br> </strong>Oh yes, what's that?
+110555	<strong>Rob<br> </strong>Me. I won't be coming - I haven't got time - I'm up to my knees in paperwork.
+116547	<strong>Feifei<br> </strong>'Up to your knees' in paperwork!
+118791	You mean you've got too much work to do - come on Rob, be honest, you haven't been invited!
+125222	<strong>Rob<br> </strong>Well...yes... I can't dance anyway, I've got a bad knee.
+129600	<strong>Feifei</strong><br> Excuses. I'll let you know how it goes. Bye!
+133437	<strong>Rob</strong><br> Bye!

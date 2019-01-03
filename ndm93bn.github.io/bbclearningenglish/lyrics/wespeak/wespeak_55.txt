@@ -1,0 +1,26 @@
+1	(Introduction...)
+13800	<strong>Rob<br></strong>Hello and welcome to The English We Speak from BBC Learning English. I'm Rob.
+19111	<strong>Feifei<br></strong>And hello, I'm Feifei. We're here to teach you a real English phrase. Rob, what's that you're holding there?
+26777	<strong>Rob<br></strong>Oh this...just a ticket to see one of my favourite rock bands in concert - The Rolling Thrones.
+33666	<strong>Feifei<br></strong>Oh great - and I see you've got more than one ticket.
+37300	<strong>Rob<br></strong>Yes, that's right, a few of us from the office are going - it's tonight! I'm very excited.
+42444	<strong>Feifei<br></strong>[SOUNDING JEALOUS] Oh right - Rob, it sounds fun - maybe I could get a ticket and join you?
+47499	<strong>Rob<br></strong>Why? You don't like rock music and you always stay in and wash your hair on a Thursday - or so you tell me anyway. Oh Feifei, you've got FOMO.
+57888	<strong>Feifei<br></strong>I've got 'FOMO'? Is that bad? Is that why you didn't invite me? Oh dear, should I go and see a doctor?
+64999	<strong>Rob<br></strong>No, don't see a doctor. FOMO is an acronym for 'fear of missing out'.
+70999	It's a worried feeling you have that other people are doing fun things when you are not - you're missing out!
+77055	<strong>Feifei<br></strong>Oh, we'd better hear some examples of other people with FOMO.
+83333	<strong>Examples<br></strong>I know Martha's got FOMO, she's been moaning about not being invited to Wang's karaoke party - but she doesn't even like karaoke!
+93322	All my friends are going on holiday together but I can't afford it so I've got FOMO.
+99990	There's a message on Facebook that all the tickets to that gig are sold out - now I have a feeling of FOMO!
+111165	<strong>Feifei<br></strong>So that's FOMO - fear of missing out - which describes a feeling you might have when you feel other people are doing something fun, when you are not.
+121208	Well Rob, now I know what it means, I know I haven't got it. I just wanted to be sociable, and have some fun with you all.
+129999	<strong>Rob<br></strong>Sorry Feifei, even if you could get a ticket, it's boys only I'm afraid.
+134999	<strong>Feifei<br></strong>Oh look, I've got a message on my social media feed...is the lead singer of your band called Mick Dagger?
+144111	<strong>Rob<br></strong>That's him - the finest rock singer around - why?
+148160	<strong>Feifei<br></strong>It says here, he's fallen down the stairs and broken his leg. The rock concert is cancelled!
+156400	<strong>Rob</strong><br> Cancelled? Oh no. Err, what did you say you were doing tonight?
+162333	<strong>Feifei<br></strong>Washing my hair.
+163633	<strong>Rob<br></strong>Any chance I could come round...watch a movie, get a takeaway?
+168099	<strong>Feifei<br></strong>Oh dear Rob. Have you got FOMO now? Bye.
+172293	<strong>Rob<br></strong>Bye.

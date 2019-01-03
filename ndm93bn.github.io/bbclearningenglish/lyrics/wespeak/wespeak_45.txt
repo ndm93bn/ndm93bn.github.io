@@ -1,0 +1,25 @@
+1	(Introduction...)
+12000	<strong>Neil<br></strong>Hello, I'm Neil...but where is Feifei?
+15444	<strong>Feifei<br></strong>...sorry I'm late! Is it time for The English We Speak?
+18888	<strong>Neil<br></strong>It is Feifei - but catch your breath and have a seat.
+21886	Are you ok? You look a bit of a...mess!
+26111	<strong>Feifei<br></strong>Me? A mess! You would be a mess if you had been where I have been.
+31222	<strong>Neil<br></strong>OK calm down...and what's that smell?
+37111	<strong>Feifei<br></strong>So you think I smell now! I've been to the rubbish dump!
+41555	<strong>Neil<br></strong>The rubbish dump?! Why did you go there?
+44444	<strong>Feifei<br></strong>Because I was looking for Rob earlier and someone said he was down in the dumps.
+49810	<strong>Neil<br></strong>Feifei, that is the last place you will find someone who is down in the dumps.
+53600	It's just a saying that describes someone who is unhappy, fed up and sometimes feels there is no hope.
+59858	<strong>Feifei<br></strong>Oh I get it! Being depressed or unhappy is a miserable feeling - a bit like being at a rubbish dump, actually.
+67777	<strong>Neil<br></strong>Exactly. Let's hear some examples.
+72222	<strong>Examples<br></strong>Don't be so down in the dumps, you're going on holiday tomorrow!
+76999	Oh it's Monday again, no wonder I feel so down in the dumps.
+82444	Reshma has been so down in the dumps since her boyfriend left her.
+87323	<strong>Feifei<br></strong>So that's being 'down in the dumps' - feeling unhappy and miserable.
+95022	So I've had a wasted trip - but I wonder why Rob is 'down in the dumps'?
+101111	<strong>Neil<br></strong>It could be because his football team lost...again.
+104555	<strong>Feifei<br></strong>No, he's used to that happening. It must be something more serious than that.
+110111	<strong>Neil</strong> <br> I know - he's feeling sad because he's not presenting this wonderful programme with you - it's such a great script isn't it!
+116783	<strong>Feifei<br></strong>There's only one place for this script Neil - down in the dump!
+120444	<strong>Neil</strong><br> Ha ha, very funny!
+121999	<strong>Both<br></strong>Bye.

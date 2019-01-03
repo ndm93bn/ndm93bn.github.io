@@ -1,0 +1,64 @@
+1	(Introduction...)
+27222	<strong>Phil<br></strong><em>Hello again. It's day 45. <strong>Passepartout and I were sleeping like babies when we suddenly heard </strong>a loud creaking and cracking sound.
+37706	What could it be? We're in the middle of the Indian Ocean so we can't have hit any rocks.
+44900	Sophia is up on deck steering the yacht â€“ I need to find out what's going on.
+62000	<strong>PP<br></strong>Errâ€¦ what's all that noise? <strong>I was having a wonderful dream â€“ I was saving</strong> the Titanic from hitting an icebergâ€¦
+70400	<strong>Phil<br></strong>Passepartout, something's happened.
+73222	<strong>PP<br></strong>What? Err, where's this water coming from?
+76700	<strong>Phil<br></strong>I'm going up to the deckâ€¦ Sophia, Sophia, what was that noise?
+83800	Sophia?Where's Sophia?! She's not here!
+88921	<strong>PP<br></strong>Out of the way, let me have a lookâ€¦ No, she's definitely goneâ€¦ but hold on, look, we've been swept onto a beach.
+97400	<strong>Phil<br></strong>We're shipwrecked!
+102143	<strong>Phil<br></strong><em>We've landed on a huge, yellow, sandy beach.
+106848	And beyond the beach there's a line of palm trees â€“ with coconuts growing on them.
+113804	It looks like some kind of tropical island.
+117500	Our satnav says we are at 11 degrees south, 100 degrees east - but according to the map there shouldnâ€™t be any land at this location.
+128600	Why are we here, and where is Sophia?
+138000	<strong>PP<br></strong>Phil look, there's a hole in the yacht â€“ that's why the water's coming in.
+143700	<strong>Phil<br></strong>Oh no â€“ what are we going to do? We're castaways, stuck here forever.
+149679	<strong>PP<br></strong>Of course we're not. Just go and collect some palm leaves and a few bits of driftwood.
+155100	<strong>Luckily I learnt some yacht repair skills from a TV programme I watched.</strong> I should be able to patch her up.
+162628	<strong>Phil<br></strong>Aye-aye captain. We need to get back to sea as soon as possible to look for Sophia.
+170570	<strong>PP<br></strong>Hmm, I don't think we'll see her again. The ocean is huge: it's like looking for a needle in a haystack.
+178600	<strong>Phil<br></strong>But, we must try.
+182500	<strong>Phil<br></strong><em>We can't give up on Sophia now. I've collected all the bits that Passepartout needs for the repairs.
+188700	I've made a small fire so I can boil some water and make some much-needed tea.
+194600	<strong>Whilst I was beachcombing I found a beautiful shell.
+200079	According to my encyclopaedia, it is a rare type of conch shell.
+205479	That's lucky â€“ it is one of the things I need to collect as part of my challenge.
+210083	Hmm, that's one bit of good news in a sea of bad news.
+215400	Right, I just need to take a few photos before we go to put on my travel blogâ€¦</em>
+224900	<strong>PP<br></strong>OK, the yacht is fixed, well sort of â€“ give me a hand to scoop out the water that got inside.
+235200	We'll need to head for somewhere where we can get some proper repairs done.
+239400	But I think we can be on our way. You just need to help me push her out to sea. Here goesâ€¦
+245606	<strong>PP<br></strong>â€¦.Jump on Phil. I'll get the sails up and we'll be on our way.
+256500	<strong>Phil<br></strong>Hey look Passepartout â€“ we've picked up a stowaway. A parrot!
+261704	<strong>PP<br></strong>Hmm, wonderful, now I've got someone I can have a proper conversation with!
+267237	<strong>Phil<br></strong>I think we should keep it â€“ it might bring us some good luck.
+271700	<strong>PP<br></strong>If you say so. Now look, according to our map, I think we'll miss Indonesia and head for Papua New Guinea.
+280100	With a good tail-wind we should be thereâ€¦ mmmâ€¦ tomorrow â€“ yes?
+285000	<strong>Phil<br></strong>No Passepartout! We need to sail around here first to search for Sophia.
+290200	She can't be far away â€“ maybe <strong>she fell off when we hit the beach</strong>?
+295200	Hey, I think it's seen something. Quick - where are the binoculars? There! I can see something.
+308205	<strong>Phil<br></strong><em>Sure enough â€“ the parrot has seen something. We've got closer and yes!
+315100	It is Sophia â€“ she's floating on some kind of shipping container.
+320000	I thought she was gone forever, but she's back â€“ and I'm so happy.
+330500	<strong>Sophia<br></strong>Phil, Passepartout, over here. Throw me a rope.
+337500	Oh I'm so pleased to see you again. Oh I'm so hungry and thirsty.
+344700	I'm so sorry. <strong>I fell asleep and a big wave threw me overboard.
+351000	<strong>I tried</strong> to call outâ€¦ but <strong>you didnâ€™t hear me.
+355171	I saw that old container and swam towards it.
+359100	I was drifting about on it</strong> â€“ I thought I would never see you again â€“ I thought I was going to die â€“ but Phil, <strong>you saved me</strong>.
+370500	<strong>Phil<br></strong>Wellâ€¦ I did, didn't I? But <strong>Passepartout helped me</strong> too, I think. <strong>He fixed the boat</strong>.
+379997	<strong>Sophia<br></strong>Oh yes, well done â€“ and who is your new friend?
+385316	<strong>PP<br></strong>Just some parrot. <strong>It decided</strong> to perch on our yacht.
+389500	It hasn't got a name yet but I suppose it can join us for this trip.
+393160	<strong>Sophia<br></strong>Ah, he's cuteâ€¦ I'll try and think of a name.
+397382	In the meantime, how about some of that wonderful tea Phil?
+401978	Come on Passepartout, we've no time to waste, we've got to get moving if we're going to win this race.
+408000	<strong>PP<br></strong>Yes, yes, I know that.
+412308	<strong>Phil<br></strong><em>The team is back together. I'm so pleased <strong>we found Sophia</strong> â€“ although I'm not so sure Passepartout is.
+422600	We <strong>were making very good progress until we got shipwrecked.
+426800	That cost us a lot of time</strong> and now, only hard work and good luck will get us back to London in 80 days.
+434702	Our next stop is Papua New Guinea, where we can finish repairing The Mermaid.
+442800	But how long will that take? Time is running out.

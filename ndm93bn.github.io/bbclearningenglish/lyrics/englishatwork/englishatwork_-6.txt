@@ -1,0 +1,52 @@
+1	(Introduction...)
+4682	<strong>Narrator<br></strong>Hello, welcome back to Tip Top Trading.
+7525	An office meeting has been scheduled, but Paul is running late.
+11287	He's asked Anna to take charge and start the meeting without him.
+15182	<strong>Denise<br></strong>Here you go Anna, it's a print-out of the agenda for the meeting.
+19431	<strong>Anna<br></strong>Thank you. Oh dear, I'm not sure if I know the right words to start meetings.
+24473	<strong>Narrator<br></strong>Well, you can say something like: <strong>Thank you for coming.
+28549	There are five items on the agenda today.
+31794	<strong>Anna<br></strong>Items?
+33153	<strong>Narrator<br></strong>It's a fancy way of saying 'things'.
+36130	Then you list them: <strong>Firstly, secondly, after that, and then, finally.
+43928	<strong>Anna<br></strong>Yes, that's easy.
+45717	<strong>Narrator<br></strong>At the end there is often something called<strong>&nbsp;Any other business</strong>.
+49750	<strong>Anna<br></strong>Any other business?
+51175	<strong>Narrator<br></strong>That's anything else that wasn't listed on the agenda, but that people want to talk about.
+56382	I expect Tom will want to talk about how great he is and Denise will want to talk about her new hairdresser or something.
+63843	Then when it's time for the meeting to end, you can say: <strong>Let's wrap up</strong>.
+68298	It means 'Let's finish'.
+70455	<strong>Anna<br></strong>To wrap up. OK, I'll do my best.
+74176	Ooh, it's time, everyone is gathering.
+80337	Thank youâ€¦ thank you for coming.
+83005	Paul will be here soon, but he asked me to start the meeting.
+87464	There are...one, two, three, four items on the agenda today.
+94828	Firstly, the stock management systems.
+98985	Secondly, plans for a team-building activity.
+104233	After that, the colour of our new apples and finally any other business, before we can wrap up.
+111461	<strong>Paul<br></strong>Oh golly gosh, there you are, here I am, good.
+115708	Hello everyone. Sorry I'm late.
+117533	<strong>Anna<br></strong>I'd just opened the meeting.
+119080	<strong>Paul<br></strong>Great. Remind me what the first item on the agenda is?
+123673	<strong>Anna<br></strong>Stock.
+124787	<strong>Paul<br></strong>Stock? Stock, stock, stock.
+129120	Ah yes, stock management systems, yes, right.
+132712	Well, that's mainly to announce that we need to start developing a good stock management system so we can meet the huge demand Iâ€™m expecting for these laser-curved fruits.
+143068	Anna, I'd like you to lead on that.
+148270	<strong>Anna<br></strong>Me? You want me to be in charge of the stock management systems?
+152629	<strong>Paul<br></strong>Anna's had some excellent ideas already and I think she'll do a great job.
+157315	For these new fruits, stock control will be key to supplying our customers with laser-curve oranges, laser-curve lemons, laser-curve pomegramatesâ€¦
+170128	<strong>Narrator<br></strong>Well, that was good news for Anna - but not surprising after all her hard work.
+175168	She opened the meeting well, too.
+177720	Here's a reminder of the phrases she used: <br>Thank you for coming.
+182152	There are four items on the agenda today.
+185600	Firstly.
+187233	Secondly.
+188933	After that.
+190957	Then.
+192460	And finally.
+194274	Any other business.
+196241	And then we can wrap up.
+199625	There's only one problem for Anna now, winning over Mr Ingle the warehouse manager â€“ that wonâ€™t be easy.
+206873	Well, time for me to wrap up now. See you soon! Bye!
+211963	<h3>Listening Challenge - Answer</h3> <br>What was the second item on the agenda for today's meeting? <br>Plans for a team-building activity.

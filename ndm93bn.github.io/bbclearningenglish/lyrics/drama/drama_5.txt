@@ -1,0 +1,49 @@
+1	(Introduction...)
+29800	<strong>All<br></strong>Wooah! Watch out!
+32800	<strong>Phil<br></strong>That was close.
+37800	<strong>Phil<br></strong><em>Day 35 - we've just missed being hit by a huge container ship. We're all so tired and we didn't see it coming.
+47800	We've been at sea for several days and without our satellite navigation system it's hard to know which way we're going.
+55700	Passepartout needs medical help and <strong>we have to get</strong> more food supplies. <strong>We must find</strong> land soon.
+68220	<strong>Sophia<br></strong>Land ahoy!
+70250	<strong>Phil<br></strong>Land? Really? At last! Come on.
+73800	Let's head for the harbour and find a hospital quickly.
+76800	<strong>Passepartout<br></strong>Oh, my head.
+81800	<strong>Phil<br></strong><em>We're on dry land. It's such a great feeling after just looking at endless water day after day.
+91700	But where are we? People are speaking French and there's a wonderful smell of fresh coffee in the air.
+100900	Anyway, we mustn't waste any more time. Sophia is taking Passepartout to a hospital to see a doctor about the cut on his head.
+112298	<strong>I have to get</strong> our satnav fixed and purchase some more supplies for the next leg of our journey.
+120700	And <strong>I must take</strong> some photographs too to put on my travel blog.
+128400	But wait a minute, I don't know where I am! Time for a walk I think.
+138300	<strong>Phil<br></strong>Excuse me young man - that coffee smells wonderful.
+143600	<strong>Man<br></strong>Oh this is <em>Bourbon Pointu</em> coffee. It's the best in the world and you can only get it here.
+150000	<strong>Phil<br></strong>And where is here?
+153300	<strong>Man<br></strong>Reunion Island.
+155200	<strong>Phil<br></strong>Reunion Island! So that's where we are. Goodness, we really have gone off course!
+162200	<strong>Man<br></strong>Where are you heading?
+163837	<strong>Phil<br></strong>We're supposed to be sailing around the world - but we got lost when our satnav broke.
+170100	<strong>Man<br></strong>Oh <strong>you don't have to worry</strong> about that, my brother fixes gadgets. I'm sure he can help.
+176800	Let me take it for you and if you come back at 4 o'clock it will be ready. Hopefully!
+183600	<strong>Phil<br></strong>Brilliant. And while I'm here can I buy some of those beans?
+189700	<strong>Man<br></strong>Sure. Here, take some coffee beans as a present from me to you - and remember your visit to Reunion.
+198684	<strong>Phil</strong><br><strong><em>I</em></strong><em> <strong>had to bring</strong> home some unique and special coffee beans as part of the challenge, so this is gift is perfect.
+208100	But we have a long way to go; <strong>we mustn't waste</strong> any more time. <strong>I must get on</strong> with the shopping, wait for our satnav to be fixed and hope that Passepartout will be ok.
+223900	<strong>Sophia<br></strong>Phil, Phil...we're back. Passepartout has got some stitches in his head. But I think he'll be fine.
+231100	<strong>Passepartout<br></strong>Oh will I? You're the expert now?
+235000	Maybe if you leave me to sail our yacht we won't have any more little accidents?
+240600	<strong>Phil<br></strong>Come on Passepartout, let's all try to get on shall we?
+245000	I know how useful you are - but Sophia got us safely through to Reunion.
+251900	Come along - let's all be friends. OK?
+255600	<strong>Passepartout<br></strong>OK then. How's the satnav?
+259600	<strong>Phil<br></strong>It's fixed and it didn't cost much. Look, if I switch it on.
+265730	I can tell you exactly where we are: 21 degrees south, 55 degrees east.
+274850	<strong>Sophia<br></strong>Impressive!
+276500	<strong>Phil<br></strong>Yes, and look, I've got some special coffee to take home. Bourbon Pointu.
+283700	<strong>Sophia<br></strong>Another one of your 'souvenirs'! Come on, <strong>we must get going</strong> - the weather forecast says there's a big storm coming and <strong>we have to avoid</strong> it.
+292200	<strong>Phil<br></strong>Yes, good idea. We can't waste any more time. Let's get back to the harbour.
+298000	Passepartout, could you carry these bags of food please...they're...quite heavy.
+315000	<strong>Sophia<br></strong>Isn't this where we left the yacht - between these two other boats?
+320600	<strong>Passepartout<br></strong>Are you sure Sophia? We did arrive in a rush.
+324300	<strong>Phil<br></strong>No, it was definitely here. In fact - look - these are our ropes. They've been cut.
+332603	I don't believe it but I think our yacht has been stolen.
+339000	<strong>Phil<br></strong><em>Stolen! It couldn't get any worse. We're stuck halfway around the world with no yacht.
+350200	There is no way we can get round the world in 80 days now. We've got to find our yacht - but where is it?

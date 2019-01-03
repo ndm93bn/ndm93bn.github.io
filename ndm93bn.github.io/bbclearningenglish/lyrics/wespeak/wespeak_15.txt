@@ -1,0 +1,31 @@
+1	(Introduction...)
+12888	<strong>Feifei<br></strong>Welcome to The English We Speak, I'm Feifei.
+16333	<strong>Neil<br></strong>And I'm Neil. Feifei - what do you think of my new phone?
+19700	<strong>Feifei<br></strong>Let's have a look - hmm...it looks...unusual.
+24400	<strong>Neil<br></strong>It's great. This guy sold it to me.
+26900	He said it was a top-secret new model - it's not been released in the shops yet. Here, look.
+32535	<strong>Feifei<br></strong>How do I...unlock it?
+34800	<strong>Neil<br></strong>You just...err...it's frozen. Let me just...no.
+41587	<strong>Feifei<br></strong>Who did you say you bought it from?
+43493	<strong>Neil<br></strong>A guy on the street.
+44900	<strong>Feifei<br></strong>I hate to say it Neil, but I think he <strong>pulled a fast one</strong> on you!
+48600	<strong>Neil<br></strong>But he...oh no.
+51900	<strong>Feifei<br></strong>Sorry. To <strong>pull a fast one</strong> means to deceive or play a trick on someone.
+57401	We say you <strong>pull a fast one</strong> on or with somebody.
+60689	The phone seller <strong>pulled a fast one</strong> on Neil. Listen to these examples:
+67960	<strong>Examples<br></strong>The shopkeeper tried to <strong>pull a fast one</strong> on me.
+71205	He gave me a Â£5 note as change instead of a Â£20 note.
+77435	Don't you try and <strong>pull a fast one</strong> with me!
+80632	I know you're not really sick. Get back to work.
+87682	<strong>Neil<br></strong>So, that's it. All that money wasted. What an idiot.
+98265	Oh, is that my phone?
+100772	<strong>Feifei<br></strong>Sorry, it's mine. Hello? Yes. No, I don't think so. Thanks!
+107600	<strong>Neil<br></strong>Who was it?
+108592	<strong>Feifei<br></strong>The guy called to say I've won a million pounds.
+111500	All I have to do is give him my bank details and he'll pay me.
+115111	<strong>Neil<br></strong>Someone else trying to <strong>pull a fast</strong> one!
+117789	<strong>Feifei<br></strong>Sadly, yes! I could do with a million pounds.
+121048	I'd even buy you a new phone, Neil.
+122666	<strong>Neil<br></strong>You're too kind.
+123733	<strong>Feifei<br></strong>And that's it for this edition of The English We Speak.
+127600	<strong>Neil<br></strong>Bye.

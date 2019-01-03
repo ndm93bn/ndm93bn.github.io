@@ -1,0 +1,64 @@
+1	(Introduction...)
+10039	<strong>Finn<br></strong>Hello. Welcome to 6 Minute Grammar with me, Finn.
+13864	<strong>Sophie<br></strong>And me, Sophie. Hello. Today, we're talking about the word <strong>like</strong>.
+20439	<strong>Finn<br></strong>Yes, the word <strong>like</strong>. We'll be looking at two different ways to use it.
+25795	<strong>Sophie<br></strong>We'll also give you a useful tip about time expressions.
+25795	<strong>Finn<br></strong>And there'll be a quiz to practice what we've studied.
+29601	<strong>Sophie<br></strong>And we'll even get to find out a bit of personal information about Finn!
+33293	<strong>Finn<br></strong>Oh no, not too personal I hope!
+35293	<strong>Sophie<br></strong>Let's wait and see shall we? Now - the word <strong>like</strong>.
+41806	<strong>Finn<br></strong><strong>Like</strong>. It's an interesting word in English, because when it comes to grammar, we can use it as a verb and we can also use <strong>like </strong>as a preposition.
+53877	<strong>Sophie<br></strong>So let's start with <strong>like </strong>as a verb. And here's Neil with our first example:
+60148	<strong>Neil<br></strong><em>James likes playing football.
+64167	<strong>Finn<br></strong>Thank you Neil. So we have the subject 'James', the verb <strong>likes</strong>, and the object <strong>playing football</strong>.
+72605	Let's hear it again â€“ this time, Neil, as a question.
+75744	<strong>Neil<br></strong>Does James like playing football?
+78477	<strong>Sophie<br></strong>This question is made with <strong>does </strong>plus the subject, plus the base form of the verb <strong>like</strong>.
+86197	<strong>Finn<br></strong>And the verb <strong>like </strong>is asking about preference â€“ things you enjoy.
+92475	<strong>Sophie<br></strong>Yes exactly. For example, I can find out about Finn's sporting preferences by asking: <strong>Do you like playing football?
+101053	Do you like playing football, Finn?
+103289	<strong>Finn<br></strong>I love playing football! But sadly, I'm not very good.
+107627	Now, the second way we can use <strong>like </strong>is when we ask for a description, like this:
+115687	<strong>Neil<br></strong>What's your house like?
+117238	<strong>Sophie<br></strong>So here, <strong>like </strong>is a preposition, not a verb, and it goes at the end of the question.
+124295	<strong>Finn<br></strong>This time, we don't use <strong>do </strong>or <strong>does</strong>.
+127928	The question is made of <strong>what</strong> plus the verb <strong>to be</strong>, plus the subject plus <strong>like</strong>.
+135281	What's your house like, Sophie?
+138105	<strong>Sophie<br></strong>My house Finn? It's very beautiful actually! Let's have another example:
+145640	<strong>Neil<br></strong><em>What was your weekend like?
+148974	<strong>Finn<br></strong>So â€“ thank you Neil â€“ it's <strong>what </strong>plus <strong>to be</strong>, plus a subject, plus <strong>like</strong>, to ask for a description.
+158614	And as for the answer â€“ remember to use adjectives in your descriptions. What was your weekend like, Sophie?
+166668	<strong>Sophie<br></strong>It was lovely, thank you Finn. Very relaxing!
+170147	I had coffee with friends, and then we went for a long walk! What was your weekend like?
+174943	<strong>Finn<br></strong>It was very very busy. I spent the whole weekend tidying my flat.
+181208	<strong>Sophie<br></strong>You poor thing! Now, you can also use <strong>like </strong>to ask someone to describe a person.
+187986	Finn, what's your dad like?
+190074	<strong>Finn<br></strong>My Dad, my Dad's great. He's very clever.
+193079	<strong>Sophie<br></strong>Clever, eh?
+193661	<strong>Finn<br></strong>Yep. And he's tall...and he's a little bit bald. And he likes writing, too!
+201612	<strong>IDENT<br></strong>You're listening to bbclearningenglish.com.
+207329	<strong>Sophie<br></strong>And in this programme we're finding out a bit about Finn.
+210538	<strong>Finn<br></strong>And we're talking about using <strong>like </strong>in two different ways.
+215649	<strong>Sophie<br></strong>We can use <strong>like </strong>as a verb to show preference, for example: 'My mother likes Italian food' or 'Does your father like reading?'
+224998	<strong>Finn<br></strong>And we can use <strong>like </strong>as a preposition with the verb <strong>to be </strong>to ask for descriptions, starting with <strong>what </strong>and ending with <strong>like</strong>.
+236116	<strong>Sophie<br></strong>Finn, what's your girlfriend like?
+238080	<strong>Finn<br></strong>A good example but I think that's enough personal questions for one programme!
+244416	It's time for a quiz. I'm going to ask three questions.
+252431	For each question, first: can you decide whether I'm asking for preference or for a description.
+259605	Then - answer the question! Here's the first one: <em>Do you like Chinese food?
+271366	<strong>Sophie<br></strong>Right, well the question starts with <strong>does</strong>, and <strong>like</strong> isn't at the end, so you're asking for preference.
+278818	Actually, I really like Chinese food.
+282114	<strong>Finn<br></strong>Me too! Now, the next one.
+284748	<em>What's the new shopping centre like?
+289201	<strong>Sophie<br></strong>This question starts with w<strong>hat</strong>, ends in <strong>like</strong>, and there's no <strong>do, does </strong>or <strong>did</strong>, so you're asking for a description.
+298266	The new shopping centre is usually very busy!
+301545	<strong>Finn<br></strong>Is it indeed! Now, here's the last question.
+304141	<em>What movies do you like?
+309046	<strong>Sophie<br></strong>This is an interesting one: the question starts with <strong>what</strong>, and ends with <strong>like</strong>, but it has <strong>do</strong>, so <strong>like </strong>is a verb, and you're asking for preference.
+320519	What movies do I like? I like comedies.
+324280	<strong>Finn<br></strong>Me too. Well done if you got those right.
+330217	<strong>Sophie<br></strong>So, that's <strong>like </strong>as a verb to talk about preference, and <strong>like </strong>as a preposition to ask for a description.
+337902	Remember to use <strong>do </strong>or <strong>does </strong>for preference and <strong>to be </strong>for a description.
+342810	<strong>Finn<br></strong>Now, there's lots more about this on our website at bbclearningenglish.com.
+349129	Do join us again for more 6 Minute Grammar.
+353177	<strong>All<br></strong>Bye.

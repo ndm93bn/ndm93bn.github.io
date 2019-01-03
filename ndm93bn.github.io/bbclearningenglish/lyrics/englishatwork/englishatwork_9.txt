@@ -1,0 +1,62 @@
+1	(Introduction...)
+4800	<strong>Narrator <br></strong>Welcome back to English at Work, where Anna and Tom are in a bit of a predicament.
+10100	Following a successful business meeting, they've returned to the airport to discover their flight has been cancelled.
+17100	What are they going to do next?
+21300	<strong>Tom <br></strong>Right, they've rebooked us on to the next flight, which is at 7 o'clock tomorrow morning.
+27500	<strong>Anna <br></strong>Tomorrow morning?! What are we going to do until then?
+31700	<strong>Tom <br></strong>It's OK Anna, calm down. I've sorted out a hotelâ€¦ quite a nice one actually.
+37813	<strong>Anna <br></strong>But what about our new contract? I've got to sort it out!
+42400	<strong>Tom <br></strong>Anna, take a deep breathâ€¦ it'll be ok. Let's go and get a drink and we'll work things out.
+50800	<strong>Narrator <br></strong>Anna, maybe Tom's right for once. Go and enjoy some French hospitality.
+56908	You've done really well today but perhaps you should keep your boss Paul in the picture.
+62300	<strong>Anna <br></strong>In the picture? I didn't take any photos.
+65200	<strong>Narrator</strong><br>No Anna! I mean keep him informed.
+68600	It's always a good idea to keep the boss updated on what's going on â€“ he is the boss after all.
+75000	<strong>Anna</strong><br>OK. I will.
+81200	<strong>Tom <br></strong>Yeah, this one looks quite cosy. I'll order us a beer shall I?
+86800	<strong>Anna <br></strong>I'd prefer an orange juice please.
+89050	<strong>Tom <br></strong>Oh really? OK then. Err, Garcon. Je m'appelle un beer et citron juice thing. Au revoir!
+102100	<strong>Anna <br></strong>! No Tom! Pardon, Je voudrais une grande biere et du juice d'orange s'il vous plait.
+109200	<strong>Waiter <br></strong>Oui Madame.
+110200	<strong>Tom <br></strong>I think she likes you! Well, everyone likes you Anna. I like you becauseâ€¦
+116050	<strong>Anna <br></strong>I like you too Tom but don't you think I should call Paul and update him on what's going onâ€¦ keep him in the picture?
+126600	<strong>Tom <br></strong>I dunno. Let's just enjoy this moment shall we?
+131500	And besides, he'll be at his biscuit appreciation class by now.
+136200	<strong>Anna <br></strong>No. I would be happier just to call him.
+139600	Could I borrow your mobile phone please? My battery has run out.
+144030	<strong>Tom <br></strong>Yeah sure. You'll find his number under <em>Attila the Hun</em>.
+149700	<strong>Anna <br></strong>Attila the Hun?
+151700	<strong>Tom <br></strong>Just my little joke!
+153700	<strong>Anna <br></strong>Cheeky! But hold onâ€¦ what am I going to say to him?
+159142	<strong>Narrator <br></strong>Well, don't call him Attila the Hun!
+161900	Think before you call him: <em>It's good news â€“ you've closed the deal and the contract is signed.
+169100	We need to proceed with the order as quickly as possible</em>.
+173100	And say, <em>I'm committed to getting the order delivered on time. But if you need help, ask for it.
+179700	<strong>Anna <br></strong>OK I will. It's ringingâ€¦
+189303	<strong>Paul <br></strong>Hello?
+190600	<strong>Anna <br></strong>Hi Paul. It's Anna. I've got some good news!
+194400	<strong>Paul <br></strong>Hold on. Sorry, I'm just munching some new crumbly cream biscuits.
+199971	Now, what's the good news? Is it about the contract?
+203818	<strong>Anna <br></strong>Yes! I've closed the deal with Fruit Traders International and the contract is signed.
+209645	<strong>Paul <br></strong>Excellent news.
+211300	<strong>Anna <br></strong>To keep them happy, we need to proceed with the order as quickly as possible.
+215800	<strong>Paul <br></strong>Of course, of course. So what are you planning to do?
+220150	<strong>Anna <br></strong>Well, obviously, I'm committed to getting the order delivered on time but I might need some help. I wonder if Tom couldâ€¦
+229650	<strong>Paul <br></strong>Yes, Tom can help you. Denise tells me you have aâ€¦ special chemistry!
+234800	Actually, where is Tom now? Is he home yet?
+239400	<strong>Anna <br></strong>He's not. Actually Paul, Tom and I are going to stay in a hotel tonightâ€¦ Hello?
+249402	Hello? Oh, I've lost the signal, he's gone.
+255800	<strong>Tom <br></strong>Never mind Anna. I think he got the message. Another drink?
+264100	<strong>Narrator <br></strong>Let's hope Paul has got the<em> right</em> message about Anna and Tom!
+268500	Anyway, she's briefed the boss and kept him in the picture. Here's a reminder of some of the phrases she used:
+276300	<em>It's good news â€“ I've closed the deal and the contract is signed.
+281400	<em>We need to proceed with the order as quickly as possible.
+285100	<em>I'm committed to getting the order delivered on timeâ€¦ but I will need some help.
+291300	<strong>Narrator</strong><br>A good day's work for Anna but now it's time for bed.
+297307	<strong>Tom</strong><br>Right, well, it's time for bed. We've got an early start tomorrow.
+302592	<strong>Anna</strong><br>So, where are we staying?
+304800	<strong>Tom</strong><br>A lovely little boutique hotel, just round the corner. I've booked a room with a view.
+310401	<strong>Anna</strong><br>A room? One room?!
+313700	<strong>Tom</strong><br>Err yeah. That's all they had, actuallyâ€¦ honest!
+318700	<strong>Narrator</strong><br>Hmm. This could be interesting.
+321885	Let's hope things remain professional. Until next time.Bye!

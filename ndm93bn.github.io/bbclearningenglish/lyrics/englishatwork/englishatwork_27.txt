@@ -1,0 +1,50 @@
+1	(Introduction...)
+3900	<strong>Tom<br></strong>Has anyone seen the stapler?
+6403	<strong>Anna</strong><strong><br></strong>I can't find any pens.
+8450	<strong>Tom</strong><strong><br></strong>Oh, here it is.
+10333	<strong>Paul</strong><strong><br></strong>Will someone answer that phone?
+13200	<strong>Narrator</strong><strong><br></strong>Hello again and welcome back to English at Work.
+17625	The offices of Tip Top Trading have become chaotic since Denise left and just at a time when things are getting busy.
+25800	How is everyone going to cope? Let's find out.
+34347	<strong>Tom</strong><strong><br></strong>Hello. Yes? It is... We're very busy at the moment so call back later. Bye.
+41111	<strong>Anna</strong><strong><br></strong>That was a bit rude Tom.
+43055	<strong>Tom</strong><strong><br></strong>Well we're too busy to be nice.
+45400	<strong>Narrator</strong><strong><br></strong>Hmm...Not a good attitude Tom. Even when you are busy at work it's important to be polite on the phone.
+53263	It could be a potential customer. Anna, I think you're going to have to remind Tom about this.
+60110	<strong>Anna</strong><strong><br></strong>Yes, I think so.
+61684	<strong>Narrator</strong><strong><br></strong>If things are busy in the office you could say to someone on the phone 'we're a bit busy at the moment, could I take your name and number and we'll call you back'?
+71819	And, 'when would be a convenient time to call you?'
+75888	or if the caller wants to speak to someone specific you could say 'could I take a message please and I'll make sure he or she calls you back?'
+86500	<strong>Anna</strong><strong><br></strong>That's useful. Oh there goes the phone again.
+90164	<strong>Paul</strong><strong><br></strong>Anna, could you get that please? I've got a mouthful of biscuit. Thanks.
+96999	<strong>Anna</strong><strong><br></strong>Sure Paul. Hello? Tip Top Tradingâ€¦ yes, that's rightâ€¦ but things are a bit busy at the moment.
+106400	Could I take your name and number and I'll call you back as soon as I canâ€¦ oh hold on, has anyone got a pen?
+113333	<strong>Tom</strong><strong><br></strong>I think we've run out. Denise usually orders them.
+117000	Here, use my souvenir pen I bought in Italy, you see it changes colour if you hold it up to the light.
+124000	<strong>Anna</strong><strong><br></strong>Thanks. Oh no! There's no paper to write it on.
+128555	<strong>Tom</strong><strong><br></strong>Here, write it on my hand.
+130800	<strong>Anna</strong><strong><br></strong>OK. Hold still. 7-4-9-0-5-6-8.
+140981	Thanks for your patience, when is a good time to call you back?
+144897	â€¦ OKâ€¦ 3 o'clockâ€¦ I'll call you then. Goodbye.
+148999	<strong>Tom</strong><strong><br></strong>Sounds important.
+150666	<strong>Anna</strong><strong><br></strong>Possibly. Oh not again! Hello, Tip Top Trading, Anna speakingâ€¦ I seeâ€¦ Well he doesn't seem to be here at the momentâ€¦ can I take a message and I'll get him to call you back?
+166504	Tom, I need your other hand to write onâ€¦ keep still. OK, what's the message?
+173666	â€¦ Yes, call Bob about the lemons on 8-0-9-5-2-4. OK, I'll pass that on. Thanks. Bye.
+186777	<strong>Tom</strong><strong><br></strong>Goodness. It's been crazy here since Denise left.
+191030	Look we've even run out of teabags. I'll go and get some, shall I?
+195900	<strong>Paul</strong><strong><br></strong>Hold on Tom. Has that invoice for Tutti Fruity been sent out yet?
+200555	<strong>Tom</strong><strong><br></strong>I dunno. Denise usually sends out the paperwork.
+203800	<strong>Anna</strong><strong><br></strong>I wish Denise was here!
+205999	<strong>Narrator</strong><strong><br></strong>So do we all! It sounds like chaos in the office but however hectic things can get, remember to remain professional when answering the phone.
+216100	Here's a reminder of some of the phrases you could useâ€¦
+220000	<em>We're a bit busy at the moment; could I take your name and number and we'll call you back?
+225800	<em>When would be a convenient time to call you?
+228777	<em>Could I take a message please and I'll make sure he or she calls you back?
+242444	<strong>Anna</strong><strong><br></strong>Ah there you are, Tom, you've been a long time. I need to give Paul that important message I wrote on your hand.
+249222	<strong>Tom</strong><strong><br></strong>Ahâ€¦ yesâ€¦ it's a bit tricky. You see, I went to the toilet and then Iâ€¦ washed my hands.
+261225	<strong>Anna</strong><strong><br></strong>Oh no, you've washed the messages off! What are we going to do now?
+266555	<strong>Tom</strong><strong><br></strong>Ermâ€¦ I'll get that, shall I?
+268361	<strong>Anna</strong><strong><br></strong>We can't carry on like this.
+270555	<strong>Narrator</strong><strong><br></strong>No you can't! Has Anna lost the numbers of two potential clients?
+276000	Can the company carry on like this? It certainly looks like it could do with another pair of hands.
+282018	What will happen next? Join us again next time for English at Work. Bye!

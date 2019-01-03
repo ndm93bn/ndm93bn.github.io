@@ -1,0 +1,32 @@
+1	(Introduction...)
+6444	<strong>Feifei<br></strong>Morning Neil. In a rush today, were you?
+9717	<strong>Neil<br></strong>Just a bit, Feifei. You know, kids, breakfast, commute. The usual. Why?
+16022	<strong>Feifei<br></strong>Well - I noticed your shirt isn't ironed.
+19788	<strong>Neil<br></strong>Very attentive of you.
+21275	<strong>Feifei<br></strong>And your shirt has - ketchup on it?
+24777	<strong>Neil<br></strong>Oops, yes - beans for breakfast.
+27555	<strong>Feifei<br></strong>And you haven't shaved, have you?
+29888	<strong>Neil<br></strong>Well, no. Erm.
+32222	<strong>Feifei<br></strong>You really do need to make more of an effort.
+35366	<strong>Neil<br></strong>Feifei, why are you having a go at me?
+37200	<strong>Feifei<br></strong>Relax, Neil. I'm just giving you the opportunity to use the phrase we are teaching, which is: 'have a go'!
+44597	<strong>Neil<br></strong>Well that's a relief.
+45777	<strong>Feifei<br></strong>'To have a go at someone', as we've just seen, means to criticise someone.
+50555	<strong>Neil<br></strong>That's right. Here are some examples.
+54844	<strong>Examples<br></strong>The boss really had a go at Michaela after she offended our clients.
+59777	Susie had a go at her husband last night.
+62444	He'd forgotten all about her birthday.
+64888	Why do you always have a go at me?
+67666	Why can't you say something nice?
+71999	<strong>Feifei<br></strong>That's our phrase. 'To have a go at someone' - which means to criticise someone.
+77436	<strong>Neil<br></strong>There. Can we be nice to each other now?
+79900	<strong>Feifei<br></strong>Well, we can have a go!
+81600	<strong>Neil<br></strong>Ah, very clever. 'To have a go' has another meaning - 'to try'.
+86777	<strong>Feifei<br></strong>Yes - if you have a go at something, you try it.
+90534	<strong>Neil<br></strong>Why don't you have a go at making an example sentence, Feifei?
+93666	<strong>Feifei<br></strong>Ok then. I'm going to have a go at cooking a Thai curry from scratch.
+98706	<strong>Neil<br></strong>Tasty. 'To have a go' meaning 'to try'.
+101989	And one last thing, Feifei. Do I really look scruffy?
+104988	<strong>Feifei<br></strong>Not at all. Though you could shave once in a while.
+109045	<strong>Neil<br></strong>I'll have a go. Just for you Feifei.
+111333	<strong>Feifei</strong><strong> + Neil<br></strong>Bye.

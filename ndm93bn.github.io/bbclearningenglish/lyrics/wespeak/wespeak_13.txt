@@ -1,0 +1,28 @@
+1	(Introduction...)
+12708	<strong>Feifei<br></strong>Hello I'm Feifei and this is The English We Speak. With me today is Rob.
+17600	<strong>Rob<br></strong>Hello everyone.
+18590	<strong>Feifei<br></strong>Rob, are you OK - you look in pain?
+22340	<strong>Rob<br></strong>I am - I've just been to the dentist. Ouch.
+26102	<strong>Feifei<br></strong>Hmm, not my favourite place - but I guess you had to go to research today's piece of authentic English?
+32906	<strong>Rob<br></strong>Excuse me?
+33903	<strong>Feifei<br></strong>Well today's expression is 'to cut your teeth' - and dentists look at teeth?
+39900	<strong>Rob<br></strong>Sorry Feifei, that's one tooth-related expression that doesn't need a dentist.
+44231	When you 'cut your teeth' you get your first experience doing something in a particular job.
+49250	<strong>Feifei<br></strong>Oh really. So it's like work experience?
+51968	<strong>Rob<br></strong>Yes, that's one way of learning a new skill which you might use later in your job.
+56100	I cut my teeth in radio production by working in local radio.
+59941	<strong>Feifei<br></strong>...and you're still cutting your teeth now Rob?!
+62400	<strong>Rob<br></strong>Ha ha, let's hear some examples of this phrase shall we?
+67853	<strong>Examples<br></strong>Dan cut his teeth on a local newspaper before landing a job on a national daily.
+74226	He cut his teeth running the junior football club before becoming a professional referee.
+82300	<strong>Feifei<br></strong>So 'to cut your teeth' means to acquire initial practice or experience in a particular job or activity.
+89860	We could say it's where you get your basic skills.
+93300	<strong>Rob<br></strong>Correct - so where do you think you cut your teeth for this job Fefei?
+97300	<strong>Feifei<br></strong>I cut my media teeth at university.
+100650	<strong>Rob<br></strong>Ouch!
+101600	<strong>Feifei&nbsp;<br></strong>Sorry, what did I say?
+102900	<strong>Rob<br></strong>No it's not you - it's this filling I had done - that's why I went to the dentist.
+107455	He really was rough.
+108981	<strong>Feifei<br></strong>Rob, I think you should go home and rest.
+112300	<strong>Rob<br></strong>Maybe!
+113156	<strong>Both</strong><br> Bye!

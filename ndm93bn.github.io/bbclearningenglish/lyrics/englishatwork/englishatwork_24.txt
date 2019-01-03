@@ -1,0 +1,67 @@
+1	(Introduction..)
+4700	<strong>Denise<br></strong>Morning everyone. How did you get on at the conference?
+8888	<strong>Tom<br></strong>Oh hi Denise. Yeah it wasâ€¦ it was OK.
+11777	<strong>Anna<br></strong>What do you mean 'OK'? It was great.
+15055	We made some new contacts and we won an award â€“ Best Plastic Innovation of the Year, for our Imperial Lemon.
+23777	<strong>Denise<br></strong>Oh that's wonderful. Wish I'd been there.
+29465	<strong>Tom<br></strong>Maybe next year eh?
+31225	<strong>Narrator<br></strong>Maybe? Welcome back to the offices of Tip Top Trading where everyone is catching up on yesterday's good news.
+40333	But today it's bad news that everyone is going to hear following Paulâ€™s chat with the big boss, Mr Socrates.
+47334	But how bad is it? Let's find out.
+51777	<strong>Paul<br></strong>Morning everyone.
+53222	<strong>Anna<br></strong>Hi Paul. Everything OK?
+55666	<strong>Paul<br></strong>Yes, fine. Well done for winning Employee of the Year â€“ I hope you can continue to be a great employee. Excuse me.
+65332	<strong>Denise<br></strong>Hmm, he sounded odd. What did he mean?
+70367	<strong>Tom<br></strong>Probably run out of biscuits!
+73599	<strong>Anna<br></strong>He's obviously got something on his mind.
+76901	<strong>Paul<br></strong>Denise, could I have a word with you in my office please?
+82444	<strong>Denise<br></strong>Of course. I'll bring my notepad and pen shall I?
+86888	<strong>Tom<br></strong>What's that all about? Anyway, now we're alone, I wanted to see what you're doing tonightâ€¦ are you free?
+95668	<strong>Anna<br></strong>Sorry Tom, I'm seeing Dave tonight. He's offered to fix something on my computer at home.
+101000	<strong>Tom<br></strong>Oh, has he now?
+104200	<strong>Denise<br></strong>All the years I've worked here â€“ why me? Why now?
+110777	<strong>Anna<br></strong>Denise, what's up?
+112833	<strong>Denise<br></strong>Paul says he needs to <em>move the furniture around</em> and he has to <em>let me go</em>.
+119533	He says he can't afford me anymore.
+124000	<strong>Anna<br></strong>That's terribleâ€¦ but where's he letting you go to? And what furniture is he moving?
+129628	<strong>Narrator<br></strong>No Anna! If someone says they are '<em>moving the furniture</em>' they really mean they are restructuring or changing the business.
+138400	And if they say '<em>they have to let you go</em>', it means they are sacking you or in other words, ending your job.
+146000	<strong>Anna<br></strong>Sacking you? Oh, that is serious. Denise, I'm really sorry to hear this.
+154111	But why does Paul want to '<em>move the furniture</em>' around?
+157444	<strong>Denise<br></strong>He says it's because of the tough economic situation. My role is no longer needed
+166000	<strong>Tom<br></strong>Hey, that's not true. You make a great cup of tea Denise.
+170172	I've got a good mind to smash Paul's bourbons into tiny crumbs. Grrr.
+175418	<strong>Anna<br></strong>Calm down Tom. Now Denise, when did Paul say you had to go?
+181936	<strong>Denise<br></strong>He's given me <em>seven days' notice</em>.
+186999	<strong>Narrator<br></strong>A '<em>notice period</em>' is an amount of time an employer must give an employee if they plan to terminate their employment.
+195999	<strong>Denise<br></strong>I never thought I would be <em>facing redundancy</em>â€¦ not nowâ€¦ not at my age.
+203041	<strong>Anna<br></strong><em>Redundancy</em>?
+204222	<strong>Narrator<br></strong>Yes, if someone says '<em>they are facing redundancy</em>', itâ€™s another way of saying they are losing their job.
+211508	Hmm, I think Denise needs a shoulder to cry on.
+214651	<strong>Anna<br></strong>Yes. Denise, do you want my shoulder to cry on?
+219333	<strong>Denise<br></strong>Oh thanks.
+222999	<strong>Tom<br></strong>Urgh! Ermâ€¦ Denise, I've just made some tea would you like a cup?
+228800	<strong>Denise<br></strong>Oh yes please.
+231200	<strong>Tom<br></strong>Here you go. You know Denise, you've got to think positively.
+236222	You'll get another jobâ€¦ and let's face it you didn't like working here anywayâ€¦ you always looked so miserable.
+245666	<strong>Narrator<br></strong>I don't think Tom's attempts to cheer Denise up are going to work!
+250613	Losing your job can be a traumatic experience. It can come as a surprise and a shock.
+257000	Let's hear the phrases Paul used to break the news to Denise:
+261036	<em>We've got to move the furniture around.
+265666	<em>I'm afraid I've got to let you go.
+269555	<em>I'm giving you seven days' notice.
+272444	<strong>Narrator<br></strong>And here are some other expressions you may hear in connection with losing your job:
+278222	<em>Facing redundancy</em>
+281777	<em>Getting the sack</em>
+284777	<em>Terminating your employment</em>
+288231	<em>Leaving the company</em>
+295777	<strong>Denise<br></strong>Right, well, I might as well start clearing out my desk.
+300900	<strong>Tom<br></strong>Yeah it's a real shame. Any chance I could have your stapler?
+306017	<strong>Anna<br></strong>Tom, you could be a bit more sympathetic.
+308666	<strong>Tom<br></strong>Oh right.
+309700	<strong>Paul<br></strong>Tom, Anna. Could I have a word in my office please?
+315222	<strong>Tom<br></strong>Oh no. This is it. It's my turn to get the chop!
+320100	<strong>Denise<br></strong>Ha, You might not need my stapler after all!
+323555	<strong>Narrator<br></strong>Crikey! Things aren't looking good at Tip Top Trading.
+327500	Are Tom and Anna getting the chopâ€¦ I mean, the sack?
+331444	Join us again next time on English at Work.

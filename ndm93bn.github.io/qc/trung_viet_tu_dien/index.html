@@ -1,0 +1,42 @@
+<html>
+<head>
+<meta charset = "utf-8"/>
+<style>
+.slider{
+  padding:0px;
+}
+  body{
+    padding: 20px;
+    
+  }
+  
+</style>
+</head>
+<body>
+  <br>
+  <div style='text-align: justify;'><font color='#424242'><b>Thông báo:</b><br><br> Hiện tại server phục vụ chức năng dịch văn bản trong ứng dụng <b>Từ điển Trung Việt</b> của
+    Bkit Software đang bảo trì.<br> <br>Do vậy các bạn tạm thời sử dụng ứng dụng <b>Dịch Tiếng Trung</b> (Hỗ trợ dịch văn bản, dịch câu nhanh hơn, chính xác
+    hơn) thay thế <a href='https://play.google.com/store/apps/details?id=com.bktranslator.trungviet'>Link tải</a>. 
+    <br><br>Chúng tôi sẽ cố gắng khắc phục sớm nhất có thể. Rất xin lỗi mọi người, cảm ơn mọi người đã sử dụng và ủng hộ phần mềm trong thời gian qua!</font>
+  </div>
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}
+    x[myIndex-1].style.display = "block";
+    setTimeout(carousel, 20000);
+}
+  </script>
+<br><br><br>
+</body>
+</html>

@@ -1,0 +1,71 @@
+1	(Introduction...)
+4409	<strong>Narrator<br></strong>Welcome back to English at Work. Anna is acting up as boss because Paul had an accident with a biscuit!
+12735	But her and Tom are in a panic after finding a note in Paul's diary that said 'Socrates, IPC, final'.
+22500	Could it mean bad news for Tip Top Trading? Letâ€™s find out.
+27555	<strong>Tom<br></strong>It's very odd and it can't be good. But Socrates must mean Mr Socrates.
+35111	<strong>Anna<br></strong>Yes â€“ but IPC? What's that mean?
+40888	<strong>Tom<br></strong>Yeah and <em>final</em> sounds veryâ€¦ final. Hmmâ€¦ I've got it!
+49761	IPC â€“ it must be code for imminent post closures â€“ they're going to sack us all!
+58666	<strong>Anna<br></strong>Sshh. Keep your voice down. Don't tell everyone.
+62725	Let's check things out first, don't say anything yet. OK?
+67000	<strong>Tom<br></strong>OK. Mum's the word.
+69222	<strong>Anna<br></strong>Your mum knows?!
+70444	<strong>Tom<br></strong>No, no, no, it's our little secret. See you later.
+76111	<strong>Denise<br></strong>Everything OK Tom?
+78700	<strong>Tom<br></strong>Oh yeah, everything's cool. Actually Denise, it's not.
+83300	I think we're all going to be sacked tomorrow by Mr Socrates.
+85949	<strong>Denise<br></strong>What?! No! I've got a hairdresser's appointment on Saturday, how am I going to pay for it now?
+92777	What am I going to do? I know, I'll call Marge.
+97200	<strong>Tom<br></strong>Hey Brian, Peteâ€¦ we're all going to be sacked tomorrow.
+102444	<strong>Narrator<br></strong>Ermâ€¦ Anna, you've got a problem brewing.
+106555	<strong>Anna<br></strong>What?
+107333	<strong>Narrator<br></strong>Tom's spreading rumours about job cuts. Everyone's starting to panic.
+112666	<strong>Anna<br></strong>Oh no! I'd better do something but what shall I say?
+117163	<strong>Narrator<br></strong>Call a meeting quickly. Tell the team 'there are some rumours going around that are not true'.
+123666	Say, 'I am trying to establish the facts and I will let you know as soon as I have some information'.
+130337	You could say 'I would be grateful if you hear any rumours, not to pass them on'.
+136100	This can be a tricky situation and you need to handle it well. Good luck!
+142800	<strong>Anna<br></strong>Gosh. This is hard but here goes.
+147865	Excuse me, could everyone gather round please.
+152100	<strong>Denise<br></strong>Is this about the sackings?
+154222	<strong>Anna<br></strong>No Denise. Any rumours about sackings are not true.
+158709	<strong>Tom<br></strong>Yeah that's right. Who told you that Denise?
+161888	<strong>Denise<br></strong>Hmmmâ€¦
+163555	<strong>Anna<br></strong>Please don't listen to rumours. I am trying to establish the facts and if I get any information I will let you know straight away.
+172200	<strong>Denise<br></strong>But I heard Mr Socrates is coming tomorrow, surely heâ€™s going to sack us.
+177800	<strong>Anna<br></strong>Ignore the rumours and please don't pass them on.
+182986	<strong>Narrator<br></strong>Anna. Tell them to carry on with their work as normal.
+187333	<strong>Anna<br></strong>Right, yes. Could you please just carry on with your work as normal. Thank you.
+194333	<strong>Tom<br></strong>So Anna, how are you going to find out the facts?
+199277	<strong>Anna<br></strong>I'm going to have to call Paul â€“ in private Tom â€“ I don't want any more rumours getting out.
+205666	<strong>Tom<br></strong>Oh yeah, absolutely. You need to establish the facts right?
+217528	<strong>Paul<br></strong>Hello, Paul speaking.
+219666	<strong>Anna<br></strong>Oh hi Paul. It's Anna. Sorry to bother you. Are you feeling better?
+225015	<strong>Paul<br></strong>Much better thanks but keeping clear of biscuits for a while! Anyway, is everything OK?
+231777	<strong>Anna<br></strong>Not exactly. There are rumours spreading about job cuts.
+236412	Tom saw a note in your diary for tomorrow that said 'Socrates, IPC'.
+242555	<strong>Paul<br></strong>Hmm. Really? Oh yes. I mean, oh no!
+247024	It's not job cuts â€“ it's IPC - the International Plastics Conference tomorrow!
+253508	And Mr Socrates is flying in for it. Oh golly gosh, I'd forgotten about that.
+259200	<strong>Anna<br></strong>I see. And why did you right <em>final</em>?
+263741	<strong>Paul<br></strong>Because there's an award being given for the Best Plastic Innovation â€“ and we're in the final with our Imperial Lemon.
+271598	It was a reminder to me to write an acceptance speech. Oh golly gosh, I haven't written a thing.
+277666	<strong>Anna<br></strong>Oh dear. What are we going to do?
+286888	<strong>Narrator<br></strong>What are you going to do indeed?
+290333	But thank goodness those rumours of job cuts are not true.
+294500	Tomorrow could actually be a good day for Tip Top Trading.
+298888	Here's a reminder of the phrases Anna used to try and control the spread of some office rumours:
+306021	<em>There are some rumours going around that are not true.
+310333	<em>Please don't listen to rumours.
+313333	<em>I am trying to establish the facts and if I get any information I will let you know straight away.
+320555	<em>Ignore the rumours and please donâ€™t pass them on.
+324265	<em>Please just carry on with your work as normal. Thank you.
+332999	<strong>Narrator<br></strong>Tomorrow is going to be an important day at the International Plastics Conference.
+338111	Mr Socrates will be there and Tip Top Trading could pick up a prestigious prize but whoâ€™s going to write the acceptance speech?
+346917	<strong>Paul<br></strong>OK Anna, this calls for some urgent action.
+350016	I want you and Tom to meet me at the Princess Diana Conference Centre tomorrow at 9.00.
+355900	<strong>Anna<br></strong>Right. And what about the speech?
+358888	<strong>Paul<br></strong>Well, I've got quite a lot on my plate so I was wondering if you could give it a goâ€¦ please?
+366888	<strong>Anna<br></strong>Me?! I've never done it before. What am I going to say?!
+371566	<strong>Narrator<br></strong>Don't worry Anna. Weâ€™re here to help.
+375000	Join us again soon for some more English at Work. Bye!

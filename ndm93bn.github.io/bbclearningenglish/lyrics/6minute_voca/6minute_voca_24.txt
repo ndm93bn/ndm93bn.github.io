@@ -1,0 +1,78 @@
+1	(Introduction...)
+12666	<strong>Catherine</strong>  <br>Hello and welcome to 6 Minute Vocabulary. I'm Catherine.
+16500	<strong>Finn</strong><br>And I'm Finn. Actually Catherine, sorry I'm late.
+20600	<strong>Catherine</strong><br>You should be.
+21800	<strong>Finn</strong><br>It's <strong>taken</strong> me forever to get here!
+24255	<strong>Catherine</strong><br>I know.
+24900	<strong>Finn<br></strong>The bus <strong>took</strong> hours.
+25900	<strong>Catherine<br></strong>Oh did it really, Finn? But you usually <strong>take</strong> the train.
+29300	<strong>Finn<br></strong>I missed it today.
+31711	<strong>Catherine<br></strong>OK, no problem. Because actually, Finn, you've introduced today's topic with the words:<strong>take, took, taken</strong>.
+39200	<strong>Finn<br></strong>Ah yes, irregular verbs.
+41800	<strong>Catherine<br></strong>That's right. We're going to look at three different groups of irregular verbs.
+47500	So, let's start by listening to Mike and Neil's conversation. And poor Mike can't find his phone.
+54111	<strong>Finn<br></strong>Oh no. While you listen, think about this question: How many times has Abdullah rung?
+61096	<strong>INSERT<br></strong><strong>Mike<br></strong>Have you <strong>seen</strong> my phone, Neil?
+63229	<strong>Neil<br></strong>Well, I haven't <strong>taken </strong>it.
+64589	<strong>Mike<br></strong>I didn't <strong>say</strong> you <strong>'took'</strong> it.
+66800	I just <strong>said</strong> 'Have you <strong>seen</strong> it?'
+68300	<strong>Neil<br></strong>I <strong>saw</strong> it on your desk this morning.
+72133	<strong>Mike<br></strong>I can't <strong>see</strong> it here! I've got to <strong>ring</strong> Abdullah.
+76062	He <strong>rang </strong>again today. He<strong>'s rung </strong>me five times this week.
+80189	<strong>Neil<br></strong>I'll ring it for you - I'll just get my phone...out...of...my pocket.
+87333	Oh, this is your phone! You <strong>put </strong>it on my desk by mistake.
+92727	So, where have I <strong>put</strong> my phone? I always <strong>put</strong> it in my pocket.
+98121	<strong>Catherine</strong><br>So we asked you: How many times has Abdullah rung this week?
+103832	<strong>Finn</strong><br>And the answer is: five. He's <strong>rung</strong> five times this week.
+109367	<strong>Catherine<br></strong><strong>Ring...rang...rung</strong>. So, the past simple of <strong>ring</strong> is <strong>rang</strong>, and the past participle is <strong>rung</strong>.
+117886	<strong>Finn<br></strong>There are several irregular verbs like <strong>ring</strong>, with different forms for the base verb, past simple and past participle.
+126860	<strong>Catherine<br></strong>The verb <strong>take</strong>, for example, which we had earlier. Listen out for it in this clip.
+132974	<strong>INSERT CLIP 1<br></strong><strong>Neil<br></strong>Well, I haven't <strong>taken </strong>it.
+134500	<strong>Mike<br></strong>I didn't <strong>say</strong> you <strong>'took'</strong> it.
+136445	I just <strong>said</strong> 'Have you <strong>seen</strong> it?'
+138200	<strong>Neil<br></strong>I <strong>saw</strong> it on your desk this morning.
+142072	<strong>Mike<br></strong>I can't <strong>see</strong> it here!
+143736	<strong>Finn<br></strong>So the verb <strong>take</strong> changes to <strong>took</strong> in the past simple.
+149505	<strong>Catherine<br></strong>...and <strong>taken</strong> in the past participle.
+152129	<strong>Finn<br></strong>We also heard <strong>see, saw </strong>and<strong> seen.
+156243	<strong>Catherine<br></strong>...three different forms again.
+158541	<strong>See</strong> is the main verb, <strong>saw</strong> is the past simple.
+163106	<strong>Finn<br></strong>...and <strong>seen</strong> is the past participle.
+166279	<strong>Catherine<br></strong>Other verbs that follow this pattern are <strong>write, wrote, written</strong>.
+171167	<strong>Finn<br></strong>...<strong>break, broke, broken</strong>.
+174126	<strong>Catherine<br></strong>...<strong>speak, spoke, spoken</strong>.
+176100	<strong>Finn<br></strong>...and <strong>choose, chose, chosen</strong>.
+179390	<strong>Catherine<br></strong>Good. Now, in the clip we also heard <strong>say</strong> and <strong>said.
+184403	The verb <strong>say </strong>belongs to a different group of irregular verbs.
+189322	<strong>Finn<br></strong>Yes, verbs in this group have just two different forms.
+193715	For example, with <strong>say, said, said,</strong> the past simple and the past participle are the same.
+201100	<strong>Catherine<br></strong>Other verbs in this second group are:
+203864	<strong>Finn<br></strong><strong>Tell, told, told; have</strong>, <strong>had</strong>, <strong>had; lose</strong>, <strong>lost</strong>, <strong>lost</strong>.
+210666	<strong>Catherine<br></strong>...<strong>meet, met,</strong> <strong>met; find, found, found</strong>.
+215222	<strong>Finn<br></strong>Very good. Now, in the third group of irregular verbs we are looking at today, all three forms are the same.
+222386	<strong>Catherine<br></strong>Listen to this clip and see if you can spot an example.
+226444	<strong>INSERT<strong><br></strong></strong><strong>Neil</strong><br>Oh, this is your phone.
+228208	You <strong>put </strong>it on my desk by mistake. So, where have I <strong>put</strong> my phone?
+233845	I always <strong>put</strong> it in my pocket.
+236524	<strong>Finn<br></strong>So, we had <strong>put, put, put -</strong> all three forms are exactly the same.
+243111	<strong>Catherine<br></strong>Other verbs in this group include <strong>cut, cut, cut; let, let, let</strong> and <strong>shut, shut, shut</strong>.
+251415	<strong>IDENT</strong> <br>Youâ€™re listening to bbclearningenglish.com
+257459	<strong>Catherine<br></strong>And we're talking about three different groups of irregular verbs.
+261932	In one group, the verb is the same in all three forms, like <strong>put</strong>, <strong>put</strong>,<strong> put</strong>.
+267771	<strong>Finn<br></strong>In another group the verb is the same in two of its forms, like <strong>say, said, said</strong>.
+275000	<strong>Catherine<br></strong>...and in the third, and biggest group, all three forms are different, like <strong>take, took, taken</strong>.
+281324	<strong>Finn<br></strong>And now, it's quiz time! Question one.
+285681	What are the three forms of the verb <strong>shut</strong> â€“ as in <strong>shut the door</strong>?
+291913	<strong>Catherine<br></strong>And the answer is<strong> shut, shut, shut.
+295113	<strong>Finn<br></strong>That's right. Number two. What are the three forms of the verb <strong>find</strong> - as in <strong>find some money</strong>?
+303022	<strong>Catherine<br></strong>And the answer is<strong> find, found, found</strong>.
+306921	<strong>Finn<br></strong>And number three: Which of these verbs is different in all three forms: a) <strong>have</strong>, b) <strong>choose</strong> or c) <strong>let</strong>?
+319073	<strong>Catherine<br></strong>And the answer is b) choose, chose, chosen.
+323581	The others are a) <strong>have, had, had</strong> and c) is <strong>let, let, let</strong>.
+330755	<strong>Finn</strong><br>And that's the end of the quiz, quiz, quiz. Well done if you got them right.
+336444	<strong>Catherine</strong><br>And now, today's top tip, tip, tip for learning vocabulary: most good grammar books and websites have verb tables.
+344400	So find a good one, print it if you can, and check it regularly.
+349442	Use a highlighter pen to mark the verbs that you find tricky or that you really need to know.
+355209	<strong>Finn<br></strong>There's more about this at bbclearningenglish.com.
+359213	Join us again for more 6 Minute Vocabulary.
+362923	<strong>Both</strong>  <br>Bye!

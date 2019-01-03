@@ -1,0 +1,68 @@
+1	(Introduction...)
+12719	<strong>Finn <br> </strong>Hello. Welcome to 6 Minute Grammar with me, Finn.
+16532	<strong>Alice<br> </strong>And me, Alice. Hello.
+18457	<strong>Finn<br> </strong>Today we're talking about <strong>defining relative clauses</strong>.
+22943	<strong>Alice<br> </strong>That's right: defining relative clauses. We'll explain what they are.
+27616	<strong>Finn<br> </strong>We'll look at how they work.
+29591	<strong>Alice<br> </strong>We'll hear lots of examples.
+31488	<strong>Finn<br> </strong>And we'll have a quiz to practice what we've learned. So: on with the show.
+37469	Let's start by looking at what relative clauses are, and how we make them.
+43001	<strong>Alice<br> </strong>Yes. Defining relative clauses give information about a noun in a sentence or question.
+49517	They define - or, give more information about - the thing that we are talking about.
+55793	Here's Catherine with our first example:
+59150	<strong>Catherine<br> </strong>Have you seen the shoes that I bought today?
+62400	<strong>Finn<br> </strong>The defining relative clause is the phrase <strong>that I bought today</strong> - and it tells us <strong>which</strong> shoes Catherine is talking about.
+72544	<strong>Alice<br> </strong>That's right. Catherine probably has several pairs of shoes: adding the phrase <strong>that I bought today</strong> tells us exactly which shoes she means.
+82738	<strong>Finn<br> </strong>So: let's have a closer look at the grammar of relative clauses.
+87978	We start with a noun and then we add a relative pronoun, such as <strong>who</strong> or <strong>that</strong>, plus a verb phrase.
+97407	The relative pronoun <strong>who</strong> is for <strong>people</strong>. Catherine.
+101577	<strong>Catherine<br> </strong>The man <strong>who</strong> owns this restaurant is my best friend.
+105419	<strong>Alice<br> </strong>So the defining relative clause <strong>who owns this restaurant</strong> tells us exactly which man is Catherine's best friend.
+113931	<strong>Finn<br> </strong>The pronoun <strong>which </strong>is for things, and we use <strong>that</strong> for both people and things.
+121732	Here's an example with <strong>which</strong>.
+124236	<strong>Catherine<br> </strong>Spring is the season <strong>which</strong> I enjoy the most.
+127820	<strong>Finn<br> </strong>Ahh - me too! So, to give more information about a thing - the season - we add the relative pronoun - <strong>which</strong>, plus the verb phrase <strong>I enjoy the most</strong><em>.
+140783	<strong>Alice<br> </strong>Here's another example.
+142270	<strong>Catherine<br> </strong>That woman is the doctor <strong>who</strong> saw me yesterday.
+146041	<strong>Finn<br> </strong>This time, the pronoun <strong>who</strong> refers to the doctor.
+151524	And the doctor is the subject of the verb saw - the doctor saw Catherine.
+158872	<strong>Alice<br> </strong>Right.
+159815	<strong>Who</strong> refers to the <strong>subject</strong> of the verb: The doctor who saw me yesterday.
+165525	Now this next example is slightly different: listen carefully.
+170086	<strong>Catherine<br> </strong>That woman is the doctor <strong>who</strong> <strong>I saw</strong> yesterday.
+175192	<strong>Alice<br> </strong>Again, <strong>who</strong> refers to the doctor.
+178828	But this time, the doctor is the <strong>object</strong> of the verb <strong>saw</strong> - Catherine saw the doctor.
+185597	<strong>Finn<br> </strong>So the rule is: when the pronoun refers to the <strong>subject</strong>, it's:
+191950	<strong>Catherine<br> </strong>She's the doctor <strong>who saw me</strong> yesterday.
+194926	<strong>Alice<br> </strong>And when the pronoun refers to the <strong>object</strong>, it's:
+199022	<strong>Catherine<br> </strong>She's the doctor <strong>who I saw</strong> yesterday.
+202630	<strong>Alice<br> </strong>Now some people like to use <strong>whom</strong> instead of <strong>who</strong> in object relative clauses:
+209256	<strong>Catherine <br> </strong>...the doctor <strong>whom I saw</strong>.
+211518	<strong>Alice<br> </strong>And that's fine. <strong>Whom</strong> is correct here.
+215622	<strong>Finn<br> </strong>Although <strong>who</strong> is probably more common in spoken English these days.
+221641	<strong>IDENT <br> </strong>You're listening to BBC Learning English.
+228087	<strong>Alice<br> </strong>And we're talking about defining relative clauses.
+231465	<strong>Finn<br> </strong>And now it's quiz time. They're all about Harry Potter, these questions.
+236715	So if you like the film it may be easier for you.
+239667	I'll say some key words and you have to make them into a sentence with a defining relative clause.
+247291	Here's the first one.
+249108	<strong>Robbie Coltrane - actor - play - Hagrid.
+259681	<strong>Alice<br></strong>Robbie Coltrane is the actor <strong>who</strong> played Hagrid...in Harry Potter.
+267587	<strong>Finn<br> </strong>And another one: <strong>Hogwarts - school - Harry Potter - go.
+280007	<strong>Alice<br> </strong>Hogwarts is the school <strong>that</strong> Harry Potter went to.
+284621	<strong>Finn<br> </strong>Very good. Last one: <strong>Hermione - marry - Ron Weasley.
+292146	<strong>Alice<br> </strong>Ooh. Hermione is the girl <strong>who</strong> married Ron Weasley.
+299652	<strong>Finn<br> </strong>Or as an object clause it's:
+303370	<strong>Alice<br> </strong>Hermione is the girl <strong>who</strong> Ron Weasley married.
+306447	<strong>Finn<br> </strong>Well done if you got those right.
+308555	Now before we finish, there's just time to mention that, in everyday English, it's fine to leave out the pronoun completely when the relative pronoun is the <strong>object </strong>of the relative clause.
+322815	<strong>Alice<br> </strong>For example: <strong>Hermione is the girl who Ron Weasley married</strong> becomes:
+328547	<strong>Finn<br> </strong><strong>Hermione is the girl Ron Weasley married</strong><em>.
+332252	<strong>Alice<br> </strong>Ahhh. Don't you think she should have married Harry?
+335168	<strong>Finn<br> </strong>Well, I really think its Hermione's choice, Alice.
+338190	<strong>Alice<br> </strong>Fair enough.
+339137	<strong>Finn<br> </strong>So, that's the end of our brief look at defining relative clauses.
+343412	They begin with a pronoun and go after the noun that you want to define.
+348599	<strong>Alice<br> </strong>Yes. There's more about this on our website at bbclearningenglish.com.
+353406	Join us again for more 6 Minute Grammar.
+356396	<strong>Both<br> </strong>Bye.

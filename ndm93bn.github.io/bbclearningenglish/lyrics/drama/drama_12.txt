@@ -1,0 +1,63 @@
+1	(Introduction...)
+14777	<strong>Mary narrator<br></strong>I have arrived at Jamaica Inn to live with my aunt.
+18777	My uncle is landlord here. It's a cold and lonely place.
+27921	I'm at the door and I'm waiting for someone to let me in.
+34057	<strong>Joss<br></strong>Who's there?
+36666	<strong>Mary<br></strong>It's me. Mary. Mary Yellan. [Heavy door opening]
+46058	<strong>Joss<br></strong>Ah, so, you've arrived at last. Well, say hello to your Uncle Joss.
+55888	<strong>Mary<br></strong>Where is my Aunt Patience?
+57822	<strong>Joss<br></strong>What's the hurry? Don't you want to give me a big kiss first?
+63777	Patience! She's here.
+67437	[impatiently] Where are you, woman? Patience! Where in hell is that woman?
+74444	<strong>Patience<br></strong>I'm here. Is it the girl?
+77888	<strong>Joss<br></strong>See for yourself.
+83666	<strong>Mary narrating<br></strong>A woman with grey hair hurries towards me.
+87978	In the candlelight her face is pale. She looks afraid.
+96000	<strong>Patience<br></strong>Mary.
+98222	<strong>Mary<br></strong>Aunt Patience - I am so glad to see you.
+103222	<strong>Mary narrating<br></strong>But she is unrecognisable. Her curls have gone and her happy smile also.
+112666	I can see that <strong>she's been crying</strong>. This woman is old and anxious. She starts to cry.
+125555	<strong>Joss<br></strong>Stop <strong>whimpering</strong>, woman. Can't you see the girl is hungry!
+130222	I'll take her things up to her room. If there's nothing to eat on the table when I come down, you'll soon have something to cry about.
+138999	<strong>Mary narrating<br></strong>He lifts my heavy box as if it's a bag of feathers.
+142999	He is huge with shoulders like those of a bear.
+148555	<strong>Mary narrating<br></strong>The kitchen is full of smoke from the fire.
+152800	There are <strong>stains</strong> on the stone floor and there's a strong smell of alcohol.
+160000	On the table there are two empty bottles of <strong>brandy</strong>.
+166333	<strong>Patience<br></strong>You mustn't mind your Uncle Joss.
+168536	Some people find him strange at first, but he is very <strong>respected</strong> here.
+173800	Just yesterday he told me that a man stopped and told him how much he admired.
+178266	<strong>Joss<br></strong>Are you talking rubbish again woman?
+180497	Sit down Mary. Eat. Listen, Mary. I'm in charge here and you'll do as I say.
+188669	You'll serve the customers in the bar and help in the house.
+191888	But if you open your mouth and <strong>squawk</strong> like a hen, you'll be sorry.
+196772	<strong>Mary<br></strong>I'll help you like you say, but if you hurt my aunt, I'll tell and you'll be <strong>punished</strong>.
+206242	<strong>Joss<br></strong>Patience, go and get me another bottle and be quick.
+216000	Big words - maybe we're not so different, Mary.
+220575	Here, drink this. This is my <strong>curse</strong>, Mary - drink.
+226777	<strong>I've been drinking a little today but</strong> - Oh you'll see how we drink here some Saturdays - they hear the shouting and singing far away.
+237000	People are afraid of me but I'm afraid of no one. Go to bed now.
+244444	<strong>Mary narrating<br></strong>He suddenly grabs my wrist.
+247257	<strong>Joss<br></strong>Listen carefully. Some nights you'll hear wheels, footsteps and voices outside.
+254564	You must stay in your room and put your blanket over your ears.
+258333	If you ask questions, I'll break every bone in your body. Do you understand?
+269222	<strong>Mary narrating<br></strong>My room is small and <strong>bare.</strong>Just a bed and a table with a broken mirror.
+280222	I feel lonely and <strong>trapped </strong>like a bird in a cage.
+286000	But it's not too late to run away. I <strong>creep</strong> down the dark passage.
+300777	<strong>Mary<br></strong>[to herself] Who's crying? It must be my aunt!
+306333	<strong>Mary narrating<br></strong>I turn back. My uncle frightens me but I must stay and protect Aunt Patience.
+319798	I did not sleep well last night. My bed is hard and the blanket is thin.
+329555	The house is quiet this morning. I'll look for a place to wash downstairs.
+338573	Here is the bar. Ah, there's a passage here - maybe it's along here. A door - this must be the washroom.
+350800	<strong>Mary<br></strong>How strange - it's locked.
+355200	<strong>Patience<br></strong>Mary! What are you doing?
+358700	<strong>Mary<br></strong>Why is this room locked, Aunt Patience? What's in it?
+362777	<strong>Mary narrating<br></strong>My aunt looks quickly behind her and her eyes are like a frightened rabbit's.
+368630	<strong>Mary<br></strong>Is it because of the people who come to the inn at night?
+372100	<strong>Patience<br></strong>Mary. Mary. <strong> I've been worrying about how to tell you this</strong>.
+377760	I must warn you. Bad things happen here. Men come at night and they go into that room with Joss.
+385712	When you hear them, you must stay in your room. You must never ask me or your uncle about it again.
+394089	<strong>Mary narrating<br></strong>What is in this room and why is my Aunt so scared?
+401444	I'm not going to like it here but I must stay to support her and keep her safe.
+410222	Next time we meet - I have to work in the bar of Jamaica Inn on Saturday night where I get to meet a group of rough and drunk men.
+421444	Later that night there are some strange goings-on in the yard outside. What's going on at Jamaica Inn?

@@ -1,0 +1,27 @@
+1	(Introduction...)
+17555	<strong>Neil<br></strong>And hello I'm Neil.
+18777	<strong>Feifei<br></strong>Neil, I wonder if you could help me. I'm trying to find something on this map.
+24111	<strong>Neil<br></strong>Oh yes, map reading - I'm good at that. What are you trying to find?
+28000	<strong>Feifei<br></strong>Well, I went to a gig last night and saw this new singer - he was amazing.
+33888	<strong>Neil<br></strong>Thanks for inviting me! Anyway, what's that got to with a map?
+38000	<strong>Feifei<br></strong>Well, afterwards everyone was talking about it and saying the gig was so good that it will 'put him on the map'.
+46392	But. I just can't find him on here.
+49202	<strong>Neil<br></strong>Put the map away Feifei - you won't find him there.
+52444	When we say someone will be 'put on the map' it means they will become famous or become more prominent - but not on a map!
+60222	<strong>Feifei<br></strong>Right! Actually Neil, I've heard about a new restaurant I ate at being 'put on the map'.
+66777	<strong>Neil<br></strong>Yes, <em>something</em> as well as someone can be put on the map - or in other words, become famous, popular or well known.
+73785	You must have eaten at a good quality restaurant for it to be put on the map!
+77700	<strong>Feifei<br></strong>I did! Let's tuck into some examples shall we?
+83333	<strong>Examples<br></strong>Her first exhibition at the Tate gallery has put her on the map as a serious modern artist.
+89931	This great tasting food has really put this new restaurant on the map.
+94933	Hosting the Olympics has put this city on the map as a great place to come for a holiday.
+103111	<strong>Feifei<br></strong>So that's to put someone or something on the map - to become famous, popular or more prominent.
+110373	I suppose it suggests that becoming famous means you are now important enough for your name to be seen or heard by everyone.
+118162	<strong>Neil<br></strong>That's right. In the old days when a place was too small and unimportant it wasn't shown on a map - but when it became more important it was 'put on the map'.
+126999	<strong>Feifei<br></strong>Right. Anyway Neil, let me look at that map again.
+130333	<strong>Neil<br></strong>OK.
+131332	<strong>Feifei<br></strong>Look! That singer I saw really is on the map - right there.
+136111	<strong>Neil</strong><br> Really? What was he called?
+138208	<strong>Feifei<br></strong>'Man-chester'
+140305	<strong>Neil</strong><br> Manchester. Of course!
+146555	<strong>Both<br></strong>Bye.

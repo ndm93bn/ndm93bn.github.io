@@ -1,0 +1,42 @@
+1	(Introduction...)
+4556	<strong>Narrator<br></strong>Hello, welcome back to the offices of Citrus Ventures!
+8334	(broken computer and murmur of people at meeting, as proceedings have been interrupted)<br>Anna's presentation to Mr Lime and his colleagues continues.
+13580	Well, almost! Her computer has jammed and the presentation, along with her notes, are frozen.
+20425	<strong>Anna<br></strong>Oh no, this is terrible!
+23402	<strong>Narrator<br></strong>Anna, you're going to have to manage without the slideshow or notes. Just talk!
+29438	<strong>Anna<br></strong>Just talk! Just talk! You just talk!
+32790	What on earth am I going to say? My mind is blank.
+37116	<strong>Narrator<br></strong>Try to remember the key points you wanted to share, and give them one by one.
+42458	If you can, give some facts that support each point.
+46332	For example:<br>Tip Top Trading is growing fast â€“ our number of clients doubled last year.
+53577	Use phrases like this:<br>The company has a strong track record of.
+60352	Let me share with you.
+62775	The Imperial Lemon's key strengths are.
+66491	<strong>Anna<br></strong>OK. Ahem! <br>(murmurs die down)<br>Sorry about that, I'll just have to continue talking without the slideshow.
+76278	So, ahem. Tip Top Trading is growing fast â€“ our number of clients doubled last year. This is because our company-
+87701	<strong>Narrator<br></strong>Yes, but try not to bark out information like a robot.
+92326	Look people in the eye, slow down and try to be more conversationalâ€¦.
+97817	oh, and smile!
+99736	<strong>Anna<br></strong>(more conversationally) Tip Top Trading is growing fast â€“ our number of clients doubled last year.
+106021	This is because our company has a strong track record of reliability and because, thanks to new technology, our fruits are more and more convincing.
+117777	Our bananas have won awards for being the most authentic-looking fruits in Europe.
+123596	We are very happy that Citrus Ventures is already among our clients and we hope to build on that by offering you more exciting new fruits.
+133387	Let me share with you our latest product: (sound of unzipping of a bag) the Imperial Lemon.
+140251	(impressed murmur from the audience)<br>The Imperial Lemon's key strengths are its design and flexibility.
+148149	It is made with revolutionary faux-orange-premium, laser-curve-definition technology. (fade out)
+156426	<strong>Narrator<br></strong>What an excellent performance from Anna.
+159706	She focussed on some key points, supported them with facts and structured her answer clearly.
+166280	She also managed to relax and sound more natural.
+169856	She used these phrases: <br>The company has a strong track record of.
+176858	Let me share with you.
+180097	The Imperial Lemon's key strengths are.
+184626	Let's fast-forward to after the meeting to see if she gets an order.
+196452	<strong>Anna<br></strong>â€¦so thank you for your time, I hope you're impressed with our Imperial Lemon.
+202672	<strong>Mr Lime<br></strong>Fantastic Anna, fantastic!
+206322	<strong>Anna<br></strong>Thank you.
+207116	<strong>Mr Lime<br></strong>Those. lemons â€“ wow. I'd like to put in an order for three hundred thousand right away.
+215231	<strong>Anna<br></strong>Of course.
+216394	<strong>Mr Lime<br></strong>Now, what's your direct phone number?
+220363	<strong>Narrator<br></strong>Good work. Although, I must say, Mr Lime seems just as excited about Anna as he is about the lemons.
+228433	Hmm... watch out Anna! Until next time!
+233856	<h3>Listening Challenge - Answer</h3> <br>What does Anna say are the key strengths of the Imperial Lemon? <br>Its design and flexibility.

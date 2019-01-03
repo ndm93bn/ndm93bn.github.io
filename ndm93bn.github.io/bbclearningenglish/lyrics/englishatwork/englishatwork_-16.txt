@@ -1,0 +1,54 @@
+1	(Introduction...)
+4927	<strong>Narrator<br></strong>Welcome! The team at Tip Top Trading are hard at work, making plans for the launch and presentation of their latest product: the revolutionary, almost real Imperial Lemon.
+17344	They are 'brainstorming', sharing ideas on how to make their lemon a success.
+23416	<strong>Tom<br></strong>But it needs to be bright!
+25234	<strong>Anna<br></strong>This is much more exciting.
+27465	<strong>Denise<br></strong>But having three colours would work better.
+29969	<strong>Narrator<br></strong>There is a lot of disagreement going on, which is putting Anna's vocabulary to the test!
+35104	<strong>Paul<br></strong>Right, I'm taking the final decision: the colour scheme will be green and yellow, so that's that.
+42382	Now, the first presentation will be to er, Mr, er, Slime.
+49483	<strong>Anna<br></strong>Mr Lime.
+50843	<strong>Paul<br></strong>Oh, er, Mr Lime - that bit of biscuit looked like an 's' â€“ Mr Lime, thank you Annabel.
+56816	<strong>Anna<br></strong>Anna.
+57582	<strong>Paul<br></strong>Mr Lime and his team at Citrus Ventures.
+60843	Ideas please!
+62154	<strong>Anna<br></strong>Why don't we offer Citrus Ventures a special opening offer: 20% off Imperial Lemon orders made this month.
+71370	<strong>Paul<br></strong>Hmm.
+72483	<strong>Anna<br></strong>We could even do that for all our regular clients.
+76317	<strong>Denise<br></strong>That would be a big risk.
+78046	<strong>Anna<br></strong>No.
+78559	<strong>Denise<br></strong>If we do that once, all our clients will start asking for 20% off everything.
+85163	<strong>Anna<br></strong>No, I disagree.
+86644	<strong>Denise<br></strong>We'll be bankrupt!
+87991	<strong>Anna<br></strong>No, you're wrong.
+90095	<strong>Narrator<br></strong>Er- Anna, maybe you should find a better way of saying you disagree with Denise.
+95417	<strong>Anna<br></strong>I'm so frustrated! I can't think of the right words.
+99367	<strong>Narrator<br></strong>It helps if you try phrases like: <br>Well, I'm not so sure about that.
+104878	then explain why.
+106470	Or start your sentence with 'but' when you want to disagree with what has just been said.
+111870	Or, to seem more polite, you can try: <br>I see your point, but actually I think.
+118407	<strong>Anna<br></strong>I'll try.
+119729	<strong>Narrator<br></strong>And don't be aggressive Anna - and give your reasons too, or you'll upset Denise again!
+125354	<strong>Anna<br></strong>OK. Well, I'm not so sure about that.
+130755	I think it will improve our sales of lemons and make our clients happy.
+136946	Happy clients will come back to buy more.
+140246	<strong>Paul<br></strong>Yes, that's a good point Annabe - Anna.
+142981	<strong>Tom<br></strong>But 20% is a lot â€“ maybe 5% would be better.
+148562	<strong>Anna<br></strong>But if we're going to make a special offer, we should make it so good that everyone will say yes!
+155673	<strong>Denise<br></strong>But people might think there's something wrong with our lemons and that we're desperate to get rid of them.
+162493	<strong>Anna<br></strong>I see your point, but, if we explain this is just a special offer for special clients, they'll understand.
+169854	<strong>Paul<br></strong>I like that idea.
+172000	Good: 20% off for all regular clients just for this month.
+177007	Anna, you'll be making the presentation to Citrus Ventures, so make sure you include that offer.
+182090	<strong>Tom<br></strong>Uh-huh.
+182113	<strong>Anna<br></strong>Yes.
+182726	<strong>Paul<br></strong>Right, next, what photos do we have of the lemons.?
+187689	<strong>Narrator<br></strong>Finding the right words to disagree in meetings isn't always easy, but Anna managed in the end.
+193897	She started sentences with this short word to show that she was about to disagree with what had just been said: <br>But.
+201802	And used these phrases: <ul> <li>I'm not so sure about that.
+207364	I see your point, but actually I think.
+211667	The next big challenge for Anna will be her presentation to Citrus Ventures.
+216121	Join us again soon to find out what happens!
+219813	<strong>Anna<br></strong>I've got to do a good job but it's going to take me ages.
+223982	Ah well, I had better get started otherwise I'm going to be here all night!
+231399	<h3>Listening Challenge - Answer</h3> <br>What discount does Anna suggest giving to their clients who order the Imperial Lemons? <br>20%

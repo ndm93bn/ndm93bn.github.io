@@ -1,0 +1,59 @@
+1	(Introduction...)
+11999	<strong>Neil<br></strong>Welcome to 6 Minute English, where we bring you an intelligent topic and six related items of vocabulary. I'm Neil.
+18666	<strong>Tim<br></strong>And I'm Tim. And today we're talking about AI - or Artificial Intelligence.
+24944	<strong>Neil<br></strong><strong>Artificial Intelligence</strong> is the ability of machines to copy human intelligent behaviour - for example, an intelligent machine can learn from its own mistakes, and make decisions based on what's happened in the past.
+37988	<strong>Tim<br></strong>There's a lot of talk about AI these days, Neil, but it's still just science fiction, isn't it?
+43111	<strong>Neil<br></strong>That's not true - AI is everywhere. Machine thinking is in our homes, offices, schools and hospitals.
+50500	Computer algorithms are helping us drive our cars. They're diagnosing what's wrong with us in hospitals.
+56911	They're marking student essays. They're telling us what to read on our smartphones.
+61400	<strong>Tim<br></strong>Well, that really does sound like science fiction - but it's happening already, you say, Neil?
+66733	<strong>Neil<br></strong>It's definitely happening, Tim. And an<strong> algorithm</strong>, by the way, is a set of steps a computer follows in order to solve a problem.
+74200	So can you tell me what was the name of the computer which famously beat world chess champion Garry Kasparov using algorithms in 1997?
+84277	Was it.<br>a) Hal,<br>b) Alpha 60 or<br>c) Deep Blue?
+89666	<strong>Tim<br></strong>I'll say Deep Blue. Although I'm just guessing.
+93777	<strong>Neil<br></strong>Was it an educated guess, Tim?
+95666	<strong>Tim<br></strong>I know a bit about chess.
+97111	<strong>Neil<br></strong>An educated guess is based on knowledge and experience and is therefore likely to be correct.
+102555	Well, we'll find out later on how educated your guess was in this case, Tim!
+106822	<strong>Tim<br></strong>Indeed. But getting back to AI and what machines can do - are they any good at solving real-life problems?
+115177	Computers think in zeros and ones don't they? That sounds like a pretty limited language when it comes to life experience!
+121950	<strong>Neil<br></strong>You would be surprised to what those zeroes and ones can do, Tim.
+125900	Although you're right that AI does have its limitations at the moment.
+129888	And if something has<strong> limitations </strong>there's a limit on what it can do or how good it can be.
+134700	<strong>Tim<br></strong>OK - well now might be a good time to listen to Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence.
+148300	He's talking about what limitations AI has at the moment.
+153555	<strong>INSERT<br></strong><strong>Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence <br></strong>I think it's very interesting how many of the things that we take for granted - we humans take for granted - as being sort of things we don't even think about like how do we walk, how do we reach, how do we recognize our mother. You know, all these things.
+169692	When you start to think how to implement them on a computer, you realize that it's those things that are incredibly difficult to get computers to do, and that's where the current cutting edge of research is.
+186888	<strong>Neil<br></strong>If we <strong>take something for granted</strong> we don't realise how important something is.
+191111	<strong>Tim<br></strong>You sometimes take me for granted, I think, Neil.
+194000	<strong>Neil<br></strong>No - I never take you for granted, Tim! You're far too important for that!
+198299	<strong>Tim<br></strong>Good to hear! So things we take for granted are doing every day tasks like walking, picking something up, or recognizing somebody.
+208522	We <strong>implement </strong>- or perform - these things without thinking - Whereas it's cutting edge research to try and program a machine to do them.
+217800	<strong>Neil<br></strong><strong>Cutting edge</strong> means very new and advanced.
+220666	It's interesting isn't it, that over ten years ago a computer beat a chess grand master - but the same computer would find it incredibly difficult to pick up a chess piece.
+230011	<strong>Tim<br></strong>I know. It's very strange. But now you've reminded me that we need the answer to today's question.
+235777	<strong>Neil<br></strong>Which was: What was the name of the computer who famously beat world chess champion Garry Kasparov in 1997?
+243777	Now, you said Deep Blue, Tim, and ...that was the right answer!
+247500	<strong>Tim<br></strong>You see, my educated guess was based on knowledge and experience!
+252033	<strong>Neil<br></strong>Or maybe you were just lucky. So, the IBM supercomputer Deep Blue played against US world chess champion Garry Kasparov in two chess matches.
+262413	The first match was played in Philadelphia in 1996 and was won by Kasparov. The second was played in New York City in 1997 and won by Deep Blue.
+271910	The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament conditions.
+279312	<strong>Tim<br></strong>Let's go through the words we learned today. First up was 'artificial intelligence' or AI - the ability of machines to copy human intelligent behaviour.
+290333	<strong>Neil<br></strong>"There are AI programs that can write poetry."
+293444	<strong>Tim<br></strong>Do you have any examples you can recite?
+295961	<strong>Neil<br></strong>Afraid I don't! Number two - an algorithm is a set of steps a computer follows in order to solve a problem.
+302333	For example, "Google changes its search algorithm hundreds of times every year."
+307444	<strong>Tim<br></strong>The adjective is algorithmic - for example, "Google has made many algorithmic changes."
+314111	<strong>Neil<br></strong>Number three - if something has 'limitations' - there's a limit on what it can do or how good it can be.
+319976	"Our show has certain limitations - for example, it's only six minutes long!"
+325222	<strong>Tim<br></strong>That's right - there's only time to present six vocabulary items. Short but sweet!
+330444	<strong>Neil<br></strong>And very intelligent, too. OK, the next item is 'take something for granted' - which is when we don't realise how important something is.
+338400	<strong>Tim<br></strong>"We take our smart phones for granted these days - but before 1995 hardly anyone owned one."
+345000	<strong>Neil<br></strong>Number five - 'to implement' - means to perform a task, or take action.
+349777	<strong>Tim<br></strong>"Neil implemented some changes to the show."
+352400	<strong>Neil<br></strong>The final item is 'cutting edge' - new and advanced - "This software is cutting edge."
+358000	<strong>Tim<br></strong>"The software uses cutting edge technology."
+361000	<strong>Neil<br></strong>OK - that's all we have time for on today's cutting edge show.
+364822	But please check out our Instagram, Twitter, Facebook and YouTube pages.
+369388	<strong>Tim<br></strong>Bye-bye!
+369999	<strong>Neil<br></strong>Goodbye!

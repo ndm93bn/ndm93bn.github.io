@@ -1,0 +1,31 @@
+1	(Introduction...)
+12300	<strong>Neil<br></strong>Hello, I'm Neil.
+13622	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17114	<strong>Neil<br></strong>So do you want a cup of coffee then, Feifei?
+19300	<strong>Feifei<br></strong>Yes, but you know the rules - no drinking coffee in the studio!
+23500	<strong>Neil<br></strong>Well that is the rule but nobody's looking so maybe we could sneak two cups in?
+29000	<strong>Feifei<br></strong>Sneak? Yes ok, you keep an eye out for the boss and I'll grab the coffee from the kitchen.
+39888	<strong>Neil<br></strong>...ok, <strong>the coast is clear</strong>!
+42364	<strong>Feifei<br></strong>Eh? <strong>The coast is clear</strong> - how do you know that?
+46100	We're nowhere near the seaside.
+47801	<strong>Neil<br></strong>We don't need to be - it's just a saying.
+50170	<strong>The coast is clear</strong> means it's safe to do something because nobody is watching - so we won't get caught.
+55944	<strong>Feifei<br></strong>Ah, got you! So we're being a bit naughty, Neil?
+59100	<strong>Neil<br></strong>Yes, that's right - hopefully nobody will ever find out what we're doing!
+63245	Let's hear some more examples of this phrase.
+69222	<strong>Examples<br></strong>I really wanted to know what my birthday present was, so when <strong>the coast was clear</strong>, I unwrapped it - I guess I've spoilt my surprise now!
+81243	<strong>The coast is clear</strong> so make a run for it before you get caught!
+88700	<strong>Feifei<br></strong>Ok - so that's <strong>the coast is clear</strong> which means it's safe to do something which isn't allowed while nobody is watching.
+96805	Right Neil, is the coast still clear?
+99879	<strong>Neil<br></strong>Yes, but quick before someone comes. Quick...someone's coming!
+108184	<strong>Debbie<br></strong>Oh hello Feifei...are you making coffee for the team?
+112125	Thanks - I'll take those from you shall I?
+115723	You wouldn't want to be caught drinking those in the studio now, would you?
+119907	You know the rules! See ya.
+123026	<strong>Feifei<br></strong>Err, see you later, Debbie.
+124965	Oh dear Neil, it looks like <strong>the coast wasn't clear</strong>.
+129000	<strong>Neil<br></strong>I think we got away with it.
+130771	Anyway, that's the end of the programme. What shall we do now?
+134599	<strong>Feifei<br></strong>Coffee?
+135500	<strong>Neil<br></strong>Yeah. Good idea, let's go.
+137987	<strong>Both<br></strong>Bye.

@@ -1,0 +1,63 @@
+1	(Introduction...)
+27900	<strong>Paul<br></strong>That behaviour just isn't on.
+31111	<strong>Tom<br></strong>Sorry Paulâ€¦ but it was quite funny wasn't it?
+34666	<strong>Paul<br></strong>No it wasn't.
+36466	<strong>Anna<br></strong>Sorry Paul, Tom was just angry with Dave.
+40055	I thought he liked me but we saw him with Julie from accounts.
+44666	<strong>Paul<br></strong>Really? He seemed such a decent chapâ€¦ anyway, don't do it again. OK?
+51333	In the meantime, you're going to have to pay for that broken window.
+55111	<strong>Tom<br></strong>Whatâ€¦ hey? Bbbutâ€¦
+57111	<strong>Paul<br></strong>Now, excuse me, I need to take this.
+60099	Hello, Paul Smith speaking. Ah, Mr Socratesâ€¦ yesâ€¦ ah, you've heardâ€¦
+68777	<strong>Tom<br></strong>Crikey, come on we'd better go.
+73111	<strong>Denise<br></strong>That was a good shot Tom!
+75666	Looks like it's made an impact on Dave.
+78555	Look, he's sent Anna some flowers.
+81777	<strong>Anna<br></strong>Oh there's a note on it.
+83777	It says "You can count on me" but no name.
+88333	<strong>Denise<br></strong>That is a strange thing for him to write.
+91333	<strong>Anna<br></strong>Hmm, it is and it's not his handwriting.
+95222	<strong>Tom<br></strong>Maybe a secret admirer eh? I wonder who it could be?
+102054	<strong>Denise<br></strong>Are you OK Paul? You look as white as a sheet.
+106444	<strong>Paul<br></strong>I'm not actually. Mr Socrates says he's having a <em>strategic review</em>.
+114222	<strong>Anna<br></strong>A what?
+115588	<strong>Narrator<br></strong>He means he's been looking at how the business is operating and how it should operate in the future.
+122288	<strong>Anna<br></strong>That sounds serious.
+124222	<strong>Paul<br></strong>And as part of his review, he says he wants to <em>downsize</em> and he's asked me toâ€¦ <em>step aside</em>.
+135333	<strong>Anna<br></strong>Why? What are you in the way of?
+138188	<strong>Narrator<br></strong>No Anna. To <em>step aside</em> is a polite way of saying to leave your position in the company.
+144833	<strong>Anna<br></strong>Oh. I don't understand Paul. Why?
+149999	<strong>Paul<br></strong>He says <em>the company needs new direction and more dynamic leadership</em>.
+156777	<strong>Tom<br></strong>Crumbs Paul, you can't get more dynamic than you!
+160900	<strong>Anna<br></strong>Tom! But Paul, you've been a great boss.
+165222	<strong>Paul<br></strong>Thanks Anna. I guess it's the economic climate, we're not making enough money so cutting staff is inevitable.
+173505	<strong>Tom<br></strong>Yeah but you cut Denise's job.
+176333	<strong>Paul<br></strong>Yes but we had to get her back because she was necessary for the smooth running of the department.
+182055	<strong>Denise<br></strong>That's right.
+183555	<strong>Paul<br></strong>But Mr Socrates says I'm '<em>surplus to requirement</em>'.
+188753	<strong>Anna<br></strong>Oh, that doesn't sound goodâ€¦ does it?
+193110	<strong>Narrator<br></strong>If Paul's job is '<em>surplus to requirement</em>', it means his input to the business is no longer needed. So it's not good news.
+202470	<strong>Paul<br></strong>Anyway Anna, Mr Socrates wants to know if you got his special message?
+207944	<strong>Anna<br></strong>Special message? The flowers!?
+211777	<strong>Denise<br></strong>That's strange. Why is Mr Socrates sending you flowers?
+222444	<strong>Narrator<br></strong>It is a bit strange. Anyway, Paul's news has come as a shock for everyone.
+228289	Here are some of the phrases Mr Socrates used to break the bad news:
+233999	<em>I've been doing a strategic review of the company.
+238111	<em>I need to downsize.
+240888	<em>I need you to step aside.
+243894	<em>The company needs a new direction and more dynamic leadership.
+248402	<em>You are surplus to requirement.
+255111	<strong>Anna<br></strong>Right, I'm going to have to call Mr Socrates and find out why he's sent me flowers.
+262111	<strong>Mr Socrates<br></strong>Socratesâ€¦ who wants me?
+264555	<strong>Anna<br></strong>Ermâ€¦ hello Mr Socratesâ€¦ it's Anna here.
+268111	<strong>Mr Socrates<br></strong>Anna! My favourite girl. Please call me Brad. So glad you called.
+272666	<strong>Anna<br></strong>I needed to speak to you about the flowers you sent me.
+276282	I'm very flattered but I don't thinkâ€¦
+278444	<strong>Mr Socrates<br></strong>The flowers?! Sorry honey, I haven't sent you any flowers but I have sent you an email â€“ have you read it yet?
+285000	<strong>Anna<br></strong>No. What did it say?
+287111	<strong>Mr Socrates<br></strong>I was saying that as I'm giving Paul the chop, would you like a promotion?
+292111	<strong>Anna<br></strong>A promotion?
+293333	<strong>Mr Socrates<br></strong>Yes. You have been an outstanding member of the team so how would you like to be the new manager of Tip Top Trading's London office?
+301666	<strong>Narrator<br></strong>What a fantastic opportunity and one that Anna surely can't refuse â€“ or can she?
+308424	And who did send Anna those flowers with a message saying "You can count on me"?
+313722	Find out what her answer is in the next English at Work. Bye.

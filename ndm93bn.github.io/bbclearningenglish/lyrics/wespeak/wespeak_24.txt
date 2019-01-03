@@ -1,0 +1,24 @@
+1	(Introduction...)
+12700	<strong>Rob<br></strong>Hello, I'm Rob.
+14333	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+17888	<strong>Rob<br></strong>Now Feifei, did you try out that new cafe on the way to work today?
+21800	<strong>Feifei<br></strong>Yes, I did - I was really impressed - the new cafe has a great range of food and friendly staff. So have you tried it Rob?
+31222	<strong>Rob<br></strong>Yeah, I've been there twice now - but, well, it's <strong>no great shakes</strong>.
+35900	<strong>Feifei<br></strong><strong>No great shakes</strong>?! That's the best thing about it, they sell amazing banana milkshakes. mmmm&nbsp;
+44000	<strong>Rob<br></strong>No, no, no. I wasn't talking about the shakes - I was referring to the cafe generally - there's nowhere to sit, the queues are long, and they didn't put enough froth on my skinny cappuccino - so it's <strong>no great shakes</strong> - in other words, it's not very good.
+57900	<strong>Feifei<br></strong>Oh so <strong>no great shakes</strong> is an expression that means it's not very good. So you're not impressed?
+65222	<strong>Rob</strong><br> I'm afraid not. And <strong>no great shakes</strong> also means 'ordinary' which describes this cafe.
+70777	Let's hear some more examples of this phrase in action.
+75900	<strong>Examples</strong> <br>My sister puts on a good dinner party but she's <strong>no great shakes</strong> when it comes to cooking!
+82900	That new singer has a great voice but he's <strong>no great shakes</strong> at playing the guitar.
+89555	The film sequel is <strong>no great shakes</strong> compared with the first one - there was no story and the special effects were awful!
+98555	<strong>Feifei<br></strong>So that's the expression <strong>no great shakes</strong> which means not very good or not very impressive.
+105109	But Rob, maybe if you <em>did</em> try the banana milkshake it might change your opinion about the cafe? Look, I've got one here.
+116666	<strong>Rob<br></strong>Mmmm, thanks, yeah. It's not bad, actually. This is a great shake.
+121444	OK, well, perhaps I'll give it a second chance.
+124444	<strong>Feifei<br></strong>Where are you going?
+125322	<strong>Rob</strong> <br> To buy a milkshake!
+126500	<strong>Feifei<br></strong>You do know they cost four pounds?
+129000	<strong>Rob</strong><br> What? Four pounds! Yes well, as I was saying, that cafe really is <strong>no great shakes</strong>.
+135444	<strong>Feifei<br></strong>If you say so Rob. Bye.
+137666	<strong>Rob<br></strong>Bye.

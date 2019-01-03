@@ -1,0 +1,56 @@
+1	(Introduction...)
+20900	<strong>Mary narrator<br></strong>My name is Mary, Mary Yellan. I'm 23 years old.
+30800	<strong>I'm not usually very brave, but I feel brave today.</strong>
+37146	Here I am...on this long journey to Cornwall...on my own.
+45800	<strong>I've left the farm</strong> where <strong>I've lived all my life</strong>.
+49888	I wanted to stay there, but last week I made a promise to my dear Mother.
+59003	<strong>Mother<br></strong>[coughing/weak voice] Mary, my child...listen. I won't be in this world much longer.
+73555	<strong>Mary<br></strong>Don't say that, Mother.
+76111	<strong>Mother<br></strong>It's true, Mary. But, before I go, <strong>I have only one wish</strong>.
+81333	<strong>Mary<br></strong>Yes, Mother dear?
+83222	<strong>Mother<br></strong>When I die, promise me you will go and live with my sister, Patience.
+87999	<strong>Mary<br></strong>But why can't I stay here on the farm, here in Helford?
+92338	<strong>Mother<br></strong>You can't stay here alone.
+94689	<strong>Mary<br></strong>But <strong>I haven't seen Patience since I was a child</strong>!
+98562	<strong>Mother<br></strong>I know, but soon she will be the only family you have.
+102716	[coughing] <strong>I have written to her. She has agreed</strong> that you can go and live with her and your uncle Joshua.
+111174	<strong>They live on Bodmin Moor in Cornwall</strong>. Here, take her letter.
+116979	<strong>Mary<br></strong>Bodmin Moor! But that's so far away!
+126402	<strong>Mary narrator<br></strong>Mother died last Tuesday. The funeral was yesterday. We buried her next to Papa.
+136918	<strong>Now, I'm on my way to my aunt's house. I've got the letter here</strong>.
+143035	[reading]<strong> Joss and I now live in Jamaica Inn</strong>, where he is <strong>landlord</strong>.
+153000	It's on the road between Bodmin and Launceston. This journey is so long!
+166200	We have been travelling for hours. What a wild and lonely county Cornwall is.
+174900	My only <strong>consolation </strong>is that I will see my aunt again after so many years.
+179448	Oh how pretty she was with her golden hair and blue eyes! Always laughing, enjoying ourselves.
+190749	But <strong>I never visited her </strong>and I never met her husband either.
+197000	Ah, at last, I can see houses and people - this must be Bodmin town.
+208000	There is just me and one other traveller left. It's so cold and grey outside.
+216249	<strong>The rain is lashing against the window</strong>. I wish it would stop!
+221186	All I can see is mile upon mile of empty <strong>moorland</strong>.
+225651	No trees...no houses. I wonder how many more hours we have to travel?
+235000	<strong>Mary<br></strong>Excuse me, sir - is it much further?
+237867	<strong>Man<br></strong><strong>Where are you going?
+239053	<strong>Mary<br></strong>Jamaica Inn. <strong>Do you know it?
+241222	<strong>Man<br></strong>Maybe I do and maybe I don't...and <strong>why are you going there?
+245666	<strong>Mary<br></strong>I'm going to live there...with my aunt and uncle.
+248962	<strong>Man<br></strong>That will be Joss Merlyn.
+251035	<strong>People say that queer things go on at Jamaica Inn</strong>.
+254800	<strong>Mary<br></strong><strong>What do you mean - queer?
+257144	<strong>Man<br></strong>It's just what they say. But <strong>respectable people don't go there any more</strong>. It's a lonely place.
+265000	<strong>Man<br></strong>If I were you, Miss, I would go on to Launceston tonight and go back to Bodmin tomorrow.
+271666	<strong>Mary<br></strong>But I can't. <strong> My aunt and uncle are waiting for me.
+275300	<strong>Man<br></strong>Jamaica Inn is no place for a young woman.
+277666	<strong>Mary<br></strong>I have nowhere else to go.
+281134	<strong>Mary narrator<br></strong>What can he mean by 'queer things'? <strong>Why is he looking at me in that curious way?
+289313	<strong>Driver<br></strong>Whoa boy.! Slow now.
+295172	<strong>Mary<br></strong><strong>Why have we stopped here</strong> - it's the middle of nowhere?
+299000	<strong>Driver<br></strong>Jamaica Inn! There you go Miss.
+304444	<strong>Mary<br></strong>But there's nothing here! Oh - what's that?
+310294	There up on the <strong>moor</strong> - a dark building with tall chimneys.
+315488	I can see a path to the door. There's a sign twisting in the wind. It says 'Jamaica Inn'.
+326111	<strong>Mary narrator<br></strong>Suddenly <strong>I feel frightened. I want to climb back in the coach.
+331777	Too late - <strong>it's already gone</strong>. I suppose my only choice now is to enter Jamaica Inn.
+345000	Next time we meet - I get to meet my Aunt Patience and Uncle Joss.
+352359	I discover what a mean and scary man my uncle is.
+357000	And I discover a locked room - what is inside?

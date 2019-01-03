@@ -1,0 +1,30 @@
+1	(Introduction...)
+11555	<strong>Feifei<br></strong>Welcome to The English We Speak. I'm Feifei.
+15255	<strong>Neil<br></strong>And I'm Neil.
+16000	<strong>Feifei<br></strong>In this programme, we're talking about. 'about'!
+19081	<strong>Neil<br></strong>About 'about'?
+20517	<strong>Feifei<br></strong>About 'about'!
+22000	<strong>Neil<br></strong>This is getting silly! We are indeed talking about the word 'about' - but not as it's usually used.
+28111	<strong>Feifei<br></strong>Indeed. Let's demonstrate. Is Mark about today?
+32422	<strong>Neil<br></strong>Yes, I saw him this morning.
+34000	<strong>Feifei<br></strong>So - when I asked: "Is Mark about today?" I wasn't asking if Mark was somehow related to the concept of 'today' I just meant 'Is Mark here'?
+42999	<strong>Neil<br></strong>'About' means 'here', or 'somewhere near here'.
+46234	<strong>Feifei<br></strong>Mark's about. Mark's near here. By the way, who's Mark?
+50555	<strong>Neil<br></strong>No idea. But I know he's near here!
+53033	<strong>Feifei<br></strong>Well, that's reassuring. Time for some more examples about 'about'.
+59379	<strong>Examples<br></strong>Hi, is Sue about? Just need to give her some files.
+64111	Will you be about this evening? I want to ask a big favour.
+68333	There's no one about. It's a bit scary.
+71999	Don't talk like that. There are children about.
+77792	<strong>Feifei<br></strong>There we are. 'About' meaning in or close to an area.
+82444	<strong>Neil<br></strong>You know, there's another word that behaves like this.
+84795	<strong>Feifei<br></strong>You're talking about. 'around'!
+86977	<strong>Neil<br></strong>Indeed. We could ask: "Is Mark around?"
+89555	<strong>Feifei<br></strong>And we know the answer to that: you saw him this morning.
+92809	<strong>Neil<br></strong>Except. you didn't really see him did you? Because Mark doesn't exist.
+97088	<strong>Mark<br></strong>Hi - I'm Mark.
+98666	<strong>Neil<br></strong>Ah, Mark!
+100111	<strong>Feifei<br></strong>We were just talking <em>about </em>you!
+102447	<strong>Neil<br></strong>We were just talking about 'about'.
+104777	<strong>Feifei<br></strong>And 'around'.
+105888	<strong>Neil, Feifei, Mark<br></strong>Bye.

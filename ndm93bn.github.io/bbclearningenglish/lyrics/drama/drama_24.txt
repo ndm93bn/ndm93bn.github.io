@@ -1,0 +1,87 @@
+1	(Introduction...)
+13700	<strong>Narrator<br></strong>Algernon secretly managed to find out the address of Jack's house in the country - the house where he lives with Cecily.
+22626	We now join Cecily, a pretty girl of eighteen, and her <strong>governess</strong> Miss Prism - that's the lady who looks after her, in their garden on a summer's day.
+33436	They're studying German grammar, but Cecily seems more interested in the flowers.
+41666	<strong>Miss Prism</strong><br>Cecily! Leave the flowers. Sit down and we'll look at the German verbs.
+47877	<strong>Cecily</strong><br>But I really don't like German.
+50555	<strong>Miss Prism</strong><br>Cecily, you know Mr Worthing wants you to improve yourself.
+54777	<strong>Cecily</strong><br>Dear Uncle Jack is so serious!
+56955	<strong>Miss Prism</strong><br>Cecily! I am surprised at you. You know the problems Mr Worthing has.
+61999	You must remember how worried he is about his <strong>unfortunate</strong> young brother.
+67229	<strong>Cecily</strong><br>I wish Uncle Jack would let that unfortunate young man, his brother, come here sometimes.
+73222	Oh, Miss Prism. Look who's coming. It's <strong>Reverend </strong>Chasuble.
+80555	<strong>Narrator<br></strong>And indeed, they hadn't noticed the middle-aged man walking up the garden because <strong>they</strong> <strong>had been</strong> <strong>talking </strong>so energetically about Jack.
+90555	<strong>Miss Prism</strong><br>Reverend Chasuble! This is a pleasure.
+94444	<strong>Chasuble</strong><br>Oh, Miss Prism, I hope you are well?
+97111	<strong>Cecily</strong><br>Miss Prism has just been complaining of a headache.
+100395	I think it would be good for her to have a short walk with you in the park, Reverend.
+105300	<strong>Miss Prism</strong><br>I haven't mentioned anything about a headache.
+108541	<strong>Cecily</strong><br>No, dear Miss Prism, I know that, but I thought you <strong>had been looking</strong> like you might get one.
+115058	<strong>Chasuble</strong><br>Mr Worthing, I suppose, has not returned from London yet?
+119222	<strong>Miss Prism</strong><br>He won't be back until Monday afternoon.
+122414	<strong>Chasuble</strong><br>Ah yes, he likes spending Sunday in London.
+125994	He's not one of those people who spend all their time enjoying themselves, not like that young man his brother.
+133222	<strong>Miss Prism</strong><br>I think, dear Reverend, I will have a walk with you.
+136800	I find I have a headache after all, and a walk might do it good.
+141333	<strong>Chasuble</strong><br>With pleasure, Miss Prism.
+144111	<strong>Miss Prism</strong><br>Cecily, you can read your economics book while I'm gone.
+149900	<strong>Narrator</strong><br>So Miss Prism and Dr Chasuble wander off, leaving Cecily alone.
+156222	She immediately shuts her book on economics and is about to get up when Merriman, the <strong>butler</strong>, arrives.
+163809	<strong>Merriman</strong><br>Mr Ernest Worthing has just driven over from the station.
+169224	<strong>Cecily</strong><br>Uncle Jack's brother! Did you tell him Mr Worthing was in London?
+173777	<strong>Merriman</strong><br>Yes, Miss. He seemed very disappointed.
+177730	<strong>He had been hoping to </strong>find Mr Worthing at home and <strong>had been planning</strong> to stay the night.
+183786	I mentioned that you and Miss Prism were in the garden. He said he would like to talk to you for a moment.
+191777	<strong>Cecily</strong><br>Ask him to come here.
+193444	<strong>Merriman</strong><br>Yes, Miss.
+198731	<strong>Cecily</strong><br>I have never met a really wicked person before.
+203800	<strong>Narrator<br></strong>Algernon enters looking stylish and confident.
+208943	<strong>Algernon</strong><br>You are my little cousin Cecily, I'm sure.
+212800	<strong>Cecily</strong><br>You are mistaken. I am not little. In fact, I believe I am unusually tall for my age.
+219444	<strong>Algernon</strong><br>Oh, I'm sorry.
+221444	<strong>Cecily</strong><br>But I am your cousin Cecily. You are Uncle Jack's brother, my cousin Ernest, my <strong>wicked</strong> cousin Ernest.
+230288	<strong>Algernon</strong><br>Oh! I'm not really wicked at all, cousin Cecily.
+233777	<strong>Cecily</strong><br>If you aren't, then you have been <strong>deceiving</strong> us all.
+236451	I hope you haven't been leading <strong>a double life</strong>, pretending to be wicked and being really good all the time.
+243111	<strong>Algernon</strong><br>Oh! Of course I have been rather <strong>reckless</strong>.
+246288	<strong>Cecily</strong><br>I am glad to hear it.
+247666	<strong>Algernon</strong><br>In fact, now you mention it, I've been very bad in my own small way.
+252444	<strong>Cecily</strong><br>I don't think you should be so proud of that, though I am sure it has been very pleasant.
+257166	<strong>Algernon</strong><br>It is much pleasanter being here with you.
+259726	<strong>Cecily</strong><br>I can't understand why you are here at all. Uncle Jack isn't back until Monday afternoon.
+264733	<strong>Algernon</strong><br>How disappointing! I have to go back to London early on Monday morning.
+269166	<strong>Cecily</strong><br>Well, I think you should wait till Uncle Jack arrives.
+272222	I know he wants to speak to you about you <strong>emigrating</strong>.
+274888	<strong>Algernon</strong><br>About me what?
+276544	<strong>Cecily</strong><br>You emigrating. He's gone to London to buy you some clothes.
+280100	<strong>Algernon</strong><br>I'm not happy about Jack buying my clothes. I don't like his style of ties at all.
+285400	<strong>Cecily</strong><br>I don't think you'll need ties. Uncle Jack is sending you to Australia.
+289666	<strong>Algernon</strong><br>Australia! I'd sooner die.
+292870	<strong>Cecily</strong><br>Well, he said at dinner on Wednesday night, that you would have to choose between this world, the next world, and Australia.
+299444	<strong>Algernon</strong><br>Oh, well! I haven't heard very good things about Australia or the next world.
+303666	This world is good enough for me, cousin Cecily.
+306188	<strong>Cecily</strong><br>Yes, but are you good enough for it?
+308722	<strong>Algernon</strong><br>I'm afraid I'm not. That is why you have to <strong>reform</strong> me, cousin Cecily.
+314499	<strong>Cecily</strong><br>I'm sorry, I don't have time this morning.
+316444	<strong>Algernon</strong><br>Well, will you have time to reform me this afternoon?
+319222	<strong>Cecily</strong><br>I think <em>you</em> should try.
+321755	<strong>Algernon</strong><br>I will, but I will need a little something to eat first. I'm a little hungry.
+326777	<strong>Cecily<br></strong>How thoughtless of me! Won't you come in for something to eat?
+330222	<strong>Algernon</strong><br>Thank you. Could I have one of your flowers first?
+333333	<strong>Cecily<br></strong>Certainly.
+334150	<strong>Algernon</strong><br>I'd like a pink rose.
+337438	<strong>Cecily</strong><br>Why?
+339079	<strong>Algernon</strong><br>Because you are like a pink rose, cousin Cecily.
+342333	<strong>Cecily</strong><br>I don't think it can be right for you to talk to me like that. Miss Prism never says such things to me.
+348666	<strong>Algernon</strong><br>Then Miss Prism is a short-sighted old lady. You are the prettiest girl I ever saw.
+360843	<strong>Narrator</strong><br>Algernon and Cecily go up to the house.
+364666	Miss Prism and Reverend Chasuble, who <strong>had been walking and discussing</strong> the advantages of marriage for single men, also return home.
+373020	But someone else is now walking up the garden path. It's Jack! He's back early. He's dressed in black and looking very serious.
+385999	<strong>Miss Prism</strong><br>Mr Worthing! This is indeed a surprise. We thought you were coming back on Monday!
+392500	<strong>Chasuble</strong><br>Dear Mr Worthing, I hope this black suit does not mean some terrible news?
+398788	<strong>Jack</strong><br>My brother.
+400000	<strong>Miss Prism</strong><br>Spending lots of money and running up <strong>debts </strong>again?
+403222	<strong>Chasuble</strong><br>Still leading his life of pleasure?
+406440	<strong>Jack</strong><br>Dead!
+408100	<strong>Chasuble</strong><br>Your brother Ernest, dead?
+411714	<strong>Jack</strong><br>Quite dead.

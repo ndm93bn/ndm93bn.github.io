@@ -1,0 +1,66 @@
+1	(Introduction...)
+5897	<strong>Narrator<br></strong>Welcome back to English at Work. At the offices of Tip Top Trading, things are a bitâ€¦ tricky.
+14199	Denise has been reinstated at the company but now wants to do more than just ordering pens.
+20861	Tom has other ideas and Anna is just caught in the middle.
+25400	Who can she turn to? Paul maybeâ€¦ or maybe not?
+30777	<strong>Paul<br></strong>So Denise, let's get this straight. You don't want to order the pens anymore, right?
+36888	<strong>Denise<br></strong>Well, I did say if I came back, I wanted to have a go at doing sales.
+42777	<strong>Paul<br></strong>Err, yes, you did. That's right.
+45756	<strong>Tom<br></strong>Yeah but we got Denise back because we didn't have anyone to order our pens and stuff. That's her main job.
+53900	<strong>Paul<br></strong>Err yes, absolutely. I see your point.
+57888	<strong>Anna<br></strong>Excuse me Paul, could I suggest we all take it in turns to order things like pens and paperâ€¦ share the responsibility?
+66688	<strong>Denise<br></strong>That's a good idea Anna.
+69050	<strong>Tom<br></strong>Yeah butâ€¦
+70933	<strong>Paul<br></strong>No buts Tom, that's a good solution. Well done Annaâ€¦ could you draw up a rota so we know who's going to be ordering the pens and when?
+79444	And don't forget to order biscuits too! Phew, I'm glad I got that sorted out. Right, back to work everyone.
+90111	<strong>Tom<br></strong>I can't believe I've got to order pens, it's Denise's responsibilityâ€¦ err, are you OK Anna?
+98070	<strong>Anna<br></strong>No I'm not. I can't draw up a rota, not now. I've got too much to do.
+104959	<strong>Tom<br></strong>Alright don't panic Anna. Just do what I do.
+108777	<strong>Anna<br></strong>What's that?
+109777	<strong>Tom<br></strong>Nothing! Just do what you can do and then pretend you've forgotten about the other stuff. Easy!
+116591	<strong>Narrator<br></strong>Oh dear, Tom's not that professional is he?
+120466	Not like you Anna. You just need to get organised and prioritise.
+125899	<strong>Anna<br></strong>I need to prioritise?
+128108	<strong>Narrator<br></strong>Yes. Decide what tasks need doing first and maybe delegate some tasks to others.
+134784	You could say to people "I've got to prioritise.
+138475	This is the most important so I'm going to concentrate on this first.",
+143444	then you could say to someone "It would be a great help if you could take on this other task".
+149600	You could also say "I'll have to put off some tasks until tomorrow".
+154794	And if you still feel under pressure, say to your boss "I need help, I have too much to do".
+162094	<strong>Anna<br></strong>Thanks, good advice. I'm just writing a list of all the things I need to do on my new mini me-pad.
+169444	<strong>Narrator<br></strong>Writing a list is a good place to start. Good luck!
+173995	<strong>Anna<br></strong>There, that's my list finished.
+181833	<strong>Denise<br></strong>The one for ordering pens?
+183733	<strong>Anna<br></strong>That's it. Well, I'm so busy, I was wonderingâ€¦ it would be a great helpâ€¦ if you could make a start on this? Please?
+193123	<strong>Denise<br></strong>Of course Anna. As it's you. If it was Tom asking, I would have said no!
+199401	<strong>Tom<br></strong>What's that Denise? Hey Anna, what are we going to do about the designs for that plastic aubergine?
+205488	<strong>Anna<br></strong>Gosh, our new aubergine. Hmm, I'm going to have to put that off until tomorrow I'm afraid.
+212345	<strong>Tom<br></strong>Oh right. Why, have you got something more important for us to do together, eh?
+216888	<strong>Anna<br></strong>No Tom. I've just got to prioritise.
+220254	This new order from Nice'n'Cheesy is the most important, so I'm going to concentrate on that first. OK?
+228514	<strong>Tom<br></strong>Oh right, yeah sure. Me and you will have to wait until tomorrow!
+233664	Soâ€¦ soâ€¦ how's it going with Dave from Computer Support?
+239777	<strong>Anna<br></strong>Very well thanks Tom. Last night he took me somewhere I've never been to before.
+245888	<strong>Tom<br></strong>Really. Nice.
+248444	<strong>Anna<br></strong>Yes, a discount computer shop â€“ he bought me a mini me-pad<em>.
+253282	<strong>Tom<br></strong>Oh. Just a 'mini' one hey.
+256222	<strong>Anna<br></strong>Now, if you could take more interest in our Nice'n'Cheesy contract than you do in Dave, it would be a great help.
+263254	<strong>Tom<br></strong>Oh yeah, sure, of course<em>â€¦ </em>nice'n'sleazy, that's a good name for Dave!
+273222	<strong>Narrator<br></strong>Idiot! Getting organised is important when you have a lot to do.
+278111	Tell people what you're doing and don't forget to ask for help. Here's a reminder of what Anna said:
+285153	<em>I've got to prioritise. This task is the most important so I'm going to concentrate on this first.
+293129	<em>It would be a great help if you could do this for me please.
+297666	<em>I'm going to have to put that off until tomorrow I'm afraid</em>.
+304999	<strong>Narrator<br></strong>And don't forget, when you simply have too much to do, tell your boss!
+312300	<strong>Anna<br></strong>Hello Paul, sorry to bother you. I'm a bit worriedâ€¦ I just have too much to do and need some help.
+319901	<strong>Paul<br></strong>Yes of course. I don't want you feeling stressed.
+323519	Let me thinkâ€¦ erm. I know, why don't I do the pen rota?
+328922	<strong>Anna<br></strong>It's OK, Denise has offered to do that.
+331900	<strong>Paul<br></strong>Phew, I mean super! Ermâ€¦ hmmâ€¦ well, maybe Tom could help you with the launch party?
+341111	<strong>Anna<br></strong>Launch party? What launch party?
+344450	<strong>Paul<br></strong>Didn't Tom tell you?
+346200	<strong>Anna<br></strong>No, he didn't.
+347456	<strong>Paul<br></strong>We're launching the plastic aubergine on Friday.
+350893	<strong>Anna<br></strong>Oh no!
+352320	<strong>Narrator<br></strong>Keep calm Anna! We're here to help â€“ although organising a launch party in a week is quite a challenge.
+360500	Find out how it goes on the next English at Work. Bye!

@@ -1,0 +1,77 @@
+1	(Introduction...)
+11100	<strong>Callum<br></strong>Hello and welcome to 6 Minute Grammar with me, <strong>Callum</strong>.
+14555	<strong>Catherine<br></strong>And me, <strong>Catherine</strong>. Hello.
+17000	<strong>Callum</strong> <br>In this programme weâ€™re talking about adverbs and where they should go. Catherine, remind us what adverbs are.
+25505	<strong>Catherine <br></strong>Certainly Callum. Adverbs are words or phrases that we use to give more information about verbs, adjectives or other adverbs.
+34426	We use them to express how someone does something or how something happens.
+39616	<strong>Callum<br></strong>In todayâ€™s programme weâ€™re going to focus on how they are used with verbs.
+44343	Listen out for the adverbs <strong>usually</strong>, <strong>really</strong>, <strong>hardly</strong> and <strong>ever</strong>. Hereâ€™s Finn.
+51888	<strong>Finn<br></strong>I <strong>usually</strong> drive to work. I <strong>usually</strong> drive to work.
+57701	I donâ€™t <strong>really</strong> like cheese. I donâ€™t <strong>really</strong> like cheese.
+63666	I can <strong>hardly</strong> believe what happened at the concert.
+67146	I can <strong>hardly</strong> believe what happened at the concert.
+71239	Have you <strong>ever</strong> been to Scotland?
+73920	Have you <strong>ever</strong> been to Scotland?
+78340	<strong>Callum<br></strong>Now, letâ€™s look more closely at where to put the adverb.
+82654	<strong>Catherine<br></strong>Adverbs can usually be placed in one of three positions.
+86888	<strong>Callum<br></strong>The first position is at the very beginning of the sentence, before the subject.
+91616	<strong>Finn<br></strong><strong>Usually</strong> I drive to work.
+94100	<strong>Catherine<br></strong>The second position is before the main verb.
+97800	<strong>Finn<br></strong>I <strong>usually</strong> drive to work.
+100086	<strong>Callum<br></strong>And the third position is after the direct object or complement of the verb.
+104700	<strong>Finn<br></strong>I drive to work <strong>usually</strong>.
+107555	<strong>IDENT <br></strong>Youâ€™re listening to BBC Learning English.
+112100	<strong>Callum<br></strong>Today weâ€™re talking about where to put adverbs when we are using them to give more information about verbs.
+118372	<strong>Catherine<br></strong>Weâ€™ve seen that there are three positions where adverbs typically go.
+122813	<strong>Callum<br></strong>So is it the case that you can put any adverb in any of these positions?
+126977	<strong>Catherine<br></strong>Callum, if it was that simple, it would be fantastic.
+130555	Many adverbs can indeed go in any of these positions, depending on style and context.
+136400	<strong>Callum<br></strong>I feel there is a 'butâ€™ coming.
+138200	<strong>Catherine<br></strong>Butâ€¦
+139000	<strong>Callum<br></strong>Ah, there it isâ€¦
+139600	<strong>Catherine<br></strong>But thatâ€™s not always the case.
+142589	Some adverbs canâ€™t go in certain places and some are more common in particular positions than others.
+149455	<strong>Callum<br></strong>And we also have to consider modals and other auxiliaries, questions and negatives.
+154444	<strong>Catherine<br></strong>We do. So letâ€™s start with the verb <strong>to be</strong><em>.
+157666	When the verb <strong>to be </strong>is the main verb of a sentence, we usually put adverbs immediately after the verb.
+165602	<strong>Finn<br></strong>Heâ€™s <strong>always</strong> on time. I was <strong>never</strong> happy at school.
+170921	<strong>Callum<br></strong>When there is more than one part to the verb, where does the adverb go?
+174800	<strong>Catherine<br></strong>If there is an auxiliary such as have or has in the present perfect or a modal like can, will, should and so on, the adverb usually goes after the auxiliary and before the main verb.
+190061	<strong>Finn<br></strong>You can <strong>never</strong> predict what mood he is going to be in.
+194000	Iâ€™ve <strong>rarely</strong> seen him angry. I will <strong>always</strong> love you.
+200200	<strong>Catherine<br></strong>And I'll always love you Finn. The same is true in negative sentences.
+206197	The adverb will come after the negative and before the main verb.
+210999	<strong>Finn<br></strong>Iâ€™ve <strong>never</strong> visited Iceland. Iâ€™ve <strong>never</strong> visited Iceland.
+216156	He canâ€™t <strong>even</strong> make a cup of tea. He canâ€™t <strong>even</strong> make a cup of tea.
+221777	<strong>Callum<br></strong>What about questions?
+223111	<strong>Catherine<br></strong>The same is true there. The adverb comes after the question word or auxiliary and before the main verb.
+230333	<strong>Finn<br></strong>Do you <strong>still</strong> live in the same city? Do you <strong>still</strong> live in the same city?
+236111	Would you <strong>really</strong> like me to come and stay?
+239207	Would you <strong>really</strong> like me to come and stay?
+241777	Have you <strong>ever</strong> thought about emigrating?
+244178	Have you <strong>ever</strong> thought about emigrating?
+247888	<strong>Callum<br></strong>Now, are there any places where you can't put an adverb?
+252222	<strong>Catherine<br></strong>There are. Adverbs donâ€™t go between a main verb and its direct object.
+257555	So for example could I say: I play very well tennis?
+262222	<strong>Callum<br></strong>Well you could say it, but it wouldnâ€™t be right.
+264222	<strong>Catherine<br></strong>OK then, how about this? I play tennis very well.
+267500	<strong>Callum<br></strong>Thatâ€™s correct, though only grammatically.
+269987	<strong>Catherine<br></strong>What do you mean?
+270900	<strong>Callum<br></strong>Well actually you play tennis awfully!
+273100	<strong>Catherine<br></strong>That's true actually Callum, yep.
+281222	<strong>Callum<br></strong>Weâ€™re nearly at the end of todayâ€™s programme, just time to take our quick quiz on this topic.
+286056	<strong>Catherine<br></strong>Youâ€™re going to hear some sentences and you need to decide if the adverbs are in the correct place. Hereâ€™s the first one
+292777	<strong>Finn<br></strong>You always must remember to lock the door when you leave. You always must remember to lock the door when you leave.
+302604	<strong>Callum<br></strong>This one isâ€¦.not right.
+305666	The adverb <strong><em>always</em></strong> should come after the modal â€˜mustâ€™ and before the main verb â€˜rememberâ€™.
+312666	Hereâ€™s the next one.
+313999	<strong>Finn<br></strong>I have never learned a foreign language. I have never learned a foreign language.
+320999	<strong>Catherine<br></strong>This isâ€¦ correct.
+323589	The adverb, in this case <strong>never</strong> comes between the auxiliary â€˜haveâ€™ and the main verb â€˜learnedâ€™.
+330352	And the final sentence.
+332122	<strong>Finn<br></strong>She rarely is late.
+337857	<strong>Callum<br></strong>This isâ€¦ not correct. The adverb <strong>rarely </strong>should come after the verb â€˜to beâ€™.
+344327	<strong>Catherine<br></strong>So thatâ€™s our introduction to the position of adverbs.
+347793	<strong>Callum<br></strong>Do check our website bbclearningenglish.com for more information on this subject.
+352722	<strong>Catherine<br></strong>And do join us again for more 6 Minute Grammar
+355439	<strong>Both<br></strong>Goodbye

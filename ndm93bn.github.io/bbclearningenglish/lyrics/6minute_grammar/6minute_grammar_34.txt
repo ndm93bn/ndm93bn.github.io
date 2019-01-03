@@ -1,0 +1,79 @@
+1	(Introduction...)
+13111	<strong>Callum</strong> <br> Hello and welcome to 6 Minute Grammar with me, Callum.
+16777	<strong>Catherine</strong> <br> And me, Catherine.
+17999	<strong>Callum</strong> <br> Today weâ€™re focussing on <strong>participle clauses</strong>.
+21200	<strong>Catherine<br></strong>Yes, thatâ€™s clauses that begin with <strong>present</strong> or <strong>past participles</strong>.
+25623	<strong>Callum</strong> <br> Weâ€™ll find out what they are and how to use them.
+28400	<strong>Catherine<br></strong>And thereâ€™ll be lots of examples and also a quiz. Before we start though Callum, are you all right?
+36356	<strong>Callum<br></strong>What do you mean?
+37444	<strong>Catherine<br></strong>Well youâ€™ve got little bits of tissue stuck on your face.
+42111	<strong>Callum<br></strong>Oh that, you noticed.
+43837	<strong>Catherine<br></strong>Well, itâ€™s hard to miss them really.
+45655	<strong>Callum<br></strong>I cut myself <strong>shaving</strong>.
+47666	<strong>Catherine<br></strong>I see, thatâ€™s convenient.
+50277	<strong>Callum<br></strong>Not really, it hurt.
+51777	<strong>Catherine<br></strong>But it did give you a perfect example of <strong>a present participle clause</strong>, which is todayâ€™s topic.
+60000	<strong>Callum<br></strong>Yes it did! Letâ€™s use that then as our first example.
+64444	I cut myself <strong>shaving</strong>. First though, letâ€™s remind everyone what a present participle is:
+70700	<strong>Catherine<br></strong>Sure. The present participle is <strong>the -ing form</strong> of the verb. We use it to form the continuous verb forms.
+79222	So if the infinitive is shave, the <strong>present participle</strong> is <strong>shaving</strong>.
+84900	<strong>Callum<br></strong>The past continuous of shave is: â€œI was <strong>shaving</strong>.â€
+88666	<strong>Catherine<br></strong>And something happened while you were <strong>shaving</strong>, Callum
+91200	<strong>Callum</strong><br> Yes, I cut myself.
+92944	<strong>Catherine<br></strong>You did. Now we can make a number of different sentences with this information. You could say:
+99300	<strong>Callum<br></strong>I was <strong>shaving</strong> and I cut myself or: While I was <strong>shaving</strong> I cut myself.
+105650	<strong>Catherine <br></strong>Letâ€™s just swap those clauses around
+109000	<strong>Callum<br></strong>I cut myself while I was <strong>shaving</strong>.
+111777	<strong>Catherine<br></strong>OK, now because the subject of each of those clauses is the same - you - we can make the sentence more efficient and sound more natural by not repeating the pronoun and auxiliary that goes with it.
+125333	<strong>Callum<br></strong>I cut myself while <strong>shaving</strong>.
+127444	<strong>Catherine<br></strong>This is fine, but we can also leave out the conjunction â€“ while. Which leaves us with:
+133222	<strong>Callum</strong><br> I cut myself <strong>shaving</strong>.
+134922	<strong>Catherine<br></strong>So we can use this structure when two things happen at the same time.
+139444	<strong>Callum<br></strong>Yes, lets have some more examples. Catherine, what were you doing last night?
+144466	<strong>Catherine<br></strong>I was <strong>sitting</strong> on the sofa. I was <strong>watching</strong> TV.
+148555	So I can say: I was <strong>sitting</strong> on the sofa <strong>watching</strong> TV.
+153111	Callum: What are we doing now?
+155555	<strong>Callum</strong><br> We are in the studio. We are <strong>recording</strong> 6 Minute Grammar.
+159777	Weâ€™re in the studio <strong>recording</strong> 6 Minute Grammar.
+162700	<strong>STING
+168777	<strong>Catherine<br></strong>Today weâ€™re talking about <strong>participle clauses</strong>.
+171777	<strong>Callum<br></strong>Weâ€™ve looked at one way you can use a <strong>present participle clause;</strong> now letâ€™s look at a <strong>past participle clause</strong>.
+178022	First Catherine, letâ€™s review what <strong>a past participle</strong> is.
+181500	<strong>Catherine</strong><br> Itâ€™s the third form of the verb, so if you remember go, went, gone, or do, did, done; gone and done are the <strong>past participles</strong>.
+192916	For regular verbs this is <strong>the -ed form</strong>. We use the <strong>past participle</strong> in perfect verb forms and also the passive.
+201100	<strong>Callum<br></strong>So how would we use a <strong>past participle clause</strong>?
+204600	<strong>Catherine<br></strong>Like <strong>present participle clauses,</strong> itâ€™s a way of being more economical with language and avoiding repetition. Listen to these sentences.
+213055	<strong>Neil</strong><br> The dog was <strong>hit</strong> by the car. It wasnâ€™t hurt.
+216505	The dog that was <strong>hit</strong> by the car wasnâ€™t hurt.
+220222	The dog <strong>hit</strong> by the car wasnâ€™t hurt.
+223555	<strong><br> Catherine<br></strong>So we started there with two sentences.
+226150	Both contained clauses that had the same subject.
+230059	We have <strong>the dog </strong>in the first sentence, and in the second itâ€™s referred to with the pronoun <strong>it.
+236055	<strong> Neil<br></strong>The dog <strong>was hit</strong> by a car. <strong>It</strong> wasnâ€™t hurt.
+239866	<strong>Catherine</strong><br> We can the combine these into one sentence by using a relative clause.
+244288	<strong>Neil<br></strong>The dog<strong> that was hit</strong> by the car wasnâ€™t hurt.
+247222	<strong>Catherine<br></strong>And we can further shorten this by leaving out the relative pronoun and the auxiliary that goes with it. This leaves us with:
+254666	<strong>Neil<br></strong>The dog <strong>hit</strong> by the car wasnâ€™t hurt.
+257170	<strong>Callum<br></strong>So effectively what we do is combine all the bits that identify the subject into one phrase.
+262911	<strong>Catherine<br></strong>Yes, itâ€™s <strong>like a reduced relative clause</strong> that becomes the subject of the sentence.
+268400	You can see this form quite regularly in warning notices in public places.
+272955	<strong>Neil<br></strong>Cars <strong>parked</strong> here will be clamped. Bicycles <strong>chained</strong> to this fence will be removed.
+279286	<strong>Catherine</strong><br> Cars <strong>parked</strong> here is a shortened version of: Cars <strong>which are parked</strong> hereâ€¦
+285121	<strong>Callum<br></strong>And bicycles <strong>chained</strong> here is a shortened version of: Bicycles<strong> which are chained </strong>here.
+290902	<strong>Catherine<br></strong>Thatâ€™s right.
+291856	<strong>STING
+297666	<strong>Callum<br></strong>And now: quiz time. Join the two sentences together into one. Hereâ€™s number one:
+305888	<strong>Catherine<br></strong>I saw the cat. It was playing with a mouse.
+310222	I saw the cat. It was playing with a mouse.
+315568	<strong>Callum<br></strong>And the answer is: I saw the cat playing with a mouse. Number two:
+320777	<strong>Catherine<br></strong>The gold was stolen from the bank. It was never found.
+325999	The gold was stolen from the bank. It was never found.
+332555	<strong>Callum<br></strong>The answer is: The gold stolen from the bank was never found. And finally number three.
+339666	<strong>Catherine<br></strong>She made a lot of money. She was running her own company.
+343981	She made a lot of money. She was running her own company.
+350172	<strong>Callum<br></strong>And the answer is: She made a lot of money running her own company.
+355055	Well done if you got them all right.
+356904	<strong>Catherine<br></strong>And thatâ€™s all from us for this programme.
+359222	Thereâ€™s more about this topic on our website.
+361777	<strong>Callum<br></strong>Do join us again for more 6 Minute Grammar.
+364333	<strong>Both<br></strong>Bye

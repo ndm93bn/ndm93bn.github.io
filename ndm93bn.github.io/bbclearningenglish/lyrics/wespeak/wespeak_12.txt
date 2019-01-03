@@ -1,0 +1,26 @@
+1	(Introduction...)
+12000	<strong>Rob<br></strong>Hello, I'm Rob.
+13280	<strong>Feifei<br></strong>...and I'm Feifei and this is The English We Speak.
+16400	Hold on. Rob, are you eating?!
+19914	<strong>Rob<br></strong>I am. Would you like a crisp?
+22800	They're cheese and onion flavour.
+24500	<strong>Feifei<br></strong>Oh go on then - oh, I see you've eaten most of them, but I'll have the last one, shall I?
+34700	<strong>Rob<br></strong>Actually Fefei, there weren't many crisps to start with - it's this 'shrinkflation'.
+40103	<strong>Feifei<br></strong>Shrinkflation - I guess that's the opposite of 'inflation'?
+44950	<strong>Rob<br></strong>That's correct - inflation is where prices rise, or the size of things get bigger - they inflate - like a balloon.
+52222	But with shrinkflation things get smaller - but not the physical size of things, it's the quantity of something.
+59100	<strong>Feifei<br></strong>I see. So the crisp packet is the same size, but the number of crisps in side has been reduced.
+65850	<strong>Rob<br></strong>That's right. Let's hear some examples of other people using the work 'shrinkflation'.
+72600	<strong>Examples<br></strong>I paid the same price for this chocolate bar as I always have, but when I unwrapped it, it was smaller - I guess that's shrinkflation!
+81400	It appears lots of brands are practising shrinkflation these days, probably to cut costs and maximise their profits.
+88800	I don't believe it! There used to be 20 biscuits in the packet, but now shrinkflation means there are only 16!
+97718	<strong>Feifei<br></strong>So shrinkflation is where the quantity of something is reduced.
+102200	Why does this happen Rob?
+103993	<strong>Rob<br></strong>Well, it's a marketing trick - it's so a manufacturer does not put up the price of a product, but just reduces the cost of making it by putting less inside - but we think we're getting the same amount.
+116400	<strong>Feifei<br></strong>Clever! It's the same these days with chocolate bars, packets of cereals.
+121640	<strong>Rob<br></strong>...and BBC Learning English programmes.
+123700	<strong>Feifei<br></strong>What?
+124400	<strong>Rob<br></strong>Yes, even this programme is affected by shrinkflation - there's less in it - even though our listeners might think they're getting the same amount.
+132713	Come on it's time to go.
+134082	<strong>Feifei<br></strong>Really? This programme seems to go on for longer than ever.
+137721	<strong>Both</strong><br> Bye!
