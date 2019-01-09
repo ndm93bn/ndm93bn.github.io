@@ -1,0 +1,344 @@
+@media screen and (max-width: 964px){
+	.nguoimua{
+		margin-top: 20px;
+	}
+	.menu-left{
+		display: none;
+	}
+	.main-right{
+		padding-left: 30px;
+		padding-right: 30px;
+		height: auto;
+		margin-top: 0px !important;
+	}
+	.sidebar{
+		width: 100%;
+	}
+	.bars{
+		display: block;
+		padding-left: 10px;
+		background: #4c9d2f ;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.menu-left{
+		padding-right: 0px !important;
+		position: absolute !important;
+		z-index: 30;
+		margin-top: 0px;
+		background: #fff;
+		/*margin-left: 15px;*/
+		/*box-shadow: 0px 0px 5px 1px rgba(143,137,143,1);*/
+
+	}
+	
+	.modal-content{
+		width: auto;
+	}
+	.main-right h1{
+		margin-top: 0px;
+	}
+	.content{
+		width: 100%;
+	}
+
+	.main{
+	    margin-top: 0px;
+	}
+	
+
+}
+@media screen and (min-width: 1366px){
+	.content{
+		max-width: 1400px;
+	}
+
+	.sidebar{
+		max-width: 250px !important;
+	}
+}
+@media screen and (max-width: 425px){
+	.listShopping{
+		width: 100%;
+		font-size: 10px;
+	}
+	.sidebar{
+		width: 100%!important;
+		margin-left: 0px;
+	}
+	
+	.modal-dialog{
+		width: 300px;
+	}
+
+	h1{
+		font-size: 29px !important ;
+	}
+
+	
+}
+@media screen and (max-width: 426px){
+    body{
+        font-size: 12px !important;
+    }
+    
+    body h2{
+        font-size: 20px !important;
+    }
+    body h1{
+        font-size: 20px !important;
+    }
+    .pagejoin-left{
+        width: 100%;
+    }
+    .pagejoin-right{
+        margin-top: 20px;
+        width: 100%;
+    }
+    .hopthoai{
+        height: 350px;
+        left: 5%;
+        right: 5%;
+    }
+    .hopthoai h1{
+        font-size: 18px !important;
+    }
+    .thongbao1{
+        width: 270px;
+    }
+    /*.thongbao1 ul li{*/
+    /*    height: 120px;*/
+    /*}*/
+    .message{
+        padding-top: 15px;
+    }
+    
+	.listShopping tr td{
+		font-size: 11px;
+	}
+	.checkbox1{
+		width: 100% !important;
+	}
+	.top-left img{
+		width: 100%;
+	}
+	.top-left{
+		width: 50%;
+	}
+	.top-left p{
+		left: 15px;
+	}
+	.right{
+		width: 50%;
+	}
+	.right ul{
+		padding-right: 0px!important;
+	}
+	
+	
+	
+}
+@media screen and (max-width: 426px){
+	.submit{
+		width: 50%;
+	}
+	.cancel{
+		width: 50%;
+	}
+	.cancel a{
+		padding: 12px 16px;
+	}
+
+	
+}
+@media screen and (max-width: 600px){
+    .main{
+        margin-top: 0px !important;
+    }
+    .songchung p{
+        text-align: center !important;
+    }
+    .index ul{
+		height: auto;
+		
+	}
+	.index{
+		opacity: 1;
+	}
+    .bars1{
+		display: block;
+		position: absolute;
+		z-index: 40;
+		padding-left: 10px;
+
+	}
+    .menu-header{
+		display: none;
+	}
+	.menu-header{
+		background: #fff;
+		position: absolute;
+		left: -20px;
+		opacity: 1;
+		z-index: 5;
+		top:35px;
+
+	}
+	.menu-header li{
+	    padding-left: 20px !important;
+	}
+	.index{
+	    height: 35px;
+	}
+	.index ul li{
+	    margin-left: 0px;
+	}
+	.menu-header li {
+	    border-bottom: 1px solid #e7e7e7;
+		width: 100%;
+		height: auto;
+		float: left;
+	}
+	.menu-header li:last-child{
+		border-bottom: 0px;
+		padding-left:20px;
+	}
+}
+@media screen and (min-width: 425px) and (max-width: 800px){
+    .hopthoai{
+        height: 350px;
+        left: 10%;
+        right: 10%;
+    }
+}
+@media screen and (min-width: 800px) and (max-width: 1024px){
+    .hopthoai{
+        height: 350px;
+        left: 20%;
+        right: 20%;
+    }
+}
+@media screen and (min-width: 1366px){
+    .hopthoai{
+        left: 30%;
+        height: 30%;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 800px){
+    .main-right{
+	    margin-top: 10px;
+	}
+	.main{
+	    margin-top: 0px !important;
+	}
+	
+}
+@media screen and (max-width: 425px){
+    .login{
+        width: 90%;
+        margin-left: 23px;
+    }
+}
+@media screen and (max-width: 320px){
+    .listShopping tr td {
+        padding: 10px 0px;
+    }
+	.modal-content h2{	
+		font-size: 21px !important;
+	}
+	.box-addShopping{
+		font-size: 12px;
+	}
+}
+@media screen and (min-width: 769px) and (max-width: 800px){
+    .sidebar{
+        margin-left: 21px !important;
+    }
+    .songchung p{
+        text-align: center;
+    }
+}
+@media screen and (min-width: 800px) and (max-width : 1024px){
+    .songchung p{
+        text-align: center;
+    }
+}
+@media screen and (max-width: 1367px){
+	.menu-left{
+        margin-right: 8px;
+    }
+    .sidebar{
+        margin-left: 6px;
+    }
+	
+}
+@media screen and (min-width: 964px) and (max-width: 1460px){
+	/*.main-right{
+	   min-width: 480px;
+	}*/
+	.left{
+	    padding-left: 25px;
+	}
+}
+@media screen and (max-width: 320px){
+    .right{
+        padding-right: 8px;
+    }
+}
+@media screen and (min-width: 1680px){
+    .main-right{
+        min-height: 1000px !important;
+    }
+}
+@media screen and (min-width: 1920px){
+    .main-right{
+        min-height: 1200px !important;
+    }
+}
+@media screen and (max-width: 425px){
+	/*.icon-input1{
+		width: 85% !important;
+		float: right;
+	}*/
+}
+@media screen and (min-width: 425px) and (max-width: 1024px){
+	/*.icon-input1{
+		width: 90% !important;
+	}*/
+	.checkbox1{
+		width: 50%;
+	}
+}
+@media screen and (max-width: 500px){
+    .top-left div {
+        width: 80%;
+        height: 80%;
+    }
+}
+@media screen and (min-width: 500px) and (max-width: 948px){
+    .top-left div {
+        width: 60%;
+        height: 80%;
+    }
+}
+@media screen and (max-width: 768px){
+	.sidebar{
+		border-left: 0px;
+		border-right: 0px;
+		margin-top: 20px;
+		width: 100% !important;
+		margin-left: 0px;
+	}
+	.main-right{
+		padding-top: 10px !important;
+		width: 100% !important;
+		border-right: 0px;
+		border-left: 0px;
+	}
+}
+@media screen and (min-width: 375px) and (max-width: 426px){
+    .facebook, .google{
+        margin: auto;
+    }
+   
+}
